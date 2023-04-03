@@ -1,0 +1,268 @@
+Computational_creativity	10
+{date=2, reason=1, nnp=1, undefinition=1, person=3, definition=1, manner=1}
+{date=1 1, reason=0 1, nnp=0 1, undefinition=1 0, person=2 1, definition=1 0, manner=1 0}
+
+Augmented_learning	9
+{nnp=2, undefinition=2, person=1, name=1, definition=1, location=1, manner=2}
+{nnp=1 1, undefinition=0 1, person=1 0, name=0 1, definition=0 1, location=1 0, manner=1 1}
+
+Biological_basis_of_personality	10
+{date=2, number=1, reason=1, nnp=2, person=1, definition=2, manner=1}
+{date=1 1, number=1 0, reason=0 1, nnp=1 1, person=0 1, definition=0 2, manner=1 0}
+
+Progress_in_artificial_intelligence	7
+{date=3, nnp=1, reason=1, number=1, person=1, organization=1, name=1, location=1}
+{date=2 1, reason=0 1, number=0 1, person=1 0, organization=1 0}
+
+Neuroinformatics	9
+{date=1, nnp=1, number=2, person=1, organization=2, definition=1, location=1, manner=1}
+{date=1 0, nnp=0 1, number=0 2, person=1 0, organization=0 1, definition=1 0, location=1 0, manner=0 1}
+
+Autonomic_computing	8
+{date=1, number=1, nnp=1, undefinition=2, name=1, definition=2, manner=2}
+{date=1 0, number=0 1, nnp=1 0, undefinition=0 1, definition=1 1, manner=0 2}
+
+MNIST_database	9
+{date=2, number=3, nnp=1, undefinition=1, definition=1, location=2}
+{date=1 0, number=2 1, nnp=0 1, undefinition=1 0, definition=1 0, location=2 0}
+
+Neurophenomenology	7
+{date=1, number=1, nnp=1, reason=1, person=3, name=1, definition=1}
+{date=1 0, number=0 1, nnp=0 1, reason=0 1, person=1 0, name=1 0, definition=1 0}
+
+Megastructures_(architecture)	8
+{date=2, number=1, nnp=1, reason=1, person=2, definition=1, location=2}
+{date=0 1, number=0 1, reason=0 1, person=2 0, definition=1 0, location=1 1}
+
+Cognitive_inhibition	7
+{number=1, reason=2, nnp=1, undefinition=1, person=2, definition=1, manner=2}
+{number=1 0, reason=0 2, nnp=1 0, person=1 0, definition=1 0, manner=0 1}
+
+Resting_state_fMRI	8
+{date=1, number=3, reason=1, undefinition=1, person=1, definition=2, manner=1}
+{number=0 3, reason=1 0, person=0 1, definition=1 1, manner=1 0}
+
+Dystopia	7
+{date=2, nnp=1, reason=1, person=3, name=1, definition=1, manner=1}
+{reason =0 1, date=1 0, nnp=1 0, person=2 0, name=0 1, definition=1 0}
+
+Frame_problem	5
+{date=1, reason=1, undefinition=2, person=3, name=1, definition=1, manner=1}
+{definition =0 1, reason=0 1, undefinition=1 0, person=1 0, name=1 0}
+
+Figurae	6
+{reason=1, number=1, person=1, definition=1, manner=2}
+{reason=0 1, number=0 1, person=0 1, definition=0 1, manner=1 1}
+
+Bioterrorism	8
+{date=1, nnp=1, reason=2, number=1, person=1, organization=1, name=1, definition=1, location=1}
+{date=1 0, reason=1 1, number=0 1, person=1 0, organization=0 1, definition=1 0, location=1 0}
+
+Zero-carbon_city	9
+{date=1, number=1, reason=1, nnp=1, undefinition=1, person=1, definition=1, location=2, manner=1}
+{date=1 0, number=0 1, reason=0 1, nnp=1 0, person=0 1, definition=1 0, location=2 0, manner=1 0}
+
+Neuro-fuzzy	6
+{number=1, nnp=1, undefinition=2, name=1, definition=1, manner=1}
+{number=0 1, nnp=0 1, undefinition=0 1, name=1 0, definition=1 0, manner=1 0}
+
+Neuroeconomics	8
+{date=1, nnp=2, number=1, reason=1, undefinition=1, person=3, definition=1}
+{date=1 0, number=0 1, reason=0 1, undefinition=1 0, person=1 2, definition=0 1}
+
+Personal_experience	5
+{date=1, nnp=1, reason=1, person=1, definition=1, location=1}
+{date=1 0, nnp=1 0, reason=0 1, definition=0 1, location=1 0}
+
+Technological_singularity	7
+{date=1, nnp=3, number=1, person=2, definition=1, location=1, manner=1}
+{date=1 0, number=0 1, nnp=0 1, person=1 1, definition=1 0, manner=1 0}
+
+Fluid_and_crystallized_intelligence	10
+{nnp=2, reason=1, number=1, undefinition=1, person=1, name=1, location=1, manner=2}
+{nnp=1 1, reason=0 1, number=0 1, undefinition=1 0, person=0 1, name=0 1, location=1 0, manner=1 1}
+
+Knowledge-based_recommender_system	6
+{nnp=1, reason=2, undefinition=1, definition=1, manner=2}
+{nnp=1 0, reason=1 1, undefinition=1 0, definition=1 0, manner=0 1}
+
+Ideasthesia	6
+{nnp=2, reason=1, name=1, definition=2, manner=2}
+{nnp=0 1, reason=0 1, name=1 0, definition=1 0, manner=0 2}
+
+Bernstein_Network	7
+{date=2, number=1, price=1, person=1, organization=2, definition=1, location=2}
+{date=1 0, number=1 0, price=1 0, organization=0 2, definition=1 0, location=1 0}
+
+Artificial_imagination	7
+{date=1, nnp=2, reason=1, person=1, organization=1, definition=1, location=1, manner=2}
+{nnp=1 1, reason=0 1, person=1 0, organization=0 1, definition=1 0, location=1 0}
+
+The_Bakken	5
+{date=2, number=2, nnp=1, reason=1, person=2, location=1, definition=1}
+{date=1 1, number=1 1, reason=0 1}
+
+Frame-based_terminology	5
+{reason=1, nnp=1, person=1, definition=1, manner=2}
+{reason=1 0, nnp=1 0, person=1 0, definition=1 0, manner=1 0}
+
+Knowledge_acquisition	5
+{organization=1, definition=2, manner=2, title=1}
+{organization=1 0, definition=1 1, manner=2 0}
+
+Jean_Gagnepain	3
+{date=3, number=1, organization=1, location=2, definition=1}
+{date=1 0, number=0 1, organization=1 0}
+
+Cultural_neuroscience	6
+{date=1, reason=1, nnp=1, person=1, definition=1, manner=1}
+{date=0 1, reason=0 1, nnp=1 0, person=0 1, definition=1 0, manner=1 0}
+
+Oxytocin	5
+{date=2, nnp=3, number=1, person=1, definition=1}
+{date=0 1, nnp=1 2, number=0 1}
+
+Bayesian_programming	4
+{undefinition=2, person=1, definition=1, manner=2}
+{undefinition=0 1, person=0 1, definition=1 0, manner=0 1}
+
+Computational_Heuristic_Intelligence	4
+{reason=2, nnp=1, definition=1, manner=1}
+{reason=1 1, nnp=0 1, definition=1 0}
+
+Simple-type_schizophrenia	6
+{date=1, nnp=1, number=1, undefinition=1, person=1, organization=1, definition=2, location=1}
+{date=0 1, number=1 0, undefinition=1 0, organization=0 1, definition=1 0, location=1 0}
+
+Tropic_cues_involved_in_growth_cone_guidance	5
+{date=1, nnp=2, reason=1, person=1, definition=1, manner=1}
+{date=1 0, nnp=1 0, reason=0 1, person=1 0, manner=0 1}
+
+Artificial_brain	9
+{date=2, number=1, person=1, price=1, organization=1, name=1, definition=2, location=1}
+{date=2 0, number=0 1, person=1 0, price=0 1, organization=0 1, name=1 0, definition=0 1, location=1 0}
+
+3D_reconstruction_from_multiple_images	4
+{reason=1, nnp=2, person=1, definition=1, manner=2}
+{reason=0 1, nnp=1 1, definition=1 0}
+
+Socio-cognitive	2
+{nnp=1, reason=1, undefinition=1, definition=1}
+{nnp=1 0, undefinition=1 0}
+
+Setpoint_(control_system)	4
+{nnp=2, reason=1, number=1, undefinition=1, definition=1, manner=2}
+{nnp=1 0, reason=0 1, number=1 0, undefinition=1 0}
+
+Mechanism_(philosophy)	3
+{nnp=1, person=2, definition=1, location=1, manner=1}
+{nnp=0 1, definition=0 1, manner=1 0}
+
+Eye_movement_in_reading	10
+{date=2, reason=3, number=1, person=2, definition=1, manner=1}
+{date=2 0, reason=2 1, number=0 1, person=1 1, definition=0 1, manner=1 0}
+
+Tau_effect	2
+{nnp=2, person=1, definition=2}
+{nnp=1 0, definition=0 1}
+
+International_Neuromodulation_Society	7
+{date=2, number=3, reason=1, definition=1, location=2, manner=1}
+{date=1 0, number=1 1, reason=1 0, definition=1 0, location=2 0}
+
+Bridge_locus	1
+{date=1, reason=1, nnp=1, person=2, definition=1}
+{reason=1 0}
+
+Communicology	10
+{date=1, nnp=1, undefinition=1, person=2, organization=2, definition=1, location=1, manner=1}
+{date=0 1, nnp=1 0, undefinition=0 1, person=2 0, organization=0 2, definition=0 1, location=1 0, manner=0 1}
+
+Conceptual_metaphor	8
+{date=1, reason=1, undefinition=1, person=2, organization=1, definition=2}
+{date=1 0, reason=1 0, undefinition=0 1, person=2 0, organization=0 1, definition=1 1}
+
+Kateryna_Yushchenko_(scientist)	8
+{date=3, number=2, reason=1, nnp=1, person=1, organization=1, location=1}
+{date=2 0, number=1 1, reason=1 0, nnp=1 0, person=0 1, organization=1 0}
+
+Preferential_motor_reinnervation	3
+{date=1, reason=1, nnp=1, undefinition=1, definition=1}
+{date=1 0, reason=1 0, nnp=1 0}
+
+Spaced_learning	6
+{date=1, nnp=1, number=1, person=2, definition=1}
+{date=1 0, nnp=1 0, number=1 0, person=2 0, definition=1 0}
+
+Emospark	6
+{date=1, number=2, money=1, person=1, organization=2, definition=1, location=1, manner=1}
+{number=0 2, money=0 1, organization=0 2, manner=1 0}
+
+Perceptual_control_theory	4
+{date=1, nnp=2, reason=1, person=1, definition=1, manner=1}
+{date=1 0, reason=1 0, nnp=0 1, definition=1 0}
+
+Personism	4
+{nnp=1, person=2, definition=2}
+{person=1 1, definition=2 0}
+
+Role_of_cell_adhesions_in_neural_development	3
+{date=1, nnp=1, undefinition=2, definition=2}
+{date=1 0, nnp=0 1, definition=0 1}
+
+Colonization_of_Antarctica	5
+{date=2, number=2, reason=1, person=1, definition=1, location=1}
+{date=2 0, number=0 1, reason=1 0, definition=1 0}
+
+NeuroFocus	4
+{date=2, reason=1, person=3, organization=1, location=1, manner=1}
+{reason=0 1, person=1 0, organization=1 0, manner=0 1}
+
+Management_cybernetics	7
+{reason=1, number=2, undefinition=1, person=2, definition=2}
+{reason=0 1, number=1 1, undefinition=1 0, person=1 1, definition=1 0}
+
+Myelinogenesis	5
+{number=1, nnp=2, undefinition=1, definition=1}
+{number=0 1, nnp=1 1, undefinition=1 0, definition=0 1}
+
+Silver_Spring_monkeys	9
+{date=1, number=2, reason=1, undefinition=1, person=1, organization=1, name=1, location=1, manner=1}
+{number=0 2, reason=0 1, undefinition=0 1, person=1 0, organization=0 1, name=0 1, location=1 0, manner=0 1}
+
+Subsidiarity	6
+{date=2, nnp=1, undefinition=1, definition=2}
+{date=2 0, nnp=1 0, undefinition=1 0, definition=2 0}
+
+Nervous_system_network_models	7
+{nnp=3, number=1, person=2, manner=2, time=1}
+{nnp=0 3, number=0 1, person=1 0, manner=1 1}
+
+Smart_objects	5
+{date=1, nnp=1, person=1, definition=2}
+{date=1 0, nnp=1 0, person=1 0, definition=1 1}
+
+Gregory_Berns	7
+{date=2, nnp=1, number=1, reason=1, person=1, organization=1, name=1, location=1}
+{date=1 0, nnp=1 0, number=1 0, reason=0 1, organization=0 1, name=1 0, location=1 0}
+
+Neurolaw	10
+{date=2, nnp=1, number=1, money=1, person=1, organization=1, definition=1, location=1, manner=1}
+{date=2 0, nnp=1 0, number=0 1, money=0 1, person=1 0, organization=1 0, definition=0 1, location=1 0, manner=0 1}
+
+Mechanical_philosophy	3
+{date=1, person=3, name=1, definition=1, manner=1}
+{name=0 1, definition=1 0, manner=0 1}
+
+Bongard_problem	1
+{date=2, reason=1, undefinition=2, name=1, definition=1}
+{reason=0 1}
+
+Bilingual_Interactive_Activation_Plus	4
+{date=1, reason=2, undefinition=1, definition=1, manner=1}
+{reason=1 1, undefinition=0 1, manner=1 0}
+
+Centre_for_the_Study_of_Existential_Risk	4
+{date=1, nnp=1, reason=1, undefinition=1, person=1, organization=1, definition=1}
+{nnp=0 1, reason=1 0, organization=0 1, definition=1 0}
+

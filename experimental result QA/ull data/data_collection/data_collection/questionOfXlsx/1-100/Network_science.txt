@@ -1,0 +1,10 @@
+What is network science？	definition
+How does the National Research Council define network science?	manner
+When was the Königsberg Seven Bridge written?	date
+Who wrote "Theory of finite and infinite graphs"?	person
+Who developed the ssociogram and presented it to the public？	person
+When did David Krackhardt and Kathleen Carley introduce the concept of meta-networks with the PCANS model?	date
+Who used mathematical notation to reconcile empirical data on the network and describe the small world network?	person
+What is BAST?	definition
+When did BAST publish the NRC research report?	date
+Where is the first interdisciplinary undergraduate course in network science taught?	location

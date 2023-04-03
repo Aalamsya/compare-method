@@ -1,0 +1,95 @@
+¡Á1.What are sometimes called ` hard science ' ? 
+No.1---> 0.0	3
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.2---> 0.0	6
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.3---> 0.0	47
+As a field of natural science , it is relatively young but stand-alone programs offer specializations in the subject . 
+No.4---> 0.0	89
+Specific practical discoveries , useful and impressive as they may be , neither qualify as science nor do they succeed in establishing a paradigm . 
+No.5---> 0.0	92
+A recent interpretation of Parmenides presents evidence that he was the first philosopher who proposed a method for doing natural science . 
+
+¡Á2.How many main branches can natural science be divided into ? 
+No.1---> 0.0    1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.2---> 0.0    4
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.3---> 0.0    7
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.4---> 0.0    10
+The scale of study can range from sub-component biophysics up to complex ecologies . 
+No.5---> 0.0    14
+Once scientists discovered commonalities between all living things , it was decided they were best studied as a whole . 
+
+¡Ì3.Whose controversial falsifiability criterion helps differentiate scientific endeavors ? 
+No.1---> 0.0    0
+Natural science is a branch of science concerned with the description , prediction , and understanding of natural phenomena , based on observational and empirical evidence . 
+No.2---> 0.0    1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.3---> 0.0    2
+Natural science can be divided into two main branches : life science -LRB- or biological science -RRB- and physical science . 
+No.4---> 0.0    3
+Physical science is subdivided into branches , including physics , astronomy , chemistry , and Earth science . 
+No.5---> 0.0    4
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+
+¡Ì4.When was microbiology introduced with the invention of the microscope ? 
+No.1---> 1.333  0
+The biological fields of botany , zoology , and medicine date back to early periods of civilization , while microbiology was introduced in the 17th century with the invention of the microscope . 
+No.2---> 3.0    1
+However , it was not until the 19th century that biology became a unified science . 
+No.3---> 3.0    16
+Aristotle 's works were influential through the 16th century , and he is considered to be the father of biology for his pioneering work in that science . 
+No.4---> 3.0    27
+There was wide agreement among scholars in medieval times that natural science was about bodies in motion , although there was division about the inclusion of fields including medicine , music and perspective . 
+No.5---> 3.333  11
+Using these principles , Chinese philosophers and doctors explored human anatomy , characterizing organs as predominantly yin or yang and understood the relationship between the pulse , the heart and the flow of blood in the body centuries before it became accepted in the West . 
+
+¡Ì5.When did biology became a unified science ? 
+No.1---> 1.5    1
+However , it was not until the 19th century that biology became a unified science . 
+No.2---> 1.5    16
+Aristotle 's works were influential through the 16th century , and he is considered to be the father of biology for his pioneering work in that science . 
+No.3---> 1.5    28
+In the centuries up through the end of the Middle Ages , natural science was often mingled with philosophies about magic and the occult . 
+No.4---> 1.5    29
+Although some later Christian philosophers , including Aquinas , came to see natural science as a means of interpreting scripture , this suspicion persisted until the 12th and 13th centuries . 
+No.5---> 1.5    45
+By the 19th century , the study of science had come into the purview of professionals and institutions . 
+
+¡Á6.What is often called ` the central science ' ? 
+No.1---> 0.0    3
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.2---> 0.0    6
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.3---> 0.0    47
+As a field of natural science , it is relatively young but stand-alone programs offer specializations in the subject . 
+No.4---> 0.0    89
+Specific practical discoveries , useful and impressive as they may be , neither qualify as science nor do they succeed in establishing a paradigm . 
+No.5---> 0.0    92
+A recent interpretation of Parmenides presents evidence that he was the first philosopher who proposed a method for doing natural science . 
+
+¡Á7.Why is physics regarded as the fundamental science ? 
+No.1---> 0.0    1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.2---> 0.0    10
+The scale of study can range from sub-component biophysics up to complex ecologies . 
+No.3---> 0.0    14
+Once scientists discovered commonalities between all living things , it was decided they were best studied as a whole . 
+No.4---> 0.0    20
+The composition , statistical properties , transformations and reactions of these materials are studied . 
+No.5---> 0.0    41
+A key factor was Galileo 's introduction of the telescope to examine the night sky in more detail .
+
+¡Ì8.Who developed the theory of the Conservation of mass ?
+No.1---> 3.0    25
+Roger Bacon , an English friar and philosopher , wrote that natural science dealt with `` a principle of motion and rest , as in the parts of the elements of fire , air , earth and water , and in all inanimate things made from them . '' 
+No.2---> 3.0    26
+Later in the 13th century , Catholic priest and theologian Thomas Aquinas defined natural science as dealing with `` mobile beings '' and `` things which depend on matter not only for their existence , but also for their definition . '' 
+No.3---> 3.0    44
+Faraday proposed that forces in nature operated in `` fields '' that filled space . 
+No.4---> 3.167  34
+Bacon was instrumental in popularizing this change ; he argued that people should use the arts and sciences to gain dominion over nature . 
+No.5---> 3.25   2
+The science of chemistry began to develop with the work of Robert Boyle , the discoverer of gas , and Antoine Lavoisier , who developed the theory of the Conservation of mass .  

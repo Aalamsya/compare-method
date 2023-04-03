@@ -1,0 +1,95 @@
+¡Ì1.What is embraced by regional scientists in the broadest sense ? 
+No.1---> 1.0    16
+In 1958 , the Journal of Regional Science followed . 
+No.2---> 1.0    20
+At Walter Isard 's suggestion , the University of Pennsylvania started the Regional Science Department in 1956 . 
+No.3---> 1.667  7
+A reason for meeting independently undoubtedly was the group 's desire to extend the new science beyond the rather restrictive world of economists and have natural scientists , psychologists , anthropologists , lawyers , sociologists , political scientists , planners , and geographers join the club . 
+No.4---> 2.0    18
+The latter is a separate and growing organisation involving economists , planners , geographers , political scientists , management academics , policymakers , and practitioners . 
+No.5---> 2.25   2
+In the broadest sense , any social science analysis that has a spatial dimension is embraced by regional scientists . 
+
+¡Ì2.When was regional science founded ? 
+No.1---> 0.0    3
+Topically speaking , regional science took off in the wake of Walter Christaller 's book Die Zentralen Orte in SÅ±ddeutschland -LRB- Verlag von Gustav Fischer , Jena , 1933 ; transl . 
+No.2---> 0.0    8
+If an academic discipline is identified by its journals , then technically regional science began in 1955 with the publication of the first volume of the Papers and Proceedings , Regional Science Association -LRB- now Papers in Regional Science published by Springer -RRB- . 
+No.3---> 0.0    13
+Regional science has enjoyed mixed fortunes since the 1980s . 
+No.4---> 0.0    17
+Attacks on regional science 's practitioners by radical critics began as early as the 1970s , notably David Harvey who believed it lacked social and political commitment . 
+No.5---> 2.0    0
+Regional science was founded in the late 1940s when some economists began to become dissatisfied with the low level of regional economic analysis and felt an urge to upgrade it . 
+
+¡Á3.What is the abbreviation of the Regional Science Association International ? 
+No.1---> 0.0    16
+In 1958 , the Journal of Regional Science followed . 
+No.2---> 0.0    20
+At Walter Isard 's suggestion , the University of Pennsylvania started the Regional Science Department in 1956 . 
+No.3---> 1.5    6
+Accordingly , the Regional Science Association was founded in 1954 , when the core group of scholars and practitioners held its first meetings independent from those initially held as sessions of the annual meetings of the American Economics Association . 
+No.4---> 1.5    7
+A reason for meeting independently undoubtedly was the group 's desire to extend the new science beyond the rather restrictive world of economists and have natural scientists , psychologists , anthropologists , lawyers , sociologists , political scientists , planners , and geographers join the club . 
+No.5---> 1.667  32
+In an apparent effort to secure a larger share of research funds , geographers had the National Science Foundation 's Geography and Regional Science Program renamed `` Geography and Spatial Sciences '' . 
+
+¡Á4.Whose efforts culminated in the creation of a few academic departments and several university-wide programs in regional science ? 
+No.1---> 0.0    6
+Isard targeted key universities and campaigned tirelessly . 
+No.2---> 0.0    10
+Membership in the RSAI continues to grow . 
+No.3---> 0.0    16
+As is typically the case , the above works were built on the shoulders of giants . 
+No.4---> 0.0    18
+Particularly important was the contribution by 19th century German economists to location theory . 
+No.5---> 0.0    19
+The early German hegemony more or less starts with Johann Heinrich von ThÃ¼nen and runs through both Wilhelm Launhardt and Alfred Weber to Walter Christaller and August LÃ¶sch . 
+
+¡Á5.Which university started the Regional Science Department in 1956 ? 
+No.1---> 0.0    6
+Isard targeted key universities and campaigned tirelessly . 
+No.2---> 0.0    10
+Membership in the RSAI continues to grow . 
+No.3---> 0.0    16
+As is typically the case , the above works were built on the shoulders of giants . 
+No.4---> 0.0    18
+Particularly important was the contribution by 19th century German economists to location theory . 
+No.5---> 0.0    19
+The early German hegemony more or less starts with Johann Heinrich von ThÃ¼nen and runs through both Wilhelm Launhardt and Alfred Weber to Walter Christaller and August LÃ¶sch . 
+
+¡Ì6.When has regional science enjoyed mixed fortunes ? 
+No.1---> 0.0    3
+Topically speaking , regional science took off in the wake of Walter Christaller 's book Die Zentralen Orte in SÅ±ddeutschland -LRB- Verlag von Gustav Fischer , Jena , 1933 ; transl . 
+No.2---> 0.0    8
+If an academic discipline is identified by its journals , then technically regional science began in 1955 with the publication of the first volume of the Papers and Proceedings , Regional Science Association -LRB- now Papers in Regional Science published by Springer -RRB- . 
+No.3---> 0.0    13
+Regional science has enjoyed mixed fortunes since the 1980s . 
+No.4---> 0.0    17
+Attacks on regional science 's practitioners by radical critics began as early as the 1970s , notably David Harvey who believed it lacked social and political commitment . 
+No.5---> 2.0    0
+Regional science was founded in the late 1940s when some economists began to become dissatisfied with the low level of regional economic analysis and felt an urge to upgrade it . 
+
+¡Á7.Whose Prize Lecture has references both to work in regional science 's location theory as well as economic 's trade theory ? 
+No.1---> 0.0    6
+Isard targeted key universities and campaigned tirelessly . 
+No.2---> 0.0    10
+Membership in the RSAI continues to grow . 
+No.3---> 0.0    16
+As is typically the case , the above works were built on the shoulders of giants . 
+No.4---> 0.0    18
+Particularly important was the contribution by 19th century German economists to location theory . 
+No.5---> 0.0    19
+The early German hegemony more or less starts with Johann Heinrich von ThÃ¼nen and runs through both Wilhelm Launhardt and Alfred Weber to Walter Christaller and August LÃ¶sch . 
+
+¡Ì8.When did attacks on regional science 's practitioners by radical critics began ? 
+No.1---> 3.0	0
+Regional science was founded in the late 1940s when some economists began to become dissatisfied with the low level of regional economic analysis and felt an urge to upgrade it . 
+No.2---> 3.0	3
+Topically speaking , regional science took off in the wake of Walter Christaller 's book Die Zentralen Orte in SÅ±ddeutschland -LRB- Verlag von Gustav Fischer , Jena , 1933 ; transl . 
+No.3---> 3.0	8
+If an academic discipline is identified by its journals , then technically regional science began in 1955 with the publication of the first volume of the Papers and Proceedings , Regional Science Association -LRB- now Papers in Regional Science published by Springer -RRB- . 
+No.4---> 3.0	10
+Most recently the journal Spatial Economic Analysis has been published by the RSAI British and Irish Section with the Regional Studies Association . 
+No.5---> 3.0	13
+Regional science has enjoyed mixed fortunes since the 1980s . 

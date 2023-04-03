@@ -1,0 +1,42 @@
+The generalized distributive law (GDL) is a generalization of the distributive property which gives rise to a general message passing algorithm. It is a synthesis of the work of many authors in the information theory, digital communications, signal processing, statistics, and artificial intelligence communities. The law and algorithm were introduced in a semi-tutorial by Srinivas M. Aji and Robert J. McEliece with the same title.
+
+Some of the problems that used distributive law to solve can be grouped as follows
+
+1. Decoding algorithms
+A GDL like algorithm was used by Gallager's for decoding low density parity-check codes. Based on Gallager's work Tanner introduced the Tanner graph and expressed Gallagers work in message passing form. The tanners graph also helped explain the Viterbi algorithm.
+
+It is observed by Forney that Viterbi's maximum likelihood decoding of convolutional codes also used algorithms of GDL-like generality.
+
+2. Forward-backward algorithm
+The forward backward algorithm helped as an algorithm for tracking the states in the markov chain. And this also was used the algorithm of GDL like generality.
+
+3. Artificial intelligence
+The notion of junction trees has been used to solve many problems in AI. Also the concept of bucket elimination used many of the concepts.
+
+MPF or marginalize a product function is a general computational problem which as special case includes many classical problems such as computation of discrete Hadamard transform, maximum likelihood decoding of a linear code over a memory-less channel, and matrix chain multiplication. The power of the GDL lies in the fact that it applies to situations in which additions and multiplications are generalized. A commutative semiring is a good framework for explaining this behavior. 
+
+This is the Hadamard transform of the function . Hence we can see that the computation of Hadamard transform is a special case of the MPF problem. More examples can be demonstrated to prove that the MPF problem forms special cases of many classical problem as explained above whose details can be found at.
+
+If one can find a relationship among the elements of a given set S, then one can solve the MPF problem basing on the notion of belief propagation which is a special use of "message passing" technique. The required relationship is that the given set of local domains can be organised into a junction tree. 
+
+Then constructing the tree only with these local domains is not possible since this set of values has no common domains which can be placed between any two values of the above set. But however if add the two dummy domains as shown below then organizing the updated set into a junction tree would be possible and easy too.
+
+For the given set of local domains as input, we find out if we can create a junction tree, either by using the set directly or by adding dummy domains to the set first and then creating the junction tree, if construction junction is not possible then algorithm output that there is no way to reduce the number of steps to compute the given equation problem, but once we have junction tree, algorithm will have to schedule messages and compute states, by doing these we can know where steps can be reduced, hence will be discusses this below.
+
+There are two special cases we are going to talk about here namely Single Vertex Problem in which the objective function is computed at only one vertex  and the second one is All Vertices Problem where the goal is to compute the objective function at all vertices.
+
+Lets begin with the single-vertex problem, GDL will start by directing each edge towards the targeted vertex . Here messages are sent only in the direction towards the targeted vertex. Note that all the directed messages are sent only once. The messages are started from the leaf nodes(where the degree is 1) go up towards the target vertex . The message travels from the leaves to its parents and then from there to their parents and so on until it reaches the target vertex . The target vertex will compute its state only when it receives all messages from all its neighbors. Once we have the state, We have got the answer and hence the algorithm terminates.
+
+To solve the All-Vertices problem, we can schedule GDL in several ways, some of them are parallel implementation where in each round, every state is updated and every message is computed and transmitted at the same time. In this type of implementation the states and messages will stabilizes after number of rounds that is at most equal to the diameter of the tree. At this point all the all states of the vertices will be equal to the desired objective function.
+
+Another way to schedule GDL for this problem is serial implementation where its similar to the Single vertex problem except that we don't stop the algorithm until all the vertices of a required set have not got all the messages from all their neighbors and have compute their state. 
+
+Here we try to explain the complexity of solving the MPF problem in terms of the number of mathematical operations required for the calculation. i.e. We compare the number of operations required when calculated using the normal method (Here by normal method we mean by methods that do not use message passing or junction trees in short methods that do not use the concepts of GDL)and the number of operations using the generalized distributive law.
+
+Example: Let us consider the simplest case where we need to compute the following expression.To evaluate this expression naively requires two multiplications and one addition. The expression when expressed using the distributive law can be written as a simple optimization that reduces the number of operations to one addition and one multiplication.
+
+Similar to the above explained example we will be expressing the equations in different forms to perform as few operation as possible by applying the GDL.
+
+As explained in the previous sections we solve the problem by using the concept of the junction trees. The optimization obtained by the use of these trees is comparable to the optimization obtained by solving a semi group problem on trees. For example, to find the minimum of a group of numbers we can observe that if we have a tree and the elements are all at the bottom of the tree, then we can compare the minimum of two items in parallel and the resultant minimum will be written to the parent. When this process is propagated up the tree the minimum of the group of elements will be found at the root.
+
+It may seem that GDL is correct only when the local domains can be expressed as a junction tree. But even in cases where there are cycles and a number of iterations the messages will approximately be equal to the objective function. The experiments on Gallager–Tanner–Wiberg algorithm for low density parity-check codes were supportive of this claim.

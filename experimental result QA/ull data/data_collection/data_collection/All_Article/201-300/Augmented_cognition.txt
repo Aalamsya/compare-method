@@ -1,0 +1,26 @@
+Augmented cognition is an interdisciplinary area of psychology and engineering, attracting researchers from the more traditional fields of human-computer interaction, psychology, ergonomics and neuroscience. Augmented cognition research generally focuses on tasks and environments where human-computer interaction and interfaces already exist. Developers, leveraging the tools and findings of neuroscience, aim to develop applications which capture the human user's cognitive state in order to drive real-time computer systems. In doing so, these systems are able to provide operational data specifically targeted for the user in a given context. Three major areas of research in the field are: Cognitive State Assessment (CSA), Mitigation Strategies (MS), and Robust Controllers (RC). A subfield of the science, Augmented Social Cognition, endeavours to enhance the "ability of a group of people to remember, think, and reason."
+
+In 1962 Douglas C. Engelbart released the report "Augmenting Human Intellect: A Conceptual Framework" which introduced, and laid the groundwork for, augmented cognition. In this paper, Engelbart defines "augmenting human intellect" as "increasing the capability of a man to approach a complex problem situation, to gain comprehension to suit his particular needs, and to derive solutions to problems."
+
+Modern augmented cognition began to emerge in the early 2000s. Advances in cognitive, behavioral, and neurological sciences during the 1990s set the stage for the emerging field of augmented cognition – this period has been termed the "Decade of the Brain." Major advancements in functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) have been pivotal in the emergence of augmented cognition technologies which seek to monitor the user's cognitive abilities. As these tools were primarily used in controlled environments, their further development was essential to pragmatic augmented cognition applications.
+
+The Defense Advanced Research Projects Agency (DARPA) has been one of the primary funding agencies for augmented cognition investigators. A major focus of DARPA's augmented cognition program (AugCog) has been developing more robust tools for monitoring cognitive state and integrating them with computer systems. The program envisions "order of magnitude increases in available, net thinking power resulting from linked human-machine dyads [that] will provide such clear informational superiority that few rational individuals or organizations would challenge under the consequences of mortality."
+
+The program began in 2001, and has since be renamed to Improving Warfighter Information Intake Under Stress Program.[9] By leveraging such tools, the program seeks to provide warfighters with enhanced cognitive abilities, especially under complex or stressful war conditions.[3] As of 2002, the program vision is divided into four phases:
+
+    Phase 1: Real-time cognitive state detection
+    Phase 2: Real-time cognitive state manipulation
+    Phase 3: Autonomous cognitive state manipulation
+    Phase 4: Operation demonstration and transition
+
+Proof of concept was carried out in two phases: near real time monitoring of the user's cognitive activity, and subsequent manipulation of the user's cognitive state.
+
+The Augmented Cognition International (ACI) Society held its first conference in July 2005.[4] At the society's first conference, attendees from a diverse background including academia, government, and industry came together to create an agenda for future research. The agenda focused on near-, medium-, and long-term research and development goals in key augmented cognition science and technology areas.[4] The International Conference on Human Computer Interaction, where the society first established itself, continues to host the society's activities.
+
+Thad Starner, and the American Sign Language (ASL) Research Group at Georgia Tech, have been researching systems for the recognition of ASL. Telesign, a one-way translation system from ASL to English, was shown to have a 94% accuracy rate on a vocabulary with 141 signs.
+
+The increasing sophistication of brain-reading technologies has led many to investigate their potential applications for lie detection. Legally required brain scans arguably violate “the guarantee against self-incrimination” because they differ from acceptable forms of bodily evidence, such as fingerprints or blood samples, in an important way: they are not simply physical, hard evidence, but evidence that is intimately linked to the defendant's mind. Under US law, brain-scanning technologies might also raise implications for the Fourth Amendment, calling into question whether they constitute an unreasonable search and seizure.
+
+Many of the same arguments in the debate around human enhancement can be analogized to augmented cognition. Economic inequality, for instance, may serve to exacerbate societal advantages and disadvantages due to the limited availability of such technologies.
+
+Fearing the potential applications of devices like Google Glass, certain gambling establishments (such as Caesar's Palace in Las Vegas) banned its use even before it was commercially available.

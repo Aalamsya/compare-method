@@ -1,0 +1,248 @@
+Data_loss	7
+{reason=1, money=1, person=1, definition=4, manner=2}
+{reason=1 0, money=0 1, definition=2 1, manner=1 1}
+
+Natural_language_generation	5
+{number=2, person=1, name=1, definition=2, time=2}
+{number=1 1, person=1 0, name=0 1, time=1 0}
+
+Veterinary_medicine	8
+{reason=2, name=2, definition=1, location=1, time=3}
+{reason=1 1, name=1 1, definition=1 0, time=1 2}
+
+Cognitive_neuroscience	9
+{reason=2, number=1, person=2, name=2, definition=1, manner=1, time=1}
+{reason=1 1, number=0 1, person=2 0, name=2 0, definition=1 0, manner=1 0}
+
+Welfare_economics	6
+{number=1, reason=2, person=2, definition=2}
+{number=0 1, reason=1 1, person=0 1, definition=2 0}
+
+Political_culture	8
+{reason=1, number=1, person=2, definition=2, time=2}
+{reason=0 1, number=1 0, person=1 1, definition=0 2, time=2 0}
+
+Educational_psychology	7
+{number=2, person=2, definition=1, location=1, manner=1, time=2}
+{number=0 2, person=0 1, definition=0 1, location=1 0, manner=0 1, time=0 1}
+
+Computer_science	5
+{reason=1, person=2, name=1, definition=2, time=3}
+{person=1 0, name=1 0, definition=1 0, time=2 0}
+
+Technical_communication	7
+{number=1, person=1, name=2, definition=2, location=2, manner=1, time=1}
+{number=0 1, definition=2 0, location=2 0, manner=1 0, time=1 0}
+
+Remote_control	4
+{date=1, number=1, money=1, person=1, name=1, definition=1, location=1, manner=1, time=1}
+{number=0 1, money=0 1, name=0 1, definition=1 0}
+
+Mobile_technology	4
+{reason=1, name=2, definition=1, location=1, manner=1}
+{reason=0 1, name=1 0, definition=1 0, manner=1 0}
+
+Wireless_networking	6
+{number=1, distance=1, name=2, definition=1, location=1, time=1}
+{number=0 1, distance=0 1, name=1 1, definition=1 0, location=0 1}
+
+Computer_networks	5
+{reason=1, number=1, distance=1, person=1, name=1, definition=1, time=1, manner=1}
+{reason=0 1, number=0 1, distance=0 1, name=0 1, manner=1 0}
+
+Scientific_terminology	5
+{reason=1, person=1, name=1, definition=1, location=2, time=2}
+{reason=1 0, person=1 0, definition=1 0, location=1 0, time=1 0}
+
+Synthetic_biology	6
+{reason=1, number=1, money=1, person=1, name=1, definition=1, time=2}
+{reason=0 1, number=0 1, person=0 1, definition=1 0, time=1 1}
+
+Biological_engineering	7
+{reason=2, person=3, name=2, definition=1, location=1, time=1}
+{reason=1 1, person=0 2, name=1 0, definition=1 0, location=1 0}
+
+Social_networks	4
+{reason=1, person=2, name=1, definition=1, time=2}
+{reason=0 1, person=1 0, time=1 1}
+
+Economic_geography	9
+{number=1, person=3, name=3, definition=1, time=1, manner=1}
+{number=0 1, person=2 1, name=1 1, definition=1 0, time=1 0, manner=1 0}
+
+Regional_science	8
+{reason=1, person=2, name=1, definition=1, location=2, time=3}
+{person=0 2, name=1 0, definition=1 0, location=0 1, time=1 2}
+
+Gene_expression	6
+{number=3, reason=1, name=1, definition=3, location=1}
+{number=1 2, reason=0 1, name=1 0, definition=1 0}
+
+Molecular_biology	8
+{number=1, person=1, name=1, definition=2, location=1, time=2, manner=2}
+{number=0 1, person=1 0, name=0 1, definition=0 1, time=0 2, manner=2 0}
+
+Music_psychology	8
+{reason=1, number=1, person=3, name=1, definition=2, location=1, time=1}
+{number=0 1, person=1 2, name=1 0, definition=1 0, location=1 0, time=1 0}
+
+Cognitive_musicology	6
+{reason=1, person=2, name=2, definition=1, location=1, manner=2}
+{reason=0 1, person=1 0, name=0 1, definition=1 0, location=0 1, manner=0 1}
+
+Cognitive_linguistics	6
+{nnp=1, number=1, reason=1, person=2, organization=1, definition=1, undefined=1}
+{nnp=0 1, number=1 0, reason=0 1, person=0 2, undefined=1 0}
+
+Financial_technology	9
+{number=1, money=2, organization=3, name=1, location=1, time=1, undefined=1}
+{number=0 1, money=0 2, organization=1 2, name=1 0, time=0 1, undefined=0 1}
+
+Business_intelligence	9
+{nnp=2, number=1, reason=1, person=1, name=1, definition=1, location=1, time=2}
+{nnp=0 2, number=0 1, reason=0 1, name=1 0, definition=0 1, location=1 0, time=1 1}
+
+Information_technology	6
+{date=1, nnp=1, number=2, person=1, name=1, location=1, time=2, undefined=1}
+{nnp=1 0, number=1 1, person=1 0, name=1 0, undefined=1 0}
+
+Computational_neuroscience	8
+{number=1, person=3, name=1, definition=2, time=1, undefined=1}
+{number=0 1, person=1 2, name=0 1, definition=0 2, undefined=1 0}
+
+Logic_programming	8
+{reason=1, person=1, name=2, definition=2, location=2, time=1, undefined=1}
+{reason=0 1, person=0 1, name=1 0, definition=1 0, location=0 2, time=1 0, undefined=0 1}
+
+Speech_recognition	9
+{nnp=1, number=1, person=1, name=2, definition=1, location=1, time=1, manner=1, undefined=1}
+{nnp=1 0, number=0 1, person=1 0, name=1 1, definition=0 1, location=0 1, time=1 0, manner=0 1}
+
+Ensemble_learning	6
+{reason=2, nnp=1, name=2, definition=2, manner=1, undefined=1}
+{reason=1 1, definition=1 1, manner=1 0, undefined=1 0}
+
+Bayesian_networks	6
+{nnp=1, number=1, reason=1, person=1, definition=2, manner=1, time=1, undefined=1}
+{nnp=0 1, number=0 1, reason=1 0, definition=1 0, manner=0 1, time=1 0}
+
+Control_theory	7
+{number=3, reason=1, nnp=1, name=1, definition=2, location=1, undefined=1}
+{number=1 2, reason=0 1, name=1 0, definition=0 2}
+
+Computational_science	6
+{nnp=1, reason=1, person=1, location=1, time=2, manner=1}
+{nnp=1 0, reason=0 1, person=1 0, location=1 0, time=0 2}
+
+Mathematical_physics	4
+{person=3, name=1, definition=1, manner=1, time=1, undefined=1}
+{person=2 0, definition=1 0, manner=0 1}
+
+Numerical_analysis	6
+{nnp=1, person=1, location=3, time=1, manner=2}
+{nnp=1 0, location=0 3, time=1 0, manner=0 1}
+
+Computational_statistics	6
+{nnp=1, reason=1, person=1, name=1, definition=1, manner=1}
+{nnp=1 0, reason=1 0, person=1 0, name=1 0, definition=1 0, manner=1 0}
+
+Information_retrieval	3
+{person=1, definition=3, location=1, time=1, manner=1}
+{person=1 0, definition=2 0}
+
+Information_science	6
+{reason=1, person=1, definition=3, time=1, manner=1}
+{reason=0 1, definition=1 2, time=1 0, manner=0 1}
+
+Cluster_analysis	6
+{reason=1, person=1, definition=1, location=1, time=1, manner=2}
+{reason=1 0, person=1 0, definition=1 0, location=0 1, manner=2 0}
+
+Neural_network_software	6
+{reason=2, nnp=1, definition=1, manner=1, time=2, undefined=1}
+{reason=0 2, nnp=1 0, definition=1 0, time=1 0, undefined=0 1}
+
+Natural_language_processing	8
+{number=1, name=3, definition=1, location=1, time=1, title=1, undefined=1}
+{number=1 0, name=2 1, definition=0 1, time=1 0, title=1 0, undefined=0 1}
+
+Scientific_modeling	6
+{nnp=1, number=1, reason=1, name=1, definition=3, manner=1, undefined=1}
+{nnp=1 0, number=0 1, reason=0 1, name=0 1, definition=1 0, undefined=0 1}
+
+Cognitive_science	8
+{nnp=2, reason=2, person=2, definition=1, time=1, undefined=2}
+{nnp=1 1, reason=0 2, person=1 1, definition=1 0, undefined=0 1}
+
+Artificial_intelligence	2
+{nnp=1, reason=1, person=2, price=1, definition=1, time=3, undefined=1}
+{nnp=1 0, definition=1 0}
+
+Knowledge_representation	7
+{nnp=2, reason=2, number=1, person=1, organization=1, name=1, time=1, undefined=1}
+{nnp=1 1, reason=0 2, number=0 1, organization=1 0, time=1 0}
+
+Knowledge_engineering	9
+{nnp=1, number=1, person=1, organization=1, name=1, definition=2, location=1, time=1, undefined=1}
+{nnp=1 0, number=0 1, person=1 0, organization=1 0, definition=2 0, location=1 0, time=1 0, undefined=1 0}
+
+Cognitive_architecture	8
+{reason=2, person=2, definition=2, manner=1, time=1, title=1, undefined=1}
+{reason=1 1, person=2 0, definition=1 1, time=1 0, title=1 0}
+
+Artificial_immune_systems	4
+{reason=1, person=1, name=1, definition=1, time=3, undefined=1}
+{reason=0 1, name=0 1, definition=1 0, undefined=1 0}
+
+DNA_repair	10
+{reason=2, number=2, name=1, definition=2, location=1, time=1, undefined=1}
+{reason=1 1, number=0 2, name=1 0, definition=1 1, location=0 1, time=0 1, undefined=0 1}
+
+Big_data	8
+{nnp=1, reason=2, number=2, organization=2, name=1, time=2}
+{nnp=1 0, reason=0 2, number=0 1, number =0 1, organization=1 0, time=0 2}
+
+Open_data	10
+{nnp=1, reason=2, person=2, organization=1, name=1, definition=1, time=1, undefined=1}
+{nnp=1 0, reason=0 2, person=1 1, organization=0 1, name=1 0, definition=1 0, time=1 0, undefined=0 1}
+
+Data_mining	10
+{nnp=1, reason=1, number=1, person=1, organization=1, name=1, definition=1, time=1, manner=1, title=1}
+{nnp=0 1, reason=0 1, number=0 1, person=1 0, organization=0 1, name=1 0, definition=0 1, time=0 1, manner=0 1, title=1 0}
+
+Fuzzy_logic	8
+{nnp=1, number=2, reason=1, person=2, location=1, undefined=1}
+{nnp=1 0, number=0 2, reason=0 1, person=2 0, location=1 0, undefined=0 1}
+
+Principles	5
+{reason=1, person=1, name=2, definition=3, undefined=1}
+{reason=1 0, person=0 1, name=1 1, definition=1 0}
+
+Motivation	10
+{number=2, reason=2, person=1, name=1, definition=2, location=1, time=1}
+{number=0 2, reason=1 1, person=0 1, name=0 1, definition=1 1, location=0 1, time=1 0}
+
+Egalitarianism	7
+{reason=1, person=3, name=1, definition=1, title=2, undefined=1}
+{reason=0 1, person=3 0, name=0 1, definition=1 0, title=0 1}
+
+Folksonomy	8
+{number=1, reason=1, nnp=1, person=1, name=1, definition=2, time=2, manner=1}
+{number=1 0, reason=0 1, person=1 0, name=1 0, definition=1 0, time=0 2, manner=0 1}
+
+Biostatistics	8
+{nnp=1, number=2, reason=1, person=1, definition=1, location=1, time=1, title=1, undefined=1}
+{nnp=0 1, number=0 2, reason=0 1, definition=0 1, time=1 0, title=0 1, undefined=1 0}
+
+Bioinformatics	9
+{reason=1, person=3, name=2, definition=1, time=1, undefined=1}
+{reason=0 1, person=3 0, name=1 1, definition=0 1, time=1 0, undefined=1 0}
+
+Biotechnology	5
+{person=2, definition=3, location=1, time=2}
+{person=2 0, definition=0 1, location=1 0, time=0 1}
+
+Psychology	8
+{nnp=1, person=4, location=1, time=2}
+{nnp=1 0, person=1 3, location=1 0, time=0 2}
+

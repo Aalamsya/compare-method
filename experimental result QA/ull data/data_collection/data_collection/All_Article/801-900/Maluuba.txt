@@ -1,0 +1,23 @@
+Maluuba is a Canadian technology company conducting research in artificial intelligence and language understanding. Founded in 2011, the company was acquired by Microsoft in 2017.[6]
+
+In late March 2016, the company demonstrated a machine reading system capable of answering arbitrary questions about J.K Rowling’s Harry Potter and the Philosopher’s Stone.[7] Maluuba's natural language understanding technology is used by several consumer electronic brands for over 50 million devices.
+Maluuba was founded by two undergraduate students from the University of Waterloo, Sam Pasupalak and Kaheer Suleman.[9] Their initial proof of concept was a program that allowed users to search for flights using their voice.
+
+In February 2012, the company secured $2 million in seed funding from Samsung Ventures.[10]
+
+Since 2013, Maluuba has partnered with several companies in the smart phone, smart TV, automotive and IoT space.[11]
+
+In August 2015 Maluuba secured a $9 million of Series A investment from Nautilus Ventures and Emerllion Capital.[12][8] Then in December 2015, Maluuba opened an R&D lab in Montreal, Quebec.[13][14]
+
+By 2016 the company employed more than fifty people, and had published fifteen peer-reviewed research papers focused on language understanding.[15]
+
+On January 13, 2017, Maluuba announced they had been acquired by Microsoft for $140M.[16] In July 2017, according to the reports, Maluuba closed its Kitchener-Waterloo office and moved employees to its Montreal office.
+Maluuba's research centre opened in Montreal, Quebec in December 2015.[13] The lab is advised by Yoshua Bengio (University of Montreal) and Richard Sutton (University of Alberta). The lab has published fifteen peer-reviewed papers discussing some of its recent research.[18] The lab also partners with the University of Montreal MILA lab and McGill University.[19]
+
+In late 2016 the company released two natural language datasets: NewsQA, focused on comprehension and Frames, focused on Dialogue.[20][21]
+
+Maluuba has achieved 80% accuracy on the machine reading benchmark MCTest, outperforming other word-matching approaches by 8%, and surpassed the previous benchmark set for deep learning techniques, the DSTC2, by 3%, bringing it to 83%.
+In June 2016, the company demonstrated a program called EpiReader which outperformed Facebook and Google in machine comprehension tests. Several research teams were able to match Maluuba's results since the paper was released.[23] EpiReader made use of two large datasets, the CNN/Daily Mail dataset released by Google DeepMind, comprising over 300,000 news articles; and the Children's Book Test, posted by Facebook Research, made up of 98 children’s books open sourced under Project Gutenberg.
+The company has published research findings into dialogue systems which comprises natural language understanding, state tracking, and natural language generation.[26] Maluuba published a research paper on policy manager (decision maker) where the system is rewarded for a correct decision.[27] In 2016, Maluuba also freely released the Frames dataset, which is a large human-generated corpus of conversations.
+The company conducts research into reinforcement learning in which intelligent agents are motivated to take actions within a set environment in order to maximize a reward.[30] The research team has also published several papers on scalability.
+In June 2017, the Maluuba team was the first to beat the game Ms. Pac-Man for the Atari 2600 system.

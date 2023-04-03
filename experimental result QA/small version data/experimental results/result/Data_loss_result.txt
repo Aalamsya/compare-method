@@ -1,0 +1,84 @@
+¡Ì1.How can information systems prevent data loss or restore lost data ? 
+No.1---> 0.0    6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+No.2---> 0.0    8
+For hard disk drives , which are a physical storage medium , ensuring minimal vibration and movement will help protect against damaging the components internally , as can maintaining a suitable drive temperature . 
+No.3---> 0.0    13
+File system corruption can frequently be repaired by the user or the system administrator . 
+No.4---> 0.0    14
+For example , a deleted file is typically not immediately overwritten on disk , but more often simply has its entry deleted from the file system index . 
+No.5---> 0.0    15
+In such a case , the deletion can be easily reversed . 
+
+¡Ì2.What is data loss ? 
+No.1---> 0.0    2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0    3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0    4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0    5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0    6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+¡Ì3.How is data loss distinguished from data unavailability ? 
+No.1---> 0.0    2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0    3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0    4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0    5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0    6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+
+¡Á4.What is the cost of a data loss event directly related to ? 
+No.1---> 0.0    2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0    3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0    4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0    5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0    6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures .
+
+¡Ì5.What is the definition of regular data backups ? 
+No.1---> 2.0    2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 2.0    3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 2.0    4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 2.0    5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 2.0    7
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+¡Ì6.What can the frequency of data loss and the impact be greatly mitigated ? 
+No.1---> 0.0    2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0    3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0    4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0    5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0    6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures .  
+
+¡Á7.What are service costs at data recovery labs usually dependent on?
+No.1 - > 2.667-2
+Data loss is the difference between the data is not available, a network failure may occur.
+No.2-3 > 2.667
+Although the two greatly similar consequences for users, the data is temporarily unavailable, and data loss may be permanent.
+No.3 - > 2.667-4
+Data loss is different from data breaches, accident data fall into the wrong hands, although the terms data loss has been used in these events.
+No.4-5 > 2.667
+The frequency of data loss and influence to take appropriate preventive measures, can greatly relieve the necessary along with the type of data loss.
+No.5 - > 2.667 7
+Regular data backup is an important asset, when trying to restore data loss event, but they will not prevent the user error or system failure.
+

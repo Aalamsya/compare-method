@@ -1,0 +1,41 @@
+Models of neural computation are attempts to elucidate, in an abstract and mathematical fashion, the core principles that underlie information processing in biological nervous systems, or functional components thereof. This article aims to provide an overview of the most definitive models of neuro-biological computation as well as the tools commonly used to construct and analyze them.
+
+Due to the complexity of nervous system behavior, the associated experimental error bounds are ill-defined, but the relative merit of the different models of a particular subsystem can be compared according to how closely they reproduce real-world behaviors or respond to specific input signals. In the closely related field of computational neuroethology, the practice is to include the environment in the model in such a way that the loop is closed. In the cases where competing models are unavailable, or where only gross responses have been measured or quantified, a clearly formulated model can guide the scientist in designing experiments to probe biochemical mechanisms or network connectivity.
+
+In all but the simplest cases, the mathematical equations that form the basis of a model cannot be solved exactly. Nevertheless, computer technology, sometimes in the form of specialized software or hardware architectures, allow scientists to perform iterative calculations and search for plausible solutions. A computer chip or a robot that can interact with the natural environment in ways akin to the original organism is one embodiment of a useful model. The ultimate measure of success is however the ability to make testable predictions.
+
+The rate of information processing in biological neural systems are constrained by the speed at which an action potential can propagate down a nerve fibre. This conduction velocity ranges from 1 m/s to over 100 m/s, and generally increases with the diameter of the neuronal process. Slow in the timescales of biologically-relevant events dictated by the speed of sound or the force of gravity, the nervous system overwhelmingly prefers parallel computations over serial ones in time-critical applications.
+
+A model is robust if it continues to produce the same computational results under variations in inputs or operating parameters introduced by noise. For example, the direction of motion as computed by a robust motion detector would not change under small changes of luminance, contrast or velocity jitter.
+
+This refers to the principle that the response of a nervous system should stay within certain bounds even as the inputs from the environment change drastically. 
+
+A linear system is one whose response in a specified unit of measure, to a set of inputs considered at once, is the sum of its responses due to the inputs considered individually.
+
+Linear systems are easier to analyze mathematically and are a persuasive assumption in many models including the McCulloch and Pitts neuron, population coding models, and the simple neurons often used in Artificial neural networks. Linearity may occur in the basic elements of a neural circuit such as the response of a postsynaptic neuron, or as an emergent property of a combination of nonlinear subcircuits. Though linearity is often seen as incorrect, there has been recent work suggesting it may, in fact, be biophysically plausible in some cases.
+
+A computational neural model may be constrained to the level of biochemical signalling in individual neurons or it may describe an entire organism in its environment. The examples here are grouped according to their scope.
+
+The most widely used models of information transfer in biological neurons are based on analogies with electrical circuits. The equations to be solved are time-dependent differential equations with electro-dynamical variables such as current, conductance or resistance, capacitance and voltage.
+
+The Hodgkin–Huxley model, widely regarded as one of the great achievements of 20th-century biophysics, describes how action potentials in neurons are initiated and propagated in axons via voltage-gated ion channels. It is a set of nonlinear ordinary differential equations that were introduced by Alan Lloyd Hodgkin and Andrew Huxley in 1952 to explain the results of voltage clamp experiments on the squid giant axon. Analytic solutions do not exist, but the Levenberg–Marquardt algorithm, a modified Gauss–Newton algorithm, is often used to fit these equations to voltage-clamp data.
+
+The FitzHugh–Nagumo model is a simplication of the Hodgkin–Huxley model. The Hindmarsh–Rose model is an extension which describes neuronal spike bursts. The Morris–Lecar model is a modification which does not generate spikes, but describes slow-wave propagation, which is implicated in the inhibitory synaptic mechanisms of central pattern generators.
+
+This approach, influenced by control theory and signal processing, treats neurons and synapses as time-invariant entities that produce outputs that are linear combinations of input signals, often depicted as sine waves with a well-defined temporal or spatial frequencies.
+
+The entire behavior of a neuron or synapse are encoded in a transfer function, lack of knowledge concerning the exact underlying mechanism notwithstanding. This brings a highly developed mathematics to bear on the problem of information transfer.
+
+The accompanying taxonomy of linear filters turns out to be useful in characterizing neural circuitry. Both low- and high-pass filters are postulated to exist in some form in sensory systems, as they act to prevent information loss in high and low contrast environments, respectively.
+
+Indeed, measurements of the transfer functions of neurons in the horseshoe crab retina according to linear systems analysis show that they remove short-term fluctuations in input signals leaving only the long-term trends, in the manner of low-pass filters. These animals are unable to see low-contrast objects without the help of optical distortions caused by underwater currents.
+
+In the retina, an excited neural receptor can suppress the activity of surrounding neurons within an area called the inhibitory field. This effect, known as lateral inhibition, increases the contrast and sharpness in visual response, but leads to the epiphenomenon of Mach bands. This is often illustrated by the optical illusion of light or dark stripes next to a sharp boundary between two regions in an image of different luminance.
+
+Genetic algorithms are used to evolve neural (and sometimes body) properties in a model brain-body-environment system so as to exhibit some desired behavioral performance. The evolved agents can then be subjected to a detailed analysis to uncover their principles of operation. Evolutionary approaches are particularly useful for exploring spaces of possible solutions to a given behavioral task because these approaches minimize a priori assumptions about how a given behavior ought to be instantiated. They can also be useful for exploring different ways to complete a computational neuroethology model when only partial neural circuitry is available for a biological system of interest.
+
+The NEURON software, developed at Duke University, is a simulation environment for modeling individual neurons and networks of neurons. The NEURON environment is a self-contained environment allowing interface through its GUI or via scripting with hoc or python. The NEURON simulation engine is based on a Hodgkin–Huxley type model using a Borg–Graham formulation. Several examples of models written in NEURON are available from the online database ModelDB.
+
+Nervous systems differ from the majority of silicon-based computing devices in that they resemble analog computers (not digital data processors) and massively parallel processors, not sequential processors. To model nervous systems accurately, in real-time, alternative hardware is required.
+
+The most realistic circuits to date make use of analog properties of existing digital electronics (operated under non-standard conditions) to realize Hodgkin–Huxley-type models in silico.

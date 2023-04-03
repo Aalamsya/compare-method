@@ -1,0 +1,10 @@
+How does the Rome Club describe itself?	manner
+When was the Rome club founded?	date
+Where is the Rome club?	location
+Where is Rome Club headquarters now?	location
+Who founded the Rome club?	person
+What is the core of club formation?	definition
+Who wrote the vision of Persie?	person
+When did the club publish The First Global Revolution?	date
+When was the TT30 think tank set up?	date
+What is the purpose of TT30's think tank?	definition

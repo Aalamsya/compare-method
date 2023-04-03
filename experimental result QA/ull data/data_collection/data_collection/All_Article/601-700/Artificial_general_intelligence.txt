@@ -1,0 +1,29 @@
+Artificial general intelligence (AGI) is the intelligence of a machine that could successfully perform any intellectual task that a human being can. It is a primary goal of some artificial intelligence research and a common topic in science fiction and future studies. Artificial general intelligence is also referred to as "strong AI", "full AI" or as the ability of a machine to perform "general intelligent action". Academic sources reserve "strong AI" to refer to machines capable of experiencing consciousness.
+
+Some references emphasize a distinction between strong AI and "applied AI" (also called "narrow AI" or "weak AI" ): the use of software to study or accomplish specific problem solving or reasoning tasks. Weak AI, in contrast to strong AI, does not attempt to perform the full range of human cognitive abilities.
+
+As of 2017, over forty organizations worldwide are doing active research on AGI.
+
+Various criteria for intelligence have been proposed (most famously the Turing test) but to date, there is no definition that satisfies everyone.
+
+Other important capabilities include the ability to sense (e.g. see) and the ability to act (e.g. move and manipulate objects) in the world where intelligent behaviour is to be observed. This would include an ability to detect and respond to hazard. Many interdisciplinary approaches to intelligence (e.g. cognitive science, computational intelligence and decision making) tend to emphasise the need to consider additional traits such as imagination (taken as the ability to form mental images and concepts that were not programmed in) and autonomy. Computer based systems that exhibit many of these capabilities do exist (e.g. see computational creativity, automated reasoning, decision support system, robot, evolutionary computation, intelligent agent), but not yet at human levels.
+
+A machine and a human both converse sight unseen with a second human, who must evaluate which of the two is the machine, which passes the test if it can fool the evaluator a significant fraction of the time. Note: Turing does not prescribe what should qualify as intelligence, only that knowing that it is a machine should not disqualify it.
+
+A machine is required to enter an average American home and figure out how to make coffee: find the coffee machine, find the coffee, add water, find a mug, and brew the coffee by pushing the proper buttons.
+
+A machine enrolls in a university, taking and passing the same classes that humans would, and obtaining a degree.
+
+A machine works an economically important job, performing at least as well as humans in the same job.
+
+A machine is required to unpack and assemble an item of flat-packed furniture. It has to read the instructions and assemble the item as described, correctly installing all fixtures.
+
+The most difficult problems for computers are informally known as "AI-complete" or "AI-hard", implying that solving them is equivalent to the general aptitude of human intelligence, or strong AI, beyond the capabilities of a purpose-specific algorithm. 
+
+AI-complete problems are hypothesised to include general computer vision, natural language understanding, and dealing with unexpected circumstances while solving any real world problem. 
+
+AI-complete problems cannot be solved with current computer technology alone, and also require human computation. This property can be useful to test for the presence of humans, as with CAPTCHAs, and for computer security to repel brute-force attacks.
+
+Modern AI research began in the mid 1950s. The first generation of AI researchers was convinced that artificial general intelligence was possible and that it would exist in just a few decades. As AI pioneer Herbert A. Simon wrote in 1965: "machines will be capable, within twenty years, of doing any work a man can do." Their predictions were the inspiration for Stanley Kubrick and Arthur C. Clarke's character HAL 9000, who accurately embodied what AI researchers believed they could create by the year 2001. Of note is the fact that AI pioneer Marvin Minsky was a consultant on the project of making HAL 9000 as realistic as possible according to the consensus predictions of the time; Crevier quotes him as having said on the subject in 1967, "Within a generation ... the problem of creating 'artificial intelligence' will substantially be solved," although Minsky states that he was misquoted. 
+
+However, in the early 1970s, it became obvious that researchers had grossly underestimated the difficulty of the project. Funding agencies became skeptical of AGI and put researchers under increasing pressure to produce useful "applied AI". As the 1980s began, Japan's Fifth Generation Computer Project revived interest in AGI, setting out a ten-year timeline that included AGI goals like "carry on a casual conversation". In response to this and the success of expert systems, both industry and government pumped money back into the field. However, confidence in AI spectacularly collapsed in the late 1980s, and the goals of the Fifth Generation Computer Project were never fulfilled. For the second time in 20 years, AI researchers who had predicted the imminent achievement of AGI had been shown to be fundamentally mistaken. By the 1990s, AI researchers had gained a reputation for making vain promises. They became reluctant to make predictions at all and to avoid any mention of "human level" artificial intelligence for fear of being labeled "wild-eyed dreamer."

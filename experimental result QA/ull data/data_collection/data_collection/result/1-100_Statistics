@@ -1,0 +1,228 @@
+Cyc	4
+{date=2, number=2, name=2, definition=1, location=1, time=1, manner=1}
+{number=1 1, time=0 1, manner=0 1}
+
+SGK1	6
+{reason=2, name=4, definition=2, manner=2}
+{reason=1 1, name=1 0, manner=1 1, name =1 0}
+
+Positive_feedback	6
+{date=1, number=1, definition=5, manner=3}
+{number=0 1, definition=2 0, manner=1 2}
+
+Crosslinguistic_influence	8
+{reason=3, number=2, name=1, definition=3, manner=1}
+{reason=2 1, number=0 2, definition=1 1, manner=0 1}
+
+Perineuronal_net	3
+{number=1, reason=1, name=1, definition=2}
+{number=0 1, reason=0 1, definition=1 0}
+
+Visual_neuroscience	3
+{person=1, definition=3, manner=1}
+{definition=2 0, manner=0 1}
+
+AI-complete	2
+{nnp=1, person=1, definition=1, manner=2}
+{manner=0 2}
+
+Einstellung_effect	6
+{date=2, number=2, nnp=1, reason=1, person=2, definition=2}
+{date=2 0, number=0 2, reason=1 0, person=1 0}
+
+Endocannabinoid_system	3
+{reason=1, name=1, definition=3}
+{reason=0 1, name=1 0, definition=1 0}
+
+Primary_consciousness	5
+{person=1, name=2, definition=3}
+{person=1 0, name×=0 1, name=1 0, definition=0 2}
+
+Autognostics	5
+{nnp=1, definition=4, manner=1}
+{nnp=1 0, definition=2 1, manner=0 1}
+
+System	4
+{date=2, nnp=1, number=1, person=1, definition=4, location=1}
+{date=1 0, nnp=1 0, number=0 1, person=1 0}
+
+Schismogenesis	2
+{date=1, person=2, definition=2, location=1, manner=1}
+{person=0 1, manner=0 1}
+
+Network_science	6
+{date=3, person=3, definition=2, location=1, manner=1}
+{date=0 1, person=1 1, definition=1 0, location=1 0, manner=0 1}
+
+Psychopharmacology_revolution	7
+{date=2, reason=1, person=2, name=2, definition=2, manner=1}
+{date=1 1, reason=1 0, person =1 0, name=0 1, definition=1 0, manner=1 0}
+
+Attribute_substitution	3
+{date=1, nnp=1, person=5, definition=1}
+{date=1 0, person=2 0}
+
+Motor_cognition	5
+{reason=1, person=1, definition=3}
+{reason=0 1, person=1 0, definition=1 2}
+
+Race_of_the_future	6
+{date=3, number=3, person=1, location=1, definition=1}
+{date=1 1, number=0 2, number =0 1, location=1 0}
+
+Cybertext	2
+{person=2, definition=3}
+{person=1 0, definition=1 0}
+
+Prosodic_unit	3
+{name=1, definition=4}
+{name=1 0, definition=2 0}
+
+Slit_(gene_family)	8
+{reason=1, name=1, definition=5, location=1, manner=2}
+{reason=0 1, name=1 0, location=0 1, definition=2 1, manner=0 2}
+
+Isolated_brain	6
+{reason=1, person=6, name=1, definition=2}
+{reason=0 1, person=4 0, definition=1 0}
+
+Cochlear_implant	2
+{date=1, number=3, nnp=1, person=2, name=1, definition=1, location=1}
+{date=1 0, number=1 0}
+
+Chess_as_mental_training	4
+{reason=1, name=2, location=1}
+{reason=1 0, name=2 0, location=1 0}
+
+Information_extraction	4
+{date=1, person=1, definition=7}
+{date=1 0, person=1 0, definition=1 1}
+
+Democratic_peace_theory	9
+{date=2, person=4, definition=4}
+{date=0 2, person=4 0, definition=2 1}
+
+Accelerating_change	8
+{date=3, number=1, person=2, name=3, definition=1}
+{date=2 0, number=0 1, person=1 1, name=1 2}
+
+Loebner_Prize	4
+{date=2, money=4, person=1, name=1, definition=1, manner=1}
+{date=1 0, person=1 0, name=0 1, manner=1 0}
+
+Future_of_the_Earth	8
+{nnp=1, number=3, definition=1, time=5}
+{nnp=0 1, number=0 3, time=0 4}
+
+Neuropathology	5
+{reason=2, person=1, definition=3, time=1}
+{reason =0 1, reason=1 0, person=1 0, definition=1 0, time=0 1}
+
+Cholinergic_anti-inflammatory_pathway	4
+{date=1, definition=2, manner=1}
+{date=1 0,                                         =1 0, definition=1 0, manner=1 0}
+
+World_Future_Society	4
+{date=3, number=1, location=1}
+{date=1 1, number=0 1, location=0 1}
+
+Dendrin	5
+{number=2, name=2, definition=2, location=3, manner=1}
+{number=0 2, name=1 0, definition=1 0, manner=1 0}
+
+Science_fiction_prototyping	9
+{date=1, number=1, person=2, name=2, location=2, definition=2}
+{date=1 0, number=0 1, person=1 0, name=1 1, location=1 1, definition=1 1}
+
+Variety_(cybernetics)	4
+{person=4, definition=2, manner=1}
+{person=2 0, definition=1 0, manner=0 1}
+
+Optogenetics	4
+{date=2, person=5, name=2, definition=1}
+{person=3 0, name=1 0}
+
+Memory_erasure	8
+{person=1, definition=8, location=1}
+{definition=1 7}
+
+Project_Joshua_Blue	1
+{reason=1, definition=2}
+{reason=1 0}
+
+March_of_the_Machines	4
+{date=1, reason=1, person=2, definition=1}
+{reason=0 1, person=2 0, definition=0 1}
+
+Future_of_Humanity_Institute	2
+{date=1, number=1, nnp=1, person=4, definition=3}
+{number=0 1, nnp=1 0}
+
+Neural_decoding	4
+{reason=2, definition=5}
+{reason=0 2, definition=2 0}
+
+Automatic_and_Controlled_Processes_(ACP)	6
+{number=1, reason=2, name=1, definition=6}
+{number=1 0, reason=1 1, name=0 1, definition=2 0}
+
+Soft_computing	5
+{date=1, definition=4}
+{date=1 0, definition=3 1}
+
+Cybernetical_physics	8
+{date=2, number=1, nnp=1, reason=1, person=1, name=1, definition=3}
+{date=2 0, number=0 1, reason=0 1, person=1 0, name=1 0, definition=0 2}
+
+Symbolic_artificial_intelligence	3
+{date=1, person=1, definition=2}
+{date=1 0, person=1 0, definition=1 0}
+
+Temporoparietal_junction	2
+{definition=6, location=1}
+{definition=1 1}
+
+Neuro-ophthalmology	3
+{date=2, reason=1, person=1, definition=1}
+{date=1 1, reason=1 0}
+
+Club_of_Rome	7
+{date=3, person=2, location=2, definition=2, manner=1}
+{date=2 0, person=1 1, location=2 0, manner=0 1}
+
+KL-ONE	2
+{number=1, definition=3}
+{number=1 0, definition=1 0}
+
+Negative_feedback	4
+{date=2, person=3, name=1, definition=3, manner=1}
+{person=2 0, definition=1 1}
+
+Sensory_cue	5
+{nnp=2, reason=1, name=1, definition=6}
+{nnp=1 1, reason=0 1, name=0 1, definition=1 0}
+
+Good_regulator	1
+{person=1, definition=2}
+{definition=1 0}
+
+Cognitive_semantics	4
+{definition=4, manner=1}
+{definition=2 1, manner=0 1}
+
+LIDA_(cognitive_architecture)	2
+{number=1, person=2, definition=2}
+{number=0 1, definition=1 0}
+
+Piaget's_theory_of_cognitive_development	4
+{nnp=1, number=1, definition=3}
+{number=0 1, definition=2 1}
+
+Matrioshka_brain	1
+{person=1, definition=1, location=1}
+{definition=1 0}
+
+Malleability_of_intelligence	4
+{date=1, person=1, name=1, definition=4}
+{date=0 1, person=1 0, definition=1 1}
+

@@ -1,0 +1,45 @@
+¡Ì1.What is called scientific terminology ? 
+No.1---> 0.0    4
+Several categories of scientific terminology can be distinguished . 
+No.2---> 0.0    28
+There is no definite limit to how sophisticated a level of Latin may be brought to bear in conventional scientific terminology ; such convention dates back to the days when nearly all standard communications in such subjects were written in Latin as an international scientific lingua franca . 
+No.3---> 1.0    0
+Scientific terminology is the part of the language that is used by scientists in the context of their professional activities . 
+No.4---> 1.0    3
+However , due to popularization of science , they gradually become part of common languages . 
+No.5---> 1.0    24
+Branches of science that are based , however tenuously , on fields of study known to the ancients , or that were established by more recent workers familiar with Greek and Latin , often use terminology that is fairly correct descriptive Latin , or occasionally Greek . 
+
+¡Ì2.What has resulted in discoveries of new elementary particles and atoms ? 
+No.1---> 1.75   15
+Progress of particle physics , nuclear physics and atomic physics has resulted in discoveries of new elementary particles and atoms . 
+No.2---> 2.0    11
+Representative examples come from particle physics where certain properties of particles are called flavour , color , but have no relation to conventional flavor and color . 
+No.3---> 2.667  12
+Another famous example is frustration used to describe ground state properties in condensed matter physics , and especially in magnetic systems . 
+No.4---> 3.167  1
+While studying nature , scientists often encounter or create new material or immaterial objects and concepts and are compelled to name them . 
+No.5---> 3.5    5
+Those are specific notions and terms , e.g. , The increasing focus of science on technological applications results in extensive search for new materials having unusual or superior properties .
+
+¡Ì3.Where can most relevant terminology be found ? 
+No.1---> 2.5    0
+That was not so long ago ; from the latter days of the Roman empire , Classical Latin had become the dominant language in learned , civil , diplomatic , legal , and religious communication in many states in Europe .  
+
+¡Ì4.Who used Plasmon Biscuits in his Antarctic Expedition ? 
+No.1---> 0.0    1
+Plasmon Biscuits were a popular snack used by Ernest Shackleton in his Antarctic Expedition of 1902 . 
+No.2---> 6.5    0
+Their names â€ quark , gluon , lepton , graviton , neutrino , Higgs boson , mendelevium , etc. â€ are traditionally given by those people who first discovered them and often include surnames of classical scientists . 
+
+¡Ì5.When were Plasmon Biscuits used as a popular snack ? 
+No.1---> 0.0    1
+Plasmon Biscuits were a popular snack used by Ernest Shackleton in his Antarctic Expedition of 1902 . 
+No.2---> 4.667  0
+Most relevant terminology can be found in the following Wikipedia articles and their links : -LRB- The word plasmon was well-known around the 1900s for a proprietary dried milk manufactured by the International Plasmon Company , which was added to a number of products to make Plasmon Oats , Plasmon Cocoa , and Plasmon Biscuits . 
+No.3---> 6.333  5
+That was not so long ago ; from the latter days of the Roman empire , Classical Latin had become the dominant language in learned , civil , diplomatic , legal , and religious communication in many states in Europe . 
+No.4---> 7.0    3
+During the last two centuries there has been an increasing tendency to modernise the terminology , though how beneficial that might be is subject to discussion . 
+No.5---> 7.0    6
+The peak of the dominance of Latin in such contexts probably was during the Renaissance , but the language only began to lose favour for such purposes in the eighteenth century , and gradually at that . 

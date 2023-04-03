@@ -1,0 +1,94 @@
+¡Ì1.What is Logic programming largely based on ? 
+No.1---> 1.5    0
+Logic programming is a type of programming paradigm which is largely based on formal logic . 
+No.2---> 1.5    6
+In ASP and Datalog , logic programs have only a declarative reading , and their execution is performed by means of a proof procedure or model generator whose behaviour is not meant to be under the control of the programmer . 
+No.3---> 1.5    8
+As a clause in a logic program , it can be used both as a procedure to test whether X is fallible by testing whether X is human , and as a procedure to find an X that is fallible by finding an X that is human . 
+No.4---> 1.5    9
+The declarative reading of logic programs can be used by a programmer to verify their correctness . 
+No.5---> 1.5    12
+The use of mathematical logic to represent and execute computer programs is also a feature of the lambda calculus , developed by Alonzo Church in the 1930s . 
+
+¡Á2.What is a non-monotonic logic ? 
+No.1---> 0.0    0
+Logic programming is a type of programming paradigm which is largely based on formal logic . 
+No.2---> 0.0    6
+In ASP and Datalog , logic programs have only a declarative reading , and their execution is performed by means of a proof procedure or model generator whose behaviour is not meant to be under the control of the programmer . 
+No.3---> 0.0    7
+However , in the Prolog family of languages , logic programs also have a procedural interpretation as goal-reduction procedures : Consider , for example , the following clause : based on an example used by Terry Winograd to illustrate the programming language Planner . 
+No.4---> 0.0    8
+As a clause in a logic program , it can be used both as a procedure to test whether X is fallible by testing whether X is human , and as a procedure to find an X that is fallible by finding an X that is human . 
+No.5---> 0.0    9
+The declarative reading of logic programs can be used by a programmer to verify their correctness . 
+
+¡Á3.Where does logic programs also have a procedural interpretation as goal-reduction procedures ? 
+No.1---> 3.333  1
+Kowalski collaborated with Colmerauer in Marseille , who developed these ideas in the design and implementation of the programming language Prolog . 
+No.2---> 3.667  0
+Hayes and Kowalski in Edinburgh tried to reconcile the logic-based declarative approach to knowledge representation with Planner 's procedural approach . 
+No.3---> 4.0    2
+The use of Prolog as a practical programming language was given great momentum by the development of a compiler by David Warren in Edinburgh in 1977 . 
+No.4---> 4.167  3
+For example , the following concurrent logic program defines a predicate shuffle -LRB- Left , Right , Merge -RRB- , which can be used to shuffle two lists Left and Right , combining them into a single list Merge that preserves the ordering of the two lists Left and Right : Here , represents the empty list , and | Tail -RSB- represents a list with first element Head followed by list Tail , as in Prolog . 
+
+¡Á4.Who can also use the known problem-solving behaviour of the execution mechanism to improve the efficiency of programs ? 
+No.1---> 2.5    1
+In ASP and Datalog , logic programs have only a declarative reading , and their execution is performed by means of a proof procedure or model generator whose behaviour is not meant to be under the control of the programmer . 
+No.2---> 2.5    2
+However , in the Prolog family of languages , logic programs also have a procedural interpretation as goal-reduction procedures : Consider , for example , the following clause : based on an example used by Terry Winograd to illustrate the programming language Planner . 
+No.3---> 3.0    3
+However , the first proposal to use the clausal form of logic for representing computer programs was made by Cordell Green . 
+No.4---> 3.0    11
+The fact that Horn clauses can be given a procedural interpretation and , vice versa , that goal-reduction procedures can be understood as Horn clauses + backward reasoning means that logic programs combine declarative and procedural representations of knowledge . 
+No.5---> 3.333  8
+For most practical applications , as well as for applications that require non-monotonic reasoning in artificial intelligence , Horn clause logic programs need to be extended to normal logic programs , with negative conditions . 
+
+¡Ì5.Who was the first proposal to use the clausal form of logic for representing computer programs ? 
+No.1---> 2.5    16
+During the summer of 1971 , Colmerauer and Kowalski discovered that the clausal form of logic could be used to represent formal grammars and that resolution theorem provers could be used for parsing . 
+No.2---> 2.667  3
+However , the first proposal to use the clausal form of logic for representing computer programs was made by Cordell Green . 
+No.3---> 2.667  12
+Despite its simplicity compared with classical logic , this combination of Horn clauses and negation as failure has proved to be surprisingly expressive . 
+No.4---> 2.667  20
+The following goal clause queries the database to find out when john both taught logic and was a professor : The solution is 2010 â‰ T , T â‰ 2012 . 
+No.5---> 2.667  21
+Some early designs of logic programming languages based on linear logic include LO & Pareschi , 1991 -RSB- , Lolli , ACL , and Forum 1996 -RSB- . 
+
+¡Ì6.Where were advocates of declarative representations notably working at ? 
+No.1---> 7.5    1
+Kowalski collaborated with Colmerauer in Marseille , who developed these ideas in the design and implementation of the programming language Prolog . 
+No.2---> 8.0    0
+Hayes and Kowalski in Edinburgh tried to reconcile the logic-based declarative approach to knowledge representation with Planner 's procedural approach . 
+No.3---> 8.0    2
+It emerged from a collaboration between Colmerauer in Marseille and Robert Kowalski in Edinburgh . 
+No.4---> 8.0    3
+The use of Prolog as a practical programming language was given great momentum by the development of a compiler by David Warren in Edinburgh in 1977 . 
+No.5---> 9.0    4
+For example , the following concurrent logic program defines a predicate shuffle -LRB- Left , Right , Merge -RRB- , which can be used to shuffle two lists Left and Right , combining them into a single list Merge that preserves the ordering of the two lists Left and Right : Here , represents the empty list , and | Tail -RSB- represents a list with first element Head followed by list Tail , as in Prolog . 
+
+¡Á7.Why Planner used a backtracking control structure ? 
+No.1---> 0.0    5
+However , there exist many extensions of this simple case , the most important one being the case in which conditions in the body of a clause can also be negations of atomic formulae . 
+No.2---> 0.0    11
+For example , the clause : can be used both as a procedure to show that socrates is human , and as a procedure to find an X that is human by `` assigning '' socrates to X . 
+No.3---> 0.0    17
+This used an axiomatization of a subset of LISP , together with a representation of an input-output relation , to compute the relation by simulating the execution of the program in LISP . 
+No.4---> 0.0    21
+Kowalski , on the other hand , developed SLD resolution , a variant of SL-resolution , and showed how it treats implications as goal-reduction procedures . 
+No.5---> 0.0    30
+The top-level goal is the root of the tree . 
+
+¡Ì8.When was the Association for Logic Programming founded to promote Logic Programming ? 
+No.1---> 0.0    0
+The use of mathematical logic to represent and execute computer programs is also a feature of the lambda calculus , developed by Alonzo Church in the 1930s . 
+No.2---> 0.0    2
+The Association for Logic Programming was founded to promote Logic Programming in 1986 . 
+No.3---> 0.0    6
+The following goal clause queries the database to find out when john both taught logic and was a professor : The solution is 2010 â‰ T , T â‰ 2012 . 
+No.4---> 0.0    8
+Some early designs of logic programming languages based on linear logic include LO & Pareschi , 1991 -RSB- , Lolli , ACL , and Forum 1996 -RSB- . 
+No.5---> 1.5    4
+During the summer of 1971 , Colmerauer and Kowalski discovered that the clausal form of logic could be used to represent formal grammars and that resolution theorem provers could be used for parsing . 
+

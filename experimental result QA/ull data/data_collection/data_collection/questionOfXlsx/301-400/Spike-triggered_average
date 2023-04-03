@@ -1,0 +1,10 @@
+What is the spike-triggered average?	nnp
+What provides an estimate of a neuron's linear receptive field?	definiton
+Why the stimulus in the time window preceding each spike is extracted?	reason
+How the STA provides an unbiased estimate of a neuron's receptive field?	manner
+What can be used to estimate the linear stage of the linear-nonlinear-Poisson (LNP) cascade model	definiton
+What is spike-triggered averaging?	manner
+Why it be appropriate to whiten the STA by the inverse of the stimulus covariance matrix?	reason
+What is a weaker condition than spherical symmetry?	definiton
+What is the whitened STA?	name
+Why it may be necessary to regularize the whitened STA?	reason

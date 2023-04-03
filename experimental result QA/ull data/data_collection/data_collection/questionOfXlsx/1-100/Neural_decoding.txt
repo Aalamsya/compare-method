@@ -1,0 +1,7 @@
+What is Neural_decoding?	definition
+What is the main purpose of neural decoding?	definition
+What is action potentials?	definition
+What are the conditions for establishing the neural spike data model?	definition
+What do many neural decoding problems depend on?	definition
+Why is it impossible to reconstruct the stimulus from spiking data perfectly?	reason
+Why do people suspect that this is the appropriate frequency of measurement?	reason

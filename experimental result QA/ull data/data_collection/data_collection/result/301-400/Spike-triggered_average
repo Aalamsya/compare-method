@@ -1,0 +1,5 @@
+√Why the stimulus in the time window preceding each spike is extracted ? 	reason
+×How the STA provides an unbiased estimate of a neuron 's receptive field ? 	manner
+×Why it be appropriate to whiten the STA by the inverse of the stimulus covariance matrix ? 	reason
+×What is a weaker condition than spherical symmetry ? 	definiton
+×Why it may be necessary to regularize the whitened STA ? 	reason

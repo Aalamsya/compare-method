@@ -1,0 +1,65 @@
+¡Ì1.What mean is technical communication belongs to ? 
+No.1---> 0.0	6
+Technical communication is a task performed by specialized employees or consultants . 
+No.2---> 0.0	7
+Some companies give considerable technical communication responsibility to other technical professionalsâ€”such as programmers , engineers , and scientists . 
+No.3---> 0.0	12
+This process , known as the ` Writing Process ' , has been a central focus of writing theory since the 1970s , and some contemporary textbook authors apply it to technical communication . 
+No.4---> 0.0	20
+This is the basic definition of technical communication . 
+No.5---> 1.5	0
+Whatever the definition of technical communication , the overarching goal of the practice is to create easily accessible information for a specific audience . 
+
+¡Ì2.Where may technical communicators put the information they capture into ? 
+No.1---> 2.5    0
+In the United States , many consider the Chicago Manual of Style the bible for general technical communication . 
+
+¡Ì3.What is the the overarching goal of the practice ? 
+No.1---> 3.0    0
+Whatever the definition of technical communication , the overarching goal of the practice is to create easily accessible information for a specific audience . 
+No.2---> 4.0    5
+In 2015 , the European Association for Technical Communication published a competence framework for the professional field of technical communication . 
+No.3---> 4.0    6
+Technical communication is a task performed by specialized employees or consultants . 
+No.4---> 4.0    7
+Some companies give considerable technical communication responsibility to other technical professionalsâ€”such as programmers , engineers , and scientists . 
+No.5---> 4.0    8
+Often , a professional technical writer edits such work to bring it up to modern technical communication standards . 
+
+¡Ì4.What do the technical communication jobs include ? 
+No.1---> 0.0    6
+Technical communication is a task performed by specialized employees or consultants . 
+No.2---> 0.0    7
+Some companies give considerable technical communication responsibility to other technical professionalsâ€”such as programmers , engineers , and scientists . 
+No.3---> 0.0    12
+This process , known as the ` Writing Process ' , has been a central focus of writing theory since the 1970s , and some contemporary textbook authors apply it to technical communication . 
+No.4---> 0.0    20
+This is the basic definition of technical communication . 
+No.5---> 1.5    0
+Whatever the definition of technical communication , the overarching goal of the practice is to create easily accessible information for a specific audience .
+
+¡Ì5.When did the EATC publish a competence framework for the professional field of technical communication ? 
+No.1---> 0.0    1
+This process , known as the ` Writing Process ' , has been a central focus of writing theory since the 1970s , and some contemporary textbook authors apply it to technical communication . 
+No.2---> 2.0    0
+In 2015 , the European Association for Technical Communication published a competence framework for the professional field of technical communication . 
+No.3---> 4.0    2
+Once each idea is organized , the writer organizes the document as a wholeâ€”accomplishing this task in various ways : chronological : used for documents that involve a linear process , such as a step-by-step guide that describes how to accomplish something ; parts of an object : Used for documents that describe the parts of an object , such as a graphic showing the parts of a computer -LRB- keyboard , monitor , mouse , etc. -RRB- ; simple to complex -LRB- or vice versa -RRB- : starts with easy ideas and gradually goes into complex ideas ; specific to general : starts with many ideas , then organizes the ideas into sub-categories ; general to specific : starts with a few categories of ideas , then goes deeper After organizing the whole document , the writer typically creates a final outline that shows the document structure . 
+No.4---> 5.0    3
+Modern technical writing style relies on attributes that contribute to clarity : headings , lists , graphics ; generous white space , short sentences , present tense , simple nouns , active voice -LRB- though some scientific applications still use the passive voice -RRB- , second and third person as required Technical writing as a discipline usually requires that a technical writer use a style guide .
+
+¡Ì6.How many broad steps can the technical writing process be divided into ? 
+No.1---> 0.0    0
+Whatever the definition of technical communication , the overarching goal of the practice is to create easily accessible information for a specific audience . 
+No.2---> 0.0    1
+Technical communicators generally tailor information to a specific audience , which may be subject matter experts , consumers , end users , etc. . 
+No.3---> 0.0    2
+Technical communicators often work collaboratively to create deliverables that include online help , user manuals , classroom training guides , computer-based training , white papers , specifications , industrial videos , reference cards , data sheets , journal articles , patents , and forms and documents . 
+No.4---> 0.0    3
+Technical domains can be of any kind , including the soft and hard sciences , high technology including computers and software and consumer electronics . 
+No.5---> 0.0    4
+Technical communicators often work with a range of specific Subject-matter experts -LRB- SMEs -RRB- on these educational projects .  
+
+¡Ì7.Where do many consider the Chicago Manual of Style the bible for general technical communication ? 
+No.1---> 3.778  0
+In the United States , many consider the Chicago Manual of Style the bible for general technical communication .  

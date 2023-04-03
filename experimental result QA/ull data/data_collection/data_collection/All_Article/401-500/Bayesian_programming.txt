@@ -1,0 +1,31 @@
+Bayesian programming is a formalism and a methodology for having a technique to specify probabilistic models and solve problems when less than the necessary information is available. Bayes’ Theorem is the central concept behind this programming approach, which states that the probability of something occurring in the future can be inferred by past conditions related to the event.
+
+Edwin T. Jaynes proposed that probability could be considered as an alternative and an extension of logic for rational reasoning with incomplete and uncertain information. In his founding book Probability Theory: The Logic of Science he developed this theory and proposed what he called “the robot,” which was not a physical device, but an inference engine to automate probabilistic reasoning—a kind of Prolog for probability instead of logic. Bayesian programming is a formal and concrete implementation of this "robot".
+
+Bayesian programming may also be seen as an algebraic formalism to specify graphical models such as, for instance, Bayesian networks, dynamic Bayesian networks, Kalman filters or hidden Markov models. Indeed, Bayesian Programming is more general than Bayesian networks and has a power of expression equivalent to probabilistic factor graphs.
+
+The purpose of Bayesian spam filtering is to eliminate junk e-mails.
+
+The problem is very easy to formulate. E-mails should be classified into one of two categories: non-spam or spam. The only available information to classify the e-mails is their content: a set of words. Using these words without taking the order into account is commonly called a bag of words model.
+
+The classifier should furthermore be able to adapt to its user and to learn from experience. Starting from an initial standard setting, the classifier should modify its internal parameters when the user disagrees with its own decision. It will hence adapt to the user’s criteria to differentiate between non-spam and spam. It will improve its results as it encounters increasingly classified e-mails. 
+
+In life sciences, bayesian programming was used in vision to reconstruct shape from motion, to model visuo-vestibular interaction and to study saccadic eye movements; in speech perception and control to study early speech acquisition and the emergence of articulatory-acoustic systems; and to model handwriting perception and control.
+
+Bayesian program learning has potential applications voice recognition and synthesis, image recognition and natural language processing. It employs the principles of compositionality (building abstract representations from parts), causality (building complexity from parts) and learning to learn (using previously recognized concepts to ease the creation of new concepts).
+
+The comparison between probabilistic approaches (not only bayesian programming) and possibility theories continues to be debated.
+
+Possibility theories like, for instance, fuzzy sets, fuzzy logic and possibility theory are alternatives to probability to model uncertainty. They argue that probability is insufficient or inconvenient to model certain aspects of incomplete/uncertain knowledge.
+
+The defense of probability is mainly based on Cox's theorem, which starts from four postulates concerning rational reasoning in the presence of uncertainty. It demonstrates that the only mathematical framework that satisfies these postulates is probability theory. The argument is that any approach other than probability necessarily infringes one of these postulates and the value of that infringement. 
+
+The purpose of probabilistic programming is to unify the scope of classical programming languages with probabilistic modeling (especially bayesian networks) to deal with uncertainty while profiting from the programming languages' expressiveness to encode complexity.
+
+Extended classical programming languages include logical languages as proposed in Probabilistic Horn Abduction, Independent Choice Logic, PRISM, and ProbLog which proposes an extension of Prolog.
+
+It can also be extensions of functional programming languages (essentially Lisp and Scheme) such as IBAL or CHURCH. The underlying programming languages can be object-oriented as in BLOG and FACTORIE or more standard ones as in CES and FIGARO.
+
+The purpose of Bayesian programming is different. Jaynes' precept of "probability as logic" argues that probability is an extension of and an alternative to logic above which a complete theory of rationality, computation and programming can be rebuilt. Bayesian programming attempts to replace classical languages with a programming approach based on probability that considers incompleteness and uncertainty.
+
+The precise comparison between the semantics and power of expression of Bayesian and probabilistic programming is an open question. 

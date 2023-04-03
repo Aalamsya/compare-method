@@ -1,0 +1,7 @@
+What is a Behavior Tree?	nnp
+Where does their strength come from?	location
+What is the main building block of a behavior?	definition
+What make BTs less error prone and very popular in the game developer community?	definition
+What is an enabling signal that allows the execution of a child?	name
+What is used to control the subtasks of which it is composed?	name
+What are used to find and execute the first child that has not yet succeeded?	definition

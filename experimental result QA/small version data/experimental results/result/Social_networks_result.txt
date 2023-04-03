@@ -1,0 +1,47 @@
+¡Ì1.Who authored early structural theories in sociology emphasizing the dynamics of triads and ` web of group affiliations ' ? 
+No.1---> 1.5    0
+Georg Simmel authored early structural theories in sociology emphasizing the dynamics of triads and `` web of group affiliations '' . 
+No.2---> 1.75   8
+In sociology , the early -LRB- 1930s -RRB- work of Talcott Parsons set the stage for taking a relational approach to understanding social structure . 
+No.3---> 2.25   16
+A study of high tech Chinese firms by Zhixing Xiao found that the control benefits of structural holes are `` dissonant to the dominant firm-wide spirit of cooperation and the information benefits can not materialize due to the communal sharing values '' of such organizations . 
+No.4---> 2.5    12
+Sociologists , such as Mark Granovetter , have developed core principles about the interactions of social structure , information , ability to punish or reward , and trust that frequently recur in their analyses of political , economic and other institutions . 
+No.5---> 2.625  9
+Also independently active in the Harvard Social Relations department at the time were Charles Tilly , who focused on networks in political and community sociology and social movements , and Stanley Milgram , who developed the `` six degrees of separation '' thesis .
+
+¡Ì2.When is Jacob Moreno credited with developing the first sociograms which studies interpersonal relationships ? 
+No.1---> 5.833  7
+In sociology , the early -LRB- 1930s -RRB- work of Talcott Parsons set the stage for taking a relational approach to understanding social structure . 
+No.2---> 6.0    13
+In J.A. Barnes ' day , a `` community '' referred to a specific geographic location and studies of community ties had to do with who talked , associated , traded , and attended church with whom . 
+No.3---> 6.167  15
+Community development studies , today , also make extensive use of such methods . 
+No.4---> 6.222  0
+Jacob Moreno is credited with developing the first sociograms in the 1930s to study interpersonal relationships . 
+No.5---> 6.333  12
+The most prominent of these are Graph theory , Balance theory , Social comparison theory , and more recently , the Social identity approach .  
+
+¡Á3.Why one common criticism of social network theory is that individual agency is often ignored ? 
+No.1---> 0.0    5
+Jacob Moreno is credited with developing the first sociograms in the 1930s to study interpersonal relationships . 
+No.2---> 0.0    11
+The ties through which any given social unit connects represent the convergence of the various social contacts of that unit . 
+No.3---> 0.0    12
+This theoretical approach is , necessarily , relational . 
+No.4---> 0.0    24
+A group of social anthropologists associated with Max Gluckman and the Manchester School , including John A. Barnes , J. Clyde Mitchell and Elizabeth Bott Spillius , often are credited with performing some of the first fieldwork from which network analyses were performed , investigating community networks in southern Africa , India and the United Kingdom . 
+No.5---> 0.0    27
+Later , drawing upon Parsons ' theory , the work of sociologist Peter Blau provides a strong impetus for analyzing the relational ties of social units with his work on social exchange theory . 
+
+¡Á4.When did Jacob L. Moreno began systematic recording and analysis of social interaction in small groups ? 
+No.1---> 5.4    9
+Although levels of analysis are not necessarily mutually exclusive , there are three general levels into which networks may fall : micro-level , meso-level , and macro-level . 
+No.2---> 5.4    10
+Randomly distributed networks : Exponential random graph models of social networks became state-of-the-art methods of social network analysis in the 1980s . 
+No.3---> 5.5    7
+In sociology , the early -LRB- 1930s -RRB- work of Talcott Parsons set the stage for taking a relational approach to understanding social structure . 
+No.4---> 5.6    12
+The most prominent of these are Graph theory , Balance theory , Social comparison theory , and more recently , the Social identity approach . 
+No.5---> 5.667  2
+Social network analysis is now one of the major paradigms in contemporary sociology , and is also employed in a number of other social and formal sciences . 

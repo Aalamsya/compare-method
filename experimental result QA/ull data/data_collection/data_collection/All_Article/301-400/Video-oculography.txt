@@ -1,0 +1,13 @@
+Video-oculography (VOG) is a non-invasive, video-based method of measuring horizontal, vertical and torsional position components of the movements of both eyes (eye tracking) using a head-mounted mask that is equipped with small cameras. VOG is usually employed for medical purposes.
+
+The measurement of the horizontal and vertical components is well established technology which uses pupil tracking and/or corneal reflection tracking and has been widely applied, for example for tracking eye movements in reading. In contrast, the measurement of the torsional component (cyclorotation) is usually considered a computationally more difficult task. Approaches to solving this problem include, among others, polar cross correlation methods and iris pattern matching/tracking.
+
+In animal studies, VOG has been used in combination with fluorescent marker arrays affixed to the eye, and it has been proposed that such an array could be embedded into a scleral lens for humans.
+
+VOG techniques have been put to use in a wide field of scientific research related to visual development and cognitive science as well as to pathologies of the eyes and of the visual system.
+
+For example, miniaturized ocular-videography systems are used to analyze eye movements in freely moving rodents.
+
+VOG can be used in eye examinations for quantitative assessments of ocular motility, binocular vision, vergence, cyclovergence, stereoscopy and disorders related to eye positioning such as nystagmus and strabismus.
+
+It has also been proposed for assessing linear and torsional eye movements in vestibular patients and for early stroke recognition.

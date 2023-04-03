@@ -1,0 +1,23 @@
+¡Ì1.How many broad categories does behavioural sciences includes ? 
+No.1---> 0.0    4
+The term behavioural sciences is often confused with the term social sciences . 
+No.2---> 0.5    3
+Examples of behavioural sciences include psychology , psychobiology , and cognitive science . 
+No.3---> 1.5    12
+Behavioural sciences includes two broad categories : neural â€ Information sciences and social â€ Relational sciences . 
+No.4---> 2.0    8
+In contrast , social sciences provide a perceptive framework to study the processes of a social system through impacts of social organisation on structural adjustment of the individual and of groups . 
+No.5---> 2.0    11
+For example , political psychology and behavioral economics use behavioral approaches , despite the predominant focus on systemic and institutional factors in the broader fields of political science and economics . 
+
+¡Ì2.What does the subject that applied discipline of behavioural science include ? 
+No.1---> 2.0    4
+The term behavioural sciences is often confused with the term social sciences . 
+No.2---> 2.0    8
+In contrast , social sciences provide a perceptive framework to study the processes of a social system through impacts of social organisation on structural adjustment of the individual and of groups . 
+No.3---> 2.0    10
+Many subfields of these disciplines cross the boundaries between behavioral and social sciences . 
+No.4---> 2.0    11
+For example , political psychology and behavioral economics use behavioral approaches , despite the predominant focus on systemic and institutional factors in the broader fields of political science and economics . 
+No.5---> 2.4    18
+These applied disciplines of behavioural science include : organizational behavior , operations research , consumer behaviour and media psychology . 

@@ -1,0 +1,87 @@
+¡Ì1.What may be regarded as a branch of both psychology and musicology ? 
+No.1---> 2.0    17
+The first was structuralist psychology , led by Wilhelm Wundt , which sought to break down experience into its smallest definable parts . 
+No.2---> 2.333  0
+Music psychology , or the psychology of music , may be regarded as a branch of both psychology and musicology . 
+No.3---> 2.5    19
+As structuralism gave way to Gestalt psychology and behaviorism at the turn of the century , music psychology moved beyond the study of isolated tones and elements to the perception of their inter-relationships and human reactions to them , though work languished behind that of visual perception . 
+No.4---> 2.5    23
+Music psychology in the second half of the 20th century has expanded to cover a wide array of theoretical and applied areas . 
+No.5---> 2.5    34
+The field draws upon and has significant implications for such areas as philosophy , musicology , and aesthetics , as well the acts of musical composition and performance . 
+
+¡Á2.Whose establishment of the simple string length ratios that formed the consonances of the octave ?            
+No.1---> 0.0    8
+The study of sound and musical phenomenon prior to the 19th century was focused primarily on the mathematical modelling of pitch and tone . 
+No.2---> 0.0    10
+This view that sound and music could be understood from a purely physical standpoint was echoed by such theorists as Anaxagoras and Boethius . 
+No.3---> 0.0    16
+Study of topics including vibration , consonance , the harmonic series , and resonance were furthered through the scientific revolution , including work by Galileo , Kepler , Mersenne , and Descartes . 
+No.4---> 0.0    30
+It has also emerged into the public sphere . 
+No.5---> 0.0    35
+Music has been shown to consistently elicit emotional responses in its listeners , and this relationship between human affect and music has been studied in depth . 
+
+¡Ì3.Where did the focus shifted to that of music education and the training and development of musical skill ? 
+No.1---> 2.5    0
+In Europe GÃ©za RÃ©vÃ©sz and Albert Wellek developed a more complex understanding of musical pitch , and in the US the focus shifted to that of music education and the training and development of musical skill . 
+
+¡Ì4.When has music psychology expanded to cover a wide array of theoretical and applied areas ? 
+No.1---> 0.5    5
+Music psychology in the second half of the 20th century has expanded to cover a wide array of theoretical and applied areas . 
+No.2---> 1.5    0
+The study of sound and musical phenomenon prior to the 19th century was focused primarily on the mathematical modelling of pitch and tone . 
+No.3---> 1.833  2
+The latter 19th century saw the development of modern music psychology alongside the emergence of a general empirical psychology , one which passed through similar stages of development . 
+No.4---> 2.333  4
+As structuralism gave way to Gestalt psychology and behaviorism at the turn of the century , music psychology moved beyond the study of isolated tones and elements to the perception of their inter-relationships and human reactions to them , though work languished behind that of visual perception . 
+No.5---> 3.2    7
+While the techniques of cognitive psychology allowed for more objective examinations of musical behavior and experience , the theoretical and technological advancements of neuroscience have greatly shaped the direction of music psychology into the 21st century . 
+
+¡Ì5.What is the abbreviation of functional magnetic resonance imaging ? 
+No.1---> 4.0    21
+Carl Seashore led this work , producing his The Measurement of Musical Talents and The Psychology of Musical Talent . 
+No.2---> 4.375  37
+Scientists working in this field may have training in cognitive neuroscience , neurology , neuroanatomy , psychology , music theory , computer science , and other allied fields , and use such techniques as functional magnetic resonance imaging -LRB- fMRI -RRB- , transcranial magnetic stimulation -LRB- TMS -RRB- , magnetoencephalography -LRB- MEG -RRB- , electroencephalography -LRB- EEG -RRB- , and positron emission tomography -LRB- PET -RRB- . 
+No.3---> 4.5    4
+Music psychology can shed light on non-psychological aspects of musicology and musical practice . 
+No.4---> 4.667  43
+The importance of cortical regions lateral to A1 for pitch coding is also supported by studies of human cortical lesions and functional magnetic resonance imaging -LRB- fMRI -RRB- of the brain . 
+No.5---> 5.0    0
+Music psychology , or the psychology of music , may be regarded as a branch of both psychology and musicology . 
+
+¡Á6.How did researchers estimate the occurrence of AP to be ? 
+No.1---> 0.0    8
+The study of sound and musical phenomenon prior to the 19th century was focused primarily on the mathematical modelling of pitch and tone . 
+No.2---> 0.0    10
+This view that sound and music could be understood from a purely physical standpoint was echoed by such theorists as Anaxagoras and Boethius . 
+No.3---> 0.0    14
+From this he argued that simple ratios were not enough to account for musical phenomenon and that a perceptual approach was necessary . 
+No.4---> 0.0    16
+Study of topics including vibration , consonance , the harmonic series , and resonance were furthered through the scientific revolution , including work by Galileo , Kepler , Mersenne , and Descartes . 
+No.5---> 0.0    30
+It has also emerged into the public sphere . 
+
+¡Ì7.Who have been shown to have anatomical adaptations that correlate with their training ? 
+No.1---> 1.667  7
+In Europe GÃ©za RÃ©vÃ©sz and Albert Wellek developed a more complex understanding of musical pitch , and in the US the focus shifted to that of music education and the training and development of musical skill . 
+No.2---> 3.0    11
+It is an issue closely related to that of intelligence and IQ , and was pioneered by the work of Carl Seashore . 
+No.3---> 3.333  2
+An important early dissenter was Aristoxenus , who foreshadowed modern music psychology in his view that music could only be understood through human perception and its relation to human memory . 
+No.4---> 3.667  9
+In recent years several bestselling popular science books have helped bring the field into public discussion , notably Daniel Levitin 's This Is Your Brain On Music -LRB- 2006 -RRB- and The World in Six Songs -LRB- 2008 -RRB- , Oliver Sacks ' Musicophilia -LRB- 2007 -RRB- , and Gary Marcus ' Guitar Zero -LRB- 2012 -RRB- . 
+No.5---> 4.0    5
+The first was structuralist psychology , led by Wilhelm Wundt , which sought to break down experience into its smallest definable parts . 
+
+¡Ì8.Who speculated that music may have held an adaptive advantage and functioned as a protolanguage ? 
+No.1---> 0.5	1
+This view that sound and music could be understood from a purely physical standpoint was echoed by such theorists as Anaxagoras and Boethius . 
+No.2---> 2.75	7
+In Europe GÃ©za RÃ©vÃ©sz and Albert Wellek developed a more complex understanding of musical pitch , and in the US the focus shifted to that of music education and the training and development of musical skill . 
+No.3---> 3.25	2
+An important early dissenter was Aristoxenus , who foreshadowed modern music psychology in his view that music could only be understood through human perception and its relation to human memory . 
+No.4---> 3.333	10
+Charles Darwin speculated that music may have held an adaptive advantage and functioned as a protolanguage , a view which has spawned several competing theories of music evolution . 
+No.5---> 3.5	9
+In recent years several bestselling popular science books have helped bring the field into public discussion , notably Daniel Levitin 's This Is Your Brain On Music -LRB- 2006 -RRB- and The World in Six Songs -LRB- 2008 -RRB- , Oliver Sacks ' Musicophilia -LRB- 2007 -RRB- , and Gary Marcus ' Guitar Zero -LRB- 2012 -RRB- . 

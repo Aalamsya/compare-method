@@ -1,0 +1,9 @@
+When was the word "confuse" used in an anonymous brochure printed in New York City?	date
+Where is the first to pass the anti-racism law?	location
+What is miscegenation?	definition
+When did the US Supreme Court uphold the constitutionality of anti-Semitic law in the Alabama case?	date
+When did the California Supreme Court abolish California’s anti-Semitic rule?	date
+How many states were violated by the Supreme Court for racial laws in 1967?	number
+In Brazil, how many people classify themselves as multiracial？	number
+Who wrote the book Echoes from the Orient?	person
+How many marriages in the United States were cross-racial in 2010？	number

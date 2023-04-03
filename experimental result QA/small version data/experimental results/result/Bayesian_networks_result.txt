@@ -1,0 +1,71 @@
+¡Ì1.What are called dynamic Bayesian networks ? 
+No.1---> 0.0    3
+Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called influence diagrams . 
+No.2---> 0.0    8
+One advantage of Bayesian networks is that it is intuitively easier for a human to understand -LRB- a sparse set of -RRB- direct dependencies and local distributions than complete joint distributions . 
+No.3---> 0.0    9
+There are three main inference tasks for Bayesian networks . 
+No.4---> 0.0    47
+Although Bayesian networks are often used to represent causal relationships , this need not be the case : a directed edge from u to v does not require that Xv is causally dependent on Xu . 
+No.5---> 0.0    50
+In 1990 while working at Stanford University on large bioinformatic applications , Greg Cooper proved that exact inference in Bayesian networks is NP-hard . 
+
+¡Ì2.What is one advantage of Bayesian networks ? 
+No.1---> 0.0    3
+Generalizations of Bayesian networks that can represent and solve decision problems under uncertainty are called influence diagrams . 
+No.2---> 0.0    8
+One advantage of Bayesian networks is that it is intuitively easier for a human to understand -LRB- a sparse set of -RRB- direct dependencies and local distributions than complete joint distributions . 
+No.3---> 0.0    9
+There are three main inference tasks for Bayesian networks . 
+No.4---> 0.0    47
+Although Bayesian networks are often used to represent causal relationships , this need not be the case : a directed edge from u to v does not require that Xv is causally dependent on Xu . 
+No.5---> 0.0    50
+In 1990 while working at Stanford University on large bioinformatic applications , Greg Cooper proved that exact inference in Bayesian networks is NP-hard . 
+
+¡Á3.How many main inference tasks are there for Bayesian networks ? 
+No.1---> 0.0    1
+For example , a Bayesian network could represent the probabilistic relationships between diseases and symptoms . 
+No.2---> 0.0    2
+Given symptoms , the network can be used to compute the probabilities of the presence of various diseases . 
+No.3---> 0.0    7
+Also , suppose that the rain has a direct effect on the use of the sprinkler -LRB- namely that when it rains , the sprinkler is usually not turned on -RRB- . 
+No.4---> 0.0    8
+Then the situation can be modeled with a Bayesian network -LRB- shown to the right -RRB- . 
+No.5---> 0.0    9
+All three variables have two possible values , T -LRB- for true -RRB- and F -LRB- for false -RRB- . 
+
+¡Ì4.Why a Bayesian network can be used to answer probabilistic queries about them ? 
+No.1---> 0.0    0
+A Bayesian network , Bayes network , belief network , Bayes -LRB- ian -RRB- model or probabilistic directed acyclic graphical model is a probabilistic graphical model -LRB- a type of statistical model -RRB- that represents a set of random variables and their conditional dependencies via a directed acyclic graph -LRB- DAG -RRB- . 
+No.2---> 0.0    1
+For example , a Bayesian network could represent the probabilistic relationships between diseases and symptoms . 
+No.3---> 0.0    2
+Given symptoms , the network can be used to compute the probabilities of the presence of various diseases . 
+No.4---> 0.0    3
+Efficient algorithms exist that perform inference and learning in Bayesian networks . 
+No.5---> 0.0    4
+Bayesian networks that model sequences of variables -LRB- e.g. speech signals or protein sequences -RRB- are called dynamic Bayesian networks .
+
+¡Á5. What are the most common exact inference methods ? 
+No.1---> 0.0    5
+There are three main inference tasks for Bayesian networks . 
+No.2---> 0.0    7
+This process of computing the posterior distribution of variables given evidence is called probabilistic inference . 
+No.3---> 0.0    14
+In the simplest case , a Bayesian network is specified by an expert and is then used to perform inference . 
+No.4---> 0.0    39
+In 1990 while working at Stanford University on large bioinformatic applications , Greg Cooper proved that exact inference in Bayesian networks is NP-hard . 
+No.5---> 0.0    41
+In 1993 , Paul Dagum and Michael Luby proved two surprising results on the complexity of approximation of probabilistic inference in Bayesian networks . 
+
+¡Ì6.When was the term ` Bayesian networks ' coined by Judea Pearl ? 
+No.1---> 4.5    1
+The basic idea goes back to a recovery algorithm developed by Rebane and Pearl -LRB- 1987 -RRB- and rests on the distinction between the three possible types of adjacent triplets allowed in a directed acyclic graph -LRB- DAG -RRB- : An alternative method of structural learning uses optimization based search . 
+No.2---> 4.5    3
+In 1990 while working at Stanford University on large bioinformatic applications , Greg Cooper proved that exact inference in Bayesian networks is NP-hard . 
+No.3---> 4.5    4
+In 1993 , Paul Dagum and Michael Luby proved two surprising results on the complexity of approximation of probabilistic inference in Bayesian networks . 
+No.4---> 5.0    2
+As previously noted , learning Bayesian networks with bounded treewidth is necessary to allow exact tractable inference , since the worst-case inference complexity is exponential in the treewidth k -LRB- under the exponential time hypothesis -RRB- . 
+No.5---> 5.25   5
+The term `` Bayesian networks '' was coined by Judea Pearl in 1985 to emphasize three aspects : In the late 1980s Judea Pearl 's text Probabilistic Reasoning in Intelligent Systems and Richard E. Neapolitan 's text Probabilistic Reasoning in Expert Systems summarized the properties of Bayesian networks and established Bayesian networks as a field of study . 

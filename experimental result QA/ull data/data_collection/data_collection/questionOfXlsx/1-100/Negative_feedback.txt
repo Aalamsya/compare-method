@@ -1,0 +1,10 @@
+What conditions do negative feedback take place?	definition
+What behaviors lead to instability by positive feedback?	manner
+Who described the "component movement" associated with these governors?	person
+When was the term "feedback" established?	date
+Who put forward the idea of using negative feedback in electronic amplifiers in 1927?	person
+When did Harold Stephen Black submit a patent application?	date
+Who published a paper in 1928 on the stability criteria for AGC and feedback systems based on negative feedback?	person
+What is usually referred to as biochemical processes?	name
+What are the commonly used terms of the points surrounding the system gravitation?	definition
+What does negation mean in control theory?	definition

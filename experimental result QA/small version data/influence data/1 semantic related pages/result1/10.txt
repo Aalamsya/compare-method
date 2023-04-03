@@ -1,0 +1,60 @@
+√1.What is the abbreviation of Artificial intelligence ? 
+
+√2.What does the field of AI research defines itself as ? 
+
+×3.What led directly to Alan Turing 's theory of computation ? 
+
+√4.When was research in the U.S. heavily funded by the Department of Defense ? 
+
+√5.Who agreed that ` within a generation ... the problem of creating ` artificial intelligence ' will substantially be solved ' ? 
+
+×6.How much the market for AI had reached by 1985 ? 
+
+×7.What is the abbreviation of Natural language processing ? 
+
+×8.What is Alan Turing published an article titled ? 
+
+×9.How many Russian sentences the Georgetown experiment involved fully automatic translation of into English ? 
+
+√10.What were some notably successful NLP systems developed in the 1960s ? 
+
+√11.What is the computational meaning of individual words in context ? 
+
+×12.What is the abbreviation of Artificial neural networks ? 
+
+√13.When did Artificial intelligence shifted from high-level to low-level ? 
+
+×14.Who described the use of connectionism to simulate neural processes ? 
+
+×15.How many types of parameters is an ANN typically defined by ? 
+
+√16.What is a knowledge base ? 
+
+√17.What is the definition of a knowledge base ? 
+
+×18.Which were the first knowledge-based systems ? 
+
+×19.When did all large Management Information Systems stored their data in some type of hierarchical or relational database ? 
+
+√20.What was the next evolution for the term knowledge-base ? 
+
+×21.What is meaning of ` fabric , structure ' ? 
+
+×22.What is a simple machine that transforms lateral force and movement of the tool into a transverse splitting force and movement of the workpiece ? 
+
+×23.Who studied the Archimedean simple machines ? 
+
+×24.How many mechanisms does Heron of Alexandria in his work Mechanics lists ? 
+
+√25.What led Archimedes to define the lever , pulley and screw as simple machines ? 
+
+×26.What is the overall goal of the data mining process ? 
+
+×27.What is the short for ` knowledge discovery in databases ' ? 
+
+√28.Who sponsor the First International Conference on Data Mining and Knowledge Discovery -LRB- KDD-95 -RRB- that was started in Montreal ? 
+
+√29.What is the primary research journal of the field ? 
+
+×30.What are early methods of identifying patterns in data ? 
+

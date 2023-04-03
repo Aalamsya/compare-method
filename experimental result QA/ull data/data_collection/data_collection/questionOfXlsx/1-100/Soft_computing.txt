@@ -1,0 +1,5 @@
+What is soft computing?	definition
+What is the difference between soft computing and traditional (hard) Computing?	definition
+What is the role model of soft computing?	definition
+What is the main component of Soft Computing (SC)?	definition
+When did soft computing become a formal research field in computer science?	date

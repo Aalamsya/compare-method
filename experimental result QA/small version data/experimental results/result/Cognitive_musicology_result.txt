@@ -1,0 +1,71 @@
+¡Ì1.What is the goal of cognitive musicology ? 
+No.1---> 2.0    18
+Otto Laske was a champion of cognitive musicology . 
+No.2---> 2.0    36
+For the German-speaking area , Laske 's conception of cognitive musicology has been advanced by Uwe Seifert in his book Systematische Musiktheorie und Kognitionswissenschaft . 
+No.3---> 2.0    38
+The foundation of cognitive musicology '' -RRB- and subsequent publications . 
+No.4---> 2.5    13
+The polymath Christopher Longuet-Higgins , who coined the term `` cognitive science '' , is one of the pioneers of cognitive musicology . 
+No.5---> 2.5    56
+Pitch perception was positively correlated with phonemic awareness and reading abilities in children -LRB- Flaugnacco , 2014 -RRB- . 
+
+¡Á2.How can cognitive musicology be differentiated from other branches ? 
+No.1---> 0.0    9
+For instance , the rhythm is processed and regulated by the left frontal cortex , the left parietal cortex and the right cerebellum standardly . 
+No.2---> 0.0    15
+Among other things , he is noted for the computational implementation of an early key-finding algorithm . 
+No.3---> 0.0    18
+Their approach is based on key-profiles which were painstakingly determined by what has come to be known as the probe-tone technique . 
+No.4---> 0.0    21
+Otto Laske was a champion of cognitive musicology . 
+No.5---> 0.0    29
+Also working in Lisp , Heinrich Taube has explored computer composition from a wide variety of perspectives . 
+
+¡Ì3.Where does brain functioning differs amongst the analysis of different aspects of music ? 
+No.1---> 2.833  0
+Cope 's programs are written in Lisp , which turns out to be a popular language for research in cognitive musicology . 
+No.2---> 2.917  2
+There is evidence that children who take music classes have obtained skills to help them in language acquisition and learning -LRB- Oechslin , 2015 -RRB- , an ability that relies heavily on the dorsal pathway . 
+No.3---> 3.0    3
+Pitch perception was positively correlated with phonemic awareness and reading abilities in children -LRB- Flaugnacco , 2014 -RRB- . 
+No.4---> 3.333  1
+Desain and Honing have exploited Lisp in their efforts to tap the potential of microworld methodology in cognitive musicology research . 
+No.5---> 3.833  4
+The difficulties have been shown to stem from a phonological core deficit that impacts reading comprehension , memory and prediction abilities -LRB- Flaugnacco , 2014 -RRB- .
+
+¡Ì4.Who coined the term ` cognitive science ' ? 
+No.1---> 0.0    1
+The polymath Christopher Longuet-Higgins , who coined the term `` cognitive science '' , is one of the pioneers of cognitive musicology . 
+No.2---> 0.0    13
+Zur Grundlegung der kognitiven Musikwissenschaft -LRB- `` Systematic music theory and cognitive science . 
+No.3---> 1.0    3
+David Temperley , whose early work within the field of cognitive musicology applied dynamic programming to aspects of music cognition , has suggested a number of refinements to the Krumhansl-Schmuckler Key-Finding Algorithm . 
+No.4---> 1.0    4
+The foreword of this book reprints a free-wheeling interview with Marvin Minsky , one of the founding fathers of AI , in which he discusses some of his early writings on music and the mind . 
+No.5---> 1.0    9
+For example , Jamshed Bharucha and Peter Todd have modeled music perception in tonal music with neural networks .  
+
+¡Ì5.What is the abbreviation of the Generative Theory of Tonal Music ? 
+No.1---> 0.0    18
+A collection of papers that he co-edited served to heighten the visibility of cognitive musicology and to strengthen its association with AI and music . 
+No.2---> 0.0    20
+AI researcher turned cognitive scientist Douglas Hofstadter has also contributed a number of ideas pertaining to music from an AI perspective . 
+No.3---> 0.0    33
+Perhaps the most significant contribution to viewing music from a linguistic perspective is the Generative Theory of Tonal Music -LRB- GTTM -RRB- proposed by Fred Lerdahl and Ray Jackendoff . 
+No.4---> 0.0    48
+This illustrates why music is so powerful and can be used in such a myriad of different therapies . 
+No.5---> 0.0    49
+Music that is enjoyable to a person illicit an interesting response that we are all aware of . 
+
+¡Á6.Why people in favor of the Suzuki music education ? 
+No.1---> 0.0    9
+For instance , the rhythm is processed and regulated by the left frontal cortex , the left parietal cortex and the right cerebellum standardly . 
+No.2---> 0.0    15
+Among other things , he is noted for the computational implementation of an early key-finding algorithm . 
+No.3---> 0.0    18
+Their approach is based on key-profiles which were painstakingly determined by what has come to be known as the probe-tone technique . 
+No.4---> 0.0    21
+Otto Laske was a champion of cognitive musicology . 
+No.5---> 0.0    29
+Also working in Lisp , Heinrich Taube has explored computer composition from a wide variety of perspectives . 

@@ -1,0 +1,13 @@
+Scene statistics is a discipline within the field of perception. It is concerned with the statistical regularities related to scenes. It is based on the premise that a perceptual system is designed to interpret scenes.
+
+Biological perceptual systems have evolved in response to physical properties of natural environments. Therefore natural scenes receive a great deal of attention. 
+
+Natural scene statistics are useful for defining the behavior of an ideal observer in a natural task, typically by incorporating signal detection theory, information theory, or estimation theory.
+
+One of the most successful applications of Natural Scenes Statistics Models has been perceptual picture and video quality prediction. For example, the Visual Information Fidelity (VIF) algorithm, which is used to measure the degree of distortion of pictures and videos, is used extensively by the image and video processing communities to assess perceptual quality, often after processing, such as compression, which can degrade the appearance of a visual signal. The premise is that the scene statistics are changed by distortion, and that the visual system is sensitive to the changes in the scene statistics. VIF is heavily used in the streaming television industry. Other popular picture quality models that use natural scene statistics include BRISQUE, and NIQE both of which are no-reference, since they do not require any reference picture to measure quality against.
+
+Geisler distinguishes between four kinds of domains: (1) Physical environments, (2) Images/Scenes, (3) Neural responses, and (4) Behavior.
+
+Within the domain of images/scenes, one can study the characteristics of information related to redundancy and efficient coding.
+
+Across-domain statistics determine how an autonomous system should make inferences about its environment, process information, and control its behavior. To study these statistics, it is necessary to sample or register information in multiple domains simultaneously.

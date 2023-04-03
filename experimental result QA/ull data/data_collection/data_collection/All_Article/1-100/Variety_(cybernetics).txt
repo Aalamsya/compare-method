@@ -1,0 +1,40 @@
+In cybernetics, the term variety denotes the total number of distinct states of a system.
+The term Variety was introduced by W. Ross Ashby to denote the count of the total number of states of a system. The condition for dynamic stability under perturbation (or input) was described by his Law of Requisite Variety. Ashby says:[1]
+
+Thus, if the order of occurrence is ignored, the collection
+c, b, c, a, c, c, a, b, c, b, b, a
+which contains twelve elements, contains only three distinct elements- a, b, c. Such a set will be said to have a variety of three elements.
+
+He adds
+
+The observer and his powers of discrimination may have to be specified if the variety is to be well defined.[2]
+
+Variety can be stated as an integer, as above, or as the logarithm to the base 2 of the number i.e. in bits.
+If a system is to be stable, the number of states of its control mechanism must be greater than or equal to the number of states in the system being controlled. Ashby states the Law as "variety can destroy variety".[4] He sees this as aiding the study of problems in biology and a "wealth of possible applications" . He sees his approach as introductory to Shannon Information Theory (1948) which deals with the case of "incessant fluctuations" or noise. The Requisite Variety condition can be seen as a simple statement of a necessary dynamic equilibrium condition in information theory terms cf. Newton's third law, Le Chatelier's principle.
+
+A system has good Control if and only if the dependent variables remain the same even when the independent variables or the State Function have changed. In a real system this implies that the State Function is a composition of two functions, such that the second is the inverse of ( the possible changes of ) the first:
+
+y = F(G(x)) where
+
+F = controller system's function of state
+
+G = controlled system's function of state
+
+x = inputs, OR, independent variables
+
+y = outputs, OR, dependent variables.
+
+Later, in 1970, Conant working with Ashby produced the good regulator theorem [5] which required autonomous systems to acquire an internal model of their environment to persist and achieve stability (e.g. Nyquist stability criterion) or dynamic equilibrium.
+
+Stafford Beer defines variety as "the total number of possible states of a system, or of an element of a system",[6] cf. Ludwig Boltzmann's Wahrscheinlichkeit. Beer restates the Law of Requisite Variety as "Variety absorbs variety".[7] Stated more simply the logarithmic measure of variety represents the minimum number of choices (by binary chop) needed to resolve uncertainty. Beer used this to allocate the management resources necessary to maintain process viability.
+
+Variety is one of nine requisites that are required by an ethical regulator.
+In general a description of the required inputs and outputs is established then encoded with the minimum variety necessary. The mapping of input bits to output bits can then produce an estimate of the minimum hardware or software components necessary to produce the desired control behaviour; for example, in a piece of computer software or computer hardware.
+
+The cybernetician Frank George discussed the variety of teams competing in games like football or rugby to produce goals or tries. A winning chess player might be said to have more variety than his losing opponent. Here a simple ordering is implied. The attenuation and amplification of variety were major themes in Stafford Beer's work in management [6] (the profession of control, as he called it). The number of staff needed to answer telephones, control crowds or tend to patients are clear examples.
+
+The application of natural and analogue signals to variety analysis require an estimate of Ashby's "powers of discrimination" (see above quote). Given the butterfly effect of dynamical systems care must be taken before quantitative measures can be produced. Small quantities, which might be overlooked, can have big effects. In his Designing Freedom Stafford Beer discusses the patient in a hospital with a temperature denoting fever.[9] Action must be taken immediately to isolate the patient. Here no amount of variety recording the patients' average temperature would detect this small signal which might have a big effect. Monitoring is required on individuals thus amplifying variety (see Algedonic alerts in the viable system model or VSM). Beer's work in management cybernetics and VSM is largely based on variety engineering.
+
+Further applications involving Ashby's view of state counting include the analysis of digital bandwidth requirements, redundancy and software bloat, the bit representation of data types and indexes, analogue to digital conversion, the bounds on finite state machines and data compression. See also, e.g., Excited state, State (computer science), State pattern, State (controls) and Cellular automaton. Requisite Variety can be seen in Chaitin's Algorithmic information theory where a longer, higher variety program or finite state machine produces incompressible output with more variety or information content.
+
+Recently[10] James Lovelock suggested burning and burying carbonized agricultural waste to sequester carbon. A variety calculation requires estimates of global annual agricultural waste production, burial and pyrolysis efficiency to estimate the mass of carbon thus sequestered from the atmosphere.

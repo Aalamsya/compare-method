@@ -1,0 +1,8 @@
+¡Ì1.What is Logic programming largely based on ? 
+¡Á2.What is a non-monotonic logic ? 
+¡Á3.Where does logic programs also have a procedural interpretation as goal-reduction procedures ? 
+¡Á4.Who can also use the known problem-solving behaviour of the execution mechanism to improve the efficiency of programs ? 
+¡Ì5.Who was the first proposal to use the clausal form of logic for representing computer programs ? 
+¡Ì6.Where were advocates of declarative representations notably working at ? 
+¡Á7.Why Planner used a backtracking control structure ? 
+¡Ì8.When was the Association for Logic Programming founded to promote Logic Programming ? 

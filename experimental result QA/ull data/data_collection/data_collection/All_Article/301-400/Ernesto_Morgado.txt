@@ -1,0 +1,21 @@
+Ernesto M. Morgado is Associate Professor of Computer Science and Engineering in Instituto Superior Técnico (Technical University of Lisbon) since 1992. He was one of the people behind the creation of the Computer Science and Engineering degree of Instituto Superior Técnico (Technical University of Lisbon), in 1988, and one of the founders of the Department of Computer Science and Engineering at the same institute in 1998.
+
+He was Lecturer of Computer Science in Millard Fillmore College (State University of New York at Buffalo) in 1980 and Canisius College (1981–1984).
+
+Ernesto M. Morgado is also a software industry entrepreneur. In 1986, together with João Pavão Martins, he founded SISCOG - Sistemas Cognitivos, SA, a start up company devoted to the applications of Artificial Intelligence. Together they led the company to develop and deploy a series of complex software systems in railway and metro companies throughout Europe. These systems plan and manage more than 20,000 people, affect the life of millions of passengers, and have been awarded by several prestigious organisations in Europe and the United States.
+
+Ernesto M. Morgado is also involved in the food industry.
+
+He is president of Ernesto Morgado S.A., a rice huller company founded by his grand father in 1920. Since 2003, he has led the company from a staple food company to a company capable of producing value-added products, namely high-quality ready meals based on rice.
+
+He is president of FERM (Federation of European Rice Millers) since its inception in 2002, president of ANIA (Portuguese Rice Millers Association) since 1990, and vice-president of COTArroz (Portuguese Rice Chain Association) since 2004. At FIPA (Portuguese Food Industry Federation), he is currently, and for the second time, president of the Board (1997–2003 and 2009) and has been in the past the vice-president of its Executive Committee (1990–1997) and presidency of the Control Council (2003–2009).
+He was also a member of CIP (Portuguese Industry Confederation) Council of Presidents (1990–2007).
+
+Ernesto M. Morgado has been awarded a Licentiate degree in Mechanical Engineering (1976) from Instituto Superior Técnico (Technical University of Lisbon) and a Master of Science in Computer Science (1981) and a Ph.D. in Artificial Intelligence (1986) from State University of New York at Buffalo.
+
+Ernesto M. Morgado is also an author and co-author of the following publications:
+
+Semantic Networks as Abstract Data Types, Doctors Thesis, Technical Report 86-19, Department of Computer Science, State University of New York at Buffalo, Set. 1986 (Morgado, E.M.) 
+Meta-Knowledge, -Rules and -Reasoning, Encyclopedia of Artificial Intelligence, S.C. Shapiro (ed.), p. 598-603, John Wiley and Sons, NY, 1987 (Morgado, E.M.)
+EPIA-89 Proceedings, Lecture Notes in Artificial Intelligence, Vol. 390, Heidelberg, West Germany: Springer-Verlag, 1989 (Martins, J.P. and Morgado, E.M.)
+An AI-Based Approach to Crew Scheduling, Proc. IEEE Conference on AI Applications - CAIA 93, 1993 (Martins, J.P. and Morgado, E.M.)

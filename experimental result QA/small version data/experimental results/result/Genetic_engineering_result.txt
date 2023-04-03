@@ -1,0 +1,83 @@
+¡Ì1.What is Genetic engineering also called ? 
+No.1---> 0.0    2
+An organism that is generated through genetic engineering is considered to be a genetically modified organism -LRB- GMO -RRB- . 
+No.2---> 0.0    8
+However the European Commission has also defined genetic engineering broadly as including selective breeding and other means of artificial selection . 
+No.3---> 0.0    13
+Genetic engineering can also be used to remove genetic material from the target organism , creating a gene knockout organism . 
+No.4---> 0.0    24
+In 1976 Genentech , the first genetic engineering company , was founded by Herbert Boyer and Robert Swanson and a year later the company produced a human protein -LRB- somatostatin -RRB- in E.coli . 
+No.5---> 0.0    45
+Genetic engineering is used to mass-produce insulin , human growth hormones , follistim -LRB- for treating infertility -RRB- , human albumin , monoclonal antibodies , antihemophilic factors , vaccines and many other drugs . 
+
+¡Ì2.What is new DNA obtained by ? 
+No.1---> 0.0    2
+New DNA may be inserted in the host genome by first isolating and copying the genetic material of interest using molecular cloning methods to generate a DNA sequence , or by synthesizing the DNA , and then inserting this construct into the host organism . 
+No.2---> 0.0    7
+This involves using recombinant nucleic acid -LRB- DNA or RNA -RRB- techniques to form new combinations of heritable genetic material followed by the incorporation of that material either indirectly through a vector system or directly through micro-injection , macro-injection and micro-encapsulation techniques . 
+No.3---> 0.0    20
+Plasmid DNA containing new genes can be inserted into the bacterial cell and the bacteria will then express those genes . 
+No.4---> 0.0    25
+A year later Rudolf Jaenisch created a transgenic mouse by introducing foreign DNA into its embryo , making it the worldâ€™s first transgenic animal . 
+No.5---> 0.0    38
+If the DNA sequence is known , but no copies of the gene are available , it can be artificially synthesized . 
+
+¡Ì3.When were the first GMOs bacteria generated ? 
+No.1---> 0.0    0
+The first GMOs were bacteria generated in 1973 and GM mice in 1974 . 
+No.2---> 0.0    1
+Insulin-producing bacteria were commercialized in 1982 and genetically modified food has been sold since 1994 . 
+No.3---> 3.0    6
+In 1980 , the U.S. Supreme Court in the Diamond v. Chakrabarty case ruled that genetically altered life could be patented . 
+No.4---> 3.0    7
+The insulin produced by bacteria , branded humulin , was approved for release by the Food and Drug Administration in 1982 . 
+No.5---> 3.0    10
+In 1994 Calgene attained approval to commercially release the Flavr Savr tomato , a tomato engineered to have a longer shelf life . 
+
+¡Ì4.Where agree that genetic modification is synonymous with genetic engineering ? 
+No.1---> 3.0    0
+In Europe genetic modification is synonymous with genetic engineering while within the United States of America it can also refer to conventional breeding methods . 
+No.2---> 3.0    2
+In 1987 , the ice-minus strain of P. syringae became the first genetically modified organism -LRB- GMO -RRB- to be released into the environment when a strawberry field and a potato field in California were sprayed with it . 
+No.3---> 3.0    8
+`` Governing GMOs in the USA : science , law and public health '' . 
+No.4---> 3.5    1
+In 1983 , a biotech company , Advanced Genetic Sciences -LRB- AGS -RRB- applied for U.S. government authorization to perform field tests with the ice-minus strain of P. syringae to protect crops from frost , but environmental groups and protestors delayed the field tests for four years with legal challenges . 
+No.5---> 4.0    7
+GMOs also are involved in controversies over GM food with respect to whether food produced from GM crops is safe , whether it should be labeled , and whether GM crops are needed to address the world 's food needs . 
+
+¡Ì5.Who was the term ` genetic engineering ' first coined by ? 
+No.1---> 0.0    0
+In 1976 Genentech , the first genetic engineering company , was founded by Herbert Boyer and Robert Swanson and a year later the company produced a human protein -LRB- somatostatin -RRB- in E.coli . 
+No.2---> 2.0    4
+Gene therapy is the genetic engineering of humans , generally by replacing defective genes with effective ones . 
+No.3---> 3.0    1
+In 1980 , the U.S. Supreme Court in the Diamond v. Chakrabarty case ruled that genetically altered life could be patented . 
+No.4---> 3.0    6
+Gene flow into related non-transgenic crops , off target effects on beneficial organisms and the impact on biodiversity are important environmental issues . 
+No.5---> 4.0    2
+In 1987 , the ice-minus strain of P. syringae became the first genetically modified organism -LRB- GMO -RRB- to be released into the environment when a strawberry field and a potato field in California were sprayed with it .
+
+¡Ì6.What is another transformation method for plant and animal cells ? 
+No.1---> 0.0    36
+DNA is generally inserted into animal cells using microinjection , where it can be injected through the cell 's nuclear envelope directly into the nucleus or through the use of viral vectors . 
+No.2---> 0.0    41
+Another transformation method for plant and animal cells is electroporation . 
+No.3---> 2.0    21
+The genetically modified animals include animals with genes knocked out , increased susceptibility to disease , hormones for extra growth and the ability to express proteins in their milk . 
+No.4---> 2.0    34
+The selectable marker , which in most cases confers antibiotic resistance to the organism it is expressed in , is needed to determine which cells are transformed with the new gene . 
+No.5---> 2.0    37
+This plasmid is transformed into Agrobacterium containing no plasmids prior to infecting the plant cells . 
+
+¡Á7.How many families of engineered nucleases are there currently ? 
+No.1---> 0.0    2
+New DNA may be inserted in the host genome by first isolating and copying the genetic material of interest using molecular cloning methods to generate a DNA sequence , or by synthesizing the DNA , and then inserting this construct into the host organism . 
+No.2---> 0.0    3
+Genes may be removed , or `` knocked out '' , using a nuclease . 
+No.3---> 0.0    4
+Gene targeting is a different technique that uses homologous recombination to change an endogenous gene , and can be used to delete a gene , remove exons , add a gene , or introduce point mutations . 
+No.4---> 0.0    6
+The first GMOs were bacteria generated in 1973 and GM mice in 1974 . 
+No.5---> 0.0    7
+Insulin-producing bacteria were commercialized in 1982 and genetically modified food has been sold since 1994 .  

@@ -1,0 +1,11 @@
+Preferential looking is an experimental method in developmental psychology used to gain insight into the young mind/brain. The method as used today was developed by the developmental psychologist Robert L. Fantz in the 1960s.
+
+In a preferential looking experiment, an infant is habituated to some stimulus or other—a visual display of interacting objects, for example. Then the infant is shown a second stimulus that differs from the first in a specific manner. If the average infant looks longer at the second stimulus, this suggests that the infant can discriminate between the stimuli. This method has been used extensively in cognitive science and developmental psychology to assess the character of infant's perceptual systems, and, by extension, innate cognitive faculties.
+
+Conclusions have been drawn from preferential looking experiments about the knowledge that infants possess. For example, if infants discriminate between rule-following and rule-violating stimuli—say, by looking longer, on average, at the latter than the former—then it has sometimes been concluded that infants know the rule.
+
+Here is an example: 100 infants are shown an object that appears to teleport, violating the rule that objects move in continuous paths. Another 100 similar infants are shown an object that behaves in a nearly identical manner to the object from group 1, except that this object does not teleport. If the former stimulus induces longer looking times than the latter, then, so the argument goes, infants expect that objects obey the continuity rule, and are surprised when they violate this rule. Some researchers have suggested, of some such experiments, that infants have innate knowledge of those rules the violation of which they can perceptually discriminate.
+
+Common criticisms of this innateness thesis include that the infant has already acquired enough experience of non-teleporting objects to justify its surprise, and that teleporting objects are attention-grabbing for reasons other than expectancy violation.
+
+Findings from preferential looking experiments have suggested that humans innately possess sets of beliefs about how objects interact ("folk physics" or "folk mechanics") and about how animate beings interact ("folk psychology").

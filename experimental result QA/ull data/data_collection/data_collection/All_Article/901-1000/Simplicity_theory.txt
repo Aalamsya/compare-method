@@ -1,0 +1,9 @@
+Simplicity theory is a cognitive theory that seeks to explain the attractiveness of situations or events to human minds. It is based on work done by scientists like Nick Chater, Paul Vitanyi, Jean-Louis Dessalles, and Jürgen Schmidhuber. It claims that interesting situations appear simpler than expected to the observer.
+
+Technically, simplicity corresponds in a drop in Kolmogorov complexity, which means that, for an observer, the shortest description of the situation is shorter than anticipated. For instance, the description of a consecutive lottery draw, such as 22-23-24-25-26-27, is significantly shorter than a typical one, such as 12-22-27-37-38-42. The former requires only one instantiation (choice of a number among all possible numbers in the lottery), whereas the latter requires six instantiations.
+
+Simplicity theory makes several quantitative predictions concerning the way distance, recency, prominence (places, individuals), or atypicality influence interestingness.
+
+Simplicity theory avoids most criticisms addressed at Kolmogorov complexity by considering only descriptions that are available to a given observer (instead of any imaginable description). This amounts to saying that complexity, and thus unexpectedness, are observer-dependent. For instance, the typical draw will appear very simple, even simpler than the consecutive one, to the person who played that combination.
+
+The advantage of this formula is that subjective probability can be assessed without necessarily knowing the alternatives. Classical approaches to probability would consider all situations in the world as having virtually zero probability to have occurred, as each situation is complex and unique. Simplicity theory avoids this trap by considering that subjective improbability is only due to complexity drop.

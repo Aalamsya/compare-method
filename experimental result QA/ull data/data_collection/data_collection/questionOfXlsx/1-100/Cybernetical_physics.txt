@@ -1,0 +1,10 @@
+What is Cybernetical physics?	definition
+When did chaos control and quantum control come into being?	date
+When did Edward Ott, Celso Grebogi, and James Yorke of the University of Maryland publish a paper in Physical Review Letters?	date
+By 2003, how many times have papers been cited in Ott, Grebogi and Yorke？	number
+What is the first area of control thought?	name
+Who won the Nobel prize in chemistry in 1999?	person
+What models do all the formal descriptions of control problems start with?	definition
+What is the most common and simplest control objective?	nnp
+Why synchronization is different from model reference control problem？	reason
+What is the basis of cybernetics?	definition

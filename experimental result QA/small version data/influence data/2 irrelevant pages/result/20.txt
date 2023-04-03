@@ -1,0 +1,390 @@
+√1.How can information systems prevent data loss or restore lost data ? 
+
+No.1---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+No.2---> 0.0	7
+Similarly , using a journaling file system and RAID storage only protect against certain types of software and hardware failure . 
+No.3---> 0.0	8
+For hard disk drives , which are a physical storage medium , ensuring minimal vibration and movement will help protect against damaging the components internally , as can maintaining a suitable drive temperature . 
+No.4---> 0.0	13
+File system corruption can frequently be repaired by the user or the system administrator . 
+No.5---> 0.0	14
+For example , a deleted file is typically not immediately overwritten on disk , but more often simply has its entry deleted from the file system index . 
+
+√2.What is data loss ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+√3.How is data loss distinguished from data unavailability ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+
+√4.What is the definition of regular data backups ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+×5.What can the frequency of data loss and the impact be greatly mitigated ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures .
+
+×6.What are sometimes called ` hard science ' ? 
+
+No.1---> 0.0	3
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.2---> 0.0	6
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.3---> 0.0	47
+As a field of natural science , it is relatively young but stand-alone programs offer specializations in the subject . 
+No.4---> 0.0	89
+Specific practical discoveries , useful and impressive as they may be , neither qualify as science nor do they succeed in establishing a paradigm . 
+No.5---> 0.0	92
+A recent interpretation of Parmenides presents evidence that he was the first philosopher who proposed a method for doing natural science . 
+
+√7.How many main branches can natural science be divided into ? 
+
+No.1---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.2---> 0.0	4
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.3---> 0.0	7
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.4---> 0.0	10
+The scale of study can range from sub-component biophysics up to complex ecologies . 
+No.5---> 0.0	14
+Once scientists discovered commonalities between all living things , it was decided they were best studied as a whole . 
+
+×8.Whose controversial falsifiability criterion helps differentiate scientific endeavors ? 
+
+No.1---> 0.0	0
+Natural science is a branch of science concerned with the description , prediction , and understanding of natural phenomena , based on observational and empirical evidence . 
+No.2---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.3---> 0.0	2
+Natural science can be divided into two main branches : life science -LRB- or biological science -RRB- and physical science . 
+No.4---> 0.0	3
+Physical science is subdivided into branches , including physics , astronomy , chemistry , and Earth science . 
+No.5---> 0.0	4
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+
+√9.When did biology became a unified science ? 
+
+No.1---> 1.5	1
+However , it was not until the 19th century that biology became a unified science . 
+No.2---> 1.5	16
+Aristotle 's works were influential through the 16th century , and he is considered to be the father of biology for his pioneering work in that science . 
+No.3---> 1.5	28
+In the centuries up through the end of the Middle Ages , natural science was often mingled with philosophies about magic and the occult . 
+No.4---> 1.5	29
+Although some later Christian philosophers , including Aquinas , came to see natural science as a means of interpreting scripture , this suspicion persisted until the 12th and 13th centuries . 
+No.5---> 1.5	45
+By the 19th century , the study of science had come into the purview of professionals and institutions . 
+
+×10.What is often called ` the central science ' ? 
+
+No.1---> 0.0	3
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.2---> 0.0	6
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.3---> 0.0	47
+As a field of natural science , it is relatively young but stand-alone programs offer specializations in the subject . 
+No.4---> 0.0	89
+Specific practical discoveries , useful and impressive as they may be , neither qualify as science nor do they succeed in establishing a paradigm . 
+No.5---> 0.0	92
+A recent interpretation of Parmenides presents evidence that he was the first philosopher who proposed a method for doing natural science . 
+
+√11.Why is physics regarded as the fundamental science ? 
+
+No.1---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.2---> 0.0	10
+The scale of study can range from sub-component biophysics up to complex ecologies . 
+No.3---> 0.0	14
+Once scientists discovered commonalities between all living things , it was decided they were best studied as a whole . 
+No.4---> 0.0	20
+The composition , statistical properties , transformations and reactions of these materials are studied . 
+No.5---> 0.0	41
+A key factor was Galileo 's introduction of the telescope to examine the night sky in more detail . 
+
+√12.What is the scope of veterinary medicine ? 
+
+No.1---> 0.0	2
+Veterinary medicine is widely practiced , both with and without professional supervision . 
+No.2---> 0.0	21
+In 1879 , Iowa Agricultural College became the first land grant college to establish a school of veterinary medicine . 
+No.3---> 0.0	29
+A number of professions exist within the scope of veterinary medicine , but which may not necessarily be performed by vets or veterinary nurses . 
+No.4---> 1.0	23
+This role is the equivalent of a doctor in human medicine , and usually involves post-graduate study and qualification . 
+No.5---> 1.0	25
+Most vets work in clinical settings , treating animals directly . 
+
+√13.Who is the first Buddhist Emperor of India ? 
+
+No.1---> 0.0	0
+-LRB- See also Shalihotra -RRB- -LRB- Buddhism -RRB- First Buddhist Emperor of India edicts of Asoka reads : `` Everywhere King Piyadasi -LRB- Asoka -RRB- made two kinds of medicine -LRB-RRB- available , medicine for people and medicine for animals . 
+No.2---> 0.0	1
+Meanwhile , Carlo Ruini 's book Anatomia del Cavallo , -LRB- Anatomy of the Horse -RRB- was published in 1598 . 
+No.3---> 0.0	2
+According to Lupton , after observing the devastation being caused by cattle plague to the French herds , Bourgelat devoted his time to seeking out a remedy . 
+No.4---> 0.0	3
+A 1785 Society meeting resolved to `` promote the study of Farriery upon rational scientific principles.The physician James Clark wrote a treatise entitled Prevention of Disease in which he argued for the professionalization of the veterinary trade , and the establishment of veterinary colleges . 
+No.5---> 0.0	4
+Veterinary science came of age in the late 19th century , with notable contributions from Sir John McFadyean , credited by many as having been the founder of modern Veterinary research . 
+
+×14.When did farriers combined their work in horseshoeing with ` horse doctoring ' ? 
+
+No.1---> 0.0	2
+This ultimately led to the establishment of the Worshipful Company of Farriers in 1674 . 
+No.2---> 1.5	1
+In 1356 , the Lord Mayor of London , concerned at the poor standard of care given to horses in the city , requested that all farriers operating within a seven-mile radius of the City of London form a `` fellowship '' to regulate and improve their practices . 
+No.3---> 5.0	5
+The Odiham Agricultural Society was founded in 1783 in England to promote agriculture and industry , and played an important role in the foundation of the veterinary profession in Britain . 
+No.4---> 5.0	8
+In 1879 , Iowa Agricultural College became the first land grant college to establish a school of veterinary medicine . 
+No.5---> 5.0	9
+Current debates within the profession include the ethics of purely cosmetic procedures on animals , such as declawing of cats , docking of tails , cropping of ears and debarking on dogs . 
+
+√15.What is the name of the first comprehensive treatise on the anatomy of a nonhuman species ? 
+
+No.1---> 2.0	14
+Meanwhile , Carlo Ruini 's book Anatomia del Cavallo , -LRB- Anatomy of the Horse -RRB- was published in 1598 . 
+No.2---> 2.0	15
+It was the first comprehensive treatise on the anatomy of a non-human species . 
+No.3---> 2.25	52
+At a higher level , anatomy and physiology looks at the internal structures , and their functions , of an organism , while ecology looks at how various organisms interrelate . 
+No.4---> 2.5	94
+As the marine ecosystem is very large and diverse , marine biology is further divided into many subfields , including specializations in particular species . 
+No.5---> 2.75	1
+The scope of veterinary medicine is wide , covering all animal species , both domesticated and wild , with a wide range of conditions which can affect different species . 
+
+√16.What is the computer science study of ? 
+
+No.1---> 0.0	2
+An alternate , more succinct definition of computer science is the study of automating algorithmic processes that scale . 
+No.2---> 0.0	7
+The earliest foundations of what would become computer science predate the invention of the modern digital computer . 
+No.3---> 0.0	16
+Computer science began to be established as a distinct academic discipline in the 1950s and early 1960s . 
+No.4---> 0.0	18
+The first computer science degree program in the United States was formed at Purdue University in 1962 . 
+No.5---> 0.0	22
+During the late 1950s , the computer science discipline was very much in its developmental stages , and such issues were commonplace . 
+
+√17.When did Gottfried Leibniz demonstrate a digital mechanical calculator ? 
+
+No.1---> 0.0	0
+In 1820 , Thomas de Colmar launched the mechanical calculator industry 1 -RSB- when he released his simplified arithmometer , which was the first calculating machine strong enough and reliable enough to be used daily in an office environment . 
+No.2---> 0.0	1
+Charles Babbage started the design of the first automatic mechanical calculator , his Difference Engine , in 1822 , which eventually gave him the idea of the first programmable mechanical calculator , his Analytical Engine . 
+No.3---> 0.0	2
+Around 1885 , Herman Hollerith invented the tabulator , which used punched cards to process statistical information ; eventually his company became part of IBM . 
+No.4---> 0.0	3
+In 1937 , one hundred years after Babbage 's impossible dream , Howard Aiken convinced IBM , which was making all kinds of punched card equipment and was also in the calculator business to develop his giant programmable calculator , the ASCC/Harvard Mark I , based on Babbage 's Analytical Engine , which itself used cards and a central computing unit . 
+No.5---> 0.0	4
+During the 1940s , as new and more powerful computing machines were developed , the term computer came to refer to the machines rather than their human predecessors . 
+
+×18.Who launched the mechanical calculator industry in 1820 ? 
+
+No.1---> 3.0	5
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.2---> 3.0	27
+Gundissalinus defined natural science as `` the science considering only things unabstracted and with motion , '' as opposed to mathematics and sciences that rely on mathematics . 
+No.3---> 3.0	29
+Robert Kilwardby wrote On the Order of the Sciences in the 13th century that classed medicine as a mechanical science , along with agriculture , hunting and theater while defining natural science as the science that deals with bodies in motion . 
+No.4---> 3.0	33
+Although some later Christian philosophers , including Aquinas , came to see natural science as a means of interpreting scripture , this suspicion persisted until the 12th and 13th centuries . 
+No.5---> 3.0	34
+Aquinas and Albertus Magnus , another Catholic theologian of the era , sought to distance theology from science in their works . 
+
+
+×19.When did computer science began to be established as a distinct academic discipline ? 
+
+No.1---> 2.667	35
+Robert Kilwardby wrote On the Order of the Sciences in the 13th century that classed medicine as a mechanical science , along with agriculture , hunting and theater while defining natural science as the science that deals with bodies in motion . 
+No.2---> 3.0	4
+This resulted in his founding a veterinary college in Lyon in 1761 , from which establishment he dispatched students to combat the disease ; in a short time , the plague was stayed and the health of stock restored , through the assistance rendered to agriculture by veterinary science and art . '' 
+No.3---> 3.0	5
+The Odiham Agricultural Society was founded in 1783 in England to promote agriculture and industry , and played an important role in the foundation of the veterinary profession in Britain . 
+No.4---> 3.0	8
+In 1879 , Iowa Agricultural College became the first land grant college to establish a school of veterinary medicine . 
+No.5---> 3.0	19
+Many of the most pressing scientific problems that are faced today are due to the limitations of the materials that are available and , as a result , breakthroughs in this field are likely to have a significant impact on the future of technology . 
+
+×20.What branch is synthetic biology from ? 
+
+No.1---> 0.0	161
+Modern biology is divided into subdisciplines by the type of organism and by the scale being studied . 
+No.2---> 1.0	162
+Molecular biology is the study of the fundamental chemistry of life , while cellular biology is the examination of the cell ; the basic building block of all life . 
+No.3---> 1.0	199
+Likewise chemistry is represented by such fields as biochemistry , chemical biology , geochemistry and astrochemistry . 
+No.4---> 1.0	200
+A particular example of a scientific discipline that draws upon multiple natural sciences is environmental science . 
+No.5---> 1.0	229
+A healthy life was the result of a balance among these humors . 
+
+×21.Who portrayed synthetic biology as a new emerging scientific field where ICT ? 
+
+No.1---> 1.5	29
+Aristotle 's works were influential through the 16th century , and he is considered to be the father of biology for his pioneering work in that science . 
+No.2---> 2.0	15
+Meanwhile , Carlo Ruini 's book Anatomia del Cavallo , -LRB- Anatomy of the Horse -RRB- was published in 1598 . 
+No.3---> 2.333	40
+Gundissalinus also proposed his own classification of the natural sciences in his 1150 work On the Division of Philosophy . 
+No.4---> 2.4	20
+Some key developments in biology were the discovery of genetics ; Darwin 's theory of evolution through natural selection ; the germ theory of disease and the application of the techniques of chemistry and physics at the level of the cell or organic molecule . 
+No.5---> 2.5	63
+Faraday proposed that forces in nature operated in `` fields '' that filled space . 
+
+×22.What is the purpose of synthetic biology ? 
+
+No.1---> 0.0	161
+Modern biology is divided into subdisciplines by the type of organism and by the scale being studied . 
+No.2---> 1.0	162
+Molecular biology is the study of the fundamental chemistry of life , while cellular biology is the examination of the cell ; the basic building block of all life . 
+No.3---> 1.0	199
+Likewise chemistry is represented by such fields as biochemistry , chemical biology , geochemistry and astrochemistry . 
+No.4---> 1.0	200
+A particular example of a scientific discipline that draws upon multiple natural sciences is environmental science . 
+No.5---> 1.0	229
+A healthy life was the result of a balance among these humors . 
+
+×23.When did George M. Church encoded one of his books about synthetic biology in DNA ? 
+
+No.1---> 1.5	31
+However , it was not until the 19th century that biology became a unified science . 
+No.2---> 1.5	46
+Aristotle 's works were influential through the 16th century , and he is considered to be the father of biology for his pioneering work in that science . 
+No.3---> 2.0	23
+Meanwhile , Carlo Ruini 's book Anatomia del Cavallo , -LRB- Anatomy of the Horse -RRB- was published in 1598 . 
+No.4---> 2.0	30
+The biological fields of botany , zoology , and medicine date back to early periods of civilization , while microbiology was introduced in the 17th century with the invention of the microscope . 
+No.5---> 2.143	77
+Today , natural sciences are more commonly divided into life sciences , such as botany and zoology ; and physical sciences , which include physics , chemistry , geology , astronomy and materials science . 
+
+×24.How many times were able to exchange the bacteria in the culture media ? 
+
+No.1---> 0.0	5
+Some fields , such as computational complexity theory -LRB- which explores the fundamental properties of computational and intractable problems -RRB- , are highly abstract , while fields such as computer graphics emphasize real-world visual applications . 
+No.2---> 0.0	6
+Other fields still focus on challenges in implementing computation . 
+No.3---> 0.0	10
+Machines for calculating fixed numerical tasks such as the abacus have existed since antiquity , aiding in computations such as multiplication and division . 
+No.4---> 0.0	12
+Wilhelm Schickard designed and constructed the working mechanical calculators in 1623 . 
+No.5---> 0.0	13
+In 1673 , Gottfried Leibniz demonstrated the digital mechanical calculators , called the Stepped Reckoner . 
+
+×25.What may be regarded as a branch of both psychology and musicology ? 
+
+No.1---> 2.0	6
+Humancomputer interaction considers the challenges in making computers and computations useful , usable , and universally accessible to humans . 
+No.2---> 2.0	78
+, and the question remains effectively unanswered although the Turing test is still used to assess computer output on the scale of human intelligence . 
+No.3---> 2.0	90
+In practical use , it is typically the application of computer simulation and other forms of computation to problems in various scientific disciplines . 
+No.4---> 2.5	55
+Theoretical Computer Science is mathematical and abstract in spirit , but it derives its motivation from practical and everyday computation . 
+No.5---> 2.5	233
+Natural phenomena such as earthquakes and eclipses were explained increasingly in the context of nature itself instead of being attributed to angry gods . 
+
+×26.Whose establishment of the simple string length ratios that formed the consonances of the octave ? 
+
+No.1---> 0.0	5
+Some fields , such as computational complexity theory -LRB- which explores the fundamental properties of computational and intractable problems -RRB- , are highly abstract , while fields such as computer graphics emphasize real-world visual applications . 
+No.2---> 0.0	6
+Other fields still focus on challenges in implementing computation . 
+No.3---> 0.0	10
+Machines for calculating fixed numerical tasks such as the abacus have existed since antiquity , aiding in computations such as multiplication and division . 
+No.4---> 0.0	12
+Wilhelm Schickard designed and constructed the working mechanical calculators in 1623 . 
+No.5---> 0.0	13
+In 1673 , Gottfried Leibniz demonstrated the digital mechanical calculators , called the Stepped Reckoner . 
+
+×27.When has music psychology expanded to cover a wide array of theoretical and applied areas ? 
+
+No.1---> 2.667	33
+While the origins of the study of celestial features and phenomena can be traced back to antiquity , the scientific methodology of this field began to develop in the middle of the 17th century . 
+No.2---> 3.0	52
+By the 12th century , Western European scholars and philosophers came into contact with a body of knowledge of which they had previously been ignorant : a large corpus of works in Greek and Arabic that were preserved by Islamic scholars . 
+No.3---> 3.0	58
+In the centuries up through the end of the Middle Ages , natural science was often mingled with philosophies about magic and the occult . 
+No.4---> 3.0	59
+Although some later Christian philosophers , including Aquinas , came to see natural science as a means of interpreting scripture , this suspicion persisted until the 12th and 13th centuries . 
+No.5---> 3.0	61
+`` I do n't see what one 's interpretation of Aristotle has to do with the teaching of the faith , '' he wrote in 1271 . 
+
+×28.What is the abbreviation of functional magnetic resonance imaging ? 
+
+No.1---> 2.0	252
+Aristotle 's works on natural philosophy continued to be translated and studied amid the rise of the Byzantine Empire and Islam in the Middle East . 
+No.2---> 2.0	255
+Aristotle 's works and other Greek natural philosophy did not reach the West until about the middle of the 12th century , when works were translated from Greek and Arabic into Latin . 
+No.3---> 2.0	259
+Through translation into Latin , Western Europe was introduced to Aristotle and his natural philosophy . 
+No.4---> 2.0	260
+A 1210 decree from the Synod of Paris ordered that `` no lectures are to be held in Paris either publicly or privately using Aristotle 's books on natural philosophy or the commentaries , and we forbid all this under pain of excommunication . '' 
+No.5---> 2.0	274
+Natural philosophy appeared in a wide range of forms , from treatises to encyclopedias to commentaries on Aristotle . 
+
+×29.How did researchers estimate the occurrence of AP to be ? 
+
+No.1---> 0.0	0
+Computer science is the study of the theory , experimentation , and engineering that form the basis for the design and use of computers . 
+No.2---> 0.0	1
+It is the scientific and practical approach to computation and its applications and the systematic study of the feasibility , structure , expression , and mechanization of the methodical procedures -LRB- or algorithms -RRB- that underlie the acquisition , representation , processing , storage , communication of , and access to information . 
+No.3---> 0.0	2
+An alternate , more succinct definition of computer science is the study of automating algorithmic processes that scale . 
+No.4---> 0.0	3
+A computer scientist specializes in the theory of computation and the design of computational systems . 
+No.5---> 0.0	4
+Its fields can be divided into a variety of theoretical and practical disciplines . 
+
+×30.Who speculated that music may have held an adaptive advantage and functioned as a protolanguage ? 
+
+No.1---> 0.0	0
+In 1820 , Thomas de Colmar launched the mechanical calculator industry 1 -RSB- when he released his simplified arithmometer , which was the first calculating machine strong enough and reliable enough to be used daily in an office environment . 
+No.2---> 0.0	1
+Charles Babbage started the design of the first automatic mechanical calculator , his Difference Engine , in 1822 , which eventually gave him the idea of the first programmable mechanical calculator , his Analytical Engine . 
+No.3---> 0.0	2
+Around 1885 , Herman Hollerith invented the tabulator , which used punched cards to process statistical information ; eventually his company became part of IBM . 
+No.4---> 0.0	3
+In 1937 , one hundred years after Babbage 's impossible dream , Howard Aiken convinced IBM , which was making all kinds of punched card equipment and was also in the calculator business to develop his giant programmable calculator , the ASCC/Harvard Mark I , based on Babbage 's Analytical Engine , which itself used cards and a central computing unit . 
+No.5---> 0.0	4
+Although first proposed in 1956 , the term `` computer science '' appears in a 1959 article in Communications of the ACM , in which Louis Fein argues for the creation of a Graduate School in Computer Sciences analogous to the creation of Harvard Business School in 1921 , justifying the name by arguing that , like management science , the subject is applied and interdisciplinary in nature , while having the characteristics typical of an academic discipline . 

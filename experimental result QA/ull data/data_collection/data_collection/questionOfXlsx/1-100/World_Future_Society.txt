@@ -1,0 +1,5 @@
+When was the WFS set up?	date
+How many members did the World Future Society have by 1970?	number
+When did the world's future society host the annual summit, forums and events?	date
+When did WWF members set up the first postgraduate courses in future research at the University of Houston?	date
+Where did the WWF set up the first batch of future research graduate courses in 1976?	location

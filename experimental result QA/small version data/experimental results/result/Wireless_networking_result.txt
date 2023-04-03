@@ -1,0 +1,67 @@
+¡Á1.What is the definition of a wireless network ? 
+No.1---> 3.0    28
+WLANs help save the cost of installation of cable mediums , save time from physical installation , and also creates mobility for devices connected to the network . 
+No.2---> 4.0    1
+Wireless telecommunications networks are generally implemented and administered using radio communication . 
+No.3---> 4.0    2
+This implementation takes place at the physical level -LRB- layer -RRB- of the OSI model network structure . 
+No.4---> 4.0    3
+Examples of wireless networks include cell phone networks , Wireless local area networks -LRB- WLANs -RRB- , wireless sensor networks , satellite communication networks , and terrestrial microwave networks . 
+No.5---> 4.0    10
+Other configurations are mesh systems where each access point acts as a relay also . 
+
+¡Á2.Where does wireless telecommunications networks ` simplement and administration in the OSI ? 
+No.1---> 3.333  0
+Space networks are networks used for communication between spacecraft , usually in the vicinity of the Earth . 
+No.2---> 3.556  2
+no reason why schools and others should not use WiFi equipment.â€ In October 2007 , the HPA launched a new â€œsystematicâ€ study into the effects of WiFi networks on behalf of the UK government , in order to calm fears that had appeared in the media in a recent period up to that time '' . 
+No.3---> 4.333  1
+The position of the United Kingdom 's Health Protection Agency -LRB- HPA -RRB- is that â€ . 
+
+¡Ì3.What is the short for wireless local area networks ? 
+No.1---> 4.0    4
+Wireless personal area networks -LRB- WPANs -RRB- interconnect devices within a relatively small area , that is generally within a person 's reach . 
+No.2---> 4.0    6
+A wireless local area network -LRB- WLAN -RRB- links two or more devices over a short distance using a wireless distribution method , usually providing a connection through an access point for internet access . 
+No.3---> 4.0    7
+The use of spread-spectrum or OFDM technologies may allow users to move around within a local coverage area , and still remain connected to the network . 
+No.4---> 4.0    10
+Wireless metropolitan area networks are a type of wireless network that connects several wireless LANs . 
+No.5---> 4.0    11
+Wireless wide area networks are wireless networks that typically cover large areas , such as between neighbouring towns and cities , or city and suburb . 
+
+¡Á4.How far are terrestrial microwave 's relay stations spaced apart ? 
+No.1---> 0.0    0
+A wireless network is any type of computer network that uses wireless data connections for connecting network nodes Wireless networking is a method by which homes , telecommunications networks and enterprise -LRB- business -RRB- installations avoid the costly process of introducing cables into a building , or as a connection between various equipment locations . 
+No.2---> 0.0    1
+Wireless telecommunications networks are generally implemented and administered using radio communication . 
+No.3---> 0.0    2
+This implementation takes place at the physical level -LRB- layer -RRB- of the OSI model network structure . 
+No.4---> 0.0    3
+Examples of wireless networks include cell phone networks , Wireless local area networks -LRB- WLANs -RRB- , wireless sensor networks , satellite communication networks , and terrestrial microwave networks . 
+No.5---> 0.0    4
+The first professional wireless network was developed under the brand ALOHAnet in 1969 at the university of Hawaii . 
+
+¡Á5.What defines a common flavor of open-standards wireless radio-wave technology known as Wifi ? 
+No.1---> 0.0    19
+Each wireless technology is defined by a standard that describes unique functions at both the Physical and the Data Link layers of the OSI model . 
+No.2---> 0.0    21
+The use of this technology also gives room for expansions , such as from 2G to 3G and , most recently , 4G technology , which stands for the fourth generation of cell phone mobile communications standards . 
+No.3---> 0.0    25
+This technology allows for an alternative to installing physical network mediums such as TPs , coaxes , or fiber-optics , which can also be expensive . 
+No.4---> 0.0    26
+For homeowners , wireless technology is an effective option compared to Ethernet for sharing printers , scanners , and high-speed Internet connections . 
+No.5---> 1.0    1
+Wireless telecommunications networks are generally implemented and administered using radio communication . 
+
+¡Á6.How many major systems is the GSM network divided into ? 
+No.1---> 0.0    4
+The first professional wireless network was developed under the brand ALOHAnet in 1969 at the university of Hawaii . 
+No.2---> 0.0    5
+It became operational in June , 1971 . 
+No.3---> 0.0    6
+The first commercial wireless network was the WaveLAN product famliy , developed by NCR in 1986 . 
+No.4---> 0.0    9
+ZigBee also supports WPAN applications . 
+No.5---> 0.0    10
+Wi-Fi PANs are becoming commonplace -LRB- 2010 -RRB- as equipment designers start to integrate Wi-Fi into a variety of consumer electronic devices . 

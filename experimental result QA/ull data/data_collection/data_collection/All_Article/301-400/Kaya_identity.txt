@@ -1,0 +1,15 @@
+The Kaya identity is an identity stating that the total emission level of the greenhouse gas carbon dioxide can be expressed as the product of four factors: human population, GDP per capita, energy intensity (per unit of GDP), and carbon intensity (emissions per unit of energy consumed). It is a concrete form of the more general I = PAT equation relating factors that determine the level of human impact on climate. The Kaya identity is both simple and tricky, as it can be reduced to only two terms, but it is developed so that the carbon emission calculation becomes easy, as per the available data, or generally in which format the data is available.
+
+The Kaya identity was developed by Japanese energy economist Yoichi Kaya. It is the subject of his book Environment, Energy, and Economy: strategies for sustainability co-authored with Keiichi Yokobori as the output of the Conference on Global Environment, Energy, and Economic Development (1993 : Tokyo, Japan).
+
+The Kaya identity plays a core role in the development of future emissions scenarios in the IPCC Special Report on Emissions Scenarios. The scenarios set out a range of assumed conditions for future development of each of the four inputs. Population growth projections are available independently from demographic research; GDP per capita trends are available from economic statistics and econometrics; similarly for energy intensity and emission levels. The projected carbon emissions can drive carbon cycle and climate models to predict future CO2 concentration and climate change.
+
+The Kaya identity is reviewed in a 2002 paper. 
+
+A 2007 article uses the Kaya Identity in its analysis of recent trends in carbon emissions, and finds:
+
+ cessation or reversal of earlier declining trends in the energy intensity of gross domestic product (GDP) (energy/GDP) and the carbon intensity of energy (emissions/energy), coupled with continuing increases in population and per-capita GDP. Nearly constant or slightly increasing trends in the carbon intensity of energy have been recently observed in both developed and developing regions. No region is decarbonizing its energy supply.
+
+Bill Gates used a form of the Identity, without attribution, at a TED Talk called Innovating to zero!. Writing in ThinkProgress, Joseph J. Romm disputed the validity of Gates' arguments, as well as clarifying the key idea behind the identity.
+
+The Kaya identity and its applications in climate control policies has been criticized by Mario Bunge. Bunge points out that the Kaya identity is a tautology,"Carbon is carbon". Bunge concludes that the Kaya identity is impervious to empirical data, i.e., the Kaya identity cannot be tested empirically and thus cannot be used for predictions. In addition, Bunge proposes a tentative formula for the volume of global carbon emission that is not just a simple identity. Bunge suggests means to control climate and finally states "it might also help if economics students were to take Logic 101"

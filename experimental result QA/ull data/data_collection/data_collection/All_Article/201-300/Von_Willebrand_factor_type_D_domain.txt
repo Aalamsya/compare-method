@@ -1,0 +1,19 @@
+In molecular biology, the protein domain Von Willebrand factor type D domain belongs to a large family of proteins, named, the von Willebrand factor (vWF). These proteins, the vWF type D domain in particular, is a large, multimeric glycoprotein and it is synthesized by a type of bone marrow cell called megakaryocytes. vWF type D plays 2 important roles in stopping the blood flow or loss of blood. Firstly, it causes platelets to adhere to the inside of the damaged blood vessel walls to prevent leakage of blood. Secondly, it is a carrier protein for factor VIII (FVIII) which helps blood to clot. 
+
+One of the functions of von Willebrand factor (vWF) is to serve as a carrier of clotting factor VIII (FVIII). The native conformation of the D' domain of vWF is not only required for factor VIII (FVIII) binding but also for normal multimerisation and optimal secretion. The interaction between blood clotting factor VIII and VWF is necessary for normal survival of blood clotting factor VIII in blood circulation. The VWFD domain is a highly structured region, in which the first conserved Cys has been found to form a disulphide bridge with the second conserved one.
+
+The D8 domain (amino acids 6-102) is a highly structured region containing 24 paired cysteine residues. Secondary structure prediction from 75 aligned vWF sequences has revealed a largely alternating sequence of alpha-helices and beta-strands.
+
+A family of growth regulators, all belong to genes being expressed after being induced or stimulated by growth factors or oncogenes. Sequence analysis of this family revealed the presence of four distinct modules. Each module has homologues in other extracellular mosaic proteins such as Von Willebrand factor, slit, thrombospondins, fibrillar collagens, IGF-binding proteins and mucins. Classification and analysis of these modules suggests the location of binding regions and, by analogy to better characterised modules in other proteins, sheds some light onto the structure of this new family.
+
+The vWF protein domain can be found in various plasma proteins, for example the following:
+
+    complement factors B, C2, CR3 and CR4;
+    the integrins (I-domains);
+    collagen types VI, VII, XII and XIV;
+    and other extracellular proteins.
+
+Although the majority of VWF-containing proteins are extracellular, the most ancient ones present in all eukaryotes are all intracellular proteins involved in functions such as transcription, DNA repair, ribosomal and membrane transport and the proteasome. A common feature appears to be involvement in multiprotein complexes. Proteins that incorporate vWF domains participate in numerous biological events (e.g. cell adhesion, migration, homing, pattern formation, and signal transduction), involving interaction with a large array of ligands.[4] A number of human diseases arise from mutations in VWA domains.
+
+
+

@@ -1,0 +1,9 @@
+What is Ensemble learning?	undefined
+What are most commonly described as performing the task of searching through a hypothesis space?	definition
+Why ensembles may be thought of as a way to compensate for poor learning algorithms by performing a lot of extra computation?	reason
+Why an ensemble is itself a supervised learning algorithm?	reason
+What has been shown to be more effective than using techniques?	manner
+What is called "the law of diminishing returns in ensemble construction”?	definition
+What does Bootstrap aggregating often abbreviated as?	nnp
+What is the most common implementation of Boosting ?	name
+What is an algorithmic correction to Bayesian model averaging (BMA)?	name

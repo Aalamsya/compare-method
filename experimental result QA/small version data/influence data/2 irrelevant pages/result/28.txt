@@ -1,0 +1,389 @@
+√1.How can information systems prevent data loss or restore lost data ? 
+
+No.1---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+No.2---> 0.0	7
+Similarly , using a journaling file system and RAID storage only protect against certain types of software and hardware failure . 
+No.3---> 0.0	8
+For hard disk drives , which are a physical storage medium , ensuring minimal vibration and movement will help protect against damaging the components internally , as can maintaining a suitable drive temperature . 
+No.4---> 0.0	13
+File system corruption can frequently be repaired by the user or the system administrator . 
+No.5---> 0.0	14
+For example , a deleted file is typically not immediately overwritten on disk , but more often simply has its entry deleted from the file system index . 
+
+√2.What is data loss ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+√3.How is data loss distinguished from data unavailability ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+
+√4.What is the definition of regular data backups ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+×5.What can the frequency of data loss and the impact be greatly mitigated ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures .
+
+×6.What are sometimes called ` hard science ' ? 
+
+No.1---> 0.0	3
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.2---> 0.0	6
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.3---> 0.0	47
+As a field of natural science , it is relatively young but stand-alone programs offer specializations in the subject . 
+No.4---> 0.0	89
+Specific practical discoveries , useful and impressive as they may be , neither qualify as science nor do they succeed in establishing a paradigm . 
+No.5---> 0.0	92
+A recent interpretation of Parmenides presents evidence that he was the first philosopher who proposed a method for doing natural science . 
+
+√7.How many main branches can natural science be divided into ? 
+
+No.1---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.2---> 0.0	4
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.3---> 0.0	7
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.4---> 0.0	10
+The scale of study can range from sub-component biophysics up to complex ecologies . 
+No.5---> 0.0	14
+Once scientists discovered commonalities between all living things , it was decided they were best studied as a whole . 
+
+×8.Whose controversial falsifiability criterion helps differentiate scientific endeavors ? 
+
+No.1---> 0.0	0
+Natural science is a branch of science concerned with the description , prediction , and understanding of natural phenomena , based on observational and empirical evidence . 
+No.2---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.3---> 0.0	2
+Natural science can be divided into two main branches : life science -LRB- or biological science -RRB- and physical science . 
+No.4---> 0.0	3
+Physical science is subdivided into branches , including physics , astronomy , chemistry , and Earth science . 
+No.5---> 0.0	4
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+
+√9.When did biology became a unified science ? 
+
+No.1---> 1.5	1
+However , it was not until the 19th century that biology became a unified science . 
+No.2---> 1.5	16
+Aristotle 's works were influential through the 16th century , and he is considered to be the father of biology for his pioneering work in that science . 
+No.3---> 1.5	28
+In the centuries up through the end of the Middle Ages , natural science was often mingled with philosophies about magic and the occult . 
+No.4---> 1.5	29
+Although some later Christian philosophers , including Aquinas , came to see natural science as a means of interpreting scripture , this suspicion persisted until the 12th and 13th centuries . 
+No.5---> 1.5	45
+By the 19th century , the study of science had come into the purview of professionals and institutions . 
+
+×10.What is often called ` the central science ' ? 
+
+No.1---> 0.0	3
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.2---> 0.0	6
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.3---> 0.0	47
+As a field of natural science , it is relatively young but stand-alone programs offer specializations in the subject . 
+No.4---> 0.0	89
+Specific practical discoveries , useful and impressive as they may be , neither qualify as science nor do they succeed in establishing a paradigm . 
+No.5---> 0.0	92
+A recent interpretation of Parmenides presents evidence that he was the first philosopher who proposed a method for doing natural science . 
+
+√11.Why is physics regarded as the fundamental science ? 
+
+No.1---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.2---> 0.0	10
+The scale of study can range from sub-component biophysics up to complex ecologies . 
+No.3---> 0.0	14
+Once scientists discovered commonalities between all living things , it was decided they were best studied as a whole . 
+No.4---> 0.0	20
+The composition , statistical properties , transformations and reactions of these materials are studied . 
+No.5---> 0.0	41
+A key factor was Galileo 's introduction of the telescope to examine the night sky in more detail . 
+
+√12.What is the scope of veterinary medicine ? 
+
+No.1---> 0.0	2
+Veterinary medicine is widely practiced , both with and without professional supervision . 
+No.2---> 0.0	21
+In 1879 , Iowa Agricultural College became the first land grant college to establish a school of veterinary medicine . 
+No.3---> 0.0	29
+A number of professions exist within the scope of veterinary medicine , but which may not necessarily be performed by vets or veterinary nurses . 
+No.4---> 1.0	23
+This role is the equivalent of a doctor in human medicine , and usually involves post-graduate study and qualification . 
+No.5---> 1.0	25
+Most vets work in clinical settings , treating animals directly . 
+
+√13.Who is the first Buddhist Emperor of India ? 
+
+No.1---> 0.0	0
+-LRB- See also Shalihotra -RRB- -LRB- Buddhism -RRB- First Buddhist Emperor of India edicts of Asoka reads : `` Everywhere King Piyadasi -LRB- Asoka -RRB- made two kinds of medicine -LRB-RRB- available , medicine for people and medicine for animals . 
+No.2---> 0.0	1
+Meanwhile , Carlo Ruini 's book Anatomia del Cavallo , -LRB- Anatomy of the Horse -RRB- was published in 1598 . 
+No.3---> 0.0	2
+According to Lupton , after observing the devastation being caused by cattle plague to the French herds , Bourgelat devoted his time to seeking out a remedy . 
+No.4---> 0.0	3
+A 1785 Society meeting resolved to `` promote the study of Farriery upon rational scientific principles.The physician James Clark wrote a treatise entitled Prevention of Disease in which he argued for the professionalization of the veterinary trade , and the establishment of veterinary colleges . 
+No.5---> 0.0	4
+Veterinary science came of age in the late 19th century , with notable contributions from Sir John McFadyean , credited by many as having been the founder of modern Veterinary research . 
+
+×14.When did farriers combined their work in horseshoeing with ` horse doctoring ' ? 
+
+No.1---> 0.0	2
+This ultimately led to the establishment of the Worshipful Company of Farriers in 1674 . 
+No.2---> 1.5	1
+In 1356 , the Lord Mayor of London , concerned at the poor standard of care given to horses in the city , requested that all farriers operating within a seven-mile radius of the City of London form a `` fellowship '' to regulate and improve their practices . 
+No.3---> 5.0	5
+The Odiham Agricultural Society was founded in 1783 in England to promote agriculture and industry , and played an important role in the foundation of the veterinary profession in Britain . 
+No.4---> 5.0	8
+In 1879 , Iowa Agricultural College became the first land grant college to establish a school of veterinary medicine . 
+No.5---> 5.0	9
+Current debates within the profession include the ethics of purely cosmetic procedures on animals , such as declawing of cats , docking of tails , cropping of ears and debarking on dogs . 
+
+√15.What is the name of the first comprehensive treatise on the anatomy of a nonhuman species ? 
+
+No.1---> 2.0	14
+Meanwhile , Carlo Ruini 's book Anatomia del Cavallo , -LRB- Anatomy of the Horse -RRB- was published in 1598 . 
+No.2---> 2.0	15
+It was the first comprehensive treatise on the anatomy of a non-human species . 
+No.3---> 2.25	52
+At a higher level , anatomy and physiology looks at the internal structures , and their functions , of an organism , while ecology looks at how various organisms interrelate . 
+No.4---> 2.5	94
+As the marine ecosystem is very large and diverse , marine biology is further divided into many subfields , including specializations in particular species . 
+No.5---> 2.75	1
+The scope of veterinary medicine is wide , covering all animal species , both domesticated and wild , with a wide range of conditions which can affect different species . 
+
+√16.What is the computer science study of ? 
+
+No.1---> 0.0	2
+An alternate , more succinct definition of computer science is the study of automating algorithmic processes that scale . 
+No.2---> 0.0	7
+The earliest foundations of what would become computer science predate the invention of the modern digital computer . 
+No.3---> 0.0	16
+Computer science began to be established as a distinct academic discipline in the 1950s and early 1960s . 
+No.4---> 0.0	18
+The first computer science degree program in the United States was formed at Purdue University in 1962 . 
+No.5---> 0.0	22
+During the late 1950s , the computer science discipline was very much in its developmental stages , and such issues were commonplace . 
+
+√17.When did Gottfried Leibniz demonstrate a digital mechanical calculator ? 
+
+No.1---> 0.0	0
+In 1820 , Thomas de Colmar launched the mechanical calculator industry 1 -RSB- when he released his simplified arithmometer , which was the first calculating machine strong enough and reliable enough to be used daily in an office environment . 
+No.2---> 0.0	1
+Charles Babbage started the design of the first automatic mechanical calculator , his Difference Engine , in 1822 , which eventually gave him the idea of the first programmable mechanical calculator , his Analytical Engine . 
+No.3---> 0.0	2
+Around 1885 , Herman Hollerith invented the tabulator , which used punched cards to process statistical information ; eventually his company became part of IBM . 
+No.4---> 0.0	3
+In 1937 , one hundred years after Babbage 's impossible dream , Howard Aiken convinced IBM , which was making all kinds of punched card equipment and was also in the calculator business to develop his giant programmable calculator , the ASCC/Harvard Mark I , based on Babbage 's Analytical Engine , which itself used cards and a central computing unit . 
+No.5---> 0.0	4
+During the 1940s , as new and more powerful computing machines were developed , the term computer came to refer to the machines rather than their human predecessors . 
+
+√18.Who launched the mechanical calculator industry in 1820 ? 
+
+No.1---> 1.5	0
+In 1820 , Thomas de Colmar launched the mechanical calculator industry 1 -RSB- when he released his simplified arithmometer , which was the first calculating machine strong enough and reliable enough to be used daily in an office environment . 
+No.2---> 2.0	3
+In 1937 , one hundred years after Babbage 's impossible dream , Howard Aiken convinced IBM , which was making all kinds of punched card equipment and was also in the calculator business to develop his giant programmable calculator , the ASCC/Harvard Mark I , based on Babbage 's Analytical Engine , which itself used cards and a central computing unit . 
+No.3---> 2.25	4
+Although first proposed in 1956 , the term `` computer science '' appears in a 1959 article in Communications of the ACM , in which Louis Fein argues for the creation of a Graduate School in Computer Sciences analogous to the creation of Harvard Business School in 1921 , justifying the name by arguing that , like management science , the subject is applied and interdisciplinary in nature , while having the characteristics typical of an academic discipline . 
+No.4---> 2.333	9
+Peter Wegner argued that those paradigms are science , technology , and mathematics . 
+No.5---> 3.0	2
+Around 1885 , Herman Hollerith invented the tabulator , which used punched cards to process statistical information ; eventually his company became part of IBM . 
+
+√19.When did computer science began to be established as a distinct academic discipline ? 
+
+No.1---> 0.0	5
+Computer science began to be established as a distinct academic discipline in the 1950s and early 1960s . 
+No.2---> 0.0	7
+The first computer science degree program in the United States was formed at Purdue University in 1962 . 
+No.3---> 0.0	9
+During the late 1950s , the computer science discipline was very much in its developmental stages , and such issues were commonplace . 
+No.4---> 0.0	19
+For example , in the US about 20 % of computer science degrees in 2012 were conferred to women . 
+No.5---> 0.0	20
+In 2011 , approximately half of all computer science degrees in Malaysia were conferred to women . 
+
+×20.What branch is synthetic biology from ? 
+
+No.1---> 0.0	0
+Descriptions of synthetic biology depend on how the user approaches it , as a biologist or as an engineer . 
+No.2---> 0.0	8
+The first identifiable use of the term `` synthetic biology '' was in Stephane Leduc publication of Theorie physico-chimique de la vie et generations spontanees -LRB- 1910 -RRB- and his La Biologie Synthetique -LRB- 1912 -RRB- . 
+No.3---> 0.0	9
+Contemporary understanding of synthetic biology was given by Polish geneticist Wacaw Szybalski in a panel discussion during Eighteenth Annual `` OHOLO '' Biological Conference on Strategies for the Control of Gene Expression in 1973 Zichron Yaakov , Israel . 
+No.4---> 0.0	20
+Several key enabling technologies are critical to the growth of synthetic biology . 
+No.5---> 0.0	37
+Recently , multiscale models of gene regulatory networks have been developed that focus on synthetic biology applications . 
+
+√21.Who portrayed synthetic biology as a new emerging scientific field where ICT ? 
+
+No.1---> 0.0	1
+Contemporary understanding of synthetic biology was given by Polish geneticist Wacaw Szybalski in a panel discussion during Eighteenth Annual `` OHOLO '' Biological Conference on Strategies for the Control of Gene Expression in 1973 Zichron Yaakov , Israel . 
+No.2---> 0.0	6
+In 2012 , George M. Church encoded one of his books about synthetic biology in DNA . 
+No.3---> 0.5	9
+After the publication of the first synthetic genome by Craig Venter 's group and the accompanying media coverage about `` life '' being created , President Obama requested the Presidential Commission for the Study of Bioethical Issues to study synthetic biology . 
+No.4---> 1.0	0
+Another description , by Jan Staman Director of the Rathenau Institute in The Hague in 2006 , portrayed it as `` a new emerging scientific field where ICT , biotechnology and nanotechnology meet and strengthen each other '' . 
+No.5---> 1.0	2
+When in 1978 Arber , Nathans and Smith won the Nobel Prize in Physiology or Medicine for the discovery of restriction enzymes , Wacaw Szybalski wrote in an editorial comment in the journal Gene : The work on restriction nucleases not only permits us easily to construct recombinant DNA molecules and to analyze individual genes , but also has led us into the new era of synthetic biology where not only existing genes are described and analyzed but also new gene arrangements can be constructed and evaluated . 
+
+√22.What is the purpose of synthetic biology ? 
+
+No.1---> 0.0	0
+Descriptions of synthetic biology depend on how the user approaches it , as a biologist or as an engineer . 
+No.2---> 0.0	8
+The first identifiable use of the term `` synthetic biology '' was in Stephane Leduc publication of Theorie physico-chimique de la vie et generations spontanees -LRB- 1910 -RRB- and his La Biologie Synthetique -LRB- 1912 -RRB- . 
+No.3---> 0.0	9
+Contemporary understanding of synthetic biology was given by Polish geneticist Wacaw Szybalski in a panel discussion during Eighteenth Annual `` OHOLO '' Biological Conference on Strategies for the Control of Gene Expression in 1973 Zichron Yaakov , Israel . 
+No.4---> 0.0	20
+Several key enabling technologies are critical to the growth of synthetic biology . 
+No.5---> 0.0	37
+Recently , multiscale models of gene regulatory networks have been developed that focus on synthetic biology applications . 
+
+√23.When did George M. Church encoded one of his books about synthetic biology in DNA ? 
+
+No.1---> 0.0	3
+The first identifiable use of the term `` synthetic biology '' was in Stephane Leduc publication of Theorie physico-chimique de la vie et generations spontanes -LRB- 1910 -RRB- and his La Biologie Synthetique -LRB- 1912 -RRB- . 
+No.2---> 0.0	4
+Contemporary understanding of synthetic biology was given by Polish geneticist Wacaw Szybalski in a panel discussion during Eighteenth Annual `` OHOLO '' Biological Conference on Strategies for the Control of Gene Expression in 1973 Zichron Yaakov , Israel . 
+No.3---> 0.0	11
+Recently , multiscale models of gene regulatory networks have been developed that focus on synthetic biology applications . 
+No.4---> 0.0	13
+In 2012 , George M. Church encoded one of his books about synthetic biology in DNA . 
+No.5---> 1.0	1
+Another description , by Jan Staman Director of the Rathenau Institute in The Hague in 2006 , portrayed it as `` a new emerging scientific field where ICT , biotechnology and nanotechnology meet and strengthen each other '' . 
+
+×24.How many times were able to exchange the bacteria in the culture media ? 
+
+No.1---> 0.0	18
+Each of these approaches share a similar task : to develop a more synthetic entity at a higher level of complexity by inventively manipulating a simpler part at the preceding level . 
+No.2---> 0.0	21
+Re-writers draw inspiration from refactoring , a process sometimes used to improve computer software . 
+No.3---> 0.0	25
+Measurements under a variety of conditions are needed for accurate modeling and computer-aided-design -LRB- CAD -RRB- . 
+No.4---> 0.0	28
+This favors a synthesis-from-scratch approach . 
+No.5---> 0.0	31
+While other methods take months or years to edit gene sequences , CRISPR speeds that time up to weeks . 
+
+×25.What may be regarded as a branch of both psychology and musicology ? 
+
+No.1---> 2.0	99
+Humancomputer interaction considers the challenges in making computers and computations useful , usable , and universally accessible to humans . 
+No.2---> 2.0	171
+, and the question remains effectively unanswered although the Turing test is still used to assess computer output on the scale of human intelligence . 
+No.3---> 2.0	183
+In practical use , it is typically the application of computer simulation and other forms of computation to problems in various scientific disciplines . 
+No.4---> 2.0	335
+Pythagoreans came close to it when they applied numbers to the study of natural phenomena , however they do not appear to have been aware of the importance of methodology as distinct from concrete manipulations . 
+No.5---> 2.333	280
+While the origins of the study of celestial features and phenomena can be traced back to antiquity , the scientific methodology of this field began to develop in the middle of the 17th century . 
+
+×26.Whose establishment of the simple string length ratios that formed the consonances of the octave ? 
+
+No.1---> 0.0	18
+Each of these approaches share a similar task : to develop a more synthetic entity at a higher level of complexity by inventively manipulating a simpler part at the preceding level . 
+No.2---> 0.0	21
+Re-writers draw inspiration from refactoring , a process sometimes used to improve computer software . 
+No.3---> 0.0	25
+Measurements under a variety of conditions are needed for accurate modeling and computer-aided-design -LRB- CAD -RRB- . 
+No.4---> 0.0	28
+This favors a synthesis-from-scratch approach . 
+No.5---> 0.0	31
+While other methods take months or years to edit gene sequences , CRISPR speeds that time up to weeks . 
+
+×27.When has music psychology expanded to cover a wide array of theoretical and applied areas ? 
+
+No.1---> 2.333	56
+While the origins of the study of celestial features and phenomena can be traced back to antiquity , the scientific methodology of this field began to develop in the middle of the 17th century . 
+No.2---> 3.0	8
+In 2007 it was reported that several companies were offering the synthesis of genetic sequences up to 2000 bp long , for a price of about $ 1 per base pair and a turnaround time of less than two weeks . 
+No.3---> 3.0	10
+Ideally the interaction strength between protein partners should be tunable between a lifetime of seconds -LRB- desirable for dynamic signaling events -RRB- up to an irreversible interaction -LRB- desirable when building devices stable over days or resilient to harsh conditions -RRB- . 
+No.4---> 3.0	75
+By the 12th century , Western European scholars and philosophers came into contact with a body of knowledge of which they had previously been ignorant : a large corpus of works in Greek and Arabic that were preserved by Islamic scholars . 
+No.5---> 3.0	81
+In the centuries up through the end of the Middle Ages , natural science was often mingled with philosophies about magic and the occult . 
+
+×28.What is the abbreviation of functional magnetic resonance imaging ? 
+
+No.1---> 2.0	34
+In addition it is important to be able to regulate protein-protein interactions in cells , such as with light -LRB- using Light-oxygen-voltage-sensing domains -RRB- or cell-permeable small molecules by Chemically induced dimerization . 
+No.2---> 2.0	348
+Aristotle 's works on natural philosophy continued to be translated and studied amid the rise of the Byzantine Empire and Islam in the Middle East . 
+No.3---> 2.0	351
+Aristotle 's works and other Greek natural philosophy did not reach the West until about the middle of the 12th century , when works were translated from Greek and Arabic into Latin . 
+No.4---> 2.0	355
+Through translation into Latin , Western Europe was introduced to Aristotle and his natural philosophy . 
+No.5---> 2.0	356
+A 1210 decree from the Synod of Paris ordered that `` no lectures are to be held in Paris either publicly or privately using Aristotle 's books on natural philosophy or the commentaries , and we forbid all this under pain of excommunication . '' 
+
+×29.How did researchers estimate the occurrence of AP to be ? 
+
+No.1---> 0.0	0
+Descriptions of synthetic biology depend on how the user approaches it , as a biologist or as an engineer . 
+No.2---> 0.0	1
+Originally seen as a subset of biology , in recent years the role of electrical and chemical engineering has become more important . 
+No.3---> 0.0	2
+For example , one description designates synthetic biology as `` an emerging discipline that uses engineering principles to design and assemble biological components '' . 
+No.4---> 0.0	3
+Another description , by Jan Staman Director of the Rathenau Institute in The Hague in 2006 , portrayed it as `` a new emerging scientific field where ICT , biotechnology and nanotechnology meet and strengthen each other '' . 
+No.5---> 0.0	4
+The definition of synthetic biology is debated , not only among natural scientists and engineers but also in the human sciences , arts and politics . 
+
+×30.Who speculated that music may have held an adaptive advantage and functioned as a protolanguage ? 
+
+No.1---> 0.0	0
+Another description , by Jan Staman Director of the Rathenau Institute in The Hague in 2006 , portrayed it as `` a new emerging scientific field where ICT , biotechnology and nanotechnology meet and strengthen each other '' . 
+No.2---> 0.0	1
+Contemporary understanding of synthetic biology was given by Polish geneticist Wacaw Szybalski in a panel discussion during Eighteenth Annual `` OHOLO '' Biological Conference on Strategies for the Control of Gene Expression in 1973 Zichron Yaakov , Israel . 
+No.3---> 0.0	2
+When in 1978 Arber , Nathans and Smith won the Nobel Prize in Physiology or Medicine for the discovery of restriction enzymes , Wacaw Szybalski wrote in an editorial comment in the journal Gene : The work on restriction nucleases not only permits us easily to construct recombinant DNA molecules and to analyze individual genes , but also has led us into the new era of synthetic biology where not only existing genes are described and analyzed but also new gene arrangements can be constructed and evaluated . 
+No.4---> 0.0	3
+A notable advance in synthetic biology occurred in 2000 , when two articles in Nature by Michael B. Elowitz and Stanislas Leibler discussed the creation of synthetic biological circuit devices of a genetic toggle switch and a biological clock by combining genes within E. coli cells . 
+No.5---> 0.0	4
+Oligonucleotides harvested from a photolithographic or inkjet manufactured DNA chip combined with DNA mismatch error-correction allows inexpensive large-scale changes of codons in genetic systems to improve gene expression or incorporate novel amino-acids -LRB- see George M. Church 's and Anthony Forster 's synthetic cell projects . -RRB- 

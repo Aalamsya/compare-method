@@ -1,0 +1,98 @@
+�ܽ᣺
+��1.What is the definition of Cybernetics? (What +term)
+    No.1---> 2.0	0
+    Cybernetics is a transdisciplinary approach for exploring regulatory systems�     �their structures , constraints , and     possibilities . 
+    No.2---> 2.0	13
+    More recently there is talk about a third-order cybernetics -LRB- doing in ways     that embraces first and second-order     -RRB- . 
+    No.3---> 2.0	18
+    Cybernetician Stuart Umpleby reports some notable definitions : Other notable       definitions include : The term     cybernetics stems from κυβερνήτης       -LRB- kybernētēs -RRB- `` steersman , governor , pilot , or rudder '' . 
+    No.4---> 2.0	44
+    In the Soviet Union cybernetics was considered a `` pseudoscience '' and ``         ideological weapon '' of `` imperialist     reactionaries '' -LRB- Soviet           Philosophical Dictionary , 1954 -RRB- . 
+    No.5---> 2.0	51
+    However , during the 1980s the question of whether the features of this new         cybernetics could be applied to social    forms of organization remained open         to debate . 
+
+��2.What is defined as "the scientific study of control and communication in the animal and the machine"?(what+description)
+   No.1---> 0.0	60
+   These shifts in thinking involve , among others , -LRB- a -RRB- a change from emphasis on the system being steered to    the system doing the steering , and the factor which guides the steering decisions ; and -LRB- b -RRB- new emphasis on    communication between several systems which are trying to steer each other '' . 
+   No.2---> 1.0	2
+   In the 21st century , the term is often used in a rather loose way to imply `` control of any system using technology    . '' 
+   No.3---> 1.0	6
+  Its focus is how anything -LRB- digital , mechanical or biological -RRB- processes information , reacts to information   , and changes or can be changed to better accomplish the first two tasks . 
+  No.4---> 1.0	58
+  That is , it links the individual with the society '' . 
+  No.5---> 1.5	1
+  Norbert Wiener defined cybernetics in 1948 as `` the scientific study of control and communication in the animal and   the machine . '' 
+
+��3.Why is the cybernetics is relevant?
+   No.1---> 0.0	0
+  Cybernetics is a transdisciplinary approach for exploring regulatory systems—their structures , constraints , and   possibilities . 
+  No.2---> 0.0	13
+  More recently there is talk about a third-order cybernetics -LRB- doing in ways that embraces first and second-order -    RRB- . 
+  No.3---> 0.0	18
+  Cybernetician Stuart Umpleby reports some notable definitions : Other notable definitions include : The term   cybernetics stems from κυβερνήτης -LRB- kybernētēs -RRB- `` steersman , governor , pilot , or rudder '' . 
+  No.4---> 0.0	22
+  The word cybernetics was first used in the context of `` the study of self-governance '' by Plato in The Alcibiades to   signify the governance of people . 
+  No.5---> 0.0	24
+  The first artificial automatic regulatory system was a water clock , invented by the mechanician Ktesibios ; based on a   tank which poured water into a reservoir before using it to run the mechanism , it used a cone-shaped float to monitor   the level of the water in its reservoir and adjust the rate of flow of the water accordingly to maintain a constant   level of water in the reservoir . 
+
+��4.What is the mode of cybernetics scientist research?
+  No.1---> 2.0	0
+  Cybernetics is a transdisciplinary approach for exploring regulatory systems—their structures , constraints , and   possibilities . 
+  No.2---> 2.0	13
+  More recently there is talk about a third-order cybernetics -LRB- doing in ways that embraces first and second-order -  RRB- . 
+  No.3---> 2.0	18
+  Cybernetician Stuart Umpleby reports some notable definitions : Other notable definitions include : The term   cybernetics stems from κυβερνήτης -LRB- kybernētēs -RRB- `` steersman , governor , pilot , or rudder '' . 
+  No.4---> 2.0	37
+  Cybernetics as a discipline was firmly established by Norbert Wiener , McCulloch and others , such as W. Ross Ashby ,   mathematician Alan Turing , and W. Grey Walter -LRB- one of the first to build autonomous robots as an aid to the study   of animal behaviour -RRB- . 
+  No.5---> 2.0	44
+  In the Soviet Union cybernetics was considered a `` pseudoscience '' and `` ideological weapon '' of `` imperialist   reactionaries '' -LRB- Soviet Philosophical Dictionary , 1954 -RRB- .
+ 
+��5.Which country the word "cybernetics" from?
+No.1---> 0.0	0
+Cybernetics is a transdisciplinary approach for exploring regulatory systems—their structures , constraints , and possibilities . 
+No.2---> 0.0	13
+More recently there is talk about a third-order cybernetics -LRB- doing in ways that embraces first and second-order -RRB- . 
+No.3---> 0.0	18
+Cybernetician Stuart Umpleby reports some notable definitions : Other notable definitions include : The term cybernetics stems from κυβερνήτης -LRB- kybernētēs -RRB- `` steersman , governor , pilot , or rudder '' . 
+No.4---> 0.0	22
+The word cybernetics was first used in the context of `` the study of self-governance '' by Plato in The Alcibiades to signify the governance of people . 
+No.5---> 0.0	24
+The first artificial automatic regulatory system was a water clock , invented by the mechanician Ktesibios ; based on a tank which poured water into a reservoir before using it to run the mechanism , it used a cone-shaped float to monitor the level of the water in its reservoir and adjust the rate of flow of the water accordingly to maintain a constant level of water in the reservoir . 
+
+��6.Who made outstanding contribution to cybernetics ? 
+No.1---> 0.0	2
+Cybernetician Stuart Umpleby reports some notable definitions : Other notable definitions include : The term cybernetics stems from κυβερνήτης -LRB- kybernētēs -RRB- `` steersman , governor , pilot , or rudder '' . 
+No.2---> 0.0	4
+The word cybernetics was first used in the context of `` the study of self-governance '' by Plato in The Alcibiades to signify the governance of people . 
+No.3---> 0.0	14
+Cybernetics as a discipline was firmly established by Norbert Wiener , McCulloch and others , such as W. Ross Ashby , mathematician Alan Turing , and W. Grey Walter -LRB- one of the first to build autonomous robots as an aid to the study of animal behaviour -RRB- . 
+No.4---> 0.0	29
+A model of cybernetics in Sport was introduced by Yuri Verkhoshansky and Mel C. Siff in 1999 in their book Supertraining . 
+No.5---> 1.5	0
+Norbert Wiener defined cybernetics in 1948 as `` the scientific study of control and communication in the animal and the machine . '' 
+
+��7.What are the results in cybernetics in life?
+No.1---> 2.0	0
+Cybernetics is a transdisciplinary approach for exploring regulatory systems—their structures , constraints , and possibilities . 
+No.2---> 2.0	12
+During the second half of the 20th century cybernetics evolved in ways that distinguish first-order cybernetics -LRB- about observed systems -RRB- from second-order cybernetics -LRB- about observing systems -RRB- . 
+No.3---> 2.0	13
+More recently there is talk about a third-order cybernetics -LRB- doing in ways that embraces first and second-order -RRB- . 
+No.4---> 2.0	18
+Cybernetician Stuart Umpleby reports some notable definitions : Other notable definitions include : The term cybernetics stems from κυβερνήτης -LRB- kybernētēs -RRB- `` steersman , governor , pilot , or rudder '' . 
+No.5---> 2.0	25
+Alfred Russel Wallace identified this as the principle of evolution in his famous 1858 paper .  
+
+��8.What time in cybernetics is defined as "the scientific study of control and communication in the animal and the machine."
+No.1---> 2.333	0
+Cybernetics is a transdisciplinary approach for exploring regulatory systems—their structures , constraints , and possibilities . 
+No.2---> 2.333	1
+Norbert Wiener defined cybernetics in 1948 as `` the scientific study of control and communication in the animal and the machine . '' 
+No.3---> 2.333	2
+In the 21st century , the term is often used in a rather loose way to imply `` control of any system using technology . '' 
+No.4---> 2.333	6
+Its focus is how anything -LRB- digital , mechanical or biological -RRB- processes information , reacts to information , and changes or can be changed to better accomplish the first two tasks . 
+No.5---> 2.333	13
+More recently there is talk about a third-order cybernetics -LRB- doing in ways that embraces first and second-order -RRB- . 
+
+

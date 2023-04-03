@@ -1,0 +1,292 @@
+Computational_intelligence	9
+{date=1, reason=2, number=1, person=1, definition=3, manner=1, time=1}
+{date=1 0, reason=1 1, number=1 0, person=0 1, definition=2 1, time=1 0}
+
+Morinosuke_Kawaguchi	6
+{reason=1, number=1, person=2, location=1, definition=2, time=3}
+{reason=1 0, number=0 1, location=0 1, time=2 1}
+
+Shyster_(expert_system)	7
+{reason=2, number=1, person=2, name=1, definition=3, manner=1}
+{reason=1 1, number=0 1, person=1 0, definition=2 0, manner=0 1}
+
+Robert_K._Merton	6
+{date=1, reason=2, person=1, name=1, location=1, definition=2, time=2}
+{reason=1 1, name=1 0, definition=2 0, time=1 0}
+
+Neuroscience_of_rhythm	7
+{number=1, reason=2, person=1, name=1, definition=4, location=1}
+{number=1 0, reason=0 2, person=0 1, name=1 0, definition=2 0}
+
+Action_selection	8
+{reason=2, person=1, name=2, definition=3, manner=2}
+{reason=0 2, name=1 1, definition=1 2, manner=1 0}
+
+Retrodiction	3
+{reason=1, person=1, name=1, definition=3, location=1, time=1}
+{reason=1 0, definition=2 0}
+
+Inflammatory_reflex	3
+{name=1, definition=5, location=2}
+{definition=3 0}
+
+Admissible_heuristic	5
+{reason=4, number=1, nnp=2, definition=1, location=1, manner=1}
+{reason=3 1, number=1 0}
+
+Bouba-kiki_effect	5
+{number=1, reason=1, nnp=1, person=1, definition=3, location=1, time=1}
+{number=1 0, reason=0 1, person=1 0, definition=1 1}
+
+Generalized_distributive_law	6
+{nnp=2, reason=1, person=2, definition=3, manner=2}
+{reason=0 1, person=2 0, definition=1 0, manner=2 0}
+
+Moravec's_paradox	8
+{nnp=1, reason=3, person=4, definition=2}
+{reason =0 1, reason=0 2, person=2 1, definition=1 1}
+
+Prototype_theory	5
+{reason=2, number=1, nnp=1, person=2, definition=3, manner=1}
+{reason=1 1, number=0 1, person=1 0, definition=1 0}
+
+Knowledge_level	4
+{reason=1, name=1, location=1, definition=2, time=1}
+{reason=1 0, name=1 0, definition=1 0, time=1 0}
+
+Friendly_artificial_intelligence	6
+{reason=2, person=3, name=2, definition=2, time=1}
+{reason=0 2, person=1 0, definition=2 0, time=1 0}
+
+Argumentation_framework	5
+{nnp=1, reason=3, person=1, name=1, definition=2}
+{reason =1 0, reason=1 1, name=1 0, definition=1 0}
+
+Document_mosaicing	6
+{number=3, nnp=1, reason=1, name=1, definition=2, location=1, manner=1}
+{number=0 3, nnp=0 1, reason=0 1, definition=1 0}
+
+Music_and_artificial_intelligence	8
+{reason=1, person=2, name=2, definition=3, time=2}
+{reason=1 0, person=0 1, name=1 1, definition=1 1, time=2 0}
+
+Postsynaptic_density	3
+{number=1, reason=2, name=2, definition=1, location=1}
+{reason=0 2, definition=1 0}
+
+Subgoal_labeling	4
+{reason=2, person=1, name=1, definition=2, manner=2}
+{reason=2 0, name=0 1, definition=1 0}
+
+Neurobioengineering	2
+{nnp=1, person=2, name=1, definition=1, time=1}
+{definition=1 0, time=1 0}
+
+Machiavellian_intelligence	8
+{nnp=1, reason=2, person=2, name=2, definition=2, manner=1}
+{definition =1 0, nnp=0 1, reason=1 1, person=1 1, definition=1 0, manner=1 0}
+
+Functionalism_(philosophy_of_mind)	4
+{nnp=2, reason=3, name=1, location=1, definition=2, manner=1}
+{reason=0 3, nnp=0 1}
+
+Anthony_Leiserowitz	5
+{number=1, person=2, location=2, time=2}
+{number=0 1, person=1 0, location=2 0, time=1 0}
+
+Lateralization_of_brain_function	6
+{number=2, reason=3, person=1, name=1, definition=2, manner=1}
+{number=0 2, reason=0 3, manner=0 1}
+
+Mass_Action_Principle_(neuroscience)	9
+{number=1, reason=1, person=2, name=1, definition=3, manner=1, time=1}
+{reason=0 1, number =0 1, person=0 2, name=1 0, definition=2 0, manner=1 0, time=1 0}
+
+Daisyworld	6
+{nnp=1, number=1, reason=2, person=2, definition=3, location=1}
+{number=0 1, reason=0 1, person=2 0, definition=1 0, location =0 1}
+
+Information_processing	7
+{reason=2, number=1, person=1, name=3, definition=3}
+{reason=1 1, number=0 1, person=1 0, name=1 0, definition=2 0}
+
+Psychohistory_(fictional)	6
+{nnp=1, reason=3, number=1, person=2, organization=1, name=1, definition=1}
+{reason=0 3, number=0 1, person=1 1}
+
+Allen_(robot)	4
+{number=1, reason=3, person=1, definition=2}
+{number=1 0, reason=0 3}
+
+Muscle_coactivation	4
+{reason=2, name=2, definition=1, location=1, time=2, manner=2}
+{reason=1 1, name=1 0, manner=0 1}
+
+Symbol_grounding_problem	6
+{nnp=2, reason=3, name=1, definition=2, location=1, time=1}
+{reason=1 2, nnp=1 0, definition=0 1, location=0 1}
+
+Motor_imagery	6
+{nnp=1, reason=2, person=3, name=2, location=1, definition=1}
+{reason=1 1, person=1 1, name=1 0, definition=1 0}
+
+Neuromodulation	6
+{nnp=3, reason=1, person=1, organization=1, name=2, definition=1, manner=1}
+{reason=0 1, nnp=1 0, organization=1 0, name=2 0, manner=0 1}
+
+Any-angle_path_planning	6
+{reason=2, name=2, definition=1, manner=1}
+{reason=1 1, name=0 2, definition=1 0, manner=1 0}
+
+S100B	3
+{nnp=1, number=1, name=1, location=2, definition=3, manner=1, time=1}
+{number=1 0, definition=0 1, time=1 0}
+
+Gaia_hypothesis	6
+{nnp=1, reason=2, person=2, name=1, definition=2, time=1, manner=1}
+{reason=1 1, person=0 1, definition=0 1, time=1 0, manner=0 1}
+
+Critical_period_hypothesis	5
+{nnp=1, reason=2, person=3, definition=3, time=1}
+{reason=2 0, person=1 0, definition=0 2}
+
+Algorithmic_probability	4
+{nnp=1, number=1, reason=1, person=1, name=1, definition=3, time=1, manner=1}
+{nnp=1 0, number =1 0, definition=2 0}
+
+Bio-inspired_computing	7
+{reason=2, name=2, definition=1, location=2, manner=2}
+{reason=0 2, name=2 0, definition=1 0, manner=1 1}
+
+The_Expression_of_the_Emotions_in_Man_and_Animals	8
+{date=1, person=3, definition=2, location=1, time=3}
+{date=0 1, person=1 2, location=0 1, definition=1 0, time=2 0}
+
+Hybrot	3
+{number=1, person=1, name=1, definition=4}
+{number=0 1, definition=2 0}
+
+Universal_grammar	8
+{nnp=3, reason=1, number=1, person=2, definition=3}
+{reason =0 1, nnp=2 1, number=0 1, person=1 0, definition=2 0}
+
+Neural_coding	6
+{nnp=2, reason=1, person=2, name=1, definition=3, manner=1}
+{nnp=1 0, reason=0 1, person=0 2, name=0 1, manner=0 1}
+
+Cultural_neuroscience	6
+{nnp=1, number=1, reason=1, person=3, name=1, definition=3}
+{nnp=1 0, number=0 1, reason=0 1, name=0 1, definition=2 0}
+
+Conversation_theory	4
+{reason=1, person=3, name=2, definition=2, manner=1, time=1}
+{reason=0 1, person=0 1, definition=1 0, manner=0 1}
+
+Macy_conferences	6
+{number=1, reason=1, person=2, organization=2, definition=2, location=1, time=1}
+{number=0 1, reason=0 1, organization=1 0, definition=0 1, location=1 0, time=1 0}
+
+Affect_control_theory	6
+{nnp=1, reason=2, person=2, name=1, definition=4}
+{nnp=1 0, reason=0 2, person=1 0, definition=2 0}
+
+Clinical_neuroscience	6
+{date=1, number=1, person=2, name=1, definition=2, time=1}
+{date=1 0, number=1 0, name=1 0, definition=2 0, time=1 0}
+
+Interactive_specialization	3
+{person=2, name=1, definition=2}
+{person=2 0, definition=1 0}
+
+Superorganism	4
+{reason=1, person=2, name=2, definition=4, time=1}
+{reason=0 1, person=1 0, definition=1 1}
+
+Second-order_cybernetics	8
+{nnp=1, reason=1, person=4, name=1, definition=2, time=1}
+{nnp=1 0, reason=0 1, person=3 1, definition=1 0, time=1 0}
+
+Neurotrophic_electrode	8
+{nnp=1, reason=4, number=2, person=1, definition=1, time=1}
+{reason=0 4, number=0 2, person=0 1, time=1 0}
+
+Tensor_network_theory	8
+{nnp=1, reason=1, person=1, name=1, definition=3, time=2, manner=1}
+{nnp=1 0, reason=0 1, person=1 0, name=1 0, definition=2 0, time=1 0, manner=0 1}
+
+Supplementary_eye_field	4
+{nnp=1, person=3, definition=5, time=1}
+{nnp=0 1, person=1 1, definition=1 0}
+
+Neurodegeneration	4
+{nnp=3, reason=2, number=1, name=2, definition=2}
+{reason=0 2, number=1 0, name×=1 0}
+
+Fuzzy_logic	7
+{reason=2, name=2, definition=4, location=1, time=1}
+{reason=0 2, name=1 0, definition=1 1, location=0 1, time=1 0}
+
+Interstellar_travel	7
+{nnp=1, reason=2, number=2, person=1, name=2, definition=1, manner=1}
+{reason=0 2, number=0 2, person=0 1, name=0 1, definition=1 0}
+
+Behavior_tree_(artificial_intelligence,_robotics_and_control)	3
+{nnp=1, name=2, location=1, definition=3}
+{nnp=1 0, definition=1 1}
+
+Neural_backpropagation	9
+{nnp=1, reason=3, name=1, definition=4, manner=1}
+{reason=1 2, manner =0 1, name=1 0, definition=0 4}
+
+Intelligibility_(philosophy)	5
+{nnp=1, person=2, name=1, definition=2, manner=1}
+{nnp=1 0, person=1 1, definition=2 0}
+
+Biological_motion	6
+{nnp=1, reason=1, person=3, name=1, definition=3, time=1}
+{reason=0 1, person=0 1, name=1 0, definition=3 0}
+
+Problem_solving	7
+{number=2, reason=1, person=3, definition=3, manner=1}
+{number=1 1, reason=0 1, person=0 1, definition=2 0, manner=1 0}
+
+Mental_operations	5
+{number=3, person=2, name=3, definition=1}
+{number=0 3, person=1 0, name=1 0}
+
+Evolutionary_neuroscience	8
+{nnp=1, person=4, name=2, definition=2, time=1}
+{nnp=1 0, person=1 3, name=0 1, definition=1 0, time=1 0}
+
+Ocular_dominance_column	8
+{nnp=1, reason=4, person=1, definition=2, time=1}
+{nnp=0 1, reason=1 3, person=0 1, definition=1 0, time=1 0}
+
+Moore's_law	6
+{nnp=1, reason=2, number=1, person=2, name=1, definition=1, time=2}
+{nnp=1 0, reason=0 2, number=0 1, person=0 1, time=1 0}
+
+Unconscious_inference	7
+{nnp=1, reason=2, person=3, definition=2}
+{nnp=1 0, reason=0 2, person=2 1, definition=0 1}
+
+Blackboard_system	4
+{number=1, person=1, name=2, definition=2, manner=1, time=2}
+{number=0 1, definition=1 0, manner=1 0, time=1 0}
+
+Committee_machine	1
+{reason=1, name=1, definition=2, location=1, manner=1}
+{reason=1 0}
+
+Future_of_Life_Institute	5
+{date=1, person=1, organization=2, definition=1, time=2}
+{date=1 0, person=0 1, organization=2 0, time=0 1}
+
+Bursting	3
+{nnp=2, reason=2, name=2, definition=2, time=1, manner=1}
+{reason=0 2, time=0 1}
+
+Pyotr_Anokhin	1
+{nnp=1, reason=1, person=1, location=1, time=2}
+{reason=0 1}
+

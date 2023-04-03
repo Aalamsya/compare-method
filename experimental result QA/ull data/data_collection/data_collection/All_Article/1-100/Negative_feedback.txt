@@ -1,0 +1,57 @@
+Negative feedback (or balancing feedback) occurs when some function of the output of a system, process, or mechanism is fed back in a manner that tends to reduce the fluctuations in the output, whether caused by changes in the input or by other disturbances.
+
+Whereas positive feedback tends to lead to instability via exponential growth, oscillation or chaotic behavior, negative feedback generally promotes stability. Negative feedback tends to promote a settling to equilibrium, and reduces the effects of perturbations. Negative feedback loops in which just the right amount of correction is applied with optimum timing can be very stable, accurate, and responsive.
+
+Negative feedback is widely used in mechanical and electronic engineering, and also within living organisms,[1][2] and can be seen in many other fields from chemistry and economics to physical systems such as the climate. General negative feedback systems are studied in control systems engineering.
+Examples[edit]
+Mercury thermostats (circa 1600) using expansion and contraction of columns of mercury in response to temperature changes were used in negative feedback systems to control vents in furnaces, maintaining a steady internal temperature.
+In the invisible hand of the market metaphor of economic theory (1776), reactions to price movements provide a feedback mechanism to match supply and demand.
+In centrifugal governors (1788), negative feedback is used to maintain a near-constant speed of an engine, irrespective of the load or fuel-supply conditions.
+In a steering engine (1866), power assistance is applied to the rudder with a feedback loop, to maintain the direction set by the steersman.
+In servomechanisms, the speed or position of an output, as determined by a sensor, is compared to a set value, and any error is reduced by negative feedback to the input.
+In audio amplifiers, negative feedback reduces distortion, minimises the effect of manufacturing variations in component parameters, and compensates for changes in characteristics due to temperature change.
+In analog computing feedback around operational amplifiers is used to generate mathematical functions such as addition, subtraction, integration, differentiation, logarithm, and antilog functions.
+In a phase locked loop (1932) feedback is used to maintain a generated alternating waveform in a constant phase to a reference signal. In many implementations the generated waveform is the output, but when used as a demodulator in an FM radio receiver, the error feedback voltage serves as the demodulated output signal. If there is a frequency divider between the generated waveform and the phase comparator, the device acts as a frequency multiplier.
+In organisms, feedback enables various measures (e.g. body temperature, or blood sugar level) to be maintained within a desired range by homeostatic processes.
+Negative feedback as a control technique may be seen in the refinements of the water clock introduced by Ktesibios of Alexandria in the 3rd century BCE. Self-regulating mechanisms have existed since antiquity, and were used to maintain a constant level in the reservoirs of water clocks as early as 200 BCE.[3]
+
+
+The fly-ball governor is an early example of negative feedback.
+Negative feedback was implemented in the 17th Century. Cornelius Drebbel had built thermostatically-controlled incubators and ovens in the early 1600s,[4] and centrifugal governors were used to regulate the distance and pressure between millstones in windmills.[5] James Watt patented a form of governor in 1788 to control the speed of his steam engine, and James Clerk Maxwell in 1868 described "component motions" associated with these governors that lead to a decrease in a disturbance or the amplitude of an oscillation.[6]
+
+The term "feedback" was well established by the 1920s, in reference to a means of boosting the gain of an electronic amplifier.[7] Friis and Jensen described this action as "positive feedback" and made passing mention of a contrasting "negative feed-back action" in 1924.[8] Harold Stephen Black came up with the idea of using negative feedback in electronic amplifiers in 1927, submitted a patent application in 1928,[9] and detailed its use in his paper of 1934, where he defined negative feedback as a type of coupling that reduced the gain of the amplifier, in the process greatly increasing its stability and bandwidth.[10][11]
+
+Karl Küpfmüller published papers on a negative-feedback-based automatic gain control system and a feedback system stability criterion in 1928.[12]
+
+Nyquist and Bode built on Black’s work to develop a theory of amplifier stability.[11]
+
+Early researchers in the area of cybernetics subsequently generalized the idea of negative feedback to cover any goal-seeking or purposeful behavior.[13]
+
+All purposeful behavior may be considered to require negative feed-back. If a goal is to be attained, some signals from the goal are necessary at some time to direct the behavior.
+
+Cybernetics pioneer Norbert Wiener helped to formalize the concepts of feedback control, defining feedback in general as "the chain of the transmission and return of information",[14] and negative feedback as the case when:
+
+The information fed back to the control center tends to oppose the departure of the controlled from the controlling quantity...(p97)
+
+While the view of feedback as any "circularity of action" helped to keep the theory simple and consistent, Ashby pointed out that, while it may clash with definitions that require a "materially evident" connection, "the exact definition of feedback is nowhere important".[1] Ashby pointed out the limitations of the concept of "feedback":
+
+The concept of 'feedback', so simple and natural in certain elementary cases, becomes artificial and of little use when the interconnections between the parts become more complex...Such complex systems cannot be treated as an interlaced set of more or less independent feedback circuits, but only as a whole. For understanding the general principles of dynamic systems, therefore, the concept of feedback is inadequate in itself. What is important is that complex systems, richly cross-connected internally, have complex behaviors, and that these behaviors can be goal-seeking in complex patterns. (p54)
+
+To reduce confusion, later authors have suggested alternative terms such as degenerative,[15] self-correcting,[16] balancing,[17] or discrepancy-reducing[18] in place of "negative".
+
+Overview[edit]
+
+Feedback loops in the human body
+In many physical and biological systems, qualitatively different influences can oppose each other. For example, in biochemistry, one set of chemicals drives the system in a given direction, whereas another set of chemicals drives it in an opposing direction. If one or both of these opposing influences are non-linear, equilibrium point(s) result.
+
+In biology, this process (in general, biochemical) is often referred to as homeostasis; whereas in mechanics, the more common term is equilibrium.
+
+In engineering, mathematics and the physical, and biological sciences, common terms for the points around which the system gravitates include: attractors, stable states, eigenstates/eigenfunctions, equilibrium points, and setpoints.
+
+In control theory, negative refers to the sign of the multiplier in mathematical models for feedback. In delta notation, −Δoutput is added to or mixed into the input. In multivariate systems, vectors help to illustrate how several influences can both partially complement and partially oppose each other.[7]
+
+Some authors, in particular with respect to modelling business systems, use negative to refer to the reduction in difference between the desired and actual behavior of a system.[19][20] In a psychology context, on the other hand, negative refers to the valence of the feedback – attractive versus aversive, or praise versus criticism.[21]
+
+In contrast, positive feedback is feedback in which the system responds so as to increase the magnitude of any particular perturbation, resulting in amplification of the original signal instead of stabilization. Any system in which there is positive feedback together with a gain greater than one will result in a runaway situation. Both positive and negative feedback require a feedback loop to operate.
+
+However, negative feedback systems can still be subject to oscillations. This is caused by the slight delays around any loop. Due to these delays the feedback signal of some frequencies can arrive one half cycle later which will have a similar effect to positive feedback and these frequencies can reinforce themselves and grow over time. This problem is often dealt with by attenuating or changing the phase of the problematic frequencies. Unless the system naturally has sufficient damping, many negative feedback systems have low pass filters or dampers fitted.

@@ -1,0 +1,32 @@
+Mental operations are operations that affect mental contents. Initially, operations of reasoning have been the object of logic alone. Pierre Janet was one of the first to use the concept in psychology. Mental operations have been investigated at a developmental level by Jean Piaget, and from a psychometric perspective by J. P. Guilford. There is also a cognitive approach to the subject, as well as a systems view of it.
+
+Since Antiquity, mental operations, more precisely, formal operations of reasoning have been the object of logic. 
+
+In 1903, Pierre Janet described two types of mental operations: 
+
+reality operations - mental operations under the control of logic;
+disinterested operations - escaping the control of reason.
+Jean Piaget differentiated a preoperational stage, and operational stages of cognitive development, on the basis of presence of mental operations as an adaptation tool. 
+
+J. P. Guilford's Structure of Intellect model described up to 180 different intellectual abilities organized along three dimensions—Operations, Content, and Products.
+
+According to most logicians, the three primary mental operations are apprehension (understanding), judgement, and inference.
+
+Apprehension is the mental operation by which an idea is formed in the mind. If you were to think of a sunset or a baseball, the action of forming that picture in your mind is apprehension. The verbal expression of apprehension is called a term.
+
+Judgment is the mental operation by which we predicate something of a subject. Were you to think, "That sunset is beautiful" or "Baseball is the all-American sport" is to make a judgment. The verbal expression of judgment is the statement (or proposition).
+
+Inference (or reasoning) is the mental operation by which we draw conclusions from other information. If you were to think, "I like to look at that sunset, because I enjoy beautiful things, and that sunset is beautiful" you would be reasoning. The verbal expression of reasoning is the logical argument.
+
+According to J. P. Guilford's Structure of Intellect (SI) theory, an individual's performance on intelligence tests can be traced back to the underlying mental abilities or factors of intelligence. SI theory comprises multiple intellectual abilities organized along three dimensions—Operations, Content, and Products. 
+
+Operations dimension
+SI includes six operations or general intellectual processes: Cognition—The ability to understand, comprehend, discover, and become aware of information. Memory recording—The ability to encode information. Memory retention—The ability to recall information. Divergent production—The ability to generate multiple solutions to a problem; creativity. Convergent production—The ability to deduce a single solution to a problem; rule-following or problem-solving. Evaluation—The ability to judge whether or not information is accurate, consistent, or valid.
+
+Content dimension
+SI includes five broad areas of information to which the human intellect applies the six operations: Visual—Information perceived through seeing. Auditory—Information perceived through hearing. Kinesthetic -through actions Symbolic—Information perceived as symbols or signs that have no meaning by themselves; e.g., Arabic numerals or the letters of an alphabet. Semantic—Information perceived in words or sentences, whether oral, written, or silently in one's mind. Behavioral—Information perceived as acts of people.
+
+Product dimension
+As the name suggests, this dimension contains results of applying particular operations to specific contents. The SI model includes six products, in increasing complexity: Units—Single items of knowledge. Classes—Sets of units sharing common attributes. Relations—Units linked as opposites or in associations, sequences, or analogies. Systems—Multiple relations interrelated to comprise structures or networks. Transformations—Changes, perspectives, conversions, or mutations to knowledge. Implications—Predictions, inferences, consequences, or anticipations of knowledge.
+
+Therefore, according to Guilford there are 6 x 5 x 6 = 180 intellectual abilities or factors. Each ability stands for a particular operation in a particular content area and results in a specific product, such as Comprehension of Figural Units or Evaluation of Semantic Implications.

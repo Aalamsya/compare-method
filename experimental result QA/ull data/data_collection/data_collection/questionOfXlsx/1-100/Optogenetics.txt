@@ -1,0 +1,10 @@
+What is  Optogenetics?	definition
+When did natural method appraised Optogenetics as "the best method of the year"?	date
+Who reported the earliest genetic targeting method for the use of light to control rhodopsin sensitized neurons?	person
+Who developed a second method for light-dependent activation of neurons?	person
+When did the Kramer and Isacoff groups develop organic photoswitches?	date
+What university did Peter Hegemann attend?	name
+Who reported the first use of genetically-targeted P2X2 photostimulation to control the behaviour of an animal?	person
+What was subsequently used to record neural activity in flies and zebrafish?	name
+Who was awarded the first Nakasone prize at Stanford University?	person
+Who was awarded the La Tour prize in international health?	person

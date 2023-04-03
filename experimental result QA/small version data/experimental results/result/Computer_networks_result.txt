@@ -1,0 +1,59 @@
+¡Á1.What is the abbreviation of Semi-Automatic Ground Environment ? 
+No.1---> 2.0    21
+A widely adopted family of transmission media used in local area network -LRB- LAN -RRB- technology is collectively known as Ethernet . 
+No.2---> 2.0    22
+The media and protocol standards that enable communication between networked devices over Ethernet are defined by IEEE 802.3 . 
+No.3---> 2.0    35
+A switch is distinct from a hub in that it only forwards the frames to the physical ports involved in the communication rather than all ports connected . 
+No.4---> 2.0    39
+Modems are commonly used for telephone lines , using a Digital Subscriber Line technology . 
+No.5---> 2.0    47
+An important example of a protocol stack is HTTP -LRB- the World Wide Web protocol -RRB- running over TCP over IP -LRB- the Internet protocols -RRB- over IEEE 802.11 -LRB- the Wi-Fi protocol -RRB- . 
+
+¡Á2.Why is Ethernet continued use ? 
+No.1---> 0.0    2
+The connections between nodes are established using either cable media or wireless media . 
+No.2---> 0.0    15
+Users may access and use resources provided by devices on the network , such as printing a document on a shared network printer . 
+No.3---> 0.0    17
+A computer network may be used by computer crackers to deploy computer viruses or computer worms on devices connected to the network , or to prevent these devices from accessing the network via a denial of service attack . 
+No.4---> 0.0    22
+Once the packets arrive they are reassembled into their original message . 
+No.5---> 0.0    23
+With packets , the bandwidth of the transmission medium can be better shared among users than if the network were circuit switched . 
+
+¡Á3.How many kinds of data do packets consist of ? 
+No.1---> 0.0    0
+A computer network or data network is a telecommunications network which allows nodes to share resources . 
+No.2---> 0.0    2
+The connections between nodes are established using either cable media or wireless media . 
+No.3---> 0.0    3
+The best-known computer network is the Internet . 
+No.4---> 0.0    4
+Network computer devices that originate , route and terminate the data are called network nodes . 
+No.5---> 0.0    5
+Nodes can include hosts such as personal computers , phones , servers as well as networking hardware . 
+
+¡Á4.How far are the communications satellites stationed in geosynchronous orbit above the equator ? 
+No.1---> 0.0    2
+The connections between nodes are established using either cable media or wireless media . 
+No.2---> 0.0    3
+The best-known computer network is the Internet . 
+No.3---> 0.0    9
+In most cases , application-specific communications protocols are layered -LRB- i.e. carried as payload -RRB- over other more general communications protocols . 
+No.4---> 0.0    15
+Users may access and use resources provided by devices on the network , such as printing a document on a shared network printer . 
+No.5---> 0.0    17
+A computer network may be used by computer crackers to deploy computer viruses or computer worms on devices connected to the network , or to prevent these devices from accessing the network via a denial of service attack . 
+
+¡Ì5.What basic types do bridges come in ? 
+No.1---> 0.0    39
+Bridges come in three basic types : A network switch is a device that forwards and filters OSI layer 2 datagrams -LRB- frames -RRB- between ports based on the destination MAC address in each frame . 
+No.2---> 0.0    41
+The term switch is often used loosely to include devices such as routers and bridges , as well as devices that may distribute traffic based on load or based on application content -LRB- e.g. , a Web URL identifier -RRB- . 
+No.3---> 0.0    97
+Intermediate nodes are typically network hardware devices such as routers , bridges , gateways , firewalls , or switches . 
+No.4---> 0.0    126
+The physical perspective involves geographic locations , physical cabling , and the network elements -LRB- e.g. , routers , bridges and application layer gateways -RRB- that interconnect via the transmission media . 
+No.5---> 1.5    31
+Apart from any physical transmission medium there may be , networks comprise additional basic system building blocks , such as network interface controller -LRB- NICs -RRB- , repeaters , hubs , bridges , switches , routers , modems , and firewalls . 

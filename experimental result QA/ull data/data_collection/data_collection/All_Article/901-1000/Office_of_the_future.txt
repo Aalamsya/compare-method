@@ -1,0 +1,27 @@
+The office of the future is a concept dating from the 1940s. It is also known as the "paperless office".
+
+The first practical office of the future concept was probably the series of machines which were presented in Life (magazine) on November 1945. Life magazine hired an illustrator from Sperry Rand to make drawings of the concepts Vannevar Bush had presented a few months earlier in The Atlantic Monthly magazine under the title As We May Think.
+
+The Memex article in The Atlantic is most often cited because of its longer text which details the proposal of a system of shared microfilm based hyperlinks which could be considered as a precursor to the World Wide Web. Those citations tend to overlook the massive organization it would have taken to mail all those microfilm reels between scientists, and eventually between any knowledge worker, in order to make the system work. The citations also tend to overlook that Memex was an entire system, composed not only of a massive desk which housed the microfilm hyperlinking equipment, and the microfilm library but also of a speech activated typewriter (also capable of speech synthesis from normal paper text) and other accessories.
+
+Many concepts for future computer systems were presented in the 1960s and 1970s, but none really touched office work as much as the Memex or had such a lasting impact. For instance, the Dynabook idea proposed a portable slate-like personal computer which could have been used in an office but which was really an extremely personal exploration tool, meant more to draw art, compose music or invent new algorithms than to write a business letter.
+
+Sun Microsystems presented a complete office of the future concept when it made its Starfire video prototype public in 1994. Like the Memex system, The Starfire prototype has been sometimes touted as predicting the birth of the World Wide Web. While it is true that we see the heroine "navigating" what the narrator describes as a "vast information space" this takes up but a few seconds at the beginning of the 15 minute Starfire video.
+
+The Starfire is much more than a Web navigating machine. The Starfire video shows in the rest of the 15 minutes a large panoply of hardware and software concepts such as a gestural interface, total integration with public telephony and other innovations. Like the Memex system the Starfire has a large, massive desk as its central feature, and proposes compatible devices in complement to the desk, such as a laptop with a chorded keyboard and advanced videoconferencing. Bruce Tognazzini was the principal driver behind the project, with the collaboration of many other Sun luminaries such as Jakob Nielsen, and the help of external consultants.
+
+The two most recent integrated visions of the digital office of the future have come from Microsoft and IBM. In a way they are in interesting opposition. The D# screen and its Broadbench software look like an informatician's dream workspace, betraying the computer science or software developer culture prevalent at Microsoft. The Bluespace prototype seems like the perfect environment for an ambitious young IBM salesperson, thus betraying the salesperson-centric culture prevalent within IBM .
+
+The D#-Broadbench curves around a single user, making physically close collaborative work difficult. The gentle curve helps to enhance concentration, while its massive size makes it unsuitable for the typical cubicle and perfect for a small closed office, like the one each and every software developer has at Microsoft.
+
+The Bluespace prototype is filled with enhancements meant to manage and control the flow of disturbances coming to a user but not to completely stop them or discourage them in any definitive way. All of the elements are small enough to fit into a typical cubicle or even a smaller one than the norm. While the screens and other devices surround the user, they are flexible enough to permit physical teamwork between two or three more other users coming into the cubicle.
+
+Both prototypes require considerable work to be adapted to what most managers or professionals consider a "real" desk, that is a pedestal desk, located in a closed office. They would also require rework and re-think to be adapted to the types of desks which are found in home offices or small business offices, such as the armoire desk.
+
+Teams at IBM Research and Microsoft Research are currently working on perfecting these prototypes.
+
+At the beginning of the year 2001 the Museum of Modern Art (MoMA) in New York city presented a 3 month long exhibit called "Workspheres", which explored the role of industrial designers in creating what were intended to be effective and aesthetic solutions to present and future office environment issues.
+
+Among the 151 objects or ensembles presented there were 6 works commissioned specifically for the exhibition, from experienced industrial design companies like IDEO. While some of the works had practical aspects, they were all chosen for their artistic impact. A complete catalogue of the exhibition was produced and a special website, with its own distinctive artistic interface, was put on line.
+
+"Office of the Future" is also the name of an ongoing research project (based at the Department of Computer Science, University of North Carolina at Chapel Hill) which began among a consortium of universities sponsored by the National Science Foundation.

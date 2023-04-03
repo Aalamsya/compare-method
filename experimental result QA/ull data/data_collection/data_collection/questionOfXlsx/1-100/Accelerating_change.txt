@@ -1,0 +1,10 @@
+When did Buckminster Fuller introduce the term "transient" to describe chemistry?	date
+When did Fuller publish a chart on chemical elements found over time to highlight the acceleration of accelerated human knowledge acquisition?	date
+In which TV series, James Burke explored an "alternative view of change"?	name
+What are the first three inferences in Burke's thesis?	definition
+Who wrote "sympathy for the universe"?	person
+How many different ways of thinking in human history have been identified by Hawkins?	number
+In which science fiction novels Vernor Vinge promotes his views on exponentially accelerating technological change？	name
+Which novel in 1992 started to describe the imagination of super-intelligent evolution？	name
+Who proposed the "accelerated regression law"?	person
+When does Kurzweil think that the technical singularity will happen?	date

@@ -1,0 +1,5 @@
+What is LIDA?	definition
+Who developed LIDA buildings?	person
+What is the basis of the LIDA architecture and its corresponding conceptual models?	definition
+How many stages can LIDA cognitive cycle be divided into?	number
+Who was IDA developed for?	person

@@ -1,0 +1,57 @@
+A friendly artificial intelligence (also friendly AI or FAI) is a hypothetical artificial general intelligence (AGI) that would have a positive effect on humanity. It is a part of the ethics of artificial intelligence and is closely related to machine ethics. While machine ethics is concerned with how an artificially intelligent agent should behave, friendly artificial intelligence research is focused on how to practically bring about this behaviour and ensuring it is adequately constrained.
+
+The term was coined by Eliezer Yudkowsky, who is best known for popularizing the idea, to discuss superintelligent artificial agents that reliably implement human values. Stuart J. Russell and Peter Norvig's leading artificial intelligence textbook, Artificial Intelligence: A Modern Approach, describes the idea: 
+
+Yudkowsky (2008) goes into more detail about how to design a Friendly AI. He asserts that friendliness (a desire not to harm humans) should be designed in from the start, but that the designers should recognize both that their own designs may be flawed, and that the robot will learn and evolve over time. Thus the challenge is one of mechanism design—to define a mechanism for evolving AI systems under a system of checks and balances, and to give the systems utility functions that will remain friendly in the face of such changes.
+
+'Friendly' is used in this context as technical terminology, and picks out agents that are safe and useful, not necessarily ones that are "friendly" in the colloquial sense. The concept is primarily invoked in the context of discussions of recursively self-improving artificial agents that rapidly explode in intelligence, on the grounds that this hypothetical technology would have a large, rapid, and difficult-to-control impact on human society.
+
+The roots of concern about artificial intelligence are very old. Kevin LaGrandeur showed that the dangers specific to AI can be seen in ancient literature concerning artificial humanoid servants such as the golem, or the proto-robots of Gerbert of Aurillac and Roger Bacon. In those stories, the extreme intelligence and power of these humanoid creations clash with their status as slaves (which by nature are seen as sub-human), and cause disastrous conflict. By 1942 these themes prompted Isaac Asimov to create the "Three Laws of Robotics" - principles hard-wired into all the robots in his fiction, intended to prevent them from turning on their creators, or allowing them to come to harm. 
+
+In modern times as the prospect of superintelligent AI looms nearer, philosopher Nick Bostrom has said that superintelligent AI systems with goals that are not aligned with human ethics are intrinsically dangerous unless extreme measures are taken to ensure the safety of humanity. He put it this way:
+
+Basically we should assume that a 'superintelligence' would be able to achieve whatever goals it has. Therefore, it is extremely important that the goals we endow it with, and its entire motivation system, is 'human friendly.'
+
+Ryszard Michalski, a pioneer of machine learning, taught his Ph.D. students decades ago that any truly alien mind, including a machine mind, was unknowable and therefore dangerous to humans. 
+
+More recently, Eliezer Yudkowsky has called for the creation of “friendly AI” to mitigate existential risk from advanced artificial intelligence. He explains: "The AI does not hate you, nor does it love you, but you are made out of atoms which it can use for something else." 
+
+Steve Omohundro says that a sufficiently advanced AI system will, unless explicitly counteracted, exhibit a number of basic "drives", such as resource acquisition, self-preservation, and continuous self-improvement, because of the intrinsic nature of any goal-driven systems and that these drives will, "without special precautions", cause the AI to exhibit undesired behavior. 
+
+Alexander Wissner-Gross says that AIs driven to maximize their future freedom of action (or causal path entropy) might be considered friendly if their planning horizon is longer than a certain threshold, and unfriendly if their planning horizon is shorter than that threshold. 
+
+Luke Muehlhauser, writing for the Machine Intelligence Research Institute, recommends that machine ethics researchers adopt what Bruce Schneier has called the "security mindset": Rather than thinking about how a system will work, imagine how it could fail. For instance, he suggests even an AI that only makes accurate predictions and communicates via a text interface might cause unintended harm.
+
+Yudkowsky advances the Coherent Extrapolated Volition (CEV) model. According to him, coherent extrapolated volition is people's choices and the actions people would collectively take if "we knew more, thought faster, were more the people we wished we were, and had grown up closer together." 
+
+Rather than a Friendly AI being designed directly by human programmers, it is to be designed by a "seed AI" programmed to first study human nature and then produce the AI which humanity would want, given sufficient time and insight, to arrive at a satisfactory answer. The appeal to an objective though contingent human nature (perhaps expressed, for mathematical purposes, in the form of a utility function or other decision-theoretic formalism), as providing the ultimate criterion of "Friendliness", is an answer to the meta-ethical problem of defining an objective morality; extrapolated volition is intended to be what humanity objectively would want, all things considered, but it can only be defined relative to the psychological and cognitive qualities of present-day, unextrapolated humanity.
+
+Ben Goertzel, an artificial general intelligence researcher, believes that friendly AI cannot be created with current human knowledge. Goertzel suggests humans may instead decide to create an "AI Nanny" with "mildly superhuman intelligence and surveillance powers", to protect the human race from existential risks like nanotechnology and to delay the development of other (unfriendly) artificial intelligences until and unless the safety issues are solved. This can also be termed "Defensive AI."
+
+Steve Omohundro has proposed a "scaffolding" approach to AI safety, in which one provably safe AI generation helps build the next provably safe generation. 
+
+Stefan Pernar argues along the lines of Meno's paradox to point out that attempting to solve the FAI problem is either pointless or hopeless depending on whether one assumes a universe that exhibits moral realism or not. In the former case a transhuman AI would independently reason itself into the proper goal system and assuming the latter, designing a friendly AI would be futile to begin with since morals can not be reasoned about. 
+
+Cindy Mason, an AI researcher who has also worked with mind-body medicine at Stanford University Medical Center, believes neuroplasticity and new discoveries of the hormone oxytocin mean compassionate intelligence is essential in AI systems that exhibit socially positive behaviors. She has proposed a set of software engineering principles for engineering kindness that includes a pro-human stance and an architecture for giving robots compassion.
+
+An oracle is a hypothetical intelligent agent proposed by Nick Bostrom. An oracle is an AI designed to answer questions, but that is somehow prevented from ever gaining any implicit goals or subgoals that involve modifying the world outside of its box.
+
+Oracles are question-answering systems that handle domain-specific problems, such as mathematics, or domain-general problems that might encompass the whole range of human knowledge.
+
+Because it is a type of AI box, an oracle is limited in its interactions with the physical world, and can be programmed to halt if a limit on time or computing resources is reached before it finishes answering a question. Scenarios like the paperclip maximizer problem could therefore be avoided.
+
+Because of these limitations, it may be wise to build an oracle as a precursor to a superintelligent AI. It could tell humans how to successfully build a strong AI, and perhaps provide answers to difficult moral and philosophical problems requisite to the success of the project.
+
+An oracle might discover that human ontological categories are predicated on fundamental misconceptions, and become unable to express itself properly to its questioners. 
+
+Oracles may not be truthful, possibly lying to promote hidden agendas. To mitigate this, Bostrom suggests building multiple oracles, all slightly different, and comparing their answers to reach a consensus.
+
+James Barrat, author of Our Final Invention, suggested that "a public-private partnership has to be created to bring A.I.-makers together to share ideas about security—something like the International Atomic Energy Agency, but in partnership with corporations." He urges AI researchers to convene a meeting similar to the Asilomar Conference on Recombinant DNA, which discussed risks of biotechnology. 
+
+John McGinnis encourages governments to accelerate friendly AI research. Because the goalposts of friendly AI aren't necessarily clear, he suggests a model more like the National Institutes of Health, where "Peer review panels of computer and cognitive scientists would sift through projects and choose those that are designed both to advance AI and assure that such advances would be accompanied by appropriate safeguards." McGinnis feels that peer review is better "than regulation to address technical issues that are not possible to capture through bureaucratic mandates". McGinnis notes that his proposal stands in contrast to that of the Machine Intelligence Research Institute, which generally aims to avoid government involvement in friendly AI. 
+
+According to Gary Marcus, the annual amount of money being spent on developing machine morality is tiny.
+
+Some critics believe that both human-level AI and superintelligence are unlikely, and that therefore friendly AI is unlikely. Writing in The Guardian, Alan Winfeld compares human-level artificial intelligence with faster-than-light travel in terms of difficulty, and states that while we need to be "cautious and prepared" given the stakes involved, we "don't need to be obsessing" about the risks of superintelligence. 
+
+Some philosophers claim that any truly "rational" agent, whether artificial or human, will naturally be benevolent; in this view, deliberate safeguards designed to produce a friendly AI could be unnecessary or even harmful. Other critics question whether it is possible for an artificial intelligence to be friendly. Adam Keiper and Ari N. Schulman, editors of the technology journal The New Atlantis, say that it will be impossible to ever guarantee "friendly" behavior in AIs because problems of ethical complexity will not yield to software advances or increases in computing power. They write that the criteria upon which friendly AI theories are based work "only when one has not only great powers of prediction about the likelihood of myriad possible outcomes, but certainty and consensus on how one values the different outcomes.

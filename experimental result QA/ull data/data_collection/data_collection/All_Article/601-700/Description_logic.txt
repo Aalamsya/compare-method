@@ -1,0 +1,15 @@
+Description logics (DL) are a family of formal knowledge representation languages. Many DLs are more expressive than propositional logic but less expressive than first-order logic. In contrast to the latter, the core reasoning problems for DLs are (usually) decidable, and efficient decision procedures have been designed and implemented for these problems. There are general, spatial, temporal, spatiotemporal, and fuzzy descriptions logics, and each description logic features a different balance between DL expressivity and reasoning complexity by supporting different sets of mathematical constructors.[1]
+
+DLs are used in artificial intelligence to describe and reason about the relevant concepts of an application domain (known as terminological knowledge). It is of particular importance in providing a logical formalism for ontologies and the Semantic Web: the Web Ontology Language (OWL) and its profile is based on DLs. The most notable application of DLs and OWL is in biomedical informatics where DL assists in the codification of biomedical knowledge.
+A description logic (DL) models concepts, roles and individuals, and their relationships.
+
+The fundamental modeling concept of a DL is the axiom—a logical statement relating roles and/or concepts.[2] This is a key difference from the frames paradigm where a frame specification declares and completely defines a class.
+Frames and semantic networks lack formal (logic-based) semantics.[5] DL was first introduced into knowledge representation (KR) systems to overcome this deficiency.[5]
+
+The first DL-based KR system was KL-ONE (by Ronald J. Brachman and Schmolze, 1985). During the '80s other DL-based systems using structural subsumption algorithms[5] were developed including KRYPTON (1983), LOOM (1987), BACK (1988), K-REP (1991) and CLASSIC (1991). This approach featured DL with limited expressiveness but relatively efficient (polynomial time) reasoning.[5]
+
+In the early '90s, the introduction of a new tableau based algorithm paradigm allowed efficient reasoning on more expressive DL.[5] DL-based systems using these algorithms - such as KRIS (1991) - show acceptable reasoning performance on typical inference problems even though the worst case complexity is no longer polynomial.[5]
+
+From the mid '90s, reasoners were created with good practical performance on very expressive DL with high worst case complexity.[5] Examples from this period include FaCT,[6] RACER (2001), CEL (2005), and KAON 2 (2005).
+
+DL reasoners, such as FaCT, FaCT++,[6] RACER, DLP and Pellet,[7] implement the method of analytic tableaux. KAON2 is implemented by algorithms which reduce a SHIQ(D) knowledge base to a disjunctive datalog program.

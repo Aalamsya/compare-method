@@ -1,0 +1,23 @@
+Retrodiction (also known as postdiction—although this should not be confused with the use of the term in criticisms of parapsychological research) is the act of making a "prediction" about the past.
+
+The activity of retrodiction (or postdiction) involves moving backwards in time, step-by-step, in as many stages as are considered necessary, from the present into the speculated past to establish the ultimate cause of a specific event (for instance, in the case of reverse engineering, forensics, etc.).
+
+Given that retrodiction is a process in which "past observations, events and data are used as evidence to infer the process(es) that produced them" and that diagnosis "involve going from visible effects such as symptoms, signs and the like to their prior causes" the essential balance between prediction and retrodiction could be characterized as:
+
+retrodiction : diagnosis :: prediction : prognosis
+regardless of whether the prognosis is of the course of the disease in the absence of treatment, or of the application of a specific treatment regimen to a specific disorder in a particular patient:
+
+"We consider diagnostic inference to be based on causal thinking, although in doing diagnosis one has to mentally reverse the time order in which events were thought to have occurred (hence the term "backward inference"). On the other hand, predictions involve forward inference; i.e., one goes forward in time from present causes to future effects. However, it is important to recognize the dependence of forward inference/prediction on backward inference/diagnosis. In particular, it seems likely that success in predicting the future depends to a considerable degree on making sense of the past. Therefore, people are continually engaged in shifting between forward and backward inference in both making and evaluating forecasts. Indeed, this can be eloquently summarized by Kierkegaard's observation that, "Life can only be understood backwards; but it must be lived forwards".
+
+In scientific method, the terms retrodiction or postdiction are used in several senses.
+
+One use refers to the act of evaluating a scientific theory by predicting known rather than new events. For example, a theory in physics that claims to extend or replace the standard model but that fails to predict the existence of known particles has not met the test of postdiction.
+
+Michael Clive Price has written:
+
+A retrodiction occurs when already gathered data is accounted for by a later theoretical advance in a more convincing fashion. The advantage of a retrodiction over a prediction is that the already gathered data is more likely to be free of experimenter bias. An example of a retrodiction is the perihelion shift of Mercury which Newtonian mechanics plus gravity was unable, totally, to account for whilst Einstein's general relativity made short work of it.
+
+Another use refers to a process by which one attempts to test a theory whose predictions are too long-term to be tested by waiting for a future event to occur. Instead, one speculates about uncertain events in the more distant past, and applies the theory to consider how it would have predicted a known event in the less distant past. This is useful in, for example, the fields of archaeology, climatology, evolutionary biology, financial analysis, forensic science, and cosmology.
+
+Sensory perception
+In the field of neuroscience, the term postdiction was introduced by David Eagleman to describe a perceptual process in which the brain collects information after an event before it retrospectively decides what happened at the time of the event (Eagleman and Sejnowski, 2000). Some perceptual illusions in which the brain mistakenly perceives the location of moving stimuli may involve postdiction. Such illusions include the flash lag illusion and the cutaneous rabbit illusion.

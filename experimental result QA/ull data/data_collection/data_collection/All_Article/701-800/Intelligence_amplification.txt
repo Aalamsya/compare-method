@@ -1,0 +1,26 @@
+Intelligence amplification (IA) (also referred to as cognitive augmentation and machine augmented intelligence) refers to the effective use of information technology in augmenting human intelligence. The idea was first proposed in the 1950s and 1960s by cybernetics and early computer pioneers.
+
+IA is sometimes contrasted with AI (artificial intelligence), that is, the project of building a human-like intelligence in the form of an autonomous technological system such as a computer or robot. AI has encountered many fundamental obstacles, practical as well as theoretical, which for IA seem moot, as it needs technology merely as an extra support for an autonomous intelligence that has already proven to function. Moreover, IA has a long history of success, since all forms of information technology, from the abacus to writing to the Internet, have been developed basically to extend the information processing capabilities of the human mind (see extended mind and distributed cognition).
+
+
+The term intelligence amplification (IA) has enjoyed a wide currency since William Ross Ashby wrote of "amplifying intelligence" in his Introduction to Cybernetics (1956). Related ideas were explicitly proposed as an alternative to Artificial Intelligence by Hao Wang from the early days of automatic theorem provers.
+
+
+
+"Man-Computer Symbiosis" is a key speculative paper published in 1960 by psychologist/computer scientist J.C.R. Licklider, which envisions that mutually-interdependent, "living together", tightly-coupled human brains and computing machines would prove to complement each other's strengths to a high degree:
+
+    Man-computer symbiosis is a subclass of man-machine systems. There are many man-machine systems. At present, however, there are no man-computer symbioses. The purposes of this paper are to present the concept and, hopefully, to foster the development of man-computer symbiosis by analyzing some problems of interaction between men and computing machines, calling attention to applicable principles of man-machine engineering, and pointing out a few questions to which research answers are needed. The hope is that, in not too many years, human brains and computing machines will be coupled together very tightly, and that the resulting partnership will think as no human brain has ever thought and process data in a way not approached by the information-handling machines we know today.
+
+            Licklider, J.C.R., "Man-Computer Symbiosis", IRE Transactions on Human Factors in Electronics, vol. HFE-1, 4-11, Mar 1960.
+
+In Licklider's vision, many of the pure artificial intelligence systems envisioned at the time by over-optimistic researchers would prove unnecessary. (This paper is also seen by some historians as marking the genesis of ideas about computer networks which later blossomed into the Internet).
+
+
+Licklider's research was similar in spirit to his DARPA contemporary and protégé Douglas Engelbart. Both had a view of how computers could be used that was both at odds with the then-prevalent views (which saw them as devices principally useful for computations), and key proponents of the way in which computers are now used (as generic adjuncts to humans).
+
+Engelbart reasoned that the state of our current technology controls our ability to manipulate information, and that fact in turn will control our ability to develop new, improved technologies. He thus set himself to the revolutionary task of developing computer-based technologies for manipulating information directly, and also to improve individual and group processes for knowledge-work. Engelbart's philosophy and research agenda is most clearly and directly expressed in the 1962 research report: Augmenting Human Intellect: A Conceptual Framework[1] The concept of network augmented intelligence is attributed to Engelbart based on this pioneering work. 
+
+Engelbart subsequently implemented these concepts in his Augmented Human Intellect Research Center at SRI International, developing essentially an intelligence amplifying system of tools (NLS) and co-evolving organizational methods, in full operational use by the mid-1960s within the lab. As intended,[2] his R&D team experienced increasing degrees of intelligence amplification, as both rigorous users and rapid-prototype developers of the system. For a sampling of research results, see their 1968 Mother of All Demos.
+
+
+Howard Rheingold worked at Xerox PARC in the 1980s and was introduced to both Bob Taylor and Douglas Engelbart; Rheingold wrote about "mind amplifiers" in his 1985 book, Tools for Thought.

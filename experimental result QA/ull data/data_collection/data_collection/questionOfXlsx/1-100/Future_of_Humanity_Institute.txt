@@ -1,0 +1,10 @@
+What is Future_of_Humanity_Institute?	definition
+What year was FHI founded?	date
+Who is the director of FHI?	person
+How many academic articles did FHI write from 2008 to 2010?	number
+Who published the book "human enhancement"?	person
+Who wrote Smarter Than US?	person
+Who wrote Superintelligence: Paths, Dangers, Strategies?	person
+What is the main concern of FHI?	definition
+What is a common theme in FHI research?	nnp
+What is the focus of FHI?	definition

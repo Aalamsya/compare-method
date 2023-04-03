@@ -1,0 +1,30 @@
+√1.How can information systems prevent data loss or restore lost data?
+√2.What is data loss?
+√3.How is data loss distinguished from data unavailability?
+√4.What is the definition of regular data backups?
+×5.What can the frequency of data loss and the impact be greatly mitigated?
+×6.What are sometimes called ‘hard science’?
+√7.How many main branches can natural science be divided into?
+×8.Whose controversial falsifiability criterion helps differentiate scientific endeavors?
+√9.When did biology became a unified science?
+×10.What is often called ‘the central science’ ?
+√11.Why is physics regarded as the fundamental science?
+√12.What is the scope of veterinary medicine?
+×13.Who is the first Buddhist Emperor of India?
+×14.When did farriers combined their work in horseshoeing with 'horse doctoring'?
+×15.What is the name of the first comprehensive treatise on the anatomy of a nonhuman species?
+√16.What is the computer science study of?
+√17.When did Gottfried Leibniz demonstrate a digital mechanical calculator?
+√18.Who launched the mechanical calculator industry in 1820?
+√19.When did computer science began to be established as a distinct academic discipline?
+×20.What branch is synthetic biology from?
+√21.Who portrayed synthetic biology as a new emerging scientific field where ICT?
+√22.What is the purpose of synthetic biology?
+√23.When did George M. Church encoded one of his books about synthetic biology in DNA?
+√24.How many times were able to exchange the bacteria in the culture media? 
+√25.What may be regarded as a branch of both psychology and musicology?
+×26.Whose establishment of the simple string length ratios that formed the consonances of the octave?
+√27.When has music psychology expanded to cover a wide array of theoretical and applied areas?
+×28.What is the abbreviation of functional magnetic resonance imaging?
+×29.How did researchers estimate the occurrence of AP to be?
+×30.Who speculated that music may have held an adaptive advantage and functioned as a protolanguage?

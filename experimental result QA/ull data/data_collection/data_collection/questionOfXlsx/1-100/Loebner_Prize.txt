@@ -1,0 +1,10 @@
+What is the Loebner Award?	definition
+When was the Loebner Award initiated?	date
+How did the commentator Marvin Minsky evaluate the Loebner Award?	manner
+What is the bonus for the Loebner Award in 2005?	money
+What is the bonus for the Loebner Award in 2006?	money
+What is the bonus for the Loebner Award in 2008?	money
+What is the reward for the first project that cannot be distinguished from the real person in the Turing test?	money
+What are the three entries in the 2007 competition?	name
+When was the first time a sponsor allowed to introduce a preliminary phase in the competition?	date
+Who provides the prize to stop the competition and effectively make him a co-sponsor?	person

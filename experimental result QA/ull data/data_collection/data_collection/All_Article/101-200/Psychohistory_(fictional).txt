@@ -1,0 +1,74 @@
+Psychohistory is a fictional science in Isaac Asimov's Foundation universe which combines history, sociology, and mathematical statistics to make general predictions about the future behavior of very large groups of people, such as the Galactic Empire. It was first introduced in the four short stories (1942–1944) which would later be collected as the 1951 novel Foundation.
+
+Psychohistory depends on the idea that, while one cannot foresee the actions of a particular individual, the laws of statistics as applied to large groups of people could predict the general flow of future events. Asimov used the analogy of a gas: An observer has great difficulty in predicting the motion of a single molecule in a gas, but with the kinetic theory can predict the mass action of the gas to a high level of accuracy. Asimov applied this concept to the population of his fictional Galactic Empire, which numbered one quintillion. The character responsible for the science's creation, Hari Seldon, established two axioms:
+
+that the population whose behavior was modeled should be sufficiently large
+that the population should remain in ignorance of the results of the application of psychohistorical analyses because if it's aware, the group changes its behaviour.
+Ebling Mis added these axioms
+
+That there would be no fundamental change in the society
+That human reactions to stimuli would remain constant.
+Golan Trevize in Foundation and Earth added this axiom
+
+that humans are the only sentient intelligence in the galaxy.
+
+Asimov presents the Prime Radiant, a device designed by Hari Seldon and built by Yugo Amaryl, as storing the psychohistorical equations showing the future development of humanity.
+
+The Prime Radiant projects the equations onto walls in some unexplained manner, but it does not cast shadows, thus allowing workers easy interaction. Control operates through the power of the mind, allowing the user to zoom in to details of the equations, and to change them. One can make annotations, but by convention all amendments remain anonymous.
+
+A student destined for speakerhood has to present an amendment to the plan. Five different boards then check the mathematics rigorously. Students have to defend their proposals against concerted and merciless attacks. After two years the change gets reviewed again. If after the second examination it still passes muster the contribution becomes part of the Seldon Plan.
+
+The Radiant, as well as being interactive, employs a type of colour-coding to equations within itself for ready comprehension by Psychohistorians.
+
+Seldon Black are the original Seldon Plan equations developed by Seldon and Amaryl during the first four decades of Seldon's work at the University of Streeling, and define Seldon Crises, the Plan's duration, and the eventuation of the Second Galactic Empire.
+Speaker Red are additions to the plan by Speakers (Senior Mentalic Psychohistorians of the Second Foundation) since the time of Seldon.
+Deviation Blue are observed deviations away from Psychohistorical projections with a deviation in excess of 1.5 standard deviation of predicted outcomes (1.5 σ). The Era of Deviations, at the rise of the Mule, produced deviations in the Seldon Plan in excess of .5 through 10 sigmas, and the resolution of this period required a full century of labour on the part of the Second Foundation to return the Galaxy to the Plan.
+
+Other colours have been imagined by fans, and mentioned by Asimov, such as:
+
+Notation Green - additions of pertinent scientific papers appended to findings (Forward the Foundation)
+Projection Purple - Useful for determining limits on future Speaker Red equations, using projections of events with regard to a very sketchy but still monumental Seldon Black scheme. A tool of the first three generations of Psychohistorians after Seldon, and by the 5th Century of the Plan a teaching tool at most. (Forward the Foundation)
+
+In his later career, Asimov described some historical (pre-Seldon) origins of psychohistory. In The Robots of Dawn (1983), which takes place thousands of years before Foundation (1951), he describes roboticist Han Fastolfe's attempts to create the science based on careful observation of others, particularly of his daughter Vasilia. Prelude to Foundation (1988) suggests that one of Fastolfe's robots, R. Daneel Olivaw, manipulated Seldon into practical application of this science.
+
+The fact that Seldon established a Second Foundation of mental-science adepts to oversee his Seldon Plan might suggest that even Seldon himself had doubts about the ultimate ability of a purely mathematical approach to predicting historical processes, and that he recognized that the development of psychic skills, such as those used by the Mule, had the ability to invalidate the assumptions underlying his models, though he did not (and could not) predict the appearance of the Mule himself. The Seldon methodology might therefore only work at a certain level of species-development, and would over time become less useful.
+
+Psychohistory has one basic, underlying limitation which Asimov postulated for the first time on the last page of the final book in the Foundation series: psychohistory only functions in a galaxy populated only by humans. In Asimov's Foundation series, humans form the only sentient race that developed in the entire Milky Way Galaxy. Seldon developed psychohistory to predict the actions of large groups of humans. Even robots technically fall under the umbrella of psychohistory, because humans built them, and they thus represent more or less a human "action", or at least, possess a thought-framework similar enough to that of their human creators that psychohistory can predict their actions. However, psychohistory cannot predict the actions of a sentient alien race; their psychology may differ so much from that of humans that normal psychohistory cannot understand or predict their actions.
+
+The end of the series offered two possibilities:
+
+sentient races actually very rarely develop, such that only humans evolved in the Milky Way Galaxy, and in most other galaxies, it appears probable (given this assumption) that only one sentient race would develop. However, statistically two or more alien races might evolve in the same galaxy, leading them into inevitable conflict. The fighting in this other galaxy would only end when one race emerged the victor, and after the prolonged conflict with other races, would have developed an aggressive and expansionist mindset. In contrast, humans had never encountered another sentient species in the Milky Way Galaxy, so they never felt greatly compelled to expand to other galaxies, but instead to fight other humans over control of the Milky Way. Eventually, such an aggressive alien race would expand from galaxy to galaxy, and try to invade the Milky Way Galaxy.
+through genetic engineering, subsets of humanity could alter themselves so significantly from baseline humans that they could for all intents and purposes be considered "aliens". Specifically exemplifying this theory we find Asimov's Solarians: humans evolved from an old Spacer world who had genetically modified themselves into hermaphrodites with telekinetic mental powers.
+
+On September 25, 1987, Asimov gave an interview to Terry Gross on her National Public Radio program, Fresh Air. In it, Gross asked him about psychohistory:
+
+Gross: "What did you have in mind when you coined the term and the concept?"
+Asimov: "Well, I wanted to write a short story about the fall of the Galactic Empire. I had just finished reading the Decline and Fall of the Roman Empire the second time, and I thought I might as well adapt it on a much larger scale to the Galactic Empire and get a story out of it. And my editor John Campbell was much taken with the idea, and said he didn't want it wasted on a short story. He wanted an open-ended series so it lasts forever, perhaps. And so I started doing that. In order to keep the story going from story to story, I was essentially writing future history, and I had to make it sufficiently different from modern history to give it that science fictional touch. And so I assumed that the time would come when there would be a science in which things could be predicted on a probabilistic or statistical basis."
+Gross: "Do you think that would be good if there really was such a science?"
+Asimov: "Well, I can't help but think it would be good, except that in my stories, I always have opposing views. In other words, people argue all possible... all possible... ways of looking at psychohistory and deciding whether it is good or bad. So you can't really tell. I happen to feel sort of on the optimistic side. I think if we can somehow get across some of the problems that face us now, humanity has a glorious future, and that if we could use the tenets of psychohistory to guide ourselves we might avoid a great many troubles. But on the other hand, it might create troubles. It's impossible to tell in advance."
+
+Polymath Adolphe Quetelet developed in the 19th century what he called "social physics". Quetelet studied the statistical laws underlying the behaviour of what he called "average man".
+
+Some individuals and groups, inspired by Asimov's psychohistory, seriously explore the possibility of a working psychohistory not unlike the one imagined by Asimov—a statistical study of history that could help in the formulation of some "theory of history" and perhaps become a tool of historical prediction. 
+
+Complexity theory, an offshoot of chaos mathematics theory, explored by Stuart Kauffman in his books "At Home in the Universe" and "Redefining the Sacred" cover the concept of statistical modeling of sociological evolutions. The concept was also explored in "Order Out of Chaos" by Ilya Prigogine.
+
+Another theory that has similarities to Psychohistory is "Generational Dynamics" proposed by John J. Xenakis, where he proposes, "Generational Dynamics is a historical methodology that analyzes historical events through the flow of generations, and uses the analysis to forecast future events by comparing today's generational attitudes to those of the past". Essentially, generations immediately after a major crisis event (civil war, world war) will be unwilling to live through such events again and will be risk-averse. Generations after them may well be aware of previous crisis events, but will be more risk-tolerant, as they have not been exposed to the crisis themselves. Xenakis states that this allows one to predict future crisis events by analyzing the current generation's outlooks.
+
+For similar ideas see Peter Turchin's WAR AND PEACE AND WAR: The Life Cycles of Imperial Nations - his science is called cliodynamics.
+
+Nathan Eagle and Alex Pentland (among others) have developed useful techniques for predicting human behavior through statistical analysis of smartphone data.
+
+At the 67th science-fiction world convention in Montreal, Paul Krugman, the Nobel laureate in Economics, mentioned Hari Seldon, a central character in Foundation who was a psychohistorian, as his inspiration to study Economics since it is the closest thing to Psychohistory, according to P. Krugman. 
+
+The Living Earth Simulator, a platform of the proposed FuturICT project, aims to simulate social and economic developments on a global scale in order to anticipate and predict global phenomena, like for example financial crisis. For similar ideas see Dan Braha's work on predicting the behavior of global civil unrest. This work demonstrates, based on historical records and mathematical modeling, the existence of universal patterns of collective unrest across countries and regions.
+
+The evolving field of behavioral economics embodies elements of Asimov's psychohistory. 
+
+Looking at several revealed conspiracies, the estimated chance of a conspiracy being busted is 4 parts per million per year per conspirator, combining history, sociology, and mathematical statistics to make general predictions about the future behavior of very large groups of people.
+
+The 3 February 2017 issue of Science has a special section "Prediction and Its Limits". This section has articles on many mathematical techniques of predicting human behavior, and explicitly compares them to Asimov's psychohistory.
+
+Psychohistory appears in the Traveller science-fiction role-playing game, released in 1977. The alien race known as the Hivers use extensive manipulation of other cultures based on psychohistorical data to achieve their own ends. Rumors ascribe the assassination of the Third Imperium's Emperor Strephon to a Hiver manipulation based on psychohistorical data indicating the eventual fall of the Third Imperium. Humans in the setting have also attempted to use psychohistory, but with less skill or success; the Psionic Suppressions (which turned public opinion within the human Imperium against those with paranormal mental abilities, forcing them to go into hiding) resulted, unknown to most, from an experiment in psychohistory that got out of control and went much farther than the experimenters intended.
+
+Some literary critics have described Asimov's psychohistory as a reformulation of Karl Marx's theory of history (historical materialism), though Asimov denied any direct influence. Arguably, Asimov's psychohistory departs significantly from Marx's general theory of history based on modes of production (as distinct from Marx's model of the capitalist economy, where "natural laws" work themselves out with "iron necessity") in that psychohistory is predictive (if only in the sense of involving precisely stated probabilities), and in that psychohistory is extrapolated from individual psychology and even from physics. Psychohistory also has echoes of modernization theory and of work in the social sciences that by the 1960s would lead to attempts at large-scale social prediction and control such as Project Camelot.

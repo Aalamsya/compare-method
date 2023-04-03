@@ -1,0 +1,67 @@
+Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts is a 2014 book by Stanislas Dehaene. It summarizes research on the neuroscience of consciousness, particularly from recent decades. 
+
+Dehaene reviews historical intuitions that consciousness must be separate from matter. He explains how consciousness was not even mentioned in neuroscientific circles until the late 1980s, when a revolution in consciousness research began. Dehaene believes that "access consciousness" (being aware of and able to report on information) is the right definition to start with for scientific investigation. While some philosophers insist that access consciousness differs from "phenomenal consciousness" (e.g., the way qualia feel), Dehaene considers the access/phenomenal distinction "highly misleading" and feels it "leads down a slippery slope to dualism" (p. 10). 
+
+Dehaene distinguishes conscious access from related but not identical ideas: "attention, wakefulness, vigilance, self-consciousness, and metacognition" (p. 25).
+
+He introduces the project of measuring neural correlates of consciousness using paradigms like minimal contrasts of images, masking (subliminal stimuli), binocular rivalry, and attentional blink. The attentional blink relates to the psychological refractory period, inattentional blindness, and change blindness. Olaf Blanke's studies on out-of-body experiences explore an example where conscious experience changes while external stimuli stay the same.
+
+In Ch. 4, Dehaene notes that correlates of consciousness are actually insufficient, because many things can correlate with conscious perception, including even brain states prior to presentation of a stimulus. Dehaene is most interested in neural signatures of consciousness that represent the consciousness brain processing itself. (p. 142) 
+
+Dehaene reviews unconscious brain processing of various forms: subliminal perception, Édouard Claparède's pinprick experiment, blindsight, hemispatial neglect, subliminal priming, unconscious binding (including across sensory modalities, as in the McGurk effect), etc. Dehaene discusses a debate over whether meaning can be processed unconsciously and concludes based on his own research that it can be. An N400 meaning-based wave occurs for unexpected words even when masked or not attended to. Unconscious processing is not just bottom-up but can be enhanced when top-down attention is directed toward a target, even if the target never becomes conscious. Brains can even do some mathematical operations unconsciously, and sitting on a problem to let the unconscious mind work out an answer has proved helpful in several experiments. 
+
+While some view consciousness as an epiphenomenon of brains, Dehaene sees it as playing functional roles, such as
+
+    Collapsing many lower-level probability assessments into one conscious perception sampled from the Bayesian posterior distribution, allowing us to make a single decision, in a similar way as the FBI summarizes lots of low-level data into a single brief for the president of the United States. Convergence on a single interpretation of local receptive-field data does not occur under anesthesia.
+    Creating lasting thoughts that can remain in working memory for use at a later time. Daniel Dennett compares this with an echo chamber. In contrast, unconscious information decays away exponentially within about a second.
+    Reasoning through multi-step strategies and performing serial computations, such as the steps in figuring out that 12 x 13 = 156 in your head. Consciousness seems "to collect the information from various processors, synthesize it, and then broadcast the result -- a conscious symbol -- to other, arbitrarily selected processors" (p. 105). This resembles a production system in artificial intelligence.
+    Sharing the contents of our minds with others, via language and non-verbal signals. Brains can make confidence assessments in their opinions, which helps with combining judgments optimally.
+
+Neuroscientists have found four "signatures of consciousness":
+
+    Greatly amplified brain activity in many regions, including parietal and prefrontal circuits. Unconscious perception is like a wave that peters out upon reaching shore, while conscious perception is more like an avalanche that gains momentum as it progresses.
+    Ignition of a late P3 wave when a word is consciously seen but not when it remains unconscious. Dehaene compares conscious perception to breaking "through the dike of the frontal and parietal networks, suddenly flooding into a much larger expanse of cortex" (p. 124). There are actually two P3 waves, and they seem to occupy bandwidth that prevents comprehension of other stimuli at the same time, which explains the attentional blink and the serial nature of consciousness.
+    A marked increase in the power of gamma waves starting at about 300 milliseconds after a stimulus. Contrary to an initial hypothesis by Francis Crick and Christof Koch, gamma waves around 40 Hz do not appear only during consciousness. But when they show up in unconscious processing, they do have a much reduced intensity.
+    Brain-wide synchronization of information in what's called a "brain web". Granger causality analysis shows strong bidirectional causality, with signals traveling both bottom-up (to relay sensory information to higher areas) and top-down (perhaps as attention or confirmation signals).
+
+Consciousness seems to have a "tipping point" or "phase transition" of sorts, an all-or-nothing cutoff. Dehaene uses the phrase "global ignition" to describe the process of neurons bursting into widespread activation, similar to the way an audience begins with a few claps and then erupts into synchronous applause (p. 131).
+
+Consciousness is slower than events in the external world. The flash lag illusion illustrates this because we can predict future positions of moving objects but not those of objects that suddenly appear.
+
+Conscious percepts have properties of "stability over time, reproducibility across trials, and invariance over superficial changes that leave the content intact" (p. 149).
+
+To prove causation between brain states and conscious experiences, neuroscientists have used transcranial magnetic stimulation and intracranial electrodes for patients undergoing surgery to directly create perceptions. An example is phosphene. 
+
+Dehaene discusses his version of the Global Workspace Theory of consciousness. Dehaene proposes that "When we say that we are aware of a certain piece of information, what we mean is just this: the information has entered into a specific storage area that makes it available to the rest of the brain" (p. 163). He adds: "The flexible dissemination of information, I argue, is a characteristic property of the conscious state" (p. 165).
+
+Dehaene and colleagues have developed computer simulations of neural dynamics that successfully replicate the way in which distributed processing at the brain's periphery gives way to a stable, serial "thought" at higher levels due to feedback amplification of one signal and inhibition of others. The simulation showed the four signatures of consciousness described in Ch. 4 (p. 184). Consciousness seemed to behave like a "phase transition" between one unconscious stable state of low-level activity and another conscious state consisting of snowballing self-amplification and reverberation (p. 184). Subliminal stimuli fail to become conscious because by the time the higher layers try to amplify the signal, the original input stimulation has vanished (p. 193).
+
+Dehaene suggests that noise fluctuations in neural activity can be amplified and give rise to randomness in our streams of thought (p. 190). 
+
+Dehaene discusses coma, vegetative states, minimally conscious states, and locked-in syndrome.
+
+Recent findings have shown that a few patients without any ability to move (not even to move their eyes) still show intact consciousness as seen by their ability to answer questions in an fMRI. The trick is to instruct the patients to think about their apartments if they want to say "no" and about playing tennis if they want to say "yes", and the corresponding differences in brain activity can be observed.
+
+Different tests can give different answers regarding whether a clinical patient is conscious, and responses may depend on time of day or other factors. Hence, Dehaene suggests "to develop a whole battery" of tests that can be applied in many contexts (pp. 214-215). fMRI tests are expensive and burdensome, so researchers are exploring easier EEG communication methods (p. 215) and other brain-computer interfaces (p. 216). Dehaene and colleagues also developed a simple test for consciousness based on novelty of patterns in sounds. 
+
+Dehaene explores consciousness in human babies, non-human animals, and machines.
+
+Dehaene reviews evidence that young infants are indeed conscious, although their global workspaces may run 3-4 times slower than in adults, perhaps because their myelin is not well established.
+"I would not be surprised if we discovered that all mammals, and probably many species of birds and fish, show evidence of a convergent evolution to the same sort of conscious workspace [as is found in humans]."
+
+Stanislas Dehaene, Consciousness and the Brain, p. 246
+
+Monkeys can be trained to "report" on their conscious experiences via actions rather than speech, and monkeys show the same sorts of brain and behavioral patterns as humans in response to consciousness tests. Dehaene adds that some animals, like monkeys and dolphins, show evidence not just of consciousness but also of metacognition. He speculates that maybe what makes human cognition unique is "the peculiar way we explicitly formulate our ideas using nested or recursive structures of symbols" (p. 250).
+
+Dehaene suggests that computers could become more like animal brains if they had greater communication between processes, more learning plasticity, and more autonomy over decisions. Of these design changes, he suggests that "at least in principle, I see no reason why they would not lead to an artificial consciousness" (p. 261). Dehaene suggests that the hard problem of consciousness "just seems hard because it engages ill-defined intuitions", and it "will evaporate" as people better understand "cognitive neuroscience and computer simulations" (p. 262). Dehaene also defends a compatibilist notion of free will and suggests even that free will "can be implemented in a standard computer" (p. 264). 
+
+James W. Kalat thinks "Consciousness and the Brain is beautifully written, erudite, thoughtful, and likely to provoke discussion for years to come." Kalat explains how Dehaene believes that consciousness is important for performing certain calculations that can't be done unconsciously. However, Kalat suggests that this leaves us with a puzzle: "Unless we assume that computers are conscious, the question remains why we are conscious when we perform certain functions, whereas computers can perform virtually the same functions without consciousness." Kalat also finds inadequate Dehaene's dismissal of the hard problem of consciousness "in barely over a page of text" without further exploration of the subject.
+
+Alun Anderson agrees with the critics of Dehaene who think that consciousness as "brain-wide information sharing" isn't enough to resolve the hard problem. That said, he appreciates Dehaene's book and recommends to "read a chapter at a time because it is jam-packed with intuition-altering experiments."
+
+Matthew Hutson calls Dehaene's book "smart, thorough and lucid, though a terrible choice for beach reading." Hutson admires Dehaene's success with neural correlates of consciousness but feels that the hard problem remains unresolved. Like Kalat, Hutson finds Dehaene's dismissal of the hard problem unjustified because consciousness is "unique" in being "inherently private, subjective", unlike other phenomena that can be reductively explained.
+
+Ned Block responds to Dehaene's criticism of pure qualia divorced from information processing by suggesting that phenomenal consciousness can indeed play a functional role when it "greases the wheels of cognitive access" but that phenomenal consciousness can also exist without access.
+
+
+

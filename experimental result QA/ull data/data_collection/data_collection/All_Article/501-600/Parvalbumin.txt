@@ -1,0 +1,12 @@
+Parvalbumin is a calcium-binding albumin protein with low molecular weight (typically 9-11 kDa).
+
+It has three EF hand motifs and is structurally related to calmodulin and troponin C. Parvalbumin is found in fast-contracting muscles, where its levels are highest, as well as in the brain and some endocrine tissues.
+
+Parvalbumin is a small, stable protein containing EF-hand type calcium binding sites. It is involved in calcium signaling. Typically, this protein is broken into three domains, domains AB, CD and EF, each individually containing a helix-loop-helix motif.[3] The AB domain houses a two amino-acid deletion in the loop region, whereas domains CD and EF contain the N-terminal and C-terminal, respectively.[3]
+
+Calcium binding proteins like parvalbumin play a role in many physiological processes, namely cell-cycle regulation, second messenger production, muscle contraction, organization of microtubules and phototransduction.[1] Therefore, calcium-binding proteins must distinguish calcium in the presence of high concentrations of other metal ions. The mechanism for the calcium selectivity has been extensively studied.[1][4] Alterations in the function of parvalbumin-expressing neurons have been implicated in various areas of clinical interest such as Alzheimer's disease,[5] age-related cognitive defects and some forms of cancer.
+Parvalbumin (PV) is present in GABAergic interneurons in the nervous system, especially the reticular thalamus,[6] and expressed predominantly by chandelier and basket cells in the cortex. In the cerebellum, PV is expressed in Purkinje cells and molecular layer interneurons.[7] In the hippocampus, PV+ interneurons are subdivided into basket, axo-axonic, bistratified, and oriens-lacunosum moleculare (O-LM) cells, each subtype targeting distinct domains of pyramidal cells.[8]
+
+PV interneurons' connections are mostly perisomatic (around the cell body of neurons). Most of the PV interneurons are fast-spiking. They are also thought to give rise to gamma waves recorded in EEG.
+
+PV-expressing interneurons represent approximately 25% of GABAergic cells in the primate DLPFC.[9][10] Other calcium-binding protein markers are calretinin (most abundant subtype in DLPFC, about 50%) and calbindin. Interneurons are also divided into subgroups by the expression of neuropeptides such as somatostatin, neuropeptide Y, cholecystokinin.

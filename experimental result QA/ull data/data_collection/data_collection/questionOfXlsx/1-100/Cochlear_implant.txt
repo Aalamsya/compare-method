@@ -1,0 +1,10 @@
+What is a cochlear implant?	definition
+How many major components does the implant have?	number
+When does the speech perception of the implant increase steadily?	date
+Where does the strongest objection of the cochlear implant come from?	location
+Who invented the original cochlear implant?	person
+Who implanted a six-channel electrode in the cochlea of a patient at Stanford University?	person
+What is the most common surgical procedure used to implant the device?	nnp
+What is the incidence of complications of minor complications?	number
+What are the main complications?	name
+What is the incidence of transient facial paralysis?	number

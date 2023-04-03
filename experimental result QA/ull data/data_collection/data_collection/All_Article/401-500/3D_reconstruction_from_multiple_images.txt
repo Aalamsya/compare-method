@@ -1,0 +1,61 @@
+3D reconstruction from multiple images is the creation of three-dimensional models from a set of images. It is the reverse process of obtaining 2D images from 3D scenes.
+
+The essence of an image is a projection from a 3D scene onto a 2D plane, during which process the depth is lost. The 3D point corresponding to a specific image point is constrained to be on the line of sight. From a single image, it is impossible to determine which point on this line corresponds to the image point. If two images are available, then the position of a 3D point can be found as the intersection of the two projection rays. This process is referred to as triangulation. The key for this process is the relations between multiple views which convey the information that corresponding sets of points must contain some structure and that this structure is related to the poses and the calibration of the camera.
+
+In recent decades, there is an important demand for 3D content for computer graphics, virtual reality and communication, triggering a change in emphasis for the requirements. Many existing systems for constructing 3D models are built around specialized hardware (e.g. stereo rigs) resulting in a high cost, which cannot satisfy the requirement of its new applications. This gap stimulates the use of digital imaging facilities (like a camera). Moore's law also tells us that more work can be done in software. An early method was proposed by Tomasi and Kanade.[2] They used an affine factorization approach to extract 3D from images sequences. However, the assumption of orthographic projection is a significant limitation of this system. 
+
+The task of converting multiple 2D images into 3D model consists of a series of processing steps:
+
+Camera calibration consists of intrinsic and extrinsic parameters, without which at some level no arrangement of algorithms can work. The dotted line between Calibration and Depth determination represents that the camera calibration is usually required for determining depth.
+
+Depth determination serves as the most challenging part in the whole process, as it calculates the 3D component missing from any given image – depth. The correspondence problem, finding matches between two images so the position of the matched elements can then be triangulated in 3D space is the key issue here.
+
+Once you have the multiple depth maps you have to combine them to create a final mesh by calculating depth and projecting out of the camera – registration. Camera calibration will be used to identify where the many meshes created by depth maps can be combined together to develop a larger one, providing more than one view for observation.
+
+By the stage of Material Application you have a complete 3D mesh, which may be the final goal, but usually you will want to apply the color from the original photographs to the mesh. This can range from projecting the images onto the mesh randomly, through approaches of combining the textures for super resolution and finally to segmenting the mesh by material, such as specular and diffuse properties. 
+
+Recently, new methods based on the concept of stratification have been proposed. Starting from a projective structure, which can be calculated from correspondences only, upgrade this projective reconstruction to a Euclidean reconstruction, by making use of all the available constraints. With this idea the problem can be stratified into different sections: according to the amount of constraints available, it can be analyzed at a different level, projective, affine or Euclidean. 
+
+Usually, the world is perceived as a 3D Euclidean space. In some cases, it is not possible to use the full Euclidean structure of 3D space. The simplest being projective, then the affine geometry which forms the intermediate layers and finally Euclidean geometry. The concept of stratification is closely related to the series of transformations on geometric entities: in the projective stratum is a series of projective transformations (a homography), in the affine stratum is a series of affine transformations, and in Euclidean stratum is a series of Euclidean transformations.
+
+Suppose that a fixed scene is captured by two or more perspective cameras and the correspondences between visible points in different images are already given. However, in practice, the matching is an essential and extremely challenging issue in computer vision. Here, we suppose that n {\displaystyle n} n 3D points A i {\displaystyle A_{i}} A_{i} are observed by m {\displaystyle m} m cameras with projection matrices P j , j = 1 , … , m . {\displaystyle P_{j},j=1,\ldots ,m.} P_{{j}},j=1,\ldots ,m. Neither the positions of point nor the projection of camera are known. Only the projections a i j {\displaystyle a_{ij}} a_{ij} of the i t h {\displaystyle i^{th}} i^{th} point in the j t h {\displaystyle j^{th}} j^{th} image are known. 
+
+Inevitably, measured data (i.e., image or world point positions) is noisy and the noise comes from many sources. To reduce the effect of noise, we usually use more equations than necessary and solve with least squares.
+
+For example, in a typical null-space problem formulation Ax = 0 (like the DLT algorithm), the square of the residual ||Ax|| is being minimized with the least squares method.
+
+In general, if ||Ax|| can be considered as a distance between the geometrical entities (points, lines, planes, etc.), then what is being minimized is a geometric error, otherwise (when the error lacks a good geometrical interpretation) it is called an algebraic error.
+
+Therefore, compared with algebraic error, we prefer to minimize a geometric error for the reasons listed:
+
+    The quantity being minimized has a meaning.
+    The solution is more stable.
+    The solution is constant under Euclidean transforms.
+
+All the linear algorithms (DLT and others) we have seen so far minimize an algebraic error. Actually, there is no justification in minimizing an algebraic error apart from the ease of implementation, as it results in a linear problem. The minimization of a geometric error is often a non-linear problem, that admit only iterative solutions and requires a starting point.
+
+Usually, linear solution based on algebraic residuals serves as a starting point for a non-linear minimization of a geometric cost function, which provides the solution a final “polish”.
+
+The 2-D imaging has problems of anatomy overlapping with each other and don’t disclose the abnormalities. The 3-D imaging can be used for both diagnostic and therapeutic purposes.
+
+3-D models are used for planning the operation, morphometric studies and has more reliability in orthopedics. 
+
+To reconstruct 3-D images from 2-D images taken by a camera at multiple angles. Medical imaging techniques like CT scanning and MRI are expensive, and although CT scans are accurate, they can induce high radiation doses which is a risk for patients with certain diseases. Methods based on MRI are not accurate. Since we are exposed to powerful magnetic fields during an MRI scan, this method is not suitable for patients with ferromagnetic metallic implants. Both the methods can be done only when in lying position where the global structure of the bone changes. So, we discuss the following methods which can be performed while standing and require low radiation dose.
+
+Though these techniques are 3-D imaging, the region of interest is restricted to a slice; data is acquired to form a time sequence. 
+
+This method is simple and implemented by identifying the points manually in multi-view radiographs. The first step is to extract the corresponding points in two x-ray images and second step is the 3D reconstruction with algorithms like Discrete Linear Transform.[11] Using DLT, the reconstruction is done only where there are SCPs. By increasing the number of points, the results improve [12] but it is time consuming. This method has low accuracy because of low reproducibility and time consumption. This method is dependent on the skill of the operator. This method is not suitable for bony structures with continuous shape. This method is generally used as an initial solution for other methods.
+
+This method uses X-ray images for 3D Reconstruction and to develop 3D models with low dose radiations in weight bearing positions.
+
+In NSCC algorithm, the preliminary step is calculation of an initial solution. Firstly anatomical regions from the generic object are defined. Secondly, manual 2D contours identification on the radiographs is performed. From each radiograph 2D contours are generated using the 3D initial solution object. 3D contours of the initial object surface are projected onto their associated radiograph.[13] The 2D association performed between these 2 set points is based on point-to-point distances and contours derivations developing a correspondence between the 2D contours and the 3D contours. Next step is optimization of the initial solution. Lastly deformation of the optimized solution is done by applying Kriging algorithm to the optimized solution.[14] Finally, by iterating the final step until the distance between two set points is superior to a given precision value the reconstructed object is obtained.
+
+The advantage of this method is it can be used for bony structures with continuous shape and it also reduced human intervention but they are time consuming. 
+
+Surface Rendering technique visualizes a 3D object as a set of surfaces called iso-surfaces. Each surface has points with the same intensity (called iso-value). It is used when we want to see the separated structures e.g. skull from slices of head, blood vessel system from slices of body etc. This technique is used mostly for high contrast data. Two main methods for reconstructing are:
+
+    Contour based reconstruction: Iso-contours are attached to form iso-surfaces[15]
+    Voxel based reconstruction: Voxels having same intensity values are used to form iso-surfaces. One popular algorithm is Marching Cubes.[15] Some similar algorithms as Marching Tetrahedrons, Dividing Cubes [15] can be considered.
+
+Other proposed or developed techniques include Statistical Shape Model Based Methods, Parametric Methods, Hybrid methods.
+

@@ -1,0 +1,71 @@
+��1.What branch is synthetic biology from ? 
+No.1---> 0.0    0
+Descriptions of synthetic biology depend on how the user approaches it , as a biologist or as an engineer . 
+No.2---> 0.0    8
+The first identifiable use of the term `` synthetic biology '' was in Stéphane Leduc’s publication of Théorie physico-chimique de la vie et générations spontanées -LRB- 1910 -RRB- and his La Biologie Synthétique -LRB- 1912 -RRB- . 
+No.3---> 0.0    9
+Contemporary understanding of synthetic biology was given by Polish geneticist Wacław Szybalski in a panel discussion during Eighteenth Annual `` OHOLO '' Biological Conference on Strategies for the Control of Gene Expression in 1973 Zichron Yaakov , Israel . 
+No.4---> 0.0    21
+Several key enabling technologies are critical to the growth of synthetic biology . 
+No.5---> 0.0    71
+In addition to numerous scientific and technical challenges , synthetic biology raises ethical issues and biosecurity issues . 
+
+��2.Who portrayed synthetic biology as a new emerging scientific field where ICT ? 
+No.1---> 0.0    1
+Contemporary understanding of synthetic biology was given by Polish geneticist Wacław Szybalski in a panel discussion during Eighteenth Annual `` OHOLO '' Biological Conference on Strategies for the Control of Gene Expression in 1973 Zichron Yaakov , Israel . 
+No.2---> 1.5    7
+Perhaps the best known application of synthetic biology to date is engineering E. coli and yeast for commercial production of a precursor of the antimalarial drug , Artemisinin , by the laboratory of Jay Keasling Many technologies have been developed for incorporating unnatural nucleotides and amino acids into nucleic acids and proteins , both in vitro and in vivo . 
+No.3---> 2.0    0
+Another description , by Jan Staman Director of the Rathenau Institute in The Hague in 2006 , portrayed it as `` a new emerging scientific field where ICT , biotechnology and nanotechnology meet and strengthen each other '' . 
+No.4---> 2.5    3
+A notable advance in synthetic biology occurred in 2000 , when two articles in Nature by Michael B. Elowitz and Stanislas Leibler discussed the creation of synthetic biological circuit devices of a genetic toggle switch and a biological clock by combining genes within E. coli cells . 
+No.5---> 2.667  2
+When in 1978 Arber , Nathans and Smith won the Nobel Prize in Physiology or Medicine for the discovery of restriction enzymes , Wacław Szybalski wrote in an editorial comment in the journal Gene : The work on restriction nucleases not only permits us easily to construct recombinant DNA molecules and to analyze individual genes , but also has led us into the new era of synthetic biology where not only existing genes are described and analyzed but also new gene arrangements can be constructed and evaluated . 
+
+��3.What is the purpose of synthetic biology ? 
+No.1---> 0.0    0
+Descriptions of synthetic biology depend on how the user approaches it , as a biologist or as an engineer . 
+No.2---> 0.0    8
+The first identifiable use of the term `` synthetic biology '' was in Stéphane Leduc’s publication of Théorie physico-chimique de la vie et générations spontanées -LRB- 1910 -RRB- and his La Biologie Synthétique -LRB- 1912 -RRB- . 
+No.3---> 0.0    9
+Contemporary understanding of synthetic biology was given by Polish geneticist Wacław Szybalski in a panel discussion during Eighteenth Annual `` OHOLO '' Biological Conference on Strategies for the Control of Gene Expression in 1973 Zichron Yaakov , Israel . 
+No.4---> 0.0    21
+Several key enabling technologies are critical to the growth of synthetic biology . 
+No.5---> 0.0    71
+In addition to numerous scientific and technical challenges , synthetic biology raises ethical issues and biosecurity issues . 
+
+��4.When did Nathans and Smith won the Nobel Prize in Physiology or Medicine ? 
+No.1---> 2.75   5
+When in 1978 Arber , Nathans and Smith won the Nobel Prize in Physiology or Medicine for the discovery of restriction enzymes , Wacław Szybalski wrote in an editorial comment in the journal Gene : The work on restriction nucleases not only permits us easily to construct recombinant DNA molecules and to analyze individual genes , but also has led us into the new era of synthetic biology where not only existing genes are described and analyzed but also new gene arrangements can be constructed and evaluated . 
+No.2---> 2.917  18
+On July 9� 0 , 2009 , the National Academies ' Committee of Science , Technology & Law convened a symposium on `` Opportunities and Challenges in the Emerging Field of Synthetic Biology '' . 
+No.3---> 3.0    3
+The first identifiable use of the term `` synthetic biology '' was in Stéphane Leduc’s publication of Théorie physico-chimique de la vie et générations spontanées -LRB- 1910 -RRB- and his La Biologie Synthétique -LRB- 1912 -RRB- . 
+No.4---> 3.0    4
+Contemporary understanding of synthetic biology was given by Polish geneticist Wacław Szybalski in a panel discussion during Eighteenth Annual `` OHOLO '' Biological Conference on Strategies for the Control of Gene Expression in 1973 Zichron Yaakov , Israel . 
+No.5---> 3.0    11
+Recently , multiscale models of gene regulatory networks have been developed that focus on synthetic biology applications . 
+
+��5.When did George M. Church encoded one of his books about synthetic biology in DNA ? 
+No.1---> 3.333  0
+Originally seen as a subset of biology , in recent years the role of electrical and chemical engineering has become more important . 
+No.2---> 3.333  1
+Another description , by Jan Staman Director of the Rathenau Institute in The Hague in 2006 , portrayed it as `` a new emerging scientific field where ICT , biotechnology and nanotechnology meet and strengthen each other '' . 
+No.3---> 3.333  12
+Currently , entire organisms are not being created from scratch , but instead living cells are being transformed with inserts of new DNA . 
+No.4---> 3.333  13
+There are several ways of constructing synthetic DNA components and even entire synthetic genomes , but once the desired genetic code is obtained , it is integrated into a living cell that is expected to manifest the desired new capabilities or phenotypes while growing and thriving . 
+No.5---> 3.333  15
+For example , in May 2014 , researchers announced that they had successfully introduced two new artificial nucleotides into bacterial DNA . 
+
+��6.How many times were able to exchange the bacteria in the culture media ? 
+No.1---> 0.0    18
+Each of these approaches share a similar task : to develop a more synthetic entity at a higher level of complexity by inventively manipulating a simpler part at the preceding level . 
+No.2---> 0.0    21
+Re-writers draw inspiration from refactoring , a process sometimes used to improve computer software . 
+No.3---> 0.0    25
+Measurements under a variety of conditions are needed for accurate modeling and computer-aided-design -LRB- CAD -RRB- . 
+No.4---> 0.0    28
+This favors a synthesis-from-scratch approach . 
+No.5---> 0.0    31
+While other methods take months or years to edit gene sequences , CRISPR speeds that time up to weeks . 

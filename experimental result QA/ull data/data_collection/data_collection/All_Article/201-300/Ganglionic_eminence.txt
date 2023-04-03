@@ -1,0 +1,61 @@
+In neuroanatomy and neuroembryology, a ganglionic eminence (GE) is a transitory brain structure that guides cell and axon migration.[1] It is present in the embryonic and fetal stages of neural development found between the thalamus and caudate nucleus.[1] The eminences are found in the ventral ventricular zone of the telencephalon, where they facilitate tangential cell migration during embryonic development. Tangential migration does not involve interactions with radial glial cells; instead the interneurons migrate perpendicularly through the radial glial cells to reach their final location. The characteristics and function of the cells that follow the tangential migration pathway seem to be closely related to the location and precise timing of their production.[2] GABAergic interneurons migrate tangentially, and the GEs contribute significantly to building up the GABAergic cortical cell population.[1][3][4] Another structure that the GEs contribute to is the basal ganglia.[5] The GEs also guide the axons growing from the thalamus into the cortex and vice versa. In humans, the GEs disappear by one year of age.[1] During development, neuronal migration continues until the extinction of the germ layer, at which point the remnants from the germ layer make up the eminences.[1]
+
+Ganglionic eminences are categorized into three groups based on their location within the subventricular zone:
+    Medial ganglionic eminence (MGE)
+    Lateral ganglionic eminence (LGE)
+    Caudal ganglionic eminence (CGE)[6]
+A sulcus separates the medial and lateral ganglionic eminences. The expression of Nkx2-1, Gsx2, and Pax6 is required to determine the independent progenitor cell populations in the LGE and MGE. Interactions between these three genes define the boundaries between the different progenitor zones and mutations of these genes can cause abnormal expansion around the MGE, LGE, ventral pallium (VP), and anterior entopeduncular region (AEP). The cells of the GEs are quite homogenous, with the MGE, LGE, and CGE all having small, dark, irregular nuclei and moderately dense cytoplasm, however, each eminence can be identified by the type of progeny that it produces.[6] See the individual GE sections below for more information on the different types of progeny produced.
+
+Additionally, the subventricular zone is the starting point of multiple streams of tangentially migrating interneurons that express Dlx genes. There are three main tangential migration pathways that have been identified in this region:
+    the latero-caudal migration (subpallial telencephalon to cortex)
+    the medio-rostral migration (subpallial basal telencephalon to the olfactory bulb)
+    the latero-caudal migration (basal telencephalon to the striatum)
+
+These pathways are temporally and spatially distinct, and produce a variety of GABAergic, and non-GABAergic interneurons. One example of GABAergic interneurons that the GEs guide are parvalbumin-containing interneurons in the neocortex. Some examples of non-GABAergic interneurons that the GEs guide are dopaminergic interneurons in the olfactory bulb, and cholinergic interneurons in the striatum. Cells migrating along these pathways move at different rates. Some molecules that have been implicated in controlling the rate of the unidirectional movement of cells derived from the GEs are hepatocyte growth factor/scattered factor (HGF/SF), and variousneurotrophic factors.[2] 
+
+The primary purpose of the MGE during development is to produce GABAergic stellate-shaped cells and direct the cells' migration to the neocortex.[6] The precursors of most GABAergic interneurons in the cerebral cortex migrate from the subcortical progenitor zone. More specifically, performing a mechanical transection of the migratory route from the MGE to the neocortex causes a 33% decrease in GABAergic interneurons in the neocortex.[6] The MGE also produces some of the neurons and glia of the basal ganglia and hippocampus.[6][7] The MGE may also be a source of Cajal-Retzius cells, but this remains controversial.[6] Early in embryonic development, the interneurons in the cortex stem primarily from the MGE [8]and the AEP. In vitro experiments show that MGE cells migrate more than 300 μm per day, three times faster than the migration of LGE cells.[2] See more about the time frame and function of MGE in comparison to the LGE in the following section.
+
+Compared to the early temporal frame of development in the MGE, the LGE aids in the tangential migration of cells later in the mid-embryogenic stage. Unlike the MGE, which guides most cell migration into the cortex during this stage, the LGE contributes less to cell migration to the cortex, and instead guides many cells to the olfactory bulbs. In fact, the migration to the olfactory bulb is led by the LGE into adulthood. The route that newly generated neurons take from the anterior subventricular zone to the olfactory bulb is called the rostral migratory stream. During the late stages of embryonic development, both the LGE and MGE guide cell migration to the cortex, specifically the proliferative regions of the cortex.[2] Some studies have found that the LGE also contributes cells to the neocortex, but this remains an issue of debate.[6] In vitro, cells migrating from the LGE travel at a rate of 100 μm per day, slower than the MGE cells.[2]
+
+The caudal ganglionic eminence is another subcortical structure that is essential to the generation of cortical interneurons. It is located next to the lateral ventricle, posterior to where the LGE and MGE fuse.[6] The CGE is a fusion of the rostral medial and lateral ganglionic eminence, which begins at the mid to caudal thalamus. There are two molecular domains that exist within the CGE and closely resemble extensions of the caudal MGE and LGE.[9] The CGE is distinct from the LGE and MGE in gene expression patterns and progeny produced. Unlike the cells from the MGE, the cells from the CGE were rarely parvalbumin-containing neurons. It seems that the majority of cells from the CGE were GABAergic interneurons, but depending on where they are located, CGE-derived cells are very diverse. CGE-derived cells include GABAergic interneurons, spiny interneurons, mossy cells, pyramidal and granule neurons, and even oligodendrocyte and astrocyte glial cells.[6]
+
+Cells in the ganglionic eminence migrate tangentially to neocortex, giving rise to interneurons. A variety of molecular mechanisms cooperate to direct this process. Embryonic interneuronal migration to the cerebral cortex is mediated by an array of motogenic growth factors in the MGE, repulsive factors in the striatum and LGE, permissive factors in migratory corridors in the ganglionic eminence, and attractive factors in the cortex itself.[3] Cells in the LGE migrate to the striatal domain (caudate nucleus and putamen) and parts of the septum and amygdala. MGE cells follow a migratory path to the globus pallidus and part of the septum. The CGE gives rise to interneurons in the nucleus accumbens, the bed nucleus of the stria terminals, the hippocampus, and specific nuclei in the amygdala. This directed migration is induced by differences in gene expression between these subpallial domains.[4] An array of genes are involved in the differentiation and specification of interneurons and oligodendrocytes, including: Dlx1, Dlx2, Gsh1, Mash1, Gsh2, Nkx2.1, Nkx5.1, Isl1, Six3 and Vax1.[4]
+
+The induced migration of cells from the ganglionic eminence during development is directed by a variety of motogenic factors, molecules that increase cell motility, and chemotactic molecules. The motogenic factor HGF/SF enhances cell motility and directs cells away from subpallial regions and demarcates the routes followed by migrating cells. Neurotrophins, such as BDNF, are a family of motogenic factors involved in directing migration. The cerebral cortex provides chemoattractant molecules (for example NRG1 type I and II in the cortex) while subpallial areas produce chemorepulsive molecules (for example Slit) to direct cell migration. Additionally, some permissive factors (such as NRG1 type III) in the migratory corridors are necessary for this process to occur.[3][4]
+
+The neurotransmitters GABA and 5-HT have been implicated in the migration as well. High GABA concentrations have been seen to cause random cell movement ("random walk migration"), while low concentrations promote directed migration. 5-HT has been tied to the process of incorporating interneurons into the cortical plate, as well as in the differentiation into subpopulations of interneurons.[4]
+Associated Disorders
+
+The migration of cells from the ventricular zone to their intended destination and the success of their differentiation can be interrupted in many different ways, including interference with mechanical motors or an alteration of molecular signals that initiate movement, lead the cell in migration, and terminate its migration. The function of the molecules that affect migration are not confined to cell movement, overlapping considerably with the events associated with neurogenesis. As a result, neuronal migration syndromes are difficult to classify. The largest class of neuronal migration syndromes is lissencephaly. This includes a spectrum of simplified cortex ranging from agyria (a total absence of cortical convolutions) to pachygyria (broadened gyri) with unusually thick cortex.
+
+Mis-migration of neurons can also result in Bilateral Periventricular Nodular Heterotopia, a disease recognized by neuronal heterotopia lining the lateral ventricles. Zellweger Syndrome is characterized by a cortical dysplasia similar to polymicrogyria of cerebral and cerebellar cortex, occasionally with pachygyria surrounding the Sylvian fissure, and focal/subependymal heterotopia. Kallmann syndrome is recognized by anosmia associated with mental retardation, hypogonadism, and the failure of the olfactory bulb to develop.
+
+Disorders of axonal projection and assembly are rarely pure, but closely related to neuronal migration genes. This notably includes agenesis of the corpus callosum.
+
+Disturbances in the genesis of neural elements can result in cortical dysplasia. Examples include ectopic neurogenesis, microencephaly, and altered cell survival resulting in areas of hyperplasia, reduced apoptosis, and heterotopia.[10] 
+
+Further research could be done on the migration of cells from the basal ganglia to the neocortex. The molecular mechanisms in control of this are still not completely clarified. The number of known mutations that could interfere with neuronal migration is rapidly growing, and will continue to do so as further research is performed. The complexity of molecular steps needed to correctly place cells in a system as complicated as the brain is impressive, and as more pieces to this intricate puzzle arise, it will be easier to come up with strategies to remedy disorders associated with neuronal migration, and to potentially repair damage caused by trauma, stroke, maldevelopment, and aging.[10]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+Ideal observer analysis is a method for investigating how information is processed in a perceptual system. It is also a basic principle that guides modern research in perception.
+
+The ideal observer is a theoretical system that performs a specific task in an optimal way. If there is uncertainty in the task, then perfect performance is impossible and the ideal observer will make errors.
+
+Ideal performance is the theoretical upper limit of performance. It is theoretically impossible for a real system to perform better than ideal. Typically, real systems are only capable of sub-ideal performance.
+
+This technique is useful for analyzing psychophysical data.
+
+Many definitions of this term have been offered.
+
+Geisler: The central concept in ideal observer analysis is the ideal observer, a theoretical device that performs a given task in an optimal fashion given the available information and some specified constraints. This is not to say that ideal observers perform without error, but rather that they perform at the physical limit of what is possible in the situation. The fundamental role of uncertainty and noise implies that ideal observers must be defined in probabilistic (statistical) terms. Ideal observer analysis involves determining the performance of the ideal observer in a given task and then comparing its performance to that of a real perceptual system, which (depending on the application) might be the system as a whole, a subsystem, or an elementary component of the system.
+
+In sequential ideal observer analysis, the goal is to measure a real system's performance deficit at different processing stages. Such an approach is useful when studying systems that process information in discrete (or semi-discrete) stages or modules.
+
+To facilitate experimental design in the laboratory, an artificial task may be designed so that the system's performance in the task may be studied. If the task is too artificial, the system may be pushed away from a natural mode of operation. Depending on the goals of the experiment, this may diminish its external validity.
+
+In such cases, it may be important to keep the system operating naturally (or almost naturally) by designing a pseudo-natural task. Such tasks are still artificial, but they attempt to mimic the natural demands placed on a system. For example, the task might employ stimuli that resemble natural scenes and might test the system's ability to make potentially useful judgments about these stimuli.
+
+Natural scene statistics are the basis for calculating ideal performance in natural and pseudo-natural tasks. This calculation tends to incorporate elements of signal detection theory, information theory, or estimation theory.

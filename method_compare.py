@@ -90,8 +90,8 @@ def compare_texts(documents, questions):
 
 if __name__ == "__main__":
     # Replace these with the paths to your document and question files
-    document_dir = r"D:\Kuliah\sl\experimental result QA\ull data\data_collection\data_collection\All_Article\1-100"
-    question_dir = r"D:\Kuliah\sl\experimental result QA\ull data\data_collection\data_collection\questionOfXlsx\1-100"
+    document_dir = r"/workspaces/compare-method/experimental result QA/ull data/data_collection/data_collection/All_Article/1-100"
+    question_dir = r"/workspaces/compare-method/experimental result QA/ull data/data_collection/data_collection/questionOfXlsx/1-100"
 
     documents = []
     questions = []
@@ -108,6 +108,5 @@ if __name__ == "__main__":
 
     sln_similarity, cosine_sim = compare_texts(documents, questions)
 
-
-print(f"Semantic Link Network Similarity: {sln_similarity[0, 0]:.2f}")
-print(f"Cosine Similarity: {cosine_sim[0, 0]:.2f}")
+    print(f"Semantic Link Network Similarity: {sln_similarity[0, 0]:.2f}")
+    print(f"Cosine Similarity: {cosine_sim[0, 0]:.2f}")

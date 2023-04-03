@@ -1,0 +1,8 @@
+What is manifold alignment?	nnp
+Who was the concept first introduced as such by?	person
+When was the concept first introduced as such?	time
+Why recent work has extended the core manifold alignment algorithm to semi-supervised?	reason
+What is a "one-step" alignment?	name
+What lowers memory overhead and allows parallel implementations?	manner
+Why it sacrifices a great degree of flexibility?	reason
+Why traditional techniques are not able to take advantage of all corpora at the same time?	reason

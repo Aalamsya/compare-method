@@ -1,0 +1,107 @@
+¡Á1.What is financial technology also known as ? 
+No.1---> 0.0    3
+Global investment in financial technology increased more than twelvefold from $ 930 million in 2008 to more than $ 12 billion in 2014 . 
+No.2---> 0.0    11
+There is already a number of strong financial technology players like Tyro Payments and Stockspot in the market and the new hub will help further accelerate the growth of the sector . 
+No.3---> 0.0    12
+A financial technology innovation lab is also being launched in Hong Kong to help foster innovation in financial services using technology . 
+No.4---> 1.0    6
+In the United States , there are numerous FinTech companies and startups , including Affirm , Betterment , Behalf , Birch Finance , Clearwater Analytics , Fundera , IEX , Kabbage , Lending Club , Money.net , Nomis Solutions , Plaid , Prosper , Robinhood , SoFi , Square , Stripe , Think Finance , Wealthfront and GreenSky LLC . 
+No.5---> 1.5    4
+The nascent financial technology industry has seen rapid growth over the last few years , according to the office of the Mayor of London . 
+
+¡Ì2.What do financial technology companies consist of ? 
+No.1---> 0.5    3
+Global investment in financial technology increased more than twelvefold from $ 930 million in 2008 to more than $ 12 billion in 2014 . 
+No.2---> 0.5    11
+There is already a number of strong financial technology players like Tyro Payments and Stockspot in the market and the new hub will help further accelerate the growth of the sector . 
+No.3---> 0.5    12
+A financial technology innovation lab is also being launched in Hong Kong to help foster innovation in financial services using technology . 
+No.4---> 1.75   4
+The nascent financial technology industry has seen rapid growth over the last few years , according to the office of the Mayor of London . 
+No.5---> 2.0    6
+In the United States , there are numerous FinTech companies and startups , including Affirm , Betterment , Behalf , Birch Finance , Clearwater Analytics , Fundera , IEX , Kabbage , Lending Club , Money.net , Nomis Solutions , Plaid , Prosper , Robinhood , SoFi , Square , Stripe , Think Finance , Wealthfront and GreenSky LLC . 
+
+¡Á3.What is the definition of ` FinTech ' ? 
+No.1---> 3.571  15
+Within the academic community , on the technology side the Financial Data Science Association -LRB- FDSA -RRB- was founded with its first event organized by members from the artificial intelligence , machine learning , and natural language processing domain . 
+No.2---> 4.0    3
+Global investment in financial technology increased more than twelvefold from $ 930 million in 2008 to more than $ 12 billion in 2014 . 
+No.3---> 4.0    7
+In Europe , $ 1.5 billion was invested in financial technology companies in 2014 , with London-based companies receiving $ 539 million , Amsterdam-based companies $ 306 million , and Stockholm-based companies receiving $ 266 million in investment . 
+No.4---> 4.0    9
+In the Asia Pacific region , the growth will see a new financial technology hub to be opened in Sydney , in April 2015 . 
+No.5---> 4.0    10
+There is already a number of strong financial technology players like Tyro Payments and Stockspot in the market and the new hub will help further accelerate the growth of the sector .
+
+¡Á4.How much is the global investment in financial technology in 2008 ?
+ No.1---> 0.0 3
+ The services may originate from various independent service providers including at least one licensed bank or insurance .
+ No.2---> 0.0 4 
+The interconnection is enabled through open APIs and supported by regulations such as the European Payment Services Directive . 
+No.3---> 0.0 5 
+These solutions can be differentiated into at least five areas . 
+No.4---> 0.0 10 
+and DebtBench . 
+No.5---> 0.0 12
+ After London , Stockholm is the second highest funded city in the EU in the past 10 years . 
+
+¡Á5.How many percent of the City of London 's workforce is employed in financial and technology services ? 
+No.1---> 0.0    3
+The services may originate from various independent service providers including at least one licensed bank or insurance . 
+No.2---> 0.0    4
+The interconnection is enabled through open APIs and supported by regulations such as the European Payment Services Directive . 
+No.3---> 0.0    5
+These solutions can be differentiated into at least five areas . 
+No.4---> 0.0    9
+In the United States , there are numerous FinTech companies and startups , including Affirm , Betterment , Behalf , Birch Finance , Clearwater Analytics , Fundera , IEX , Kabbage , Lending Club , Money.net , Nomis Solutions , Plaid , Prosper , Robinhood , SoFi , Square , Stripe , Think Finance , Wealthfront and GreenSky LLC . 
+No.5---> 0.0    10
+and DebtBench . 
+
+¡Á6.How much was invested in financial technology companies in 2014 ? 
+No.1---> 0.0    3
+The services may originate from various independent service providers including at least one licensed bank or insurance . 
+No.2---> 0.0    4
+The interconnection is enabled through open APIs and supported by regulations such as the European Payment Services Directive . 
+No.3---> 0.0    5
+These solutions can be differentiated into at least five areas . 
+No.4---> 0.0    10
+and DebtBench . 
+No.5---> 0.0    17
+A leading online lending platform that operates in Hong Kong and China is WeLab , which has raised the second largest Series B fundraising in FinTech globally . 
+
+¡Á7.Which is the second highest funded city in the EU in the past 10 years after London ? 
+No.1---> 0.0    3
+The services may originate from various independent service providers including at least one licensed bank or insurance . 
+No.2---> 0.0    4
+The interconnection is enabled through open APIs and supported by regulations such as the European Payment Services Directive . 
+No.3---> 0.0    5
+These solutions can be differentiated into at least five areas . 
+No.4---> 0.0    10
+and DebtBench . 
+No.5---> 0.0    17
+A leading online lending platform that operates in Hong Kong and China is WeLab , which has raised the second largest Series B fundraising in FinTech globally . 
+
+¡Á8.When was a financial technology innovation lab launched in Hong Kong ? 
+No.1---> 4.0    8
+Financial magazine Forbes created a list of the leading disrupters in financial technology for its Forbes 2016 global Fintech 50 . 
+No.2---> 4.0    9
+In the financial advisory sector , established players such as Fidelity Investments have partnered with financial technology startups such as FutureAdvisor -LRB- recently acquired by BlackRock -RRB- , allowing new technology to work within a prominent custodian . 
+No.3---> 4.333  0
+Global investment in financial technology increased more than twelvefold from $ 930 million in 2008 to more than $ 12 billion in 2014 . 
+No.4---> 4.333  3
+After London , Stockholm is the second highest funded city in the EU in the past 10 years . 
+No.5---> 4.556  7
+On the business side , Wharton FinTech was founded at the Wharton School of the University of Pennsylvania in October 2014 with the objective of connecting academics , innovators , investors , and other thought leaders within the FinTech industry to each other and to the ideas that are reinventing global financial services . 
+
+¡Ì9.What launched an initiative named Fintech and Information Group to draw in start-ups from around the world ? 
+No.1---> 2.0    10
+In 2015 , the Monetary Authority of Singapore launched an initiative named Fintech and Information Group to draw in start-ups from around the world . 
+No.2---> 2.5    3
+Global investment in financial technology increased more than twelvefold from $ 930 million in 2008 to more than $ 12 billion in 2014 . 
+No.3---> 2.5    5
+Forty percent of the City of London 's workforce is employed in financial and technology services . 
+No.4---> 2.5    6
+In Europe , $ 1.5 billion was invested in financial technology companies in 2014 , with London-based companies receiving $ 539 million , Amsterdam-based companies $ 306 million , and Stockholm-based companies receiving $ 266 million in investment . 
+No.5---> 2.5    7
+In the Asia Pacific region , the growth will see a new financial technology hub to be opened in Sydney , in April 2015 . 

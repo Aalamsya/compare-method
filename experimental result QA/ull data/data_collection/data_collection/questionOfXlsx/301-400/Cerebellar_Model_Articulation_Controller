@@ -1,0 +1,10 @@
+What is the cerebellar model arithmetic computer?	nnp
+What is also known as the cerebellar model articulation controller?	name
+Who was the CMAC first proposed as a function modeler for robotic controllers?	person
+When was the CMAC first proposed as a function modeler for robotic controllers?	time
+Why any point in input space is associated with a number of hyper-rectangles?	reason
+Why a change in the set of memory cells participating in the CMAC output?	reason
+What has activated two memory cells, corresponding to the shaded area?	definiton
+Why points falling towards the edge of a hyper-rectangle have a smaller activation than those falling near the centre?	reason
+What is least mean square (LMS) method?	manner
+Why this reduces memory usage and time cost significantly?	reason

@@ -1,0 +1,9 @@
+What is Information_extraction?	definition
+What is structured data?	definition
+When can information extraction be traced back?	date
+Who is the inventor of the World Wide Web?	person
+What is template fill?	definition
+What is event extraction?	definition
+What is the knowledge base population?	definition
+What is named entity recognition?	definition
+What is the wrapper?	definition

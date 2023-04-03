@@ -1,0 +1,6 @@
+Herbert Gelernter (died 28 May 2015) was a professor in the Computer Science Department of Stony Brook University.
+
+Gelernter received his Ph.D. at the University of Rochester in 1957.[2][3] During his time at IBM, he wrote some of the first artificial intelligence software—his "geometry machine" was the first advanced AI program, and the third AI program ever.[4] He implemented, with Nathaniel Rochester, a computer language for list processing within FORTRAN. The work for this was done with Carl Gerberich at IBM, to this end producing the Fortran list processing language (FLPL).[5] His most ambitious project during his tenure at Stony Brook University was the SYNCHEM expert problem-solving system for the discovery of potential routes to the total synthesis of organic molecules through a self-guided intelligent search and application of its large knowledge base of graph transforms, rules and sophisticated heuristics representing generalized organic reactions organized around recognized functional groups. Prof. Gelernter died on May 28, 2015. His sons are geneticist and Yale professor Joel Gelernter and computer scientist and conservative social commentator David Gelernter, also a Yale professor.[6] His daughter Judith is a research scientist in the Information Technology Laboratory at the National Institute of Standards and Technology. 
+
+
+

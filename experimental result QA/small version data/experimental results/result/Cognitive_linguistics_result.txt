@@ -1,0 +1,59 @@
+¡Á1.What is the abbreviation of cognitive linguistics ? 
+No.1---> 0.0    15
+Insights and developments from cognitive linguistics are becoming accepted ways of analysing literary texts , too . 
+No.2---> 1.0    1
+Cognitive linguistics takes an opposing position to the historically prominent position of Noam Chomsky and others in the field of generative grammar . 
+No.3---> 1.0    2
+Cognitive linguistics is closely associated with semantics . 
+No.4---> 1.0    13
+Cognitive linguistics is divided into three main areas of study : Aspects of cognition that are of interest to cognitive linguists include : Related work that interfaces with many of the above themes : Cognitive linguistics , more than generative linguistics , seeks to mesh together these findings into a coherent whole . 
+No.5---> 1.0    16
+There is significant peer review and debate within the field of linguistics regarding cognitive linguistics . 
+
+¡Ì2.What is the definition of cognitive linguistics ? 
+No.1---> 1.5    2
+Cognitive linguistics is closely associated with semantics . 
+No.2---> 1.5    15
+Insights and developments from cognitive linguistics are becoming accepted ways of analysing literary texts , too . 
+No.3---> 1.5    16
+There is significant peer review and debate within the field of linguistics regarding cognitive linguistics . 
+No.4---> 1.833  4
+Cognitive linguistics broadly breaks down into three main areas of study : cognitive semantics , cognitive approaches to grammar and cognitive phonology . 
+No.5---> 2.0    1
+Cognitive linguistics takes an opposing position to the historically prominent position of Noam Chomsky and others in the field of generative grammar . 
+
+¡Ì3.How many main areas of study is cognitive linguistics divided into ? 
+No.1---> 0.0    15
+Insights and developments from cognitive linguistics are becoming accepted ways of analysing literary texts , too . 
+No.2---> 0.0    16
+Cognitive Poetics , as it has become known , has become an important part of modern stylistics . 
+No.3---> 1.0    1
+Cognitive linguistics takes an opposing position to the historically prominent position of Noam Chomsky and others in the field of generative grammar . 
+No.4---> 1.0    2
+Cognitive linguistics is closely associated with semantics . 
+No.5---> 1.0    13
+Cognitive linguistics is divided into three main areas of study : Aspects of cognition that are of interest to cognitive linguists include : Related work that interfaces with many of the above themes : Cognitive linguistics , more than generative linguistics , seeks to mesh together these findings into a coherent whole . 
+
+¡Á4.Who were Conceptual semantics pursued by ? 
+No.1---> 1.5    0
+Cognitive linguistics takes an opposing position to the historically prominent position of Noam Chomsky and others in the field of generative grammar . 
+No.2---> 2.0    1
+This stands in contrast to the stance adopted by Noam Chomsky and others in the field of generative grammar . 
+
+¡Á5.Why does a further complication arises ? 
+No.1---> 0.0    0
+Cognitive linguistics -LRB- CL -RRB- refers to the school of thought within linguistics that interprets language in terms of the concepts , sometimes universal , sometimes specific to a particular tongue , which underlie its forms . 
+No.2---> 0.0    1
+Cognitive linguistics takes an opposing position to the historically prominent position of Noam Chomsky and others in the field of generative grammar . 
+No.3---> 0.0    2
+Cognitive linguistics is closely associated with semantics . 
+No.4---> 0.0    3
+In its approach to semantics , it is distinct from psycholinguistics , which draws upon empirical findings from cognitive psychology , rather than underlying concepts , to explain the mental processes that underlie the acquisition , storage , production and understanding of speech and writing . 
+No.5---> 0.0    4
+Cognitive linguistics broadly breaks down into three main areas of study : cognitive semantics , cognitive approaches to grammar and cognitive phonology . 
+
+¡Ì6.Who have argued that most of the evidence from the cognitive view comes from the research in pragmatics and semantics ? 
+No.1---> 2.75   0
+Cognitive linguistics takes an opposing position to the historically prominent position of Noam Chomsky and others in the field of generative grammar . 
+No.2---> 3.25   1
+This stands in contrast to the stance adopted by Noam Chomsky and others in the field of generative grammar . 

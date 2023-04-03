@@ -1,0 +1,10 @@
+What is an anytime algorithm?	nnp
+Why the algorithm is expected to find better and better solutions the longer it keeps running?	reason
+What provide a single answer after performing some fixed amount of computation?	definition
+What are able to return a partial answer?	definition
+What is an approximation of the correct answer?	name
+What may be also called an "interruptible algorithm"?	name
+What are contract algorithms?	nnp
+What is trajectory problems?	definition
+What makes anytime algorithms unique?	definition
+Why it is called an interruptible algorithm?	reason

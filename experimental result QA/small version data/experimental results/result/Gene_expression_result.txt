@@ -1,0 +1,71 @@
+¡Ì1.What process is the gene expression ? 
+No.1---> 2.5    3
+Several steps in the gene expression process may be modulated , including the transcription , RNA splicing , translation , and post-translational modification of a protein . 
+No.2---> 2.5    6
+In genetics , gene expression is the most fundamental level at which the genotype gives rise to the phenotype , i.e. observable trait . 
+No.3---> 2.5    7
+The genetic code stored in DNA is `` interpreted '' by gene expression , and the properties of the expression give rise to the organism 's phenotype . 
+No.4---> 2.5    10
+With respect to a gene , the two strands may be labeled the `` template strand , '' which serves as a blueprint for the production of an RNA transcript , and the `` coding strand , '' which includes the DNA version of the transcript sequence . 
+No.5---> 2.5    14
+This so-called alternative splicing creates series of different transcripts originating from a single gene . 
+
+¡Ì2.How many antiparallel and reverse complementary strands does genomic DNA consists of ? 
+No.1---> 0.0    3
+Several steps in the gene expression process may be modulated , including the transcription , RNA splicing , translation , and post-translational modification of a protein . 
+No.2---> 0.0    7
+The genetic code stored in DNA is `` interpreted '' by gene expression , and the properties of the expression give rise to the organism 's phenotype . 
+No.3---> 0.0    8
+Such phenotypes are often expressed by the synthesis of proteins that control the organism 's shape , or that act as enzymes catalysing specific metabolic pathways characterising the organism . 
+No.4---> 0.0    11
+Genomic DNA consists of two antiparallel and reverse complementary strands , each having 5 ' and 3 ' ends . 
+No.5---> 0.0    12
+With respect to a gene , the two strands may be labeled the `` template strand , '' which serves as a blueprint for the production of an RNA transcript , and the `` coding strand , '' which includes the DNA version of the transcript sequence . 
+
+¡Ì3.What is the production of the RNA copy of the DNA called ? 
+No.1---> 1.0    3
+Several steps in the gene expression process may be modulated , including the transcription , RNA splicing , translation , and post-translational modification of a protein . 
+No.2---> 1.0    6
+In genetics , gene expression is the most fundamental level at which the genotype gives rise to the phenotype , i.e. observable trait . 
+No.3---> 1.0    7
+The genetic code stored in DNA is `` interpreted '' by gene expression , and the properties of the expression give rise to the organism 's phenotype . 
+No.4---> 1.0    10
+Genomic DNA consists of two antiparallel and reverse complementary strands , each having 5 ' and 3 ' ends . 
+No.5---> 1.0    11
+With respect to a gene , the two strands may be labeled the `` template strand , '' which serves as a blueprint for the production of an RNA transcript , and the `` coding strand , '' which includes the DNA version of the transcript sequence . 
+
+¡Á4.How many types of RNA polymerases transcription is performed by in eukaryotes ? 
+No.1---> 0.0    7
+The genetic code stored in DNA is `` interpreted '' by gene expression , and the properties of the expression give rise to the organism 's phenotype . 
+No.2---> 0.0    8
+Such phenotypes are often expressed by the synthesis of proteins that control the organism 's shape , or that act as enzymes catalysing specific metabolic pathways characterising the organism . 
+No.3---> 0.0    11
+Genomic DNA consists of two antiparallel and reverse complementary strands , each having 5 ' and 3 ' ends . 
+No.4---> 0.0    13
+-LRB- Perhaps surprisingly , the `` coding strand '' is not physically involved in the coding process because it is the `` template strand '' that is read during transcription . -RRB- 
+No.5---> 0.0    22
+Pol II includes a C-terminal domain -LRB- CTD -RRB- that is rich in serine residues . 
+
+¡Á5.Why splicing extends the complexity of eukaryotic gene expression ? 
+No.1---> 0.0    8
+Such phenotypes are often expressed by the synthesis of proteins that control the organism 's shape , or that act as enzymes catalysing specific metabolic pathways characterising the organism . 
+No.2---> 0.0    11
+Genomic DNA consists of two antiparallel and reverse complementary strands , each having 5 ' and 3 ' ends . 
+No.3---> 0.0    13
+-LRB- Perhaps surprisingly , the `` coding strand '' is not physically involved in the coding process because it is the `` template strand '' that is read during transcription . -RRB- 
+No.4---> 0.0    15
+This RNA is complementary to the template 3 ' â† 5 ' DNA strand , which is itself complementary to the coding 5 ' â† 3 ' DNA strand . 
+No.5---> 0.0    16
+Therefore , the resulting 5 ' â† 3 ' RNA strand is identical to the coding DNA strand with the exception that thymines -LRB- T -RRB- are replaced with uracils -LRB- U -RRB- in the RNA . 
+
+¡Á6.How many parts does every mRNA consists of ? 
+No.1---> 0.0    0
+Gene expression is the process by which information from a gene is used in the synthesis of a functional gene product . 
+No.2---> 0.0    1
+These products are often proteins , but in non-protein coding genes such as transfer RNA -LRB- tRNA -RRB- or small nuclear RNA -LRB- snRNA -RRB- genes , the product is a functional RNA . 
+No.3---> 0.0    2
+The process of gene expression is used by all known lifeâ€”eukaryotes -LRB- including multicellular organisms -RRB- , prokaryotes -LRB- bacteria and archaea -RRB- , and utilized by virusesâ€”to generate the macromolecular machinery for life . 
+No.4---> 0.0    3
+Several steps in the gene expression process may be modulated , including the transcription , RNA splicing , translation , and post-translational modification of a protein . 
+No.5---> 0.0    4
+Gene regulation gives the cell control over structure and function , and is the basis for cellular differentiation , morphogenesis and the versatility and adaptability of any organism . 

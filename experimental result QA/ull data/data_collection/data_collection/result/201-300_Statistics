@@ -1,0 +1,288 @@
+Ganglionic_eminence	7
+{number=1, reason=2, name=1, definition=2, location=2, time=2}
+{number=0 1, reason=0 2, name=0 1, definition=1 0, time=0 2}
+
+Neuroepistemology	3
+{person=1, definition=2, undefined=2}
+{definition=1 0, undefined=2 0}
+
+Interplanetary_Internet	9
+{date=1, reason=1, number=1, person=2, organization=1, definition=1, undefined=3}
+{date=1 0, reason=1 0, number=1 0, person=2 0, organization=1 0, definition=1 0, undefined=1 1}
+
+Project_Hieroglyph	2
+{date=1, person=1, organization=1, name=1, definition=1}
+{person=1 0, organization=0 1}
+
+Neuroethology	6
+{date=1, reason=1, number=1, person=2, name=1, definition=1, location=1, manner=1, undefined=1}
+{date=0 1, number=1 0, person=1 0, name=0 1, definition=1 0, manner=1 0}
+
+Neuroplasticity	6
+{reason=1, number=1, person=3, name=1, definition=3, time=1}
+{reason=0 1, number=0 1, person=1 1, name=1 0, definition=0 1}
+
+Metadesign	6
+{reason=1, number=1, person=1, name=1, definition=2, location=1, time=1}
+{reason=0 1, number=0 1, person=0 1, definition=2 0, time=1 0}
+
+Computational_linguistics	9
+{date=1, reason=1, person=2, name=1, definition=2, location=2, manner=1}
+{date=1 0, person =1 0, person=0 1, definition=2 0, location=1 1, manner=1 0, name =1 0}
+
+Mirror_neuron	6
+{person=2, name=1, definition=2, location=1, time=2, undefined=2}
+{person=1 0, name=0 1, location=1 0, time=1 0, undefined=1 1}
+
+Alpha-GPC	6
+{number=2, reason=1, organization=1, name=1, definition=1, undefined=3}
+{number=0 2, reason=0 1, organization=1 0, undefined=2 0}
+
+Mind	9
+{date=1, number=1, person=1, organization=1, name=1, definition=3, undefined=2}
+{date=1 0, number=0 1, person=1 0, organization=1 0, definition=0 3, undefined=1 1}
+
+Extremal_optimization	3
+{reason=2, name=1, definition=2, undefined=2}
+{reason =1 0, reason=0 1, undefined=1 0}
+
+Individuation	8
+{date=1, person=1, name=1, definition=4, manner=2, undefined=1}
+{date=0 1, person=1 0, name=0 1, definition=1 1, manner=0 2, undefined=1 0}
+
+Online_Consciousness_Conference	4
+{date=2, person=2, name=1}
+{date=2 0, person=1 0, name=1 0}
+
+Oja's_rul	3
+{date=1, name=2, definition=1, undefined=1}
+{date=0 1, name=1 1}
+
+Winner-take-all_in_action_selection	5
+{date=1, reason=1, name=1, definition=1, manner=1, undefined=1}
+{date=1 0, reason=1 0, name=1 0, manner=1 0, undefined=1 0}
+
+Pattern_language	8
+{date=1, reason=1, nnp=1, number=1, person=3, name=1, definition=1, undefined=1}
+{date=1 0, reason=0 1, nnp=0 1, number=0 1, person=2 0, definition=1 0, undefined=1 0}
+
+Clone_Algo_Inc	3
+{date=1, nnp=1, number=2, person=1, name=1, location=1, undefined=1}
+{number=1 1, location=1 0}
+
+Advanced_process_control	2
+{nnp=1, name=2, definition=1, time=1}
+{nnp=0 1, name=0 1}
+
+Fictive_motion	3
+{date=1, person=1, name=1, definition=1, undefined=1}
+{date=1 0, name=0 1, undefined=1 0}
+
+Planning_(cognitive)	3
+{date=1, nnp=1, number=1, person=1, definition=1}
+{date=1 0, person=1 0, definition=1 0}
+
+Neuroethics_Research_Unit	6
+{date=1, number=1, organization=1, name=1, location=1, manner=1, undefined=1}
+{date=1 0, number=1 0, organization=0 1, location=1 0, manner=0 1, undefined=1 0}
+
+Paroxysmal_dyskinesia	4
+{number=1, definition=1, time=2, undefined=1}
+{number=0 1, time=0 2, undefined=1 0}
+
+MOGUL_framework	6
+{date=1, reason=1, number=1, person=1, definition=2, undefined=2}
+{date=0 1, reason=1 0, number=0 1, person=0 1, definition=1 0, undefined=1 0}
+
+Computational_theory_of_mind	6
+{date=2, reason=1, number=1, person=3, definition=1, undefined=1}
+{date=1 1, reason=0 1, number=0 1, person=1 0, definition=1 0}
+
+Artificial_intuition	4
+{date=1, person=1, organization=1, name=1, definition=1, undefined=1}
+{date=1 0, person=1 0, name=1 0, undefined=0 1}
+
+Human_rights_in_Dubai	7
+{date=1, nnp=3, number=2, reason=1, person=1, location=1, undefined=1}
+{date=1 0, nnp=2 0, number=0 2, reason=0 1, undefined=0 1}
+
+Complex_systems	7
+{date=1, reason=1, nnp=1, number=1, person=1, name=2, definition=1, undefined=1}
+{reason=0 1, nnp=1 0, number=0 1, person=1 0, name=0 1, definition=1 0, undefined=0 1}
+
+Multi-Agent_Programming_Contest	4
+{date=1, reason=1, person=1, organization=1, definition=1}
+{date=0 1, reason=0 1, person=1 0, organization=0 1}
+
+Neuromorphic_engineering	5
+{date=2, number=1, person=1, definition=1, manner=1}
+{date=1 0, number=0 1, person=1 0, definition=1 0, manner=0 1}
+
+Number_sense	4
+{number=2, person=1, definition=1, undefined=2}
+{number=1 1, person=1 0, undefined=0 1}
+
+Epineurial_repair	3
+{date=1, number=2, definition=1, manner=2, undefined=1}
+{number=1 1, undefined=1 0}
+
+Artificial_Intelligence_System	6
+{date=1, number=2, reason=2, person=1, name=1, definition=1, undefined=1}
+{number=0 2, reason=0 2, definition=1 0, undefined=0 1}
+
+Affordance	3
+{date=1, nnp=1, person=2, name=1, definition=1, undefined=1}
+{date=1 0, person=1 0, name=0 1}
+
+Suh_Yoo-hun	5
+{date=3, number=2, person=1, location=1, undefined=1}
+{date=1 1, number=0 2, person=1 0}
+
+Sense_of_agency	3
+{person=1, name=1, definition=2, undefined=2}
+{person=0 1, undefined=0 2}
+
+Surround_suppression	4
+{date=1, nnp=1, number=1, person=1, definition=2, undefined=1}
+{number=0 1, definition=1 1, undefined=1 0}
+
+Systems_science	5
+{date=1, name=1, definition=3}
+{date=1 0, name=0 1, definition=2 1}
+
+Theory_of_mind	8
+{date=1, reason=1, number=2, person=2, definition=1, location=1, manner=1, undefined=1}
+{date=0 1, reason=0 1, number=0 2, person=0 1, definition=1 0, location=1 0, undefined=0 1}
+
+Principle_of_rationality	2
+{date=1, person=2, name=1, undefined=1}
+{person=1 0, undefined=1 0}
+
+CALO	5
+{date=2, number=3, nnp=1, definition=1, manner=1}
+{number=1 2, nnp=0 1, manner=1 0}
+
+Autonomic_networking	4
+{date=1, name=2, definition=1, manner=1, undefined=1}
+{name=0 1, definition=0 1, manner=0 1, undefined=1 0}
+
+Pleurothotonus	4
+{date=1, number=2, person=1, name=1, definition=2, manner=1, undefined=2}
+{number=0 2, manner=1 0, undefined=0 1}
+
+Probabilistic_logic_network	4
+{person=1, name=1, definition=1, manner=2, undefined=1}
+{name=0 1, definition=1 0, manner=0 1, undefined=1 0}
+
+Stochastic_diffusion_search	4
+{date=1, reason=1, nnp=1, definition=1, manner=2}
+{date=1 0, reason=1 0, definition=1 0, manner=1 0}
+
+Competitions_and_prizes_in_artificial_intelligence	8
+{date=2, nnp=1, number=1, distance=1, price=1, organization=2, definition=1, undefined=1}
+{date=1 0, nnp=1 0, number=0 1, distance=0 1, organization=0 2, definition=1 0, undefined=1 0}
+
+Collapsin_response_mediator_protein_family	3
+{date=1, nnp=1, number=1, name=1, manner=1, undefined=1}
+{nnp=1 0, number=0 1, undefined=1 0}
+
+Artificial_intelligence_marketing	3
+{nnp=1, definition=1, undefined=2}
+{definition=1 0, undefined=2 0}
+
+Neural_modeling_fields	2
+{number=1, person=1, definition=2, undefined=2}
+{number=0 1, definition=1 0}
+
+Our_Final_Invention	3
+{date=1, person=1, organization=1, name=2, definition=1, manner=1}
+{person=1 0, organization=1 0, definition=0 1}
+
+Augmented_cognition	7
+{date=3, nnp=1, number=1, reason=1, organization=1, definition=1, undefined=1}
+{date=1 0, nnp=1 0, number=0 1, reason=1 0, organization=1 0, definition=0 1, undefined=1 0}
+
+Herbert_Gelernter	3
+{date=2, person=2, organization=1}
+{person=2 0, organization=1 0}
+
+Knowledge-based_configuration	3
+{name=1, definition=2, undefined=2}
+{name=0 1, definition=0 2}
+
+Consciousness_and_the_Brain	5
+{date=1, reason=1, person=2, manner=1}
+{date=1 0, reason=0 1, person=2 0, manner=1 0}
+
+Artificial_cardiac_pacemaker	2
+{date=1, number=1, person=1, organization=1, definition=2, manner=1, undefined=1}
+{number=0 1, undefined=1 0}
+
+Temporal_dynamics_of_music_and_language	5
+{date=1, reason=1, number=1, definition=1, location=1, manner=1}
+{date=1 0, reason=0 1, number=0 1, definition=0 1, manner=0 1}
+
+Neurodegeneration_with_brain_iron_accumulation	3
+{reason=1, definition=1, undefined=3}
+{undefined=2 1}
+
+Center_for_BrainHealth	8
+{date=1, number=2, reason=1, person=1, price=1, definition=1, location=2}
+{date=1 0, number=0 2, reason=0 1, person=1 0, price=1 0, location=2 0}
+
+Dual-coding_theory	2
+{date=1, reason=1, person=1, undefined=2}
+{reason=1 0, person=1 0}
+
+Integrative_neuroscience	5
+{nnp=1, reason=2, definition=1, undefined=1}
+{nnp=0 1, reason=1 1, definition=1 0, undefined=0 1}
+
+Neuroimmunology	6
+{reason=1, nnp=1, number=1, name=2, definition=1, undefined=1}
+{reason=0 1, nnp=1 0, number=0 1, name=0 1, definition=0 1, undefined=1 0}
+
+Voltage-sensitive_dye	6
+{date=1, nnp=1, reason=1, definition=2, undefined=2}
+{date=1 0, nnp=0 1, reason=0 1, definition=1 0, undefined=1 1}
+
+Von_Willebrand_factor_type_D_domain	4
+{number=2, reason=1, name=1, definition=1, undefined=1}
+{number=0 2, reason=0 1, name=1 0}
+
+Emulation_theory_of_representation	5
+{date=2, reason=1, number=1, person=1, name=2, definition=1, manner=1, undefined=1}
+{date=0 1, number=1 0, definition=1 0, manner=1 0, undefined=0 1}
+
+User_illusion	5
+{date=2, reason=2, person=2, definition=2, location=1, manner=1}
+{reason=0 2, person=1 0, definition=1 0, manner=1 0}
+
+Neuronal_memory_allocation	6
+{nnp=1, reason=1, person=2, definition=2, manner=2, undefined=2}
+{reason=0 1, person=2 0, definition=1 1, undefined=1 0}
+
+Copenhagen_Institute_for_Futures_Studies	6
+{date=1, number=1, nnp=1, person=1, name=1, location=1, definition=1, undefined=1}
+{date=0 1, number=0 1, nnp=0 1, name=1 0, location=1 0, definition=1 0}
+
+Wetware_(brain)	5
+{date=2, nnp=1, person=3, name=1, definition=1}
+{date=1 0, nnp=0 1, person=1 1, definition=0 1}
+
+Context-based_model_of_minimal_counterintuiveness	1
+{date=1, nnp=1, person=2, definition=1}
+{definition=1 0}
+
+Neurorobotics	5
+{reason=2, nnp=1, name=1, definition=1, manner=2, undefined=2}
+{reason=1 1, nnp=0 1, definition=1 0, manner=0 1}
+
+Frame_language	6
+{date=2, person=2, definition=2, undefined=1}
+{date=2 0, person=1 1, definition=2 0}
+
+Vulnerability_index	8
+{date=2, reason=1, person=1, organization=1, definition=1, location=2}
+{date=2 0, reason=0 1, person=1 0, organization=0 1, definition=1 0, location=2 0}
+

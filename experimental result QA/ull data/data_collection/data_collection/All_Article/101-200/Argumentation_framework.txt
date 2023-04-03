@@ -1,0 +1,35 @@
+In artificial intelligence and related fields, an argumentation framework, or argumentation system, is a way to deal with contentious information and draw conclusions from it.
+
+In an abstract argumentation framework, entry-level information is a set of abstract arguments that, for instance, represent data or a proposition. Conflicts between arguments are represented by a binary relation on the set of arguments. In concrete terms, you represent an argumentation framework with a directed graph such that the nodes are the arguments, and the arrows represent the attack relation. There exist some extensions of the Dung's framework, like the logic-based argumentation frameworks or the value-based argumentation frameworks.
+
+Abstract argumentation frameworks, also called argumentation frameworks à la Dung, are defined formally as a pair:
+
+To decide if an argument can be accepted or not, or if several arguments can be accepted together, Dung defines several semantics of acceptance that allow, given an argumentation system, to compute sets of arguments, called extensions.
+
+There exists some inclusions between the sets of extensions built with these semantics :
+
+Every stable extension is preferred,
+Every preferred extension is complete,
+The grounded extension is complete,
+
+Labellings are a more expressive way than extensions to express the acceptance of the arguments. Concretely, a labelling is a mapping that associates every argument with a label in (the argument is accepted), out (the argument is rejected), or undec (the argument is undefined—not accepted or refused). One can also note a labelling as a set of pairs.
+
+One can convert every extension into a reinstatement labelling: the arguments of the extension are in, those attacked by an argument of the extension are out, and the others are undec. Conversely, one can build an extension from a reinstatement labelling just by keeping the arguments in. Indeed, Caminada proved that the reinstatement labellings and the complete extensions can be mapped in a bijective way. Moreover, the other Datung's semantics can be associated to some particular sets of reinstatement labellings.
+
+Reinstatement labellings distinguish arguments not accepted because they are attacked by accepted arguments from undefined arguments—that is, those that are not defended cannot defend themselves. An argument is undec if it is attacked by at least another undec. If it is attacked only by arguments out, it must be in, and if it is attacked some argument in, then it is out.
+
+In this case, the agent risks deducing too little information (if the intersection of the extensions is empty or has a very small cardinal).
+
+Of course, when there is only one extension (for instance, when the system is well-founded), this problem is very simple: the agent accepts arguments of the unique extension and rejects others.
+
+The same reasoning can be done with labellings that correspond to the chosen semantic : an argument can be accepted if it is in for each labelling and refused if it is out for each labelling, the others being in an undecided state (the status of the arguments can remind the epistemic states of a belief in the AGM framework for dynamic of beliefs).
+
+The abstract framework of Dung has been instantiated to several particular cases.
+
+Given a particular attack relation, one can build a graph and reason in a similar way to the abstract argumentation frameworks (use of semantics to build extension, skeptical or credulous inference), the difference is that the information inferred from a logic based argumentation framework is a set of formulae (the consequences of the accepted arguments).
+
+The value-based argumentation frameworks come from the idea that during an exchange of arguments, some can be stronger than others with respect to a certain value they advance, and so the success of an attack between arguments depends of the difference of these values.
+
+One remarks that an attack succeeds if both arguments are associated to the same value, or if there is no preference between their respective values.
+
+In assumption-based argumentation frameworks, arguments are defined as a set of rules and attacks are defined in terms of assumptions and contraries.

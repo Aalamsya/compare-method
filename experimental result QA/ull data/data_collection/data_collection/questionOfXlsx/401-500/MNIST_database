@@ -1,0 +1,10 @@
+What is the definition of The MNIST database?	definition
+Where does NIST's training data set come from?	location
+How many training images and test images are included in the MNIST database?	number
+How much error rate does the hierarchical system of convolution neural network acquire on MNIST database?	number
+When is the extended dataset EMNIST like MNIST released?	date
+What image set is the combination of the two databases in the NIST database?	nnp
+When did the researchers use a new classifier, LIRA, to achieve the best error rate of 0.42% on the database?	date
+What are the consequences of testing artificial intelligence systems using randomly twisted databases?	undefinition
+Where does the parallel computing center only get 5 convolution neural networks?	location
+How many test errors can be prevented by testing the error mark of the dataset?	number

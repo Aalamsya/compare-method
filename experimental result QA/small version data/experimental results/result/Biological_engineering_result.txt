@@ -1,0 +1,61 @@
+¡Á1.What does biological engineering use to study and advance applications of organisms and to create biotechnology ? 
+No.1---> 1.0    4
+In the non-medical aspects of bio-engineering , it is closely related to biotechnology , nanotechnology and 3D printing . 
+No.2---> 1.333  8
+The differentiation between biological engineering and biomedical engineering can be unclear , as many universities loosely use the terms `` bioengineering '' and `` biomedical engineering '' interchangeably . 
+No.3---> 1.333  12
+Biological engineering can be differentiated from its roots of pure biology or other engineering fields . 
+No.4---> 1.333  15
+Biological engineering uses both approaches in concert , relying on reductionist approaches to identify , understand , and organize the fundamental units , which are then integrated to generate something new . 
+No.5---> 1.333  22
+The first biological engineering program was created at Mississippi State University in 1967 , making it the first biological engineering curriculum in the United States . 
+
+¡Ì2.Who theorized about the idea of a medical use for these biological machines ? 
+No.1---> 0.0    0
+Physicist Richard Feynman theorized about the idea of a medical use for these biological machines , introduced into the body , to repair or detect damages and infections . 
+No.2---> 3.364  1
+According to Professor Doug Lauffenburger of MIT , biological engineering -LRB- like biotechnology -RRB- has a broader base which applies engineering principles to an enormous range of size and complexities of systems ranging from the molecular level - molecular biology , biochemistry , microbiology , pharmacology , protein chemistry , cytology , immunology , neurobiology and neuroscience -LRB- often but not always using biological substances -RRB- - to cellular and tissue-based methods -LRB- including devices and sensors -RRB- , whole macroscopic organisms -LRB- plants , animals -RRB- , and up increasing length scales to whole ecosystems . 
+
+¡Ì3.Why is the differentiation between biological engineering and biomedical engineering can be unclear ? 
+No.1---> 0.0    3
+Physicist Richard Feynman theorized about the idea of a medical use for these biological machines , introduced into the body , to repair or detect damages and infections . 
+No.2---> 0.0    4
+. 
+No.3---> 0.0    5
+Feynman and Albert Hibbs suggested that it might one day be possible to -LRB- as Feynman put it -RRB- `` swallow the doctor '' . 
+No.4---> 0.0    6
+The idea was discussed in Feynman 's 1959 essay There 's Plenty of Room at the Bottom . 
+No.5---> 0.0    12
+The differentiation between biological engineering and biomedical engineering can be unclear , as many universities loosely use the terms `` bioengineering '' and `` biomedical engineering '' interchangeably . 
+
+¡Á4.Who uses classical design perspectives ? 
+No.1---> 3.636  0
+According to Professor Doug Lauffenburger of MIT , biological engineering -LRB- like biotechnology -RRB- has a broader base which applies engineering principles to an enormous range of size and complexities of systems ranging from the molecular level - molecular biology , biochemistry , microbiology , pharmacology , protein chemistry , cytology , immunology , neurobiology and neuroscience -LRB- often but not always using biological substances -RRB- - to cellular and tissue-based methods -LRB- including devices and sensors -RRB- , whole macroscopic organisms -LRB- plants , animals -RRB- , and up increasing length scales to whole ecosystems .
+
+¡Ì5.Where was the first biological engineering program created ? 
+No.1---> 0.0    0
+The first biological engineering program was created at Mississippi State University in 1967 , making it the first biological engineering curriculum in the United States .  
+
+¡Á6.Why can the term biological engineering be applied more broadly to include agricultural engineering and biotechnology ? 
+No.1---> 0.0    3
+Physicist Richard Feynman theorized about the idea of a medical use for these biological machines , introduced into the body , to repair or detect damages and infections . 
+No.2---> 0.0    4
+. 
+No.3---> 0.0    5
+Feynman and Albert Hibbs suggested that it might one day be possible to -LRB- as Feynman put it -RRB- `` swallow the doctor '' . 
+No.4---> 0.0    6
+The idea was discussed in Feynman 's 1959 essay There 's Plenty of Room at the Bottom . 
+No.5---> 0.0    25
+The word bioengineering was coined by British scientist and broadcaster Heinz Wolff in 1954 . 
+
+¡Ì7.What is biological engineering also called ? 
+No.1---> 0.0    8
+The differentiation between biological engineering and biomedical engineering can be unclear , as many universities loosely use the terms `` bioengineering '' and `` biomedical engineering '' interchangeably . 
+No.2---> 0.0    15
+Biological engineering uses both approaches in concert , relying on reductionist approaches to identify , understand , and organize the fundamental units , which are then integrated to generate something new . 
+No.3---> 0.0    23
+The first biological engineering program was created at Mississippi State University in 1967 , making it the first biological engineering curriculum in the United States . 
+No.4---> 0.0    31
+Biological engineering is also called bioengineering by some colleges , and biomedical engineering is called bioengineering by others , and is a rapidly developing field with fluid categorization . 
+No.5---> 1.0    4
+In the non-medical aspects of bio-engineering , it is closely related to biotechnology , nanotechnology and 3D printing . 

@@ -1,0 +1,5 @@
+¡Á1.What is the abbreviation of Semi-Automatic Ground Environment ? 
+¡Á2.Why is Ethernet continued use ? 
+¡Á3.How many kinds of data do packets consist of ? 
+¡Á4.How far are the communications satellites stationed in geosynchronous orbit above the equator ?
+¡Ì5.What basic types do bridges come in ? 

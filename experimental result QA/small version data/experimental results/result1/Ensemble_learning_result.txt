@@ -1,0 +1,8 @@
+¡Á1.What is Ensemble learning ? 
+¡Ì2.What are most commonly described as performing the task of searching through a hypothesis space ? 
+¡Á3.Why ensembles may be thought of as a way to compensate for poor learning algorithms by performing a lot of extra computation ? 
+¡Ì4.Why an ensemble is itself a supervised learning algorithm ? 
+¡Ì5.What has been shown to be more effective than using techniques ?
+¡Ì6.What is called ` the law of diminishing returns in ensemble construction ' ? 
+
+

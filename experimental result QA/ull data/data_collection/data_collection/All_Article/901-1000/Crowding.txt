@@ -1,0 +1,5 @@
+Crowding is a perceptual phenomenon where the recognition of objects (or graphemes) presented away from the fovea is impaired by the presence of other neighbouring objects (sometimes called "flankers"). It has been suggested that crowding occurs due to mandatory integration of the crowded objects by a texture-processing neural mechanism. 
+
+Crowding deficits have been specifically found in neuropsychiatric disorders such as schizophrenia and autism and may have profound clinical implications in these disorders. 
+
+If objects remain within your visual field over time, then priming begins to occur and the objects become less cluttered.

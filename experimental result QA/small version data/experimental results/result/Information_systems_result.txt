@@ -1,0 +1,71 @@
+¡Ì1.What is the abbreviation of an information system ? 
+No.1---> 0.0    2
+`` An information system -LRB- IS -RRB- is a group of components that interact to produce information . '' 
+No.2---> 0.0    13
+Alter argues for advantages of viewing an information system as a special type of work system . 
+No.3---> 0.0    15
+An information system is a work system whose activities are devoted to capturing , transmitting , storing , retrieving , manipulating and displaying information . 
+No.4---> 0.5    0
+An information system -LRB- IS -RRB- is any organized system for the collection , organization , storage and communication of information . 
+No.5---> 0.5    6
+An emphasis is placed on an information system having a definitive boundary , users , processors , storage , inputs , outputs and the aforementioned communication networks . 
+
+¡Ì2.What is an information system an organized system for ? 
+No.1---> 0.0    2
+`` An information system -LRB- IS -RRB- is a group of components that interact to produce information . '' 
+No.2---> 0.0    13
+Alter argues for advantages of viewing an information system as a special type of work system . 
+No.3---> 0.0    15
+An information system is a work system whose activities are devoted to capturing , transmitting , storing , retrieving , manipulating and displaying information . 
+No.4---> 0.5    0
+An information system -LRB- IS -RRB- is any organized system for the collection , organization , storage and communication of information . 
+No.5---> 0.5    6
+An emphasis is placed on an information system having a definitive boundary , users , processors , storage , inputs , outputs and the aforementioned communication networks . 
+
+¡Ì3.What is the definition of a computer information system ? 
+No.1---> 1.5    2
+`` An information system -LRB- IS -RRB- is a group of components that interact to produce information . '' 
+No.2---> 1.5    13
+Alter argues for advantages of viewing an information system as a special type of work system . 
+No.3---> 1.5    15
+An information system is a work system whose activities are devoted to capturing , transmitting , storing , retrieving , manipulating and displaying information . 
+No.4---> 2.0    0
+An information system -LRB- IS -RRB- is any organized system for the collection , organization , storage and communication of information . 
+No.5---> 2.0    6
+An emphasis is placed on an information system having a definitive boundary , users , processors , storage , inputs , outputs and the aforementioned communication networks . 
+
+¡Ì4.How many components that must come together in order to produce an information system ? 
+No.1---> 1.5    2
+`` An information system -LRB- IS -RRB- is a group of components that interact to produce information . '' 
+No.2---> 1.5    13
+Alter argues for advantages of viewing an information system as a special type of work system . 
+No.3---> 1.5    15
+An information system is a work system whose activities are devoted to capturing , transmitting , storing , retrieving , manipulating and displaying information . 
+No.4---> 1.75   0
+An information system -LRB- IS -RRB- is any organized system for the collection , organization , storage and communication of information . 
+No.5---> 1.75   6
+An emphasis is placed on an information system having a definitive boundary , users , processors , storage , inputs , outputs and the aforementioned communication networks . 
+
+¡Á5.What is the bridge between hardware and people ? 
+No.1---> 2.7    8
+An information system is the information and communication technology -LRB- ICT -RRB- that an organization uses , and also the way in which people interact with this technology in support of business processes . 
+No.2---> 2.75   3
+A computer information system is a system composed of people and computers that processes or interprets information . 
+No.3---> 3.0    0
+An information system -LRB- IS -RRB- is any organized system for the collection , organization , storage and communication of information . 
+No.4---> 3.0    6
+An emphasis is placed on an information system having a definitive boundary , users , processors , storage , inputs , outputs and the aforementioned communication networks . 
+No.5---> 3.167  1
+More specifically , it is the study of complementary networks that people and organizations use to collect , filter , process , create and distribute data . 
+
+¡Á6.How many years has Information Systems as a discipline been evolving for ? 
+No.1---> 2.333  2
+`` An information system -LRB- IS -RRB- is a group of components that interact to produce information . '' 
+No.2---> 2.333  13
+Alter argues for advantages of viewing an information system as a special type of work system . 
+No.3---> 2.333  15
+An information system is a work system whose activities are devoted to capturing , transmitting , storing , retrieving , manipulating and displaying information . 
+No.4---> 2.333  19
+Information systems are the primary focus of study for organizational informatics . 
+No.5---> 2.5    0
+An information system -LRB- IS -RRB- is any organized system for the collection , organization , storage and communication of information . 

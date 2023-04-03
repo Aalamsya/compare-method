@@ -1,0 +1,83 @@
+¡Á1.What is Ensemble learning ? 
+No.1---> 2.0    10
+An ensemble is itself a supervised learning algorithm , because it can be trained and then used to make predictions . 
+No.2---> 2.0    13
+Although perhaps non-intuitive , more random algorithms -LRB- like random decision trees -RRB- can be used to produce a stronger ensemble than very deliberate algorithms -LRB- like entropy-reducing decision trees -RRB- . 
+No.3---> 2.0    19
+The Bayes Optimal Classifier is a classification technique . 
+No.4---> 2.0    24
+As an example , the random forest algorithm combines random decision trees with bagging to achieve very high classification accuracy . 
+No.5---> 2.0    25
+An interesting application of bagging in unsupervised learning is provided here . 
+
+¡Ì2.What are most commonly described as performing the task of searching through a hypothesis space ? 
+No.1---> 0.0    2
+Supervised learning algorithms are commonly described as performing the task of searching through a hypothesis space to find a suitable hypothesis that will make good predictions with a particular problem . 
+No.2---> 0.0    3
+Even if the hypothesis space contains hypotheses that are very well-suited for a particular problem , it may be very difficult to find a good one . 
+No.3---> 0.0    9
+This hypothesis , however , is not necessarily contained within the hypothesis space of the models from which it is built . 
+No.4---> 0.0    17
+It is an ensemble of all the hypotheses in the hypothesis space . 
+No.5---> 0.0    23
+Instead of sampling each model in the ensemble individually , it samples from the space of possible ensembles -LRB- with model weightings drawn randomly from a Dirichlet distribution having uniform parameters -RRB- .
+
+¡Á3.Why ensembles may be thought of as a way to compensate for poor learning algorithms by performing a lot of extra computation ? 
+No.1---> 0.0    4
+Ensembles combine multiple hypotheses to form a -LRB- hopefully -RRB- better hypothesis . 
+No.2---> 0.0    5
+The term ensemble is usually reserved for methods that generate multiple hypotheses using the same base learner . 
+No.3---> 0.0    11
+The trained ensemble , therefore , represents a single hypothesis . 
+No.4---> 0.0    13
+Thus , ensembles can be shown to have more flexibility in the functions they can represent . 
+No.5---> 0.0    15
+Empirically , ensembles tend to yield better results when there is a significant diversity among the models .   
+
+¡Ì4.Why an ensemble is itself a supervised learning algorithm ? 
+No.1---> 0.0    4
+Ensembles combine multiple hypotheses to form a -LRB- hopefully -RRB- better hypothesis . 
+No.2---> 0.0    5
+The term ensemble is usually reserved for methods that generate multiple hypotheses using the same base learner . 
+No.3---> 0.0    10
+An ensemble is itself a supervised learning algorithm , because it can be trained and then used to make predictions . 
+No.4---> 0.0    11
+The trained ensemble , therefore , represents a single hypothesis . 
+No.5---> 0.0    13
+Thus , ensembles can be shown to have more flexibility in the functions they can represent .4.Why an ensemble is itself a supervised learning algorithm ? 
+No.1---> 0.0    4
+Ensembles combine multiple hypotheses to form a -LRB- hopefully -RRB- better hypothesis . 
+No.2---> 0.0    5
+The term ensemble is usually reserved for methods that generate multiple hypotheses using the same base learner . 
+No.3---> 0.0    10
+An ensemble is itself a supervised learning algorithm , because it can be trained and then used to make predictions . 
+No.4---> 0.0    11
+The trained ensemble , therefore , represents a single hypothesis . 
+No.5---> 0.0    13
+Thus , ensembles can be shown to have more flexibility in the functions they can represent .
+
+¡Ì5.What has been shown to be more effective than using techniques ? 
+No.1---> 0.0    8
+Fast algorithms such as decision trees are commonly used in ensemble methods -LRB- for example Random Forest -RRB- , although slower algorithms can benefit from ensemble techniques as well . 
+No.2---> 0.0    38
+If an arbitrary combiner algorithm is used , then stacking can theoretically represent any of the ensemble techniques described in this article , although in practice , a single-layer logistic regression model is often used as the combiner . 
+No.3---> 1.0    13
+Using a variety of strong learning algorithms , however , has been shown to be more effective than using techniques that attempt to dumb-down the models in order to promote diversity . 
+No.4---> 2.0    10
+An ensemble is itself a supervised learning algorithm , because it can be trained and then used to make predictions . 
+No.5---> 2.0    24
+An interesting application of bagging in unsupervised learning is provided here .
+
+¡Ì6.What is called ` the law of diminishing returns in ensemble construction ' ? 
+No.1---> 2.0    14
+It is called â€œthe law of diminishing returns in ensemble construction.â€ Their theoretical framework shows that using the same number of independent component classifiers as class labels gives the highest accuracy . 
+No.2---> 2.0    23
+The use of Bayes ' law to compute model weights necessitates computing the probability of the data given each model . 
+No.3---> 3.5    4
+The broader term of multiple classifier systems also covers hybridization of hypotheses that are not induced by the same base learner . 
+No.4---> 4.0    1
+Unlike a statistical ensemble in statistical mechanics , which is usually infinite , a machine learning ensemble refers only to a concrete finite set of alternative models , but typically allows for much more flexible structure to exist among those alternatives . 
+No.5---> 4.0    13
+Mostly statistical tests was used for determining the proper number of components .
+
+  

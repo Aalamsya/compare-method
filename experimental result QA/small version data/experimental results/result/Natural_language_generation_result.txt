@@ -1,0 +1,53 @@
+¡Ì1.What is the abbreviation of natural language generation ? 
+No.1---> 1.5    0
+It could be said an NLG system is like a translator that converts data into a natural language representation . 
+No.2---> 1.5    1
+However , the methods to produce the final language are different from those of a compiler due to the inherent expressivity of natural languages . 
+No.3---> 1.5    7
+As in other areas of natural language processing , this can be done using either explicit models of language -LRB- e.g. , grammars -RRB- and the domain , or using statistical models derived by analysing human-written texts . 
+No.4---> 2.25   13
+The typical stages of natural language generation , as proposed by Dale and Reiter , are : Content determination : Deciding what information to mention in the text . 
+No.5---> 2.5    10
+The process to generate text can be as simple as keeping a list of canned text that is copied and pasted , possibly linked with some glue text . 
+
+¡Ì2.When did commercial NLG technology become widely available ? 
+No.1---> 2.0    0
+NLG has existed for a long time but commercial NLG technology has only recently become widely available . 
+No.2---> 2.0    1
+The earliest such system to be deployed was FoG , which was used by Environment Canada to generate weather forecasts in French and English in the early 1990s . 
+No.3---> 2.0    2
+This all began in the 1990s when there was interest in using NLG to summarise financial and business data . 
+No.4---> 4.0    3
+Several companies have been started since 2009 which build systems that transform data into narrative using NLG and AI techniques . 
+
+¡Á3.What is the value of pollen levels in Northern areas ? 
+No.1---> 1.0	32
+This is called evaluation . 
+No.2---> 1.0	36
+In any case , human ratings are the most popular evaluation technique in NLG ; this is contrast to machine translation , where metrics are widely used . 
+No.3---> 2.0	23
+For example , the SPOTLIGHT system developed at A.C. Nielsen automatically generated readable English text based on the analysis of large amounts of retail sales data . 
+No.4---> 2.5	4
+Simple examples are systems that generate form letters . 
+No.5---> 2.5	13
+Lexical choice : Putting words to the concepts . 
+
+¡Ì4.What level is pollen counts expected to remain at over most of Scotland ? 
+No.1---> 4.5    8
+The Pollen Forecast for Scotland system is a simple example of a simple NLG system that could essentially be a template . 
+No.2---> 4.5    9
+This system takes as input six numbers , which give predicted pollen levels in different parts of Scotland . 
+No.3---> 4.5    12
+The only relief is in the Northern Isles and far northeast of mainland Scotland with medium levels of pollen count . 
+No.4---> 4.5    20
+For example , deciding to use in the Northern Isles and far northeast of mainland Scotland to refer to a certain region in Scotland . 
+No.5---> 5.5    11
+In contrast , the actual forecast -LRB- written by a human meteorologist -RRB- from this data was Pollen counts are expected to remain high at level 6 over most of Scotland , and even level 7 in the south east . 
+
+¡Ì5.Who proposed the typical stages of natural language generation ? 
+No.1---> 2.25   0
+The typical stages of natural language generation , as proposed by Dale and Reiter , are : Content determination : Deciding what information to mention in the text . 
+No.2---> 2.75   1
+For example , the SPOTLIGHT system developed at A.C. Nielsen automatically generated readable English text based on the analysis of large amounts of retail sales data . 
+No.3---> 3.5    2
+These include Arria NLG , Automated Insights , Narrative Science , Narrativa and Yseop . 

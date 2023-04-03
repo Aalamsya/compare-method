@@ -1,0 +1,10 @@
+Who introduced  Science fiction prototyping?	person
+Where is "ubiquitous computing and urban development: personal and social problems"?	location
+What is the first science fiction written by Brian David Johnson?	name
+Where was the first public science fiction prototype event held?	location
+When was the second science fiction seminar held?	date
+What is the core method of Science fiction prototyping?	definition
+How many pages are there in the complete science fiction prototype?	number
+What are the two earliest applications of science fiction prototypes?	definition
+Who is the early adopter of the SFP method of "threat casting"?	person
+Which university introduces creative thinking to support entrepreneurship courses?	name

@@ -1,0 +1,15 @@
+Expectation confirmation theory (alternatively ECT or expectation disconfirmation theory) is a cognitive theory which seeks to explain post-purchase or post-adoption satisfaction as a function of expectations, perceived performance, and disconfirmation of beliefs. The structure of the theory was developed in a series of two papers written by Richard L. Oliver in 1977[1] and 1980.[2] Although the theory originally appeared in the psychology and marketing literatures, it has since been adopted in several other scientific fields, notably including consumer research and information systems, among others. 
+
+Expectation confirmation theory involves four primary constructs: expectations, perceived performance, disconfirmation of beliefs, and satisfaction.
+
+Expectations refer to the attributes or characteristics that a person anticipates or predicts will be associated with an entity such as a product, service, or technology artifact. Expectations are posited to directly influence both perceptions of performance and disconfirmation of beliefs, and are posited to indirectly influence post-purchase or post-adoption satisfaction by way of a mediational relationship through the disconfirmation construct. Pre-purchase or pre-adoption expectations form the basis of comparison against which the product, service, or technology artifact is ultimately judged.
+
+
+Perceived performance refers to a person’s perceptions of the actual performance of a product, service, or technology artifact. According to expectation confirmation theory, perceptions of performance are directly influenced by pre-purchase or pre-adoption expectations, and in turn directly influence disconfirmation of beliefs and post-purchase or post-adoption satisfaction. Perceived performance is also posited to indirectly influence post-purchase or post-adoption satisfaction by way of a mediational relationship through the disconfirmation construct.
+
+
+Disconfirmation of beliefs refers to the judgments or evaluations that a person makes with respect to a product, service, or technology artifact. These evaluations or judgments are made in comparison to the person’s original expectations. When a product, service, or technology artifact outperforms the person’s original expectations, the disconfirmation is positive, which is posited to increase post-purchase or post-adoption satisfaction. When a product, service, or technology artifact underperforms the person’s original expectations, the disconfirmation is negative, which is posited to decrease post-purchase or post-adoption satisfaction (i.e., to increase dissatisfaction).
+
+
+Post-purchase or post-adoption satisfaction refers to the extent to which a person is pleased or contented with a product, service, or technology artifact after having gained direct experience with the product, service, or artifact. Expectation confirmation theory posits that satisfaction is directly influenced by disconfirmation of beliefs and perceived performance, and is indirectly influenced by both expectations and perceived performance by means of a mediational relationship which passes through the disconfirmation construct.
+

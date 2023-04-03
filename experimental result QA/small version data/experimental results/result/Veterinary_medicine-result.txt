@@ -1,0 +1,97 @@
+¡Á1.What is the scope of veterinary medicine?
+No.1---> 0.0	2
+Veterinary medicine is widely practiced , both with and without professional supervision . 
+No.2---> 0.0	21
+In 1879 , Iowa Agricultural College became the first land grant college to establish a school of veterinary medicine . 
+No.3---> 0.0	29
+A number of professions exist within the scope of veterinary medicine , but which may not necessarily be performed by vets or veterinary nurses . 
+No.4---> 1.0	9
+-LRB- See also Shalihotra -RRB- -LRB- Buddhism -RRB- First Buddhist Emperor of India edicts of Asoka reads : `` Everywhere King Piyadasi -LRB- Asoka -RRB- made two kinds of medicine -LRB- à¤šà¤¿à¤•à¤¿à¤¤à à¤¸à¤¾ -RRB- available , medicine for people and medicine for animals . 
+No.5---> 1.0	10
+Where there were no healing herbs for people and animals , he ordered that they be bought and planted . '' 
+
+¡Á2.Why the first attempts to organize and regulate the practice of treating animals tended to focus on horses ? 
+No.1---> 0.0    3
+Professional care is most often led by a veterinary physician -LRB- also known as a vet , veterinary surgeon or veterinarian -RRB- , but also by paraveterinary workers such as veterinary nurses or technicians . 
+No.2---> 0.0    15
+This ultimately led to the establishment of the Worshipful Company of Farriers in 1674 . 
+No.3---> 0.0    18
+The first veterinary college was founded in Lyon , France in 1762 by Claude Bourgelat . 
+No.4---> 0.0    24
+This was finally achieved in 1790 , through the campaigning of Granville Penn , who persuaded the Frenchman , Benoit Vial de St. Bel to accept the professorship of the newly established Veterinary College in London . 
+No.5---> 0.0    25
+The Royal College of Veterinary Surgeons was established by royal charter in 1844 . 
+
+¡Á3.Why veterinarians usually obliged to look after animal welfare ? 
+No.1---> 0.0    3
+Professional care is most often led by a veterinary physician -LRB- also known as a vet , veterinary surgeon or veterinarian -RRB- , but also by paraveterinary workers such as veterinary nurses or technicians . 
+No.2---> 0.0    15
+This ultimately led to the establishment of the Worshipful Company of Farriers in 1674 . 
+No.3---> 0.0    18
+The first veterinary college was founded in Lyon , France in 1762 by Claude Bourgelat . 
+No.4---> 0.0    24
+This was finally achieved in 1790 , through the campaigning of Granville Penn , who persuaded the Frenchman , Benoit Vial de St. Bel to accept the professorship of the newly established Veterinary College in London . 
+No.5---> 0.0    25
+The Royal College of Veterinary Surgeons was established by royal charter in 1844 . 
+
+¡Ì4.When is the Egyptian Papyrus of Kahun ? 
+
+No.1---> 3.0    0
+The Egyptian Papyrus of Kahun -LRB- 1900 BCE -RRB- and Vedic literature in ancient India offer one of the first written records of veterinary medicine . 
+No.2---> 4.667  4
+The Odiham Agricultural Society was founded in 1783 in England to promote agriculture and industry , and played an important role in the foundation of the veterinary profession in Britain . 
+No.3---> 5.25   3
+This resulted in his founding a veterinary college in Lyon in 1761 , from which establishment he dispatched students to combat the disease ; in a short time , the plague was stayed and the health of stock restored , through the assistance rendered to agriculture by veterinary science and art . '' 
+No.4---> 5.5    6
+Veterinary science came of age in the late 19th century , with notable contributions from Sir John McFadyean , credited by many as having been the founder of modern Veterinary research . 
+No.5---> 5.667  5
+A 1785 Society meeting resolved to `` promote the study of Farriery upon rational scientific principles.â€ The physician James Clark wrote a treatise entitled Prevention of Disease in which he argued for the professionalization of the veterinary trade , and the establishment of veterinary colleges . 
+
+¡Ì5.Who is the first Buddhist Emperor of India ? 
+No.1---> 4.75	0
+-LRB- See also Shalihotra -RRB- -LRB- Buddhism -RRB- First Buddhist Emperor of India edicts of Asoka reads : `` Everywhere King Piyadasi -LRB- Asoka -RRB- made two kinds of medicine -LRB- à¤šà¤¿à¤•à¤¿à¤¤à à¤¸à¤¾ -RRB- available , medicine for people and medicine for animals . 
+No.2---> 6.0	1
+Meanwhile , Carlo Ruini 's book Anatomia del Cavallo , -LRB- Anatomy of the Horse -RRB- was published in 1598 . 
+No.3---> 6.0	2
+According to Lupton , after observing the devastation being caused by cattle plague to the French herds , Bourgelat devoted his time to seeking out a remedy . 
+No.4---> 6.333	3
+A 1785 Society meeting resolved to `` promote the study of Farriery upon rational scientific principles.â€ The physician James Clark wrote a treatise entitled Prevention of Disease in which he argued for the professionalization of the veterinary trade , and the establishment of veterinary colleges . 
+No.5---> 7.0	4
+Veterinary science came of age in the late 19th century , with notable contributions from Sir John McFadyean , credited by many as having been the founder of modern Veterinary research . 
+
+¡Ì6.When did farriers combined their work in horseshoeing with ` horse doctoring ' ? 
+No.1---> 0.0	2
+This ultimately led to the establishment of the Worshipful Company of Farriers in 1674 . 
+No.2---> 3.333	1
+In 1356 , the Lord Mayor of London , concerned at the poor standard of care given to horses in the city , requested that all farriers operating within a seven-mile radius of the City of London form a `` fellowship '' to regulate and improve their practices . 
+No.3---> 5.0	0
+The Egyptian Papyrus of Kahun -LRB- 1900 BCE -RRB- and Vedic literature in ancient India offer one of the first written records of veterinary medicine . 
+No.4---> 5.0	5
+The Odiham Agricultural Society was founded in 1783 in England to promote agriculture and industry , and played an important role in the foundation of the veterinary profession in Britain . 
+No.5---> 5.0	6
+A 1785 Society meeting resolved to `` promote the study of Farriery upon rational scientific principles.â€ The physician James Clark wrote a treatise entitled Prevention of Disease in which he argued for the professionalization of the veterinary trade , and the establishment of veterinary colleges . 
+
+¡Ì7.When is the establishment of the Worshipful Company of Farriers ? 
+No.1---> 0.0    2
+This ultimately led to the establishment of the Worshipful Company of Farriers in 1674 . 
+No.2---> 3.333  1
+In 1356 , the Lord Mayor of London , concerned at the poor standard of care given to horses in the city , requested that all farriers operating within a seven-mile radius of the City of London form a `` fellowship '' to regulate and improve their practices . 
+No.3---> 5.0    0
+The Egyptian Papyrus of Kahun -LRB- 1900 BCE -RRB- and Vedic literature in ancient India offer one of the first written records of veterinary medicine . 
+No.4---> 5.0    5
+The Odiham Agricultural Society was founded in 1783 in England to promote agriculture and industry , and played an important role in the foundation of the veterinary profession in Britain . 
+No.5---> 5.0    6
+A 1785 Society meeting resolved to `` promote the study of Farriery upon rational scientific principles.â€ The physician James Clark wrote a treatise entitled Prevention of Disease in which he argued for the professionalization of the veterinary trade , and the establishment of veterinary colleges . 
+
+¡Ì8.What is the name of the first comprehensive treatise on the anatomy of a nonhuman species ? 
+No.1---> 2.0    3
+This can be augmented by other paraprofessionals with specific specialisms such as animal physiotherapy or dentistry , and species relevant roles such as farriers . 
+No.2---> 2.0    11
+Meanwhile , Carlo Ruini 's book Anatomia del Cavallo , -LRB- Anatomy of the Horse -RRB- was published in 1598 . 
+No.3---> 2.0    12
+It was the first comprehensive treatise on the anatomy of a non-human species . 
+No.4---> 2.5    29
+Some roles are specific to a species or group of animals , such as farriers , who are involved in the shoeing of horses , and in many cases have a major role to play in ensuring the medical fitness of the horse . 
+No.5---> 2.75   1
+The scope of veterinary medicine is wide , covering all animal species , both domesticated and wild , with a wide range of conditions which can affect different species . 
+

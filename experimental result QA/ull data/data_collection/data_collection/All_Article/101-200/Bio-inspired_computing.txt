@@ -1,0 +1,30 @@
+Bio-inspired computing, short for biologically inspired computing, is a field of study that loosely knits together subfields related to the topics of connectionism, social behaviour and emergence. It is often closely related to the field of artificial intelligence, as many of its pursuits can be linked to machine learning. It relies heavily on the fields of biology, computer science and mathematics. Briefly put, it is the use of computers to model the living phenomena, and simultaneously the study of life to improve the usage of computers. Biologically inspired computing is a major subset of natural computation.
+
+Some areas of study encompassed under the canon of biologically inspired computing, and their biological counterparts:
+
+genetic algorithms ↔ evolution
+biodegradability prediction ↔ biodegradation
+cellular automata ↔ life
+emergent systems ↔ ants, termites, bees, wasps
+neural networks ↔ the brain
+artificial life ↔ life
+artificial immune systems ↔ immune system
+rendering (computer graphics) ↔ patterning and rendering of animal skins, bird feathers, mollusk shells and bacterial colonies
+Lindenmayer systems ↔ plant structures
+communication networks and protocols ↔ epidemiology and the spread of disease
+membrane computers ↔ intra-membrane molecular processes in the living cell
+excitable media ↔ forest fires, "the wave", heart conditions, axons, etc.
+sensor networks ↔ sensory organs
+learning classifier systems ↔ cognition, evolution
+
+The way in which bio-inspired computing differs from the traditional artificial intelligence (AI) is in how it takes a more evolutionary approach to learning, as opposed to what could be described as 'creationist' methods used in traditional AI. In traditional AI, intelligence is often programmed from above: the programmer is the creator, and makes something and imbues it with its intelligence. Bio-inspired computing, on the other hand, takes a more bottom-up, decentralised approach; bio-inspired techniques often involve the method of specifying a set of simple rules, a set of simple organisms which adhere to those rules, and a method of iteratively applying those rules. For example, training a virtual insect to navigate in an unknown terrain for finding food includes six simple rules. The insect is trained to
+
+turn right for target-and-obstacle left;
+turn left for target-and-obstacle right;
+turn left for target-left-obstacle-right;
+turn right for target-right-obstacle-left,
+turn left for target-left without obstacle and
+turn right for target right without obstacle.
+The virtual insect controlled by the trained spiking neural network can find food after training in any unknown terrain. After several generations of rule application it is usually the case that some forms of complex behaviour arise. Complexity gets built upon complexity until the end result is something markedly complex, and quite often completely counterintuitive from what the original rules would be expected to produce (see complex systems). For this reason, in neural network models, it is necessary to accurately model an in vivo network, by live collection of "noise" coefficients that can be used to refine statistical inference and extrapolation as system complexity increases. 
+
+Natural evolution is a good analogy to this method–the rules of evolution (selection, recombination/reproduction, mutation and more recently transposition) are in principle simple rules, yet over millions of years have produced remarkably complex organisms. A similar technique is used in genetic algorithms.

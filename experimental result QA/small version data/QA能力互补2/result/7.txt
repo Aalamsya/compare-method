@@ -1,0 +1,389 @@
+√1.How can information systems prevent data loss or restore lost data ? 
+
+No.1---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+No.2---> 0.0	7
+Similarly , using a journaling file system and RAID storage only protect against certain types of software and hardware failure . 
+No.3---> 0.0	8
+For hard disk drives , which are a physical storage medium , ensuring minimal vibration and movement will help protect against damaging the components internally , as can maintaining a suitable drive temperature . 
+No.4---> 0.0	13
+File system corruption can frequently be repaired by the user or the system administrator . 
+No.5---> 0.0	14
+For example , a deleted file is typically not immediately overwritten on disk , but more often simply has its entry deleted from the file system index . 
+
+√2.What is data loss ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+√3.How is data loss distinguished from data unavailability ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+
+√4.What is the definition of regular data backups ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+×5.What can the frequency of data loss and the impact be greatly mitigated ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures .
+
+×6.What are sometimes called ` hard science ' ? 
+
+No.1---> 0.0	3
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.2---> 0.0	6
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.3---> 0.0	48
+As a field of natural science , it is relatively young but stand-alone programs offer specializations in the subject . 
+No.4---> 0.0	92
+Specific practical discoveries , useful and impressive as they may be , neither qualify as science nor do they succeed in establishing a paradigm . 
+No.5---> 0.0	95
+A recent interpretation of Parmenides presents evidence that he was the first philosopher who proposed a method for doing natural science . 
+
+√7.How many main branches can natural science be divided into ? 
+
+No.1---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.2---> 0.0	4
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.3---> 0.0	7
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.4---> 0.0	10
+The scale of study can range from sub-component biophysics up to complex ecologies . 
+No.5---> 0.0	14
+Once scientists discovered commonalities between all living things , it was decided they were best studied as a whole . 
+
+×8.Whose controversial falsifiability criterion helps differentiate scientific endeavors ? 
+
+No.1---> 0.0	0
+Natural science is a branch of science concerned with the description , prediction , and understanding of natural phenomena , based on observational and empirical evidence . 
+No.2---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.3---> 0.0	2
+Natural science can be divided into two main branches : life science -LRB- or biological science -RRB- and physical science . 
+No.4---> 0.0	3
+Physical science is subdivided into branches , including physics , astronomy , chemistry , and Earth science . 
+No.5---> 0.0	4
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+
+√9.When did biology became a unified science ? 
+
+No.1---> 1.5	1
+However , it was not until the 19th century that biology became a unified science . 
+No.2---> 1.5	18
+Aristotle 's works were influential through the 16th century , and he is considered to be the father of biology for his pioneering work in that science . 
+No.3---> 1.5	30
+In the centuries up through the end of the Middle Ages , natural science was often mingled with philosophies about magic and the occult . 
+No.4---> 1.5	31
+Although some later Christian philosophers , including Aquinas , came to see natural science as a means of interpreting scripture , this suspicion persisted until the 12th and 13th centuries . 
+No.5---> 1.5	46
+By the 19th century , the study of science had come into the purview of professionals and institutions .
+
+×10.What is often called ` the central science ' ? 
+
+No.1---> 0.0	3
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.2---> 0.0	6
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.3---> 0.0	48
+As a field of natural science , it is relatively young but stand-alone programs offer specializations in the subject . 
+No.4---> 0.0	92
+Specific practical discoveries , useful and impressive as they may be , neither qualify as science nor do they succeed in establishing a paradigm . 
+No.5---> 0.0	95
+A recent interpretation of Parmenides presents evidence that he was the first philosopher who proposed a method for doing natural science . 
+
+×11.Why is physics regarded as the fundamental science ? 
+
+No.1---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+No.2---> 0.0	7
+Similarly , using a journaling file system and RAID storage only protect against certain types of software and hardware failure . 
+No.3---> 0.0	8
+For hard disk drives , which are a physical storage medium , ensuring minimal vibration and movement will help protect against damaging the components internally , as can maintaining a suitable drive temperature . 
+No.4---> 0.0	13
+File system corruption can frequently be repaired by the user or the system administrator . 
+No.5---> 0.0	14
+For example , a deleted file is typically not immediately overwritten on disk , but more often simply has its entry deleted from the file system index . 
+
+×12.What is the scope of veterinary medicine ? 
+
+No.1---> 1.0	125
+These sciences also covered plants , animals and celestial bodies . 
+No.2---> 1.5	10
+The biological fields of botany , zoology , and medicine date back to early periods of civilization , while microbiology was introduced in the 17th century with the invention of the microscope . 
+No.3---> 2.0	86
+Ayurvedic surgeons performed complex surgeries and developed a detailed understanding of human anatomy . 
+No.4---> 2.0	127
+There was wide agreement among scholars in medieval times that natural science was about bodies in motion , although there was division about the inclusion of fields including medicine , music and perspective . 
+No.5---> 2.333	123
+Robert Kilwardby wrote On the Order of the Sciences in the 13th century that classed medicine as a mechanical science , along with agriculture , hunting and theater while defining natural science as the science that deals with bodies in motion . 
+
+×13.Who is the first Buddhist Emperor of India ? 
+
+No.1---> 0.0	0
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.2---> 0.0	1
+Some key developments in biology were the discovery of genetics ; Darwin 's theory of evolution through natural selection ; the germ theory of disease and the application of the techniques of chemistry and physics at the level of the cell or organic molecule . 
+No.3---> 0.0	2
+The science of chemistry began to develop with the work of Robert Boyle , the discoverer of gas , and Antoine Lavoisier , who developed the theory of the Conservation of mass . 
+No.4---> 0.0	3
+Key historical developments in physics include Isaac Newton 's theory of universal gravitation and classical mechanics , an understanding of electricity and its relation to magnetism , Einstein 's theories of special and general relativity , the development of thermodynamics , and the quantum mechanical model of atomic and subatomic physics . 
+No.5---> 0.0	4
+Modern physics is becoming increasingly specialized , where researchers tend to focus on a particular area rather than being `` universalists '' like Isaac Newton , Albert Einstein and Lev Landau , who worked in multiple areas . 
+
+×14.When did farriers combined their work in horseshoeing with ` horse doctoring ' ? 
+
+No.1---> 0.0	0
+The biological fields of botany , zoology , and medicine date back to early periods of civilization , while microbiology was introduced in the 17th century with the invention of the microscope . 
+No.2---> 0.0	1
+However , it was not until the 19th century that biology became a unified science . 
+No.3---> 0.0	2
+The success of this science led to a complementary chemical industry that now plays a significant role in the world economy . 
+No.4---> 0.0	3
+While the origins of the study of celestial features and phenomena can be traced back to antiquity , the scientific methodology of this field began to develop in the middle of the 17th century . 
+No.5---> 0.0	4
+By the 19th century , astronomy had developed into a formal science , with the introduction of instruments such as the spectroscope and photography , along with much-improved telescopes and the creation of professional observatories . 
+
+×15.What is the name of the first comprehensive treatise on the anatomy of a nonhuman species ? 
+Adding annotator tokenize
+No.1---> 2.0	86
+Ayurvedic surgeons performed complex surgeries and developed a detailed understanding of human anatomy . 
+No.2---> 2.25	15
+At a higher level , anatomy and physiology looks at the internal structures , and their functions , of an organism , while ecology looks at how various organisms interrelate . 
+No.3---> 2.5	58
+As the marine ecosystem is very large and diverse , marine biology is further divided into many subfields , including specializations in particular species . 
+No.4---> 3.0	10
+The biological fields of botany , zoology , and medicine date back to early periods of civilization , while microbiology was introduced in the 17th century with the invention of the microscope . 
+No.5---> 3.0	13
+Modern biology is divided into subdisciplines by the type of organism and by the scale being studied . 
+
+×16.What is the computer science study of ? 
+
+No.1---> 0.0	3
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+No.2---> 0.0	6
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.3---> 0.0	48
+As a field of natural science , it is relatively young but stand-alone programs offer specializations in the subject . 
+No.4---> 0.0	92
+Adding annotator tokenizeSpecific practical discoveries , useful and impressive as they may be , neither qualify as science nor do they succeed in establishing a paradigm . 
+No.5---> 0.0	95
+A recent interpretation of Parmenides presents evidence that he was the first philosopher who proposed a method for doing natural science . 
+
+×17.When did Gottfried Leibniz demonstrate a digital mechanical calculator ? 
+
+No.1---> 0.0	0
+The biological fields of botany , zoology , and medicine date back to early periods of civilization , while microbiology was introduced in the 17th century with the invention of the microscope . 
+No.2---> 0.0	1
+However , it was not until the 19th century that biology became a unified science . 
+No.3---> 0.0	2
+The success of this science led to a complementary chemical industry that now plays a significant role in the world economy . 
+No.4---> 0.0	3
+While the origins of the study of celestial features and phenomena can be traced back to antiquity , the scientific methodology of this field began to develop in the middle of the 17th century . 
+No.5---> 0.0	4
+By the 19th century , astronomy had developed into a formal science , with the introduction of instruments such as the spectroscope and photography , along with much-improved telescopes and the creation of professional observatories . 
+
+×18.Who launched the mechanical calculator industry in 1820 ? 
+
+No.1---> 3.0	0
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.2---> 3.0	20
+In the late Middle Ages , Spanish philosopher Dominicus Gundissalinus translated a treatise by the earlier Arab scholar Al-Farabi called On the Sciences into Latin , calling the study of the mechanics of nature scientia naturalis , or natural science . 
+No.3---> 3.0	22
+Gundissalinus defined natural science as `` the science considering only things unabstracted and with motion , '' as opposed to mathematics and sciences that rely on mathematics . 
+No.4---> 3.0	24
+Robert Kilwardby wrote On the Order of the Sciences in the 13th century that classed medicine as a mechanical science , along with agriculture , hunting and theater while defining natural science as the science that deals with bodies in motion . 
+No.5---> 3.0	26
+Later in the 13th century , Catholic priest and theologian Thomas Aquinas defined natural science as dealing with `` mobile beings '' and `` things which depend on matter not only for their existence , but also for their definition . '' 
+
+×19.When did computer science began to be established as a distinct academic discipline ? 
+
+No.1---> 0.0	30
+In the centuries up through the end of the Middle Ages , natural science was often mingled with philosophies about magic and the occult . 
+No.2---> 0.0	31
+Although some later Christian philosophers , including Aquinas , came to see natural science as a means of interpreting scripture , this suspicion persisted until the 12th and 13th centuries . 
+No.3---> 0.0	46
+By the 19th century , the study of science had come into the purview of professionals and institutions . 
+No.4---> 1.0	23
+Aristotle 's works and other Greek natural philosophy did not reach the West until about the middle of the 12th century , when works were translated from Greek and Arabic into Latin . 
+No.5---> 1.0	25
+A 1210 decree from the Synod of Paris ordered that `` no lectures are to be held in Paris either publicly or privately using Aristotle 's books on natural philosophy or the commentaries , and we forbid all this under pain of excommunication . '' 
+
+×20.What branch is synthetic biology from ? 
+
+No.1---> 0.0	13
+Modern biology is divided into subdisciplines by the type of organism and by the scale being studied . 
+No.2---> 1.0	14
+Molecular biology is the study of the fundamental chemistry of life , while cellular biology is the examination of the cell ; the basic building block of all life . 
+No.3---> 1.0	52
+Likewise chemistry is represented by such fields as biochemistry , chemical biology , geochemistry and astrochemistry . 
+No.4---> 1.0	53
+A particular example of a scientific discipline that draws upon multiple natural sciences is environmental science . 
+No.5---> 1.0	84
+A healthy life was the result of a balance among these humors . 
+
+×21.Who portrayed synthetic biology as a new emerging scientific field where ICT ? 
+
+No.1---> 1.5	10
+Aristotle 's works were influential through the 16th century , and he is considered to be the father of biology for his pioneering work in that science . 
+No.2---> 1.75	1
+Some key developments in biology were the discovery of genetics ; Darwin 's theory of evolution through natural selection ; the germ theory of disease and the application of the techniques of chemistry and physics at the level of the cell or organic molecule . 
+No.3---> 2.333	21
+Gundissalinus also proposed his own classification of the natural sciences in his 1150 work On the Division of Philosophy . 
+No.4---> 2.5	44
+Faraday proposed that forces in nature operated in `` fields '' that filled space . 
+No.5---> 2.667	47
+This growth in natural history was led by Carl Linnaeus , whose 1735 taxonomy of the natural world is still in use . 
+
+×22.What is the purpose of synthetic biology ? 
+
+No.1---> 0.0	13
+Modern biology is divided into subdisciplines by the type of organism and by the scale being studied . 
+No.2---> 1.0	14
+Molecular biology is the study of the fundamental chemistry of life , while cellular biology is the examination of the cell ; the basic building block of all life . 
+No.3---> 1.0	52
+Likewise chemistry is represented by such fields as biochemistry , chemical biology , geochemistry and astrochemistry . 
+No.4---> 1.0	53
+A particular example of a scientific discipline that draws upon multiple natural sciences is environmental science . 
+No.5---> 1.0	84
+A healthy life was the result of a balance among these humors .
+
+×23.When did George M. Church encoded one of his books about synthetic biology in DNA ? 
+
+No.1---> 1.5	1
+However , it was not until the 19th century that biology became a unified science . 
+No.2---> 1.5	18
+Aristotle 's works were influential through the 16th century , and he is considered to be the father of biology for his pioneering work in that science . 
+No.3---> 2.0	0
+The biological fields of botany , zoology , and medicine date back to early periods of civilization , while microbiology was introduced in the 17th century with the invention of the microscope . 
+No.4---> 2.333	26
+Gundissalinus also proposed his own classification of the natural sciences in his 1150 work On the Division of Philosophy . 
+No.5---> 2.333	43
+Formal biological science remained in its infancy in the 18th century , when the focus lay upon the classification and categorization of natural life . 
+
+×24.How many times were able to exchange the bacteria in the culture media ? 
+
+No.1---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.2---> 0.0	10
+The scale of study can range from sub-component biophysics up to complex ecologies . 
+No.3---> 0.0	14
+Once scientists discovered commonalities between all living things , it was decided they were best studied as a whole . 
+No.4---> 0.0	41
+A key factor was Galileo 's introduction of the telescope to examine the night sky in more detail . 
+No.5---> 0.0	51
+The timescale of study also varies from days to centuries . 
+
+×25.What may be regarded as a branch of both psychology and musicology ? 
+
+No.1---> 2.5	88
+Natural phenomena such as earthquakes and eclipses were explained increasingly in the context of nature itself instead of being attributed to angry gods . 
+No.2---> 2.5	94
+Pythagoreans came close to it when they applied numbers to the study of natural phenomena , however they do not appear to have been aware of the importance of methodology as distinct from concrete manipulations . 
+No.3---> 2.667	37
+While the origins of the study of celestial features and phenomena can be traced back to antiquity , the scientific methodology of this field began to develop in the middle of the 17th century . 
+No.4---> 3.0	0
+Natural science is a branch of science concerned with the description , prediction , and understanding of natural phenomena , based on observational and empirical evidence . 
+No.5---> 3.0	1
+Natural science can be divided into two main branches : life science -LRB- or biological science -RRB- and physical science . 
+
+×26.Whose establishment of the simple string length ratios that formed the consonances of the octave ? 
+
+No.1---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.2---> 0.0	10
+The scale of study can range from sub-component biophysics up to complex ecologies . 
+No.3---> 0.0	14
+Once scientists discovered commonalities between all living things , it was decided they were best studied as a whole . 
+No.4---> 0.0	41
+A key factor was Galileo 's introduction of the telescope to examine the night sky in more detail . 
+No.5---> 0.0	51
+The timescale of study also varies from days to centuries . 
+
+×27.When has music psychology expanded to cover a wide array of theoretical and applied areas ? 
+
+No.1---> 2.667	3
+While the origins of the study of celestial features and phenomena can be traced back to antiquity , the scientific methodology of this field began to develop in the middle of the 17th century . 
+No.2---> 3.0	24
+By the 12th century , Western European scholars and philosophers came into contact with a body of knowledge of which they had previously been ignorant : a large corpus of works in Greek and Arabic that were preserved by Islamic scholars . 
+No.3---> 3.0	30
+In the centuries up through the end of the Middle Ages , natural science was often mingled with philosophies about magic and the occult . 
+No.4---> 3.0	31
+Although some later Christian philosophers , including Aquinas , came to see natural science as a means of interpreting scripture , this suspicion persisted until the 12th and 13th centuries . 
+No.5---> 3.0	34
+The invention of the printing press in the 15th century , the invention of the microscope and telescope , and the Protestant Reformation fundamentally altered the social context in which scientific inquiry evolved in the West . 
+
+×28.What is the abbreviation of functional magnetic resonance imaging ? 
+
+No.1---> 2.0	107
+Aristotle 's works on natural philosophy continued to be translated and studied amid the rise of the Byzantine Empire and Islam in the Middle East . 
+No.2---> 2.0	110
+Aristotle 's works and other Greek natural philosophy did not reach the West until about the middle of the 12th century , when works were translated from Greek and Arabic into Latin . 
+No.3---> 2.0	115
+Through translation into Latin , Western Europe was introduced to Aristotle and his natural philosophy . 
+No.4---> 2.0	116
+A 1210 decree from the Synod of Paris ordered that `` no lectures are to be held in Paris either publicly or privately using Aristotle 's books on natural philosophy or the commentaries , and we forbid all this under pain of excommunication . '' 
+No.5---> 2.0	130
+Natural philosophy appeared in a wide range of forms , from treatises to encyclopedias to commentaries on Aristotle . 
+
+×29.How did researchers estimate the occurrence of AP to be ? 
+
+No.1---> 0.0	0
+Natural science is a branch of science concerned with the description , prediction , and understanding of natural phenomena , based on observational and empirical evidence . 
+No.2---> 0.0	1
+Mechanisms such as peer review and repeatability of findings are used to try to ensure the validity of scientific advances . 
+No.3---> 0.0	2
+Natural science can be divided into two main branches : life science -LRB- or biological science -RRB- and physical science . 
+No.4---> 0.0	3
+Physical science is subdivided into branches , including physics , astronomy , chemistry , and Earth science . 
+No.5---> 0.0	4
+These branches of natural science may be further divided into more specialized branches -LRB- also known as fields -RRB- . 
+
+×30.Who speculated that music may have held an adaptive advantage and functioned as a protolanguage ? 
+
+No.1---> 0.0	0
+Philosophers of science have suggested a number of criteria , including Karl Popper 's controversial falsifiability criterion , to help them differentiate scientific endeavors from non-scientific ones . 
+No.2---> 0.0	1
+Some key developments in biology were the discovery of genetics ; Darwin 's theory of evolution through natural selection ; the germ theory of disease and the application of the techniques of chemistry and physics at the level of the cell or organic molecule . 
+No.3---> 0.0	2
+The science of chemistry began to develop with the work of Robert Boyle , the discoverer of gas , and Antoine Lavoisier , who developed the theory of the Conservation of mass . 
+No.4---> 0.0	3
+Key historical developments in physics include Isaac Newton 's theory of universal gravitation and classical mechanics , an understanding of electricity and its relation to magnetism , Einstein 's theories of special and general relativity , the development of thermodynamics , and the quantum mechanical model of atomic and subatomic physics . 
+No.5---> 0.0	4
+Modern physics is becoming increasingly specialized , where researchers tend to focus on a particular area rather than being `` universalists '' like Isaac Newton , Albert Einstein and Lev Landau , who worked in multiple areas . 

@@ -1,0 +1,107 @@
+¡Ì1.What is the abbreviation of Speech recognition ? 
+No.1---> 0.5    1
+It is also known as `` automatic speech recognition '' -LRB- ASR -RRB- , `` computer speech recognition '' , or just `` speech to text '' -LRB- STT -RRB- . 
+No.2---> 0.5    4
+The system analyzes the person 's specific voice and uses it to fine-tune the recognition of that person 's speech , resulting in increased accuracy . 
+No.3---> 0.5    16
+Gunnar Fant developed the source-filter model of speech production and published it in 1960 , which proved to be a useful model of speech production . 
+No.4---> 0.5    19
+Raj Reddy was the first person to take on continuous speech recognition as a graduate student at Stanford University in the late 1960s . 
+No.5---> 0.5    22
+The DTW algorithm processed the speech signal by dividing it into short frames , e.g. 10ms segments , and processing each frame as a single unit .
+
+¡Ì2.What is Speech recognition also known as ? 
+No.1---> 0.5    1
+It is also known as `` automatic speech recognition '' -LRB- ASR -RRB- , `` computer speech recognition '' , or just `` speech to text '' -LRB- STT -RRB- . 
+No.2---> 0.5    4
+The system analyzes the person 's specific voice and uses it to fine-tune the recognition of that person 's speech , resulting in increased accuracy . 
+No.3---> 0.5    16
+Gunnar Fant developed the source-filter model of speech production and published it in 1960 , which proved to be a useful model of speech production . 
+No.4---> 0.5    19
+Raj Reddy was the first person to take on continuous speech recognition as a graduate student at Stanford University in the late 1960s . 
+No.5---> 0.5    22
+The DTW algorithm processed the speech signal by dividing it into short frames , e.g. 10ms segments , and processing each frame as a single unit .  
+
+¡Á3.What are called ` speaker independent ` systems ? 
+No.1---> 0.0    20
+Previous systems required the users to make a pause after each word . 
+No.2---> 0.0    38
+IBM had a few competitors including Dragon Systems founded by James and Janet Baker in 1982 . 
+No.3---> 0.0    78
+Hidden Markov models -LRB- HMMs -RRB- are widely used in many systems . 
+No.4---> 0.0    122
+Consequently , modern commercial ASR systems from Google and Apple -LRB- as of 2017 -RRB- are deployed on the cloud and require a network connection as opposed to the device locally . 
+No.5---> 0.0    140
+By contrast , many highly customized systems for radiology or pathology dictation implement voice `` macros '' , where the use of certain phrases â€ e.g. , `` normal report '' , will automatically fill in a large number of default values and/or generate boilerplate , which will vary with the type of the exam â€ e.g. , a chest X-ray vs. a gastrointestinal contrast series for a radiology system . 
+
+¡Ì4.When did three Bell Labs researchers built a system for single-speaker digit recognition ? 
+No.1---> 4.5    2
+In 1952 three Bell Labs researchers built a system for single-speaker digit recognition . 
+No.2---> 4.5    12
+The 1980s also saw the introduction of the n-gram language model . 
+No.3---> 4.5    16
+At the end of the DARPA program in 1976 , the best computer available to researchers was the PDP-10 with 4 MB ram . 
+No.4---> 4.5    46
+Since 2014 , there has been much research interest in end-to-end ASR . 
+No.5---> 4.5    50
+By the end of 2016 , the attention-based models have seen considerable success including outperforming the CTC models -LRB- with or without an external language model -RRB- . 
+
+¡Á5.How many words was the 1950s era technology limited to single-speaker systems with vocabularies of ? 
+No.1---> 0.0    1
+It is also known as `` automatic speech recognition '' -LRB- ASR -RRB- , `` computer speech recognition '' , or just `` speech to text '' -LRB- STT -RRB- . 
+No.2---> 0.0    4
+The system analyzes the person 's specific voice and uses it to fine-tune the recognition of that person 's speech , resulting in increased accuracy . 
+No.3---> 0.0    15
+In 1952 three Bell Labs researchers built a system for single-speaker digit recognition . 
+No.4---> 0.0    16
+Their system worked by locating the formants in the power spectrum of each utterance . 
+No.5---> 0.0    18
+Gunnar Fant developed the source-filter model of speech production and published it in 1960 , which proved to be a useful model of speech production . 
+
+¡Ì6.Who developed the source-filter model of speech production ? 
+No.1---> 0.0    1
+Gunnar Fant developed the source-filter model of speech production and published it in 1960 , which proved to be a useful model of speech production . 
+No.2---> 0.0    4
+Raj Reddy was the first person to take on continuous speech recognition as a graduate student at Stanford University in the late 1960s . 
+No.3---> 0.0    8
+At CMU , Raj Reddy 's students James Baker and Janet Baker began using the Hidden Markov Model -LRB- HMM -RRB- for speech recognition . 
+No.4---> 0.0    12
+-LRB- Jelinek 's group independently discovered the application of HMMs to speech . 
+No.5---> 0.0    15
+Huang went on to found the speech recognition group at Microsoft in 1993 . 
+
+¡Ì7.Whose system was designed to issue spoken commands for the game of chess ? 
+No.1---> 0.0    15
+In 1952 three Bell Labs researchers built a system for single-speaker digit recognition . 
+No.2---> 0.0    16
+Their system worked by locating the formants in the power spectrum of each utterance . 
+No.3---> 0.0    20
+Pierce 's letter stated that '' are strong reasons for believing that spoken English is , in general , not recognizable phoneme by phoneme or word by word . '' 
+No.4---> 0.0    24
+Reddy 's system was designed to issue spoken commands for the game of chess . 
+No.5---> 0.0    27
+Although DTW would be superseded by later algorithms , the technique of dividing the signal into frames would carry on . 
+
+¡Á8.Which algorithm processed the speech signal by dividing it into short frames ? 
+No.1---> 0.0    1
+It is also known as `` automatic speech recognition '' -LRB- ASR -RRB- , `` computer speech recognition '' , or just `` speech to text '' -LRB- STT -RRB- . 
+No.2---> 0.0    4
+The system analyzes the person 's specific voice and uses it to fine-tune the recognition of that person 's speech , resulting in increased accuracy . 
+No.3---> 0.0    15
+In 1952 three Bell Labs researchers built a system for single-speaker digit recognition . 
+No.4---> 0.0    16
+Their system worked by locating the formants in the power spectrum of each utterance . 
+No.5---> 0.0    18
+Gunnar Fant developed the source-filter model of speech production and published it in 1960 , which proved to be a useful model of speech production . 
+
+¡Á9.Where did Leonard Baum developed the mathematics of Markov chains ? 
+No.1---> 4.2    0
+These speech industry players include Google , Microsoft , IBM , Baidu , Apple , Amazon , Nuance , SoundHound , IflyTek , CDAC many of which have publicized the core technology in their speech recognition systems as being based on deep learning . 
+No.2---> 4.5    4
+Of particular note have been the US program in speech recognition for the Advanced Fighter Technology Integration -LRB- AFTI -RRB- / F-16 aircraft -LRB- F-16 VISTA -RRB- , the program in France for Mirage aircraft , and other programs in the UK dealing with a variety of aircraft platforms . 
+No.3---> 4.917  5
+Substantial test and evaluation programs have been carried out in the past decade in speech recognition systems applications in helicopters , notably by the U.S. Army Avionics Research and Development Activity -LRB- AVRADA -RRB- and by the Royal Aerospace Establishment -LRB- RAE -RRB- in the UK . 
+No.4---> 5.0    2
+Under Fred Jelinek 's lead , IBM created a voice activated typewriter called Tangora , which could handle a 20,000 word vocabulary by the mid 1980s . 
+No.5---> 5.333  1
+The government funding revived speech recognition research that had been largely abandoned in the United States after John Pierce 's letter . 

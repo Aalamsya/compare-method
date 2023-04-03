@@ -1,0 +1,21 @@
+The spike-triggered average (STA) is a tool for characterizing the response properties of a neuron using the spikes emitted in response to a time-varying stimulus. The STA provides an estimate of a neuron's linear receptive field. It is a useful technique for the analysis of electrophysiological data.
+
+Mathematically, the STA is the average stimulus preceding a spike. To compute the STA, the stimulus in the time window preceding each spike is extracted, and the resulting (spike-triggered) stimuli are averaged (see diagram). The STA provides an unbiased estimate of a neuron's receptive field only if the stimulus distribution is spherically symmetric (e.g., Gaussian white noise). 
+
+The STA has been used to characterize retinal ganglion cells, neurons in the lateral geniculate nucleus and simple cells in the striate cortex (V1) . It can be used to estimate the linear stage of the linear-nonlinear-Poisson (LNP) cascade model. 
+
+Spike-triggered averaging is also commonly referred to as “reverse correlation″ or “white-noise analysis”. The STA is well known as the first term in the Volterra kernel or Wiener kernel series expansion. It is closely related to linear regression, and identical to it in common circumstances.
+
+If the stimulus is not white noise, but instead has non-zero correlation across space or time, the standard STA provides a biased estimate of the linear receptive field. It may therefore be appropriate to whiten the STA by the inverse of the stimulus covariance matrix. 
+
+where the first term is the inverse covariance matrix of the raw stimuli and the second is the standard STA. 
+
+The whitened STA is unbiased only if the stimulus distribution can be described by a correlated Gaussian distribution  (correlated Gaussian distributions are elliptically symmetric, i.e. can be made spherically symmetric by a linear transformation, but not all elliptically symmetric distributions are Gaussian). This is a weaker condition than spherical symmetry.
+
+The whitened STA is equivalent to linear least-squares regression of the stimulus against the spike train.
+
+In practice, it may be necessary to regularize the whitened STA, since whitening amplifies noise along stimulus dimensions that are poorly explored by the stimulus (i.e., axes along which the stimulus has low variance). A common approach to this problem is ridge regression.
+
+This procedure has a simple Bayesian interpretation: ridge regression is equivalent to placing a prior on the STA elements that says they are drawn i.i.d. from a zero-mean Gaussian prior with covariance proportional to the identity matrix. The ridge parameter sets the inverse variance of this prior, and is usually fit by cross-validation or empirical Bayes.
+
+For responses generated according to an LNP model, the whitened STA provides an estimate of the subspace spanned by the linear receptive field.

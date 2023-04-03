@@ -1,0 +1,9 @@
+Socio-cognitive or sociocognitive describes how processes of group formation effect cognition, studied in cognitive sociology.
+
+Others have used the phrase to refer to the integration of the cognitive and social properties of systems, processes, functions, models, as well as can indicate the branch of science, engineering or technology, such as socio-cognitive research, socio-cognitive interactions. [1] This term is especially used when complex cognitive and social properties are reciprocally connected and essential for a given problem.
+
+Socio-cognitive research is human factor and socio-organizational factor based, and assumes an integrated knowledge engineering, environment and business modeling perspective, therefore it is not social cognition which rather is a branch of psychology focused on how people process social information.
+
+Socio-cognitive engineering (SCE) includes a set of theoretical interdisciplinary frameworks, methodologies, methods and software tools for the design of human centred technologies,[2] as well as, for the improvement of large complex human-technology systems.
+
+Both above approaches are applicable for the identification and design of a computer-based semi-/proto-Intelligent Decision Support Systems (IDSS),[3] for the operators and managers of large socially critical systems, for high-risk tasks, such as different types of emergency and disaster management, where human errors and socio-cognitive organization vulnerability can be the cause of serious losses.

@@ -1,0 +1,5 @@
+David Hubel and Torsten Wiesel discovered that mammalian brains contained specific neural cortical columns which were attuned to specific spatial frequencies, specific colors, specific shapes, specific motions (up and down, left and right, inward and outward, etc.). Thus the brain could be viewed as a collection of tuned filters.
+
+Their discovery occurred accidentally. In 1962, Hubel and Wiesel were attempting to discover that triggered neurophysiological activity in a cat's brain. The cat they were testing showed no results until they displayed a crack to the cat, whereupon the cat's brain starting reacting to the stimulus. This began a long series of discoveries which continues to the present day. Hubel and Wiesel received the Nobel Prize for their discovery.
+
+Primate brains like our own display even more arcane forms of tuning, which are occasionally discovered by fMRI or PET scans of impaired patients. These range from the recognition of faces, to the recognition of emotions, to other social, cultural, linguistic skills, etc.

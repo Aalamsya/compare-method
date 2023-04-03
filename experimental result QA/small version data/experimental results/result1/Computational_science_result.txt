@@ -1,0 +1,6 @@
+¡Ì1.What is computational science ? 
+¡Ì2.Who defined the linked open science ? 
+¡Ì3.What is the application of computational science ?
+¡Á4.Why do most scientific journals do not accept software papers ? 
+¡Á5.When was Open research compution announced ? 
+¡Á6.When was the Journal of Open Research Software launched ?

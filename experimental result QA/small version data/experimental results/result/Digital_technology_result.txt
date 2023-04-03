@@ -1,0 +1,95 @@
+¡Ì1.What signals do digital electronics handle ? 
+No.1---> 0.0    0
+Digital electronics or digital -LRB- electronic -RRB- circuits are electronics that handle digital signals -LRB- discrete bands of analog levels -RRB- rather than by continuous ranges as used in analog electronics . 
+No.2---> 1.0    65
+When the complexity is less , the circuit also has fewer errors and less electronics , and is therefore less expensive . 
+No.3---> 1.0    70
+Another way , often with the least electronics , is to construct an equivalent system of electronic switches -LRB- usually transistors -RRB- . 
+No.4---> 1.0    119
+The computer programs are called `` electronic design automation tools '' or just `` EDA . '' 
+No.5---> 2.0    19
+In the early days of simple integrated circuits , the technology 's large scale limited each chip to only a few transistors , and the low degree of integration meant the design process was relatively simple . 
+
+¡Ì2.What is the number of the states in most cases ? 
+No.1---> 3.0	3
+Digital techniques are useful because it is easier to get an electronic device to switch into one of a number of known states than to accurately reproduce a continuous range of values . 
+No.2---> 3.0	86
+If the states in the state machine are numbered -LRB- easy to arrange -RRB- , the logic function is some combinational logic that produces the number of the next state . 
+No.3---> 3.0	114
+Bad designs have intermittent problems such as `` glitches '' , vanishingly fast pulses that may trigger some logic but not others , `` runt pulses '' that do not reach valid `` threshold '' voltages , or unexpected -LRB- `` undecoded '' -RRB- combinations of logic states . 
+No.4---> 3.0	147
+A large logic machine -LRB- say , with more than a hundred logical variables -RRB- can have an astronomical number of possible states . 
+No.5---> 3.667	2
+In most cases , the number of these states is two , and they are represented by two voltage bands : one near a reference value -LRB- typically termed as `` ground '' or zero volts -RRB- , and the other a value near the supply voltage . 
+
+¡Ì3.What are digital electronic circuits usually made from ? 
+No.1---> 1.0    0
+Digital electronics or digital -LRB- electronic -RRB- circuits are electronics that handle digital signals -LRB- discrete bands of analog levels -RRB- rather than by continuous ranges as used in analog electronics . 
+No.2---> 1.0    65
+When the complexity is less , the circuit also has fewer errors and less electronics , and is therefore less expensive . 
+No.3---> 1.0    70
+Another way , often with the least electronics , is to construct an equivalent system of electronic switches -LRB- usually transistors -RRB- . 
+No.4---> 2.5    4
+Digital electronic circuits are usually made from large assemblies of logic gates , simple electronic representations of Boolean logic functions . 
+No.5---> 3.0    128
+Writing and debugging tool flows is an established engineering specialty in companies that produce digital designs .
+
+¡Ì4.When did the Lee De Forest 's Fleming valve can be used as an AND logic gate ? 
+No.1---> 0.0    1
+Digital logic as we know it was the brain-child of George Boole , in the mid 19th century . 
+No.2---> 0.0    2
+Lee De Forest 's modification , in 1907 , of the Fleming valve can be used as an AND logic gate . 
+No.3---> 0.0    10
+In the 1980s , some researchers discovered that almost all synchronous register-transfer machines could be converted to asynchronous designs by using first-in-first-out synchronization logic . 
+No.4---> 0.0    14
+The first integrated circuit logic gates cost nearly $ 50 -LRB- in 1960 dollars , when an engineer earned $ 10,000 / year -RRB- . 
+No.5---> 0.0    15
+Modern transistorized integrated circuit logic gates have MTBFs greater than 82 billion hours -LRB- 8.2 Â· 1010 hours -RRB- , and need them because they have so many logic gates .  
+
+¡Ì5.Who introduced a version of the 16-row truth table ? 
+No.1---> 0.0    3
+Ludwig Wittgenstein introduced a version of the 16-row truth table as proposition 5.101 of Tractatus Logico-Philosophicus -LRB- 1921 -RRB- . 
+No.2---> 1.0    6
+The most widely used simplification is a minimization algorithm like the Espresso heuristic logic minimizer within a CAD system , although historically , binary decision diagrams , an automated Quineâ€“McCluskey algorithm , truth tables , Karnaugh maps , and Boolean algebra have been used . 
+No.3---> 2.0    0
+The binary number system was refined by Gottfried Wilhelm Leibniz -LRB- published in 1705 -RRB- and he also established that by using the binary system , the principles of arithmetic and logic could be combined . 
+No.4---> 2.0    1
+Digital logic as we know it was the brain-child of George Boole , in the mid 19th century . 
+No.5---> 2.0    2
+Lee De Forest 's modification , in 1907 , of the Fleming valve can be used as an AND logic gate .
+
+¡Ì6.What is mechanical analog computers were used for in World War II ? 
+No.1---> 3.75   15
+It was the world 's first working programmable , fully automatic digital computer . 
+No.2---> 3.75   20
+Their first transistorised computer and the first in the world , was operational by 1953 , and a second version was completed there in April 1955 . 
+No.3---> 4.125  12
+In World War II , mechanical analog computers were used for specialized military applications such as calculating torpedo aiming . 
+No.4---> 4.5    1
+All levels within a band of values represent the same information state . 
+No.5---> 4.5    25
+Computer-controlled digital systems can be controlled by software , allowing new functions to be added without changing hardware . 
+
+¡Á7.What is the abbreviation of personal computers ? 
+No.1---> 2.0    10
+Mechanical analog computers started appearing in the first century and were later used in the medieval era for astronomical calculations . 
+No.2---> 2.0    109
+Almost all computers are synchronous . 
+No.3---> 2.0    110
+However , true asynchronous computers have also been designed . 
+No.4---> 2.0    112
+An unexpected advantage is that asynchronous computers do not produce spectrally-pure radio noise , so they are used in some mobile-phone base-station controllers . 
+No.5---> 2.0    189
+This is used even in large , fast computers , such as the IBM System z . 
+
+¡Á8.Why it comes the ` second generation ` of computers ? 
+No.1---> 0.0    2
+Because of this discretization , relatively small changes to the analog signal levels due to manufacturing tolerance , signal attenuation or noise do not leave the discrete envelope , and as a result are ignored by signal state sensing circuitry . 
+No.2---> 0.0    4
+These correspond to the false and true values of the Boolean domain respectively . 
+No.3---> 0.0    9
+Boole died young , but his ideas lived on . 
+No.4---> 0.0    10
+In an 1886 letter , Charles Sanders Peirce described how logical operations could be carried out by electrical switching circuits . 
+No.5---> 0.0    13
+Ludwig Wittgenstein introduced a version of the 16-row truth table as proposition 5.101 of Tractatus Logico-Philosophicus -LRB- 1921 -RRB- . 

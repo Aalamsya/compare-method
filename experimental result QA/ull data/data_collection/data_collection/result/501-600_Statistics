@@ -1,0 +1,228 @@
+Affective_computing	6
+{nnp=1, person=1, definition=6, manner=2}
+{person=1 0, definition=2 1, manner=1 1}
+
+Postmenopausal_confusion	3
+{name=4, definition=1}
+{name=0 3}
+
+Long-term_depression	5
+{reason=1, nnp=2, name=3, definition=3, location=1}
+{reason=0 1, nnp=0 2, name=0 2}
+
+Association_of_Professional_Futurists	1
+{date=2, number=1, name=1, definition=4, location=2}
+{number=0 1}
+
+Nonsynaptic_plasticity	3
+{reason=1, name=3, definition=5, manner=1}
+{name=1 0, definition=1 0, manner=0 1}
+
+Subrata_Dasgupta	2
+{date=2, person=2, location=1}
+{date=1 0, person=1 0}
+
+Neuromanagement	5
+{date=3, person=2, name=1, definition=3, manner=1}
+{date=1 0, person=1 0, name=1 0, definition=1 0, manner=1 0}
+
+Life_extension	6
+{date=2, reason=1, person=2, definition=4, time=1}
+{person=2 0, definition=2 1, time=0 1}
+
+Supraoptic_nucleus	3
+{number=1, reason=1, definition=1, location=1, manner=1}
+{number=0 1, reason=0 1, manner=1 0}
+
+Topographic_map_(neuroanatomy)	6
+{nnp=1, name=1, definition=7, manner=1}
+{name=1 0, definition=4 0, manner=0 1}
+
+Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine	4
+{date=2, person=1, name=1, definition=1}
+{date=1 0, person=1 0, name=0 1, definition=0 1}
+
+Split-brain	9
+{date=1, reason=3, person=3, name=1, definition=2}
+{date=0 1, reason=0 3, person=2 0, name=0 1, definition=1 1}
+
+Connectionism	1
+{nnp=1, name=2, definition=2}
+{name=1 0}
+
+Sleep	6
+{date=2, nnp=3, name=2, definition=3}
+{date=0 1, nnp=2 0, name=0 1, definition=1 1}
+
+Religious_delusion	3
+{date=1, person=3, definition=1}
+{person=2 1}
+
+IRCF360	2
+{date=1, reason=1, name=1, definition=2}
+{reason=0 1, name=0 1}
+
+Capitalist_peace	6
+{date=1, number=1, person=3, name=1}
+{date=1 0, number=0 1, person=2 1, name=0 1}
+
+BELBIC	2
+{reason=2, person=1, definition=2}
+{reason=0 2}
+
+Embodied_cognition	10
+{nnp=1, number=1, person=3, name=1, definition=4}
+{nnp=1 0, number=0 1, person=2 1, name=0 1, definition=3 1}
+
+Plug_&_Pray	2
+{date=1, person=2, name=1, definition=1}
+{date=1 0, name=0 1}
+
+Future_history	4
+{date=1, person=1, name=1, definition=2}
+{date=1 0, name=1 0, definition=1 1}
+
+Ribbon_synapse	2
+{reason=2, name=3, definition=4, location=1}
+{reason=0 2}
+
+Whuffie	3
+{date=1, number=1, definition=3}
+{date=1 0, number=0 1, definition=0 1}
+
+Interpretive_discussion	2
+{person=2, name=1, definition=2}
+{name=1 0, definition=1 0}
+
+Corporate_foresight	3
+{nnp=1, reason=2, person=1, manner=1}
+{reason=0 2, manner=1 0}
+
+Cognitivism_(psychology)	6
+{reason=1, nnp=3, person=1, name=2, definition=2, manner=1}
+{reason=0 1, nnp=2 1, name=1 0, manner=0 1}
+
+Quantum_cognition	7
+{date=1, nnp=1, reason=1, person=1, name=1, definition=3}
+{date=1 0, nnp=1 0, reason=0 1, person=0 1, name=1 0, definition=2 0}
+
+Expert_system	6
+{date=3, person=1, name=2, definition=4}
+{date=2 0, name=2 0, definition=0 2}
+
+Internal_model_(motor_control)	1
+{person=3, name=1, definition=1}
+{person=1 0}
+
+Human_rights	8
+{date=2, person=2, name=4, definition=2}
+{date=1 1, name=3 1, definition=2 0}
+
+Thalamus	2
+{number=1, name=3, definition=1}
+{number=0 1, name=1 0}
+
+Neuroanatomy	9
+{date=1, nnp=1, person=1, name=3, definition=3, location=1}
+{date=1 0, nnp=1 0, person=1 0, name=0 2, definition=3 0, location=1 0}
+
+Geist	1
+{date=1, person=1, definition=3}
+{person=1 0}
+
+Synthetic_Environment_for_Analysis_and_Simulations	3
+{date=2, definition=3}
+{date=1 0, definition=1 1}
+
+Prediction	4
+{definition=4, manner=1}
+{definition=2 1, manner=0 1}
+
+Candle_problem	3
+{money=1, person=1, definition=2, manner=1}
+{money=0 1, definition=1 0, manner=1 0}
+
+Qualia	6
+{person=8, location=1, definition=1}
+{person=1 3, location=0 1, definition=1 0}
+
+Cognitive_development	6
+{nnp=1, reason=1, person=2, name=3, definition=2, manner=1}
+{nnp=1 0, reason=0 1, person=2 0, definition=1 0, manner=1 0}
+
+Vihangamyoga	1
+{person=1, definition=4}
+{person=0 1}
+
+Neurosphere	2
+{date=1, person=1, definition=3}
+{date=1 0, person=1 0}
+
+Sleeper_effect	7
+{date=1, nnp=1, reason=2, person=2, definition=3, manner=1}
+{date=0 1, reason=0 2, person=1 0, definition=1 1, manner=0 1}
+
+Psychological_effects_of_Internet_use	9
+{person=9, name=1}
+{person=5 3, name=1 0}
+
+Embodied_cognitive_science	7
+{nnp=2, reason=1, person=2, name=2, definition=1}
+{nnp=1 0, reason=0 1, person=1 1, name=1 1, definition=1 0}
+
+Fronto-cerebellar_dissociation	2
+{nnp=3, definition=2}
+{nnp=0 2}
+
+Numerical_cognition	4
+{person=3, definition=2}
+{person=2 0, definition=1 1}
+
+BCM_theory	3
+{date=3, person=1, definition=1}
+{date=2 0, person=1 0}
+
+Sequence_learning	4
+{reason=1, nnp=1, person=2, definition=2}
+{reason=0 1, person=0 1, definition=2 0}
+
+Micropsia	5
+{nnp=1, person=3, name=1, definition=4, manner=1}
+{nnp=1 0, person=0 2, definition=1 0, manner=1 0}
+
+Software_agent	7
+{person=2, definition=6}
+{person=0 2, definition=2 3}
+
+Mental_model	4
+{person=4, name=1, definition=3}
+{person=2 0, definition=2 0}
+
+Monotropism	2
+{date=1, reason=2, person=1, definition=1}
+{reason=0 2}
+
+Computational_neurogenetic_modeling	9
+{nnp=3, reason=2, name=2, definition=2, manner=1}
+{nnp=3 0, reason=0 2, name=1 1, definition=1 0, manner=0 1}
+
+Perception	8
+{number=1, reason=1, person=1, name=3, definition=4}
+{number=0 1, reason=0 1, person=1 0, name=1 0, definition=3 1}
+
+Parvalbumin	1
+{number=1, nnp=1, name=1, location=2}
+{number=1 0}
+
+Compartmental_modelling_of_dendrites	2
+{reason=1, nnp=2, number=1, name=2, definition=1}
+{reason=1 0, name=1 0}
+
+Theory_of_mediation	1
+{nnp=1, person=1, definition=3}
+{definition=0 1}
+
+Roundabout_(gene_family)	5
+{name=5, definition=2, location=3}
+{name=1 2, definition=1 1}
+

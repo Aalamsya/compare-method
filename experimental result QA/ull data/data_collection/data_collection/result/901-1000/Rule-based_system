@@ -1,0 +1,8 @@
+√What are rule-based systems ? 	name
+×What are often used in artificial intelligence applications and research ? 	definition
+×What is applied to systems involving human-crafted or curated rule sets ? 	name
+√What lists execution steps sequentially ? 	definition
+×How many basic components does a typical rule-based system has ? 	number
+√What is a specific type of knowledge base ? 	definition
+√What infers information or takes action based on the interaction of input and the rule base ? 	definition
+×Why the interpreter halts ? 	reason

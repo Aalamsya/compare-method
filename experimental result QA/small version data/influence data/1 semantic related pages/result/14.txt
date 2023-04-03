@@ -1,0 +1,389 @@
+√1.What is the abbreviation of Artificial intelligence ? 
+
+No.1---> 0.0	0
+Artificial intelligence -LRB- AI -RRB- is intelligence exhibited by machines . 
+No.2---> 0.0	14
+Attempts to create artificial intelligence have experienced many setbacks , including the ALPAC report of 1966 , the abandonment of perceptrons in 1970 , the Lighthill Report of 1973 , the second AI winter 1987 1993 and the collapse of the Lisp machine market in 1987 . 
+No.3---> 0.0	21
+Marvin Minsky agreed , writing , `` within a generation ... the problem of creating ` artificial intelligence ' will substantially be solved . '' 
+No.4---> 0.0	30
+According to Bloomberg 's Jack Clark , 2015 was a landmark year for artificial intelligence , with the number of software projects that use AI within Google increasing from a `` sporadic usage '' in 2012 to more than 2,700 projects . 
+No.5---> 0.0	153
+This procedure allows almost all the major problems of artificial intelligence to be tested . 
+
+√2.What does the field of AI research defines itself as ? 
+
+No.1---> 0.0	6
+AI research is divided into subfields that focus on specific problems or on specific approaches or on the use of a particular tool or towards satisfying particular applications . 
+No.2---> 0.0	17
+The field of AI research was founded at a conference at Dartmouth College in 1956 . 
+No.3---> 0.0	18
+The attendees , including John McCarthy , Marvin Minsky , Allen Newell , Arthur Samuel and Herbert Simon , became the leaders of AI research . 
+No.4---> 0.0	22
+Progress slowed and in 1974 , in response to the criticism of Sir James Lighthill and ongoing pressure from the US Congress to fund more productive projects , both the U.S. and British governments cut off exploratory research in AI . 
+No.5---> 0.0	29
+The Kinect , which provides a 3D bodymotion interface for the Xbox 360 and the Xbox One use algorithms that emerged from lengthy AI research as do intelligent personal assistants in smartphones . 
+
+×3.What led directly to Alan Turing 's theory of computation ? 
+
+No.1---> 0.0	0
+Artificial intelligence -LRB- AI -RRB- is intelligence exhibited by machines . 
+No.2---> 0.0	1
+In computer science , the field of AI research defines itself as the study of `` intelligent agents '' : any device that perceives its environment and takes actions that maximize its chance of success at some goal . 
+No.3---> 0.0	2
+Colloquially , the term `` artificial intelligence '' is applied when a machine mimics `` cognitive '' functions that humans associate with other human minds , such as `` learning '' and `` problem solving '' -LRB- known as Machine Learning -RRB- . 
+No.4---> 0.0	3
+As machines become increasingly capable , mental facilities once thought to require intelligence are removed from the definition . 
+No.5---> 0.0	4
+For example , optical character recognition is no longer perceived as an exemplar of `` artificial intelligence '' , having become a routine technology . 
+
+√4.When was research in the U.S. heavily funded by the Department of Defense ? 
+
+No.1---> 0.0	5
+The field of AI research was founded at a conference at Dartmouth College in 1956 . 
+No.2---> 0.0	8
+Progress slowed and in 1974 , in response to the criticism of Sir James Lighthill and ongoing pressure from the US Congress to fund more productive projects , both the U.S. and British governments cut off exploratory research in AI . 
+No.3---> 0.0	22
+The study of non-learning artificial neural networks began in the decade before the field of AI research was founded , in the work of Walter Pitts and Warren McCullouch . 
+No.4---> 0.0	51
+However , real progress was much slower , and after the ALPAC report in 1966 , which found that ten-year-long research had failed to fulfill the expectations , funding for machine translation was dramatically reduced . 
+No.5---> 1.0	63
+Neural network research stagnated after the publication of machine learning research by Marvin Minsky and Seymour Papert -LRB- 1969 -RRB- , who discovered two key issues with the computational machines that processed neural networks . 
+
+√5.Who agreed that ` within a generation ... the problem of creating ` artificial intelligence ' will substantially be solved ' ? 
+
+No.1---> 0.0	3
+Marvin Minsky agreed , writing , `` within a generation ... the problem of creating ` artificial intelligence ' will substantially be solved . '' 
+No.2---> 0.0	7
+According to Bloomberg 's Jack Clark , 2015 was a landmark year for artificial intelligence , with the number of software projects that use AI within Google increasing from a `` sporadic usage '' in 2012 to more than 2,700 projects . 
+No.3---> 0.0	21
+As Rodney Brooks pointed out many years ago , it is not just the artificial intelligence software that defines the AI features of the platform , but rather the actual platform itself that affects the AI that results , i.e. , there needs to be work in AI problems on real-world platforms rather than in isolation . 
+No.4---> 0.0	23
+In his book Superintelligence , Nick Bostrom provides an argument that artificial intelligence will pose a threat to mankind . 
+No.5---> 0.0	24
+Musk also funds companies developing artificial intelligence such as Google DeepMind and Vicarious to `` just keep an eye on what 's going on with artificial intelligence . 
+
+×6.How much the market for AI had reached by 1985 ? 
+
+No.1---> 0.0	0
+Artificial intelligence -LRB- AI -RRB- is intelligence exhibited by machines . 
+No.2---> 0.0	1
+In computer science , the field of AI research defines itself as the study of `` intelligent agents '' : any device that perceives its environment and takes actions that maximize its chance of success at some goal . 
+No.3---> 0.0	2
+Colloquially , the term `` artificial intelligence '' is applied when a machine mimics `` cognitive '' functions that humans associate with other human minds , such as `` learning '' and `` problem solving '' -LRB- known as Machine Learning -RRB- . 
+No.4---> 0.0	3
+As machines become increasingly capable , mental facilities once thought to require intelligence are removed from the definition . 
+No.5---> 0.0	4
+For example , optical character recognition is no longer perceived as an exemplar of `` artificial intelligence '' , having become a routine technology . 
+
+×7.What is the abbreviation of Natural language processing ? 
+
+No.1---> 0.0	62
+A common method of processing and extracting meaning from natural language is through semantic indexing . 
+No.2---> 0.0	149
+Google also used LSTM to improve machine translation , Language Modeling and Multilingual Language Processing . 
+No.3---> 1.0	59
+Natural language processing gives machines the ability to read and understand the languages that humans speak . 
+No.4---> 1.0	60
+A sufficiently powerful natural language processing system would enable natural language user interfaces and the acquisition of knowledge directly from human-written sources , such as newswire texts . 
+No.5---> 1.0	121
+By this method , ignorance can be distinguished from probabilistic statements that an agent makes with high confidence . 
+
+×8.What is Alan Turing published an article titled ? 
+
+No.1---> 0.0	0
+Artificial intelligence -LRB- AI -RRB- is intelligence exhibited by machines . 
+No.2---> 0.0	1
+In computer science , the field of AI research defines itself as the study of `` intelligent agents '' : any device that perceives its environment and takes actions that maximize its chance of success at some goal . 
+No.3---> 0.0	2
+Colloquially , the term `` artificial intelligence '' is applied when a machine mimics `` cognitive '' functions that humans associate with other human minds , such as `` learning '' and `` problem solving '' -LRB- known as Machine Learning -RRB- . 
+No.4---> 0.0	3
+As machines become increasingly capable , mental facilities once thought to require intelligence are removed from the definition . 
+No.5---> 0.0	4
+For example , optical character recognition is no longer perceived as an exemplar of `` artificial intelligence '' , having become a routine technology . 
+
+×9.How many Russian sentences the Georgetown experiment involved fully automatic translation of into English ? 
+
+No.1---> 0.0	0
+Artificial intelligence -LRB- AI -RRB- is intelligence exhibited by machines . 
+No.2---> 0.0	1
+In computer science , the field of AI research defines itself as the study of `` intelligent agents '' : any device that perceives its environment and takes actions that maximize its chance of success at some goal . 
+No.3---> 0.0	2
+Colloquially , the term `` artificial intelligence '' is applied when a machine mimics `` cognitive '' functions that humans associate with other human minds , such as `` learning '' and `` problem solving '' -LRB- known as Machine Learning -RRB- . 
+No.4---> 0.0	3
+As machines become increasingly capable , mental facilities once thought to require intelligence are removed from the definition . 
+No.5---> 0.0	4
+For example , optical character recognition is no longer perceived as an exemplar of `` artificial intelligence '' , having become a routine technology . 
+
+√10.What were some notably successful NLP systems developed in the 1960s ? 
+
+No.1---> 0.0	5
+Capabilities currently classified as AI include successfully understanding human speech , competing at a high level in strategic game systems -LRB- such as Chess and Go self-driving cars , intelligent routing in content delivery networks , and interpreting complex data . 
+No.2---> 0.0	171
+Together , these systems , as well as high performance computers are integrated into one complex vehicle . 
+No.3---> 0.0	176
+A wide variety of platforms has allowed different aspects of AI to develop , ranging from expert systems such as Cyc to deep-learning frameworks to robot platforms such as the Roomba with open interface . 
+No.4---> 0.0	274
+However , most other systems depended on corpora specifically developed for the tasks implemented by these systems , which was -LRB- and often continues to be -RRB- a major limitation in the success of these systems . 
+No.5---> 0.0	288
+These systems are self-learning and trained , rather than explicitly programmed , and excel in areas where the solution or feature detection is difficult to express in a traditional computer program . 
+
+√11.What is the computational meaning of individual words in context ? 
+
+No.1---> 1.5	83
+Can intelligence be reproduced using high-level symbols , similar to words and ideas ? 
+No.2---> 2.0	5
+Capabilities currently classified as AI include successfully understanding human speech , competing at a high level in strategic game systems -LRB- such as Chess and Go self-driving cars , intelligent routing in content delivery networks , and interpreting complex data . 
+No.3---> 2.0	121
+By this method , ignorance can be distinguished from probabilistic statements that an agent makes with high confidence . 
+No.4---> 2.0	171
+Together , these systems , as well as high performance computers are integrated into one complex vehicle . 
+No.5---> 2.0	176
+A wide variety of platforms has allowed different aspects of AI to develop , ranging from expert systems such as Cyc to deep-learning frameworks to robot platforms such as the Roomba with open interface . 
+
+×12.What is the abbreviation of Artificial neural networks ? 
+
+No.1---> 0.0	0
+Artificial intelligence -LRB- AI -RRB- is intelligence exhibited by machines . 
+No.2---> 0.0	1
+In computer science , the field of AI research defines itself as the study of `` intelligent agents '' : any device that perceives its environment and takes actions that maximize its chance of success at some goal . 
+No.3---> 0.0	2
+Colloquially , the term `` artificial intelligence '' is applied when a machine mimics `` cognitive '' functions that humans associate with other human minds , such as `` learning '' and `` problem solving '' -LRB- known as Machine Learning -RRB- . 
+No.4---> 0.0	3
+As machines become increasingly capable , mental facilities once thought to require intelligence are removed from the definition . 
+No.5---> 0.0	4
+For example , optical character recognition is no longer perceived as an exemplar of `` artificial intelligence '' , having become a routine technology . 
+
+√13.When did Artificial intelligence shifted from high-level to low-level ? 
+
+No.1---> 0.0	2
+Attempts to create artificial intelligence have experienced many setbacks , including the ALPAC report of 1966 , the abandonment of perceptrons in 1970 , the Lighthill Report of 1973 , the second AI winter 1987â€ 1993 and the collapse of the Lisp machine market in 1987 . 
+No.2---> 0.0	12
+According to Bloomberg 's Jack Clark , 2015 was a landmark year for artificial intelligence , with the number of software projects that use AI within Google increasing from a `` sporadic usage '' in 2012 to more than 2,700 projects . 
+No.3---> 0.0	29
+As Rodney Brooks pointed out many years ago , it is not just the artificial intelligence software that defines the AI features of the platform , but rather the actual platform itself that affects the AI that results , i.e. , there needs to be work in AI problems on real-world platforms rather than in isolation . 
+No.4---> 1.5	31
+Once humans develop artificial intelligence , it will take off on its own and redesign itself at an ever-increasing rate . 
+No.5---> 1.5	45
+Edward Fredkin argues that `` artificial intelligence is the next stage in evolution '' , an idea first proposed by Samuel Butler 's `` Darwin among the Machines '' -LRB- 1863 -RRB- , and expanded upon by George Dyson in his book of the same name in 1998 . 
+
+×14.Who described the use of connectionism to simulate neural processes ? 
+
+No.1---> 0.0	0
+While thought-capable artificial beings appeared as storytelling devices in antiquity , the idea of actually trying to build a machine to perform useful reasoning may have begun with Ramon Llull -LRB- c. 1300 CE -RRB- . 
+No.2---> 0.0	1
+The attendees , including John McCarthy , Marvin Minsky , Allen Newell , Arthur Samuel and Herbert Simon , became the leaders of AI research . 
+No.3---> 0.0	2
+AI 's founders were optimistic about the future : Herbert Simon predicted , `` machines will be capable , within twenty years , of doing any work a man can do . '' 
+No.4---> 0.0	3
+Marvin Minsky agreed , writing , `` within a generation ... the problem of creating ` artificial intelligence ' will substantially be solved . '' 
+No.5---> 0.0	4
+Progress slowed and in 1974 , in response to the criticism of Sir James Lighthill and ongoing pressure from the US Congress to fund more productive projects , both the U.S. and British governments cut off exploratory research in AI . 
+
+×15.How many types of parameters is an ANN typically defined by ? 
+
+No.1---> 0.0	0
+Artificial intelligence -LRB- AI -RRB- is intelligence exhibited by machines . 
+No.2---> 0.0	1
+In computer science , the field of AI research defines itself as the study of `` intelligent agents '' : any device that perceives its environment and takes actions that maximize its chance of success at some goal . 
+No.3---> 0.0	2
+Colloquially , the term `` artificial intelligence '' is applied when a machine mimics `` cognitive '' functions that humans associate with other human minds , such as `` learning '' and `` problem solving '' -LRB- known as Machine Learning -RRB- . 
+No.4---> 0.0	3
+As machines become increasingly capable , mental facilities once thought to require intelligence are removed from the definition . 
+No.5---> 0.0	4
+For example , optical character recognition is no longer perceived as an exemplar of `` artificial intelligence '' , having become a routine technology . 
+
+√16.What is a knowledge base ? 
+
+No.1---> 0.0	45
+The most general are called upper ontologies , which attempt to provide a foundation for all other knowledge . 
+No.2---> 0.0	262
+When the `` patient '' exceeded the very small knowledge base , ELIZA might provide a generic response , for example , responding to `` My head hurts '' with `` Why do you say your head hurts ? '' 
+No.3---> 0.5	350
+These models have been applied in the context of question answering -LRB- QA -RRB- where the long-term memory effectively acts as a -LRB- dynamic -RRB- knowledge base , and the output is a textual response . 
+No.4---> 1.0	6
+AI research is divided into subfields that focus on specific problems or on specific approaches or on the use of a particular tool or towards satisfying particular applications . 
+No.5---> 1.0	17
+The field of AI research was founded at a conference at Dartmouth College in 1956 . 
+
+√17.What is the definition of a knowledge base ? 
+
+No.1---> 0.0	45
+The most general are called upper ontologies , which attempt to provide a foundation for all other knowledge . 
+No.2---> 0.0	262
+When the `` patient '' exceeded the very small knowledge base , ELIZA might provide a generic response , for example , responding to `` My head hurts '' with `` Why do you say your head hurts ? '' 
+No.3---> 0.5	350
+These models have been applied in the context of question answering -LRB- QA -RRB- where the long-term memory effectively acts as a -LRB- dynamic -RRB- knowledge base , and the output is a textual response . 
+No.4---> 1.0	6
+AI research is divided into subfields that focus on specific problems or on specific approaches or on the use of a particular tool or towards satisfying particular applications . 
+No.5---> 1.0	17
+The field of AI research was founded at a conference at Dartmouth College in 1956 . 
+
+×18.Which were the first knowledge-based systems ? 
+
+No.1---> 0.0	5
+Capabilities currently classified as AI include successfully understanding human speech , competing at a high level in strategic game systems -LRB- such as Chess and Go self-driving cars , intelligent routing in content delivery networks , and interpreting complex data . 
+No.2---> 0.0	14
+Some people also consider AI a danger to humanity if it progresses unabatedly . 
+No.3---> 0.0	18
+With his Calculus ratiocinator , Gottfried Leibniz extended the concept of the calculating machine -LRB- Wilhelm Schickard engineered the first one around 1623 -RRB- , intending to perform operations on concepts rather than numbers . 
+No.4---> 0.0	19
+Since the 19th century , artificial beings are common in fiction , as in Mary Shelley 's Frankenstein or Karel ÄŒapek 's R.U.R. -LRB- Rossum 's Universal Robots -RRB- . 
+No.5---> 0.0	22
+They and their students wrote programs that were astonishing to most people : computers were winning at checkers , solving word problems in algebra , proving logical theorems and speaking English . 
+
+×19.When did all large Management Information Systems stored their data in some type of hierarchical or relational database ? 
+
+No.1---> 1.667	1
+Capabilities currently classified as AI include successfully understanding human speech , competing at a high level in strategic game systems -LRB- such as Chess and Go self-driving cars , intelligent routing in content delivery networks , and interpreting complex data . 
+No.2---> 1.667	54
+During the 1970s many programmers began to write `` conceptual ontologies '' , which structured real-world information into computer-understandable data . 
+No.3---> 2.167	17
+In the 1940s and 1950s , a number of researchers explored the connection between neurology , information theory , and cybernetics . 
+No.4---> 2.167	53
+Some notably successful NLP systems developed in the 1960s were SHRDLU , a natural language system working in restricted `` blocks worlds '' with restricted vocabularies , and ELIZA , a simulation of a Rogerian psychotherapist , written by Joseph Weizenbaum between 1964 and 1966 . 
+No.5---> 2.167	58
+The cache language models upon which many speech recognition systems now rely are examples of such statistical models . 
+
+√20.What was the next evolution for the term knowledge-base ? 
+
+No.1---> 1.5	245
+Edward Fredkin argues that `` artificial intelligence is the next stage in evolution '' , an idea first proposed by Samuel Butler 's `` Darwin among the Machines '' -LRB- 1863 -RRB- , and expanded upon by George Dyson in his book of the same name in 1998 . 
+No.2---> 2.0	5
+Capabilities currently classified as AI include successfully understanding human speech , competing at a high level in strategic game systems -LRB- such as Chess and Go self-driving cars , intelligent routing in content delivery networks , and interpreting complex data . 
+No.3---> 2.0	95
+Approaches based on cybernetics or neural networks were abandoned or pushed into the background . 
+No.4---> 2.0	137
+The main categories of networks are acyclic or feedforward neural networks -LRB- where the signal passes in only one direction -RRB- and recurrent neural networks -LRB- which allow feedback and short-term memories of previous input events -RRB- . 
+No.5---> 2.0	150
+Control theory , the grandchild of cybernetics , has many important applications , especially in robotics . 
+
+√21.What is meaning of ` fabric , structure ' ? 
+
+No.1---> 0.0	332
+Their simple implementation and the existence of mostly local dependencies exhibited in the structure allows for fast , parallel implementations in hardware . 
+No.2---> 1.0	5
+Capabilities currently classified as AI include successfully understanding human speech , competing at a high level in strategic game systems -LRB- such as Chess and Go self-driving cars , intelligent routing in content delivery networks , and interpreting complex data . 
+No.3---> 1.0	92
+Many of these researchers gathered for meetings of the Teleological Society at Princeton University and the Ratio Club in England . 
+No.4---> 1.0	109
+For many problems , it is possible to begin the search with some form of a guess and then refine the guess incrementally until no more refinements can be made . 
+No.5---> 1.0	110
+Evolutionary computation uses a form of optimization search . 
+
+×22.What is a simple machine that transforms lateral force and movement of the tool into a transverse splitting force and movement of the workpiece ? 
+
+No.1---> 2.0	145
+The depth of an RNN is unlimited and depends on the length of its input sequence . 
+No.2---> 2.0	265
+During this time , many chatterbots were written including PARRY , Racter , and Jabberwacky . 
+No.3---> 2.0	306
+The second significant issue was that computers did n't have enough processing power to effectively handle the long run time required by large neural networks . 
+No.4---> 2.0	371
+What is known is that sensor neurons fire action potentials more frequently with sensor activation and muscle cells pull more strongly when their associated motor neurons receive action potentials more frequently . 
+No.5---> 2.5	155
+Such tests have been termed subject matter expert Turing tests . 
+
+×23.Who studied the Archimedean simple machines ? 
+
+No.1---> 0.0	0
+While thought-capable artificial beings appeared as storytelling devices in antiquity , the idea of actually trying to build a machine to perform useful reasoning may have begun with Ramon Llull -LRB- c. 1300 CE -RRB- . 
+No.2---> 0.0	1
+The attendees , including John McCarthy , Marvin Minsky , Allen Newell , Arthur Samuel and Herbert Simon , became the leaders of AI research . 
+No.3---> 0.0	2
+AI 's founders were optimistic about the future : Herbert Simon predicted , `` machines will be capable , within twenty years , of doing any work a man can do . '' 
+No.4---> 0.0	3
+Marvin Minsky agreed , writing , `` within a generation ... the problem of creating ` artificial intelligence ' will substantially be solved . '' 
+No.5---> 0.0	4
+Progress slowed and in 1974 , in response to the criticism of Sir James Lighthill and ongoing pressure from the US Congress to fund more productive projects , both the U.S. and British governments cut off exploratory research in AI . 
+
+×24.How many mechanisms does Heron of Alexandria in his work Mechanics lists ? 
+
+No.1---> 0.0	14
+Some people also consider AI a danger to humanity if it progresses unabatedly . 
+No.2---> 0.0	18
+With his Calculus ratiocinator , Gottfried Leibniz extended the concept of the calculating machine -LRB- Wilhelm Schickard engineered the first one around 1623 -RRB- , intending to perform operations on concepts rather than numbers . 
+No.3---> 0.0	19
+Since the 19th century , artificial beings are common in fiction , as in Mary Shelley 's Frankenstein or Karel ÄŒapek 's R.U.R. -LRB- Rossum 's Universal Robots -RRB- . 
+No.4---> 0.0	22
+They and their students wrote programs that were astonishing to most people : computers were winning at checkers , solving word problems in algebra , proving logical theorems and speaking English . 
+No.5---> 0.0	26
+They failed to recognize the difficulty of some of the remaining tasks . 
+
+√25.What led Archimedes to define the lever , pulley and screw as simple machines ? 
+
+No.1---> 0.0	0
+Artificial intelligence -LRB- AI -RRB- is intelligence exhibited by machines . 
+No.2---> 0.0	1
+In computer science , the field of AI research defines itself as the study of `` intelligent agents '' : any device that perceives its environment and takes actions that maximize its chance of success at some goal . 
+No.3---> 0.0	2
+Colloquially , the term `` artificial intelligence '' is applied when a machine mimics `` cognitive '' functions that humans associate with other human minds , such as `` learning '' and `` problem solving '' -LRB- known as Machine Learning -RRB- . 
+No.4---> 0.0	3
+As machines become increasingly capable , mental facilities once thought to require intelligence are removed from the definition . 
+No.5---> 0.0	4
+For example , optical character recognition is no longer perceived as an exemplar of `` artificial intelligence '' , having become a routine technology . 
+
+×26.What is the overall goal of the data mining process ? 
+
+No.1---> 0.0	0
+Artificial intelligence -LRB- AI -RRB- is intelligence exhibited by machines . 
+No.2---> 0.0	1
+In computer science , the field of AI research defines itself as the study of `` intelligent agents '' : any device that perceives its environment and takes actions that maximize its chance of success at some goal . 
+No.3---> 0.0	2
+Colloquially , the term `` artificial intelligence '' is applied when a machine mimics `` cognitive '' functions that humans associate with other human minds , such as `` learning '' and `` problem solving '' -LRB- known as Machine Learning -RRB- . 
+No.4---> 0.0	3
+As machines become increasingly capable , mental facilities once thought to require intelligence are removed from the definition . 
+No.5---> 0.0	4
+For example , optical character recognition is no longer perceived as an exemplar of `` artificial intelligence '' , having become a routine technology . 
+
+×27.What is the short for ` knowledge discovery in databases ' ? 
+
+No.1---> 0.0	45
+The most general are called upper ontologies , which attempt to provide a foundation for all other knowledge . 
+No.2---> 0.0	262
+When the `` patient '' exceeded the very small knowledge base , ELIZA might provide a generic response , for example , responding to `` My head hurts '' with `` Why do you say your head hurts ? '' 
+No.3---> 0.5	350
+These models have been applied in the context of question answering -LRB- QA -RRB- where the long-term memory effectively acts as a -LRB- dynamic -RRB- knowledge base , and the output is a textual response . 
+No.4---> 1.0	6
+AI research is divided into subfields that focus on specific problems or on specific approaches or on the use of a particular tool or towards satisfying particular applications . 
+No.5---> 1.0	17
+The field of AI research was founded at a conference at Dartmouth College in 1956 . 
+
+√28.Who sponsor the First International Conference on Data Mining and Knowledge Discovery -LRB- KDD-95 -RRB- that was started in Montreal ? 
+
+No.1---> 1.0	1
+The attendees , including John McCarthy , Marvin Minsky , Allen Newell , Arthur Samuel and Herbert Simon , became the leaders of AI research . 
+No.2---> 1.0	4
+Progress slowed and in 1974 , in response to the criticism of Sir James Lighthill and ongoing pressure from the US Congress to fund more productive projects , both the U.S. and British governments cut off exploratory research in AI . 
+No.3---> 1.0	16
+The study of non-learning artificial neural networks began in the decade before the field of AI research was founded , in the work of Walter Pitts and Warren McCullouch . 
+No.4---> 1.0	49
+However , part-of-speech tagging introduced the use of hidden Markov models to NLP , and increasingly , research has focused on statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to the features making up the input data . 
+No.5---> 1.0	51
+In the late 1940s psychologist Donald Hebb created a hypothesis of learning based on the mechanism of neural plasticity that is now known as Hebbian learning . 
+
+√29.What is the primary research journal of the field ? 
+
+No.1---> 0.0	6
+AI research is divided into subfields that focus on specific problems or on specific approaches or on the use of a particular tool or towards satisfying particular applications . 
+No.2---> 0.0	17
+The field of AI research was founded at a conference at Dartmouth College in 1956 . 
+No.3---> 0.0	18
+The attendees , including John McCarthy , Marvin Minsky , Allen Newell , Arthur Samuel and Herbert Simon , became the leaders of AI research . 
+No.4---> 0.0	22
+Progress slowed and in 1974 , in response to the criticism of Sir James Lighthill and ongoing pressure from the US Congress to fund more productive projects , both the U.S. and British governments cut off exploratory research in AI . 
+No.5---> 0.0	29
+The Kinect , which provides a 3D bodyâ€“motion interface for the Xbox 360 and the Xbox One use algorithms that emerged from lengthy AI research as do intelligent personal assistants in smartphones . 
+
+×30.What are early methods of identifying patterns in data ? 
+
+No.1---> 0.0	0
+Artificial intelligence -LRB- AI -RRB- is intelligence exhibited by machines . 
+No.2---> 0.0	1
+In computer science , the field of AI research defines itself as the study of `` intelligent agents '' : any device that perceives its environment and takes actions that maximize its chance of success at some goal . 
+No.3---> 0.0	2
+Colloquially , the term `` artificial intelligence '' is applied when a machine mimics `` cognitive '' functions that humans associate with other human minds , such as `` learning '' and `` problem solving '' -LRB- known as Machine Learning -RRB- . 
+No.4---> 0.0	3
+As machines become increasingly capable , mental facilities once thought to require intelligence are removed from the definition . 
+No.5---> 0.0	4
+For example , optical character recognition is no longer perceived as an exemplar of `` artificial intelligence '' , having become a routine technology .

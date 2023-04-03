@@ -1,0 +1,10 @@
+What is a system?	definition
+Where does the term "System" come from?	location
+Who pioneered the development of the concept of a "system" in the natural sciences?	person
+When did German physicist generalize this picture to include the concept of the surroundings?	date
+When did Ludwig von Bertalanffy introduce models, principles, and laws that apply to generalized systems ?	date
+What views the world as a complex system of interconnected parts?	nnp
+How many intersecting systems did A .W. Steiss define?	number
+What is an economic system?	definition
+What is a cultural system?	definition
+What is a subsystem?	definition

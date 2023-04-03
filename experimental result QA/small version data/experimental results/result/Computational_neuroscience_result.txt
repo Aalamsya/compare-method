@@ -1,0 +1,106 @@
+¡Á1.What is the definition of Computational neuroscience ? 
+No.1---> 2.5    6
+The proceedings of this definitional meeting were published in 1990 as the book Computational Neuroscience . 
+No.2---> 2.5    7
+The first open international meeting focused on Computational Neuroscience was organized by James M. Bower and John Miller in San Francisco , California in 1989 and has continued each year since as the annual CNS meeting . 
+No.3---> 2.5    10
+Lapicque introduced the integrate and fire model of the neuron in a seminal article published in 1907 ; this model is still one of the most popular models in computational neuroscience for both cellular and neural networks studies , as well as in mathematical neuroscience because of its simplicity -LRB- see the recent review article for the centenary of Lapicque 's original paper -RRB- . 
+No.4---> 2.5    17
+Scientists now believe that there are a wide variety of voltage-sensitive currents , and the implications of the differing dynamics , modulations , and sensitivity of these currents is an important topic of computational neuroscience . 
+No.5---> 2.5    43
+Integrative neuroscience attempts to consolidate these observations through unified descriptive models and databases of behavioral measures and recordings . 
+
+¡Ì2.Who introduced the term ` computational neuroscience ' ? 
+No.1---> 1.0    1
+The first open international meeting focused on Computational Neuroscience was organized by James M. Bower and John Miller in San Francisco , California in 1989 and has continued each year since as the annual CNS meeting . 
+No.2---> 2.0    5
+Blue Brain , a project founded by Henry Markram from the Ã‰cole Polytechnique FÃ©dÃ©rale de Lausanne , aims to construct a biophysically detailed simulation of a cortical column on the Blue Gene supercomputer . 
+No.3---> 2.5    3
+Lapicque introduced the integrate and fire model of the neuron in a seminal article published in 1907 ; this model is still one of the most popular models in computational neuroscience for both cellular and neural networks studies , as well as in mathematical neuroscience because of its simplicity -LRB- see the recent review article for the centenary of Lapicque 's original paper -RRB- . 
+No.4---> 3.667  0
+The term `` computational neuroscience '' was introduced by Eric L. Schwartz , who organized a conference , held in 1985 in Carmel , California , at the request of the Systems Development Foundation to provide a summary of the current status of a field which until that point was referred to by a variety of names , such as neural modeling , brain theory and neural networks . 
+No.5---> 4.0    4
+David Marr 's work focused on the interactions between neurons , suggesting computational approaches to the study of how functional groups of neurons within the hippocampus and neocortex interact , store , process , and transmit information . 
+
+¡Á3.Who developed the voltage clamp and created the first biophysical model of the action potential ? 
+No.1---> 3.0    1
+The first open international meeting focused on Computational Neuroscience was organized by James M. Bower and John Miller in San Francisco , California in 1989 and has continued each year since as the annual CNS meeting . 
+No.2---> 3.0    2
+The early historical roots of the field can be traced to the work of people such as Louis Lapicque , Hodgkin & Huxley , Hubel & Wiesel , and David Marr , to name a few . 
+No.3---> 3.0    3
+Lapicque introduced the integrate and fire model of the neuron in a seminal article published in 1907 ; this model is still one of the most popular models in computational neuroscience for both cellular and neural networks studies , as well as in mathematical neuroscience because of its simplicity -LRB- see the recent review article for the centenary of Lapicque 's original paper -RRB- . 
+No.4---> 3.0    4
+David Marr 's work focused on the interactions between neurons , suggesting computational approaches to the study of how functional groups of neurons within the hippocampus and neocortex interact , store , process , and transmit information . 
+No.5---> 3.0    5
+Blue Brain , a project founded by Henry Markram from the Ã‰cole Polytechnique FÃ©dÃ©rale de Lausanne , aims to construct a biophysically detailed simulation of a cortical column on the Blue Gene supercomputer . 
+
+¡Ì4.How many voltage-sensitive currents did Hodgkin and Huxley 's original model only employed ? 
+No.1---> 0.0    0
+Computational neuroscience -LRB- also theoretical neuroscience -RRB- studies brain function in terms of the information processing properties of the structures that make up the nervous system . 
+No.2---> 0.0    1
+It is an interdisciplinary computational science that links the diverse fields of neuroscience , cognitive science , and psychology with electrical engineering , computer science , mathematics , and physics . 
+No.3---> 0.0    2
+Computational neuroscience is distinct from psychological connectionism and from learning theories of disciplines such as machine learning , neural networks , and computational learning theory in that it emphasizes descriptions of functional and biologically realistic neurons -LRB- and neural systems -RRB- and their physiology and dynamics . 
+No.4---> 0.0    3
+These models capture the essential features of the biological system at multiple spatial-temporal scales , from membrane currents , proteins , and chemical coupling to network oscillations , columnar and topographic architecture , and learning and memory . 
+No.5---> 0.0    4
+These computational models are used to frame hypotheses that can be directly tested by biological or psychological experiments .
+
+¡Á5.How do synapses form ? 
+No.1---> 0.0    0
+Computational neuroscience -LRB- also theoretical neuroscience -RRB- studies brain function in terms of the information processing properties of the structures that make up the nervous system . 
+No.2---> 0.0    1
+It is an interdisciplinary computational science that links the diverse fields of neuroscience , cognitive science , and psychology with electrical engineering , computer science , mathematics , and physics . 
+No.3---> 0.0    2
+Computational neuroscience is distinct from psychological connectionism and from learning theories of disciplines such as machine learning , neural networks , and computational learning theory in that it emphasizes descriptions of functional and biologically realistic neurons -LRB- and neural systems -RRB- and their physiology and dynamics . 
+No.4---> 0.0    3
+These models capture the essential features of the biological system at multiple spatial-temporal scales , from membrane currents , proteins , and chemical coupling to network oscillations , columnar and topographic architecture , and learning and memory . 
+No.5---> 0.0    4
+These computational models are used to frame hypotheses that can be directly tested by biological or psychological experiments .  
+
+¡Á6.Which gives rise to the population model of neural networks ? 
+No.1---> 0.0	9
+The early historical roots of the field can be traced to the work of people such as Louis Lapicque , Hodgkin & Huxley , Hubel & Wiesel , and David Marr , to name a few . 
+No.2---> 0.0	14
+Computational modeling of biophysically realistic neurons and dendrites began with the work of Wilfrid Rall , with the first multicompartmental model using cable theory . 
+No.3---> 0.0	17
+Even single neurons have complex biophysical characteristics and can perform computations -LRB- e.g. Hodgkin and Huxley 's original model only employed two voltage-sensitive currents -LRB- Voltage sensitive ion channels are glycoprotein molecules which extend through the lipid bilayer , allowing ions to traverse under certain conditions through the axolemma -RRB- , the fast-acting sodium and the inward-rectifying potassium . 
+No.4---> 0.0	20
+The computational functions of complex dendrites are also under intense investigation . 
+No.5---> 0.0	22
+Some models are also tracking biochemical pathways at very small scales such as spines or synaptic clefts . 
+
+¡Ì7.What is the abbreviation of the Computational Representational Understanding of Mind ? 
+No.1---> 1.0    19Who is the professor of computer science and artificial intelligence at the English University of Sussex ? 
+
+No.1---> 2.0    1
+The first open international meeting focused on Computational Neuroscience was organized by James M. Bower and John Miller in San Francisco , California in 1989 and has continued each year since as the annual CNS meeting . 
+No.2---> 2.0    2
+Lapicque introduced the integrate and fire model of the neuron in a seminal article published in 1907 ; this model is still one of the most popular models in computational neuroscience for both cellular and neural networks studies , as well as in mathematical neuroscience because of its simplicity -LRB- see the recent review article for the centenary of Lapicque 's original paper -RRB- . 
+No.3---> 3.0    3
+David Marr 's work focused on the interactions between neurons , suggesting computational approaches to the study of how functional groups of neurons within the hippocampus and neocortex interact , store , process , and transmit information . 
+No.4---> 3.0    5
+Francis Crick and Christof Koch made some attempts to formulate a consistent framework for future work in neural correlates of consciousness -LRB- NCC -RRB- , though much of the work in this field remains speculative . 
+No.5---> 3.5    4
+Somewhat similar to the minimal wiring hypothesis described in the preceding section , Barlow understood the processing of the early sensory systems to be a form of efficient coding , where the neurons encoded information which minimized the number of spikes . 
+Blue Brain , a project founded by Henry Markram from the Ã‰cole Polytechnique FÃ©dÃ©rale de Lausanne , aims to construct a biophysically detailed simulation of a cortical column on the Blue Gene supercomputer . 
+No.2---> 1.0    38
+The brain seems to be able to discriminate and adapt particularly well in certain contexts . 
+No.3---> 1.0    42
+These are the bases for some quantitative modeling of large-scale brain activity . 
+No.4---> 1.0    45
+Francis Crick and Christof Koch made some attempts to formulate a consistent framework for future work in neural correlates of consciousness -LRB- NCC -RRB- , though much of the work in this field remains speculative . 
+No.5---> 1.333  43
+The Computational Representational Understanding of Mind -LRB- CRUM -RRB- is another attempt at modeling human cognition through simulated processes like acquired rule-based systems in decision making and the manipulation of visual representations in decision making . 
+
+¡Á8.Who is the professor of computer science and artificial intelligence at the English University of Sussex ? 
+No.1---> 2.0    1
+The first open international meeting focused on Computational Neuroscience was organized by James M. Bower and John Miller in San Francisco , California in 1989 and has continued each year since as the annual CNS meeting . 
+No.2---> 2.0    2
+Lapicque introduced the integrate and fire model of the neuron in a seminal article published in 1907 ; this model is still one of the most popular models in computational neuroscience for both cellular and neural networks studies , as well as in mathematical neuroscience because of its simplicity -LRB- see the recent review article for the centenary of Lapicque 's original paper -RRB- . 
+No.3---> 3.0    3
+David Marr 's work focused on the interactions between neurons , suggesting computational approaches to the study of how functional groups of neurons within the hippocampus and neocortex interact , store , process , and transmit information . 
+No.4---> 3.0    5
+Francis Crick and Christof Koch made some attempts to formulate a consistent framework for future work in neural correlates of consciousness -LRB- NCC -RRB- , though much of the work in this field remains speculative . 
+No.5---> 3.5    4
+Somewhat similar to the minimal wiring hypothesis described in the preceding section , Barlow understood the processing of the early sensory systems to be a form of efficient coding , where the neurons encoded information which minimized the number of spikes . 

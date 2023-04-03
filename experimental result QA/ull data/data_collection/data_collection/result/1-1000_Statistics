@@ -1,0 +1,36 @@
+Artificial_intelligence	9
+{date=2, reason=2, money=1, person=1, name=2, definition=2}
+{date=1 0, reason=0 2, money=0 1, person=0 1, name=0 2, definition=1 1}
+
+Dartmouth_Conferences	5
+{date=5, number=1, person=2, definition=1, location=1}
+{date=3 1, number=1 0}
+
+20Q	4
+{date=1, nnp=1, reason=2, person=1, definition=2}
+{date=0 1, reason=0 2, definition=0 1}
+
+Computer_Arimaa	7
+{date=2, number=2, reason=1, price=1, person=1, definition=1, manner=2}
+{date=1 0, number=0 2, reason=0 1, person=1 0, manner=1 1}
+
+Fronto-cerebellar_dissociation	3
+{reason=1, definition=3, manner=1}
+{reason=1 0, definition=1 0, manner=1 0}
+
+BabelNet	4
+{nnp=1, number=2, definition=1, manner=1}
+{nnp=1 0, number=1 1, manner=1 0}
+
+Sepiapterin_reductase_deficiency	2
+{reason=1, name=2, definition=2}
+{reason=0 1, name=1 0}
+
+Bremermann's_limitx	4
+{nnp=1, reason=1, number=2, name=1, definition=2}
+{reason=1 0, number=1 1, definition=1 0}
+
+Oil_depletion	2
+{reason=1, name=2, definition=2}
+{reason=0 1, name=0 1}
+

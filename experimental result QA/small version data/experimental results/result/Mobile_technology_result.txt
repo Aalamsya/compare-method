@@ -1,0 +1,47 @@
+¡Ì1.What is the mobile technology used for ? 
+No.1---> 1.0    0
+Mobile technology is the technology used for cellular communication . 
+No.2---> 1.0    1
+Mobile code division multiple access -LRB- CDMA -RRB- technology has evolved rapidly over the past few years . 
+No.3---> 3.0    3
+Mobile computing by way of tablet computers are becoming more popular . 
+No.4---> 3.0    14
+If wireless vendors do not realize these differences and bandwidth limits , future wireless customers will find themselves disappointed and the market may suffer setback The next generation of smartphones are going to be context-aware , taking advantage of the growing availability of embedded physical sensors and data exchange abilities . 
+No.5---> 3.0    15
+One of the main features applying to this is that the phones will start keeping track of your personal data , but adapt to anticipate the information you will need based on your intentions . 
+
+¡Ì2.What is the abbreviation of the Open Systems Interconnection ? 
+No.1---> 0.0    9
+Many types of mobile operating systems -LRB- OS -RRB- are available for smartphones , including : Android , BlackBerry OS , webOS , iOS , Symbian , Windows Mobile Professional -LRB- touch screen -RRB- , Windows Mobile Standard -LRB- non-touch screen -RRB- , and Bada . 
+No.2---> 1.5    7
+Recent study has indicated that traditional multilayer network architecture based on the Open Systems Interconnection -LRB- OSI -RRB- model may not be well suited for 4G mobile network , where transactions of short packets will be the major part of the traffic in the channels . 
+No.3---> 2.0    4
+Tablets are available on the 3G and 4G networks . 
+No.4---> 2.0    5
+One of the most important features in the 4G mobile networks is the domination of high-speed packet transmissions or burst traffic in the channels . 
+No.5---> 2.0    6
+The same codes used in the 2G-3G networks are applied to 4G mobile or wireless networks , the detection of very short bursts will be a serious problem due to their very poor partial correlation properties . 
+
+¡Ì3.What types of mobile OS are available for smartphones ? 
+No.1---> 0.0    14
+The Windows Mobile Professional Smartphones -LRB- Pocket PC or Windows Mobile PDA -RRB- are like that of a personal digital assistant -LRB- PDA -RRB- and have touchscreen abilities . 
+No.2---> 2.0    17
+If wireless vendors do not realize these differences and bandwidth limits , future wireless customers will find themselves disappointed and the market may suffer setback The next generation of smartphones are going to be context-aware , taking advantage of the growing availability of embedded physical sensors and data exchange abilities . 
+No.3---> 2.5    4
+Mobile computing by way of tablet computers are becoming more popular . 
+No.4---> 3.0    0
+Mobile technology is the technology used for cellular communication . 
+No.5---> 3.0    1
+Mobile code division multiple access -LRB- CDMA -RRB- technology has evolved rapidly over the past few years .
+
+¡Á4.Why users will be unable to do huge file transfers ? 
+No.1---> 0.0    0
+Mobile technology is the technology used for cellular communication . 
+No.2---> 0.0    1
+Mobile code division multiple access -LRB- CDMA -RRB- technology has evolved rapidly over the past few years . 
+No.3---> 0.0    2
+Since the start of this millennium , a standard mobile device has gone from being no more than a simple two-way pager to being a mobile phone , GPS navigation device , an embedded web browser and instant messaging client , and a handheld game console . 
+No.4---> 0.0    3
+Many experts argue that the future of computer technology rests in mobile computing with wireless networking . 
+No.5---> 0.0    4
+Mobile computing by way of tablet computers are becoming more popular .  

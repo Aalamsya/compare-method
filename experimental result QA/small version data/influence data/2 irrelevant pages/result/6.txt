@@ -1,0 +1,306 @@
+√1.How can information systems prevent data loss or restore lost data ? 
+
+No.1---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+No.2---> 0.0	7
+Similarly , using a journaling file system and RAID storage only protect against certain types of software and hardware failure . 
+No.3---> 0.0	8
+For hard disk drives , which are a physical storage medium , ensuring minimal vibration and movement will help protect against damaging the components internally , as can maintaining a suitable drive temperature . 
+No.4---> 0.0	13
+File system corruption can frequently be repaired by the user or the system administrator . 
+No.5---> 0.0	14
+For example , a deleted file is typically not immediately overwritten on disk , but more often simply has its entry deleted from the file system index . 
+
+√2.What is data loss ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+√3.How is data loss distinguished from data unavailability ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+
+√4.What is the definition of regular data backups ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+×5.What can the frequency of data loss and the impact be greatly mitigated ? 
+
+No.1---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 0.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 0.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+×6.What are sometimes called ` hard science ' ? 
+
+No.1---> 3.25	18
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+No.2---> 3.333	0
+Data loss is an error condition in information systems in which information is destroyed by failures or neglect in storage , transmission , or processing . 
+No.3---> 3.333	1
+Information systems implement backup and disaster recovery equipment and processes to prevent data loss or restore lost data . 
+No.4---> 3.5	22
+This is because many operating systems create temporary files in order to boot , and these may overwrite areas of lost data -- rendering it unrecoverable . 
+No.5---> 4.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+
+×7.How many main branches can natural science be divided into ? 
+
+No.1---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+No.2---> 0.0	7
+Similarly , using a journaling file system and RAID storage only protect against certain types of software and hardware failure . 
+No.3---> 0.0	8
+For hard disk drives , which are a physical storage medium , ensuring minimal vibration and movement will help protect against damaging the components internally , as can maintaining a suitable drive temperature . 
+No.4---> 0.0	13
+File system corruption can frequently be repaired by the user or the system administrator . 
+No.5---> 0.0	14
+For example , a deleted file is typically not immediately overwritten on disk , but more often simply has its entry deleted from the file system index . 
+
+×8.Whose controversial falsifiability criterion helps differentiate scientific endeavors ? 
+
+No.1---> 0.0	0
+Data loss is an error condition in information systems in which information is destroyed by failures or neglect in storage , transmission , or processing . 
+No.2---> 0.0	1
+Information systems implement backup and disaster recovery equipment and processes to prevent data loss or restore lost data . 
+No.3---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.4---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.5---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+
+×9.When did biology became a unified science ? 
+
+No.1---> 3.5	0
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+
+×10.What is often called ` the central science ' ? 
+
+No.1---> 3.25	18
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+No.2---> 3.333	0
+Data loss is an error condition in information systems in which information is destroyed by failures or neglect in storage , transmission , or processing . 
+No.3---> 3.333	1
+Information systems implement backup and disaster recovery equipment and processes to prevent data loss or restore lost data . 
+No.4---> 3.5	22
+This is because many operating systems create temporary files in order to boot , and these may overwrite areas of lost data -- rendering it unrecoverable . 
+No.5---> 4.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+
+×11.Why is physics regarded as the fundamental science ? 
+
+No.1---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+No.2---> 0.0	7
+Similarly , using a journaling file system and RAID storage only protect against certain types of software and hardware failure . 
+No.3---> 0.0	8
+For hard disk drives , which are a physical storage medium , ensuring minimal vibration and movement will help protect against damaging the components internally , as can maintaining a suitable drive temperature . 
+No.4---> 0.0	13
+File system corruption can frequently be repaired by the user or the system administrator . 
+No.5---> 0.0	14
+For example , a deleted file is typically not immediately overwritten on disk , but more often simply has its entry deleted from the file system index . 
+
+×12.What is the scope of veterinary medicine ? 
+
+No.1---> 4.333	0
+Data loss is an error condition in information systems in which information is destroyed by failures or neglect in storage , transmission , or processing . 
+No.2---> 4.333	1
+Information systems implement backup and disaster recovery equipment and processes to prevent data loss or restore lost data . 
+No.3---> 4.5	9
+Service costs at data recovery labs are usually dependent on type of damage and type of storage medium , as well as the required security or cleanroom procedures . 
+No.4---> 4.5	18
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+No.5---> 4.5	22
+This is because many operating systems create temporary files in order to boot , and these may overwrite areas of lost data -- rendering it unrecoverable . 
+
+×13.Who is the first Buddhist Emperor of India ? 
+
+java.lang.ArrayIndexOutOfBoundsException: 0
+
+×14.When did farriers combined their work in horseshoeing with ` horse doctoring ' ? 
+
+No.1---> 6.0	0
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+
+×15.What is the name of the first comprehensive treatise on the anatomy of a nonhuman species ? 
+
+No.1---> 4.5	0
+Data loss is an error condition in information systems in which information is destroyed by failures or neglect in storage , transmission , or processing . 
+No.2---> 4.5	1
+Information systems implement backup and disaster recovery equipment and processes to prevent data loss or restore lost data . 
+Adding annotator tokenize
+No.3---> 4.5	22
+This is because many operating systems create temporary files in order to boot , and these may overwrite areas of lost data -- rendering it unrecoverable . 
+No.4---> 4.833	14
+An effective backup strategy must also consider the cost of maintaining the ability to recover lost data for long periods of time . 
+No.5---> 4.875	18
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+
+×16.What is the computer science study of ? 
+
+No.1---> 2.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 2.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 2.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 2.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 2.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+×17.When did Gottfried Leibniz demonstrate a digital mechanical calculator ? 
+
+No.1---> 0.0	0
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+
+×18.Who launched the mechanical calculator industry in 1820 ? 
+
+java.lang.ArrayIndexOutOfBoundsException: 0
+
+×19.When did computer science began to be established as a distinct academic discipline ? 
+
+No.1---> 4.0	0
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+
+×20.What branch is synthetic biology from ? 
+
+No.1---> 3.5	22
+This is because many operating systems create temporary files in order to boot , and these may overwrite areas of lost data -- rendering it unrecoverable . 
+No.2---> 3.667	0
+Data loss is an error condition in information systems in which information is destroyed by failures or neglect in storage , transmission , or processing . 
+No.3---> 3.667	1
+Information systems implement backup and disaster recovery equipment and processes to prevent data loss or restore lost data . 
+No.4---> 3.75	18
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+No.5---> 4.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+
+×21.Who portrayed synthetic biology as a new emerging scientific field where ICT ? 
+
+java.lang.ArrayIndexOutOfBoundsException: 0
+
+×22.What is the purpose of synthetic biology ? 
+
+No.1---> 3.5	22
+This is because many operating systems create temporary files in order to boot , and these may overwrite areas of lost data -- rendering it unrecoverable . 
+No.2---> 3.667	0
+Data loss is an error condition in information systems in which information is destroyed by failures or neglect in storage , transmission , or processing . 
+No.3---> 3.667	1
+Information systems implement backup and disaster recovery equipment and processes to prevent data loss or restore lost data . 
+No.4---> 3.75	18
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+No.5---> 4.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+
+×23.When did George M. Church encoded one of his books about synthetic biology in DNA ? 
+
+No.1---> 3.75	0
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+
+×24.How many times were able to exchange the bacteria in the culture media ? 
+
+No.1---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+No.2---> 0.0	7
+Similarly , using a journaling file system and RAID storage only protect against certain types of software and hardware failure . 
+No.3---> 0.0	8
+For hard disk drives , which are a physical storage medium , ensuring minimal vibration and movement will help protect against damaging the components internally , as can maintaining a suitable drive temperature . 
+No.4---> 0.0	13
+File system corruption can frequently be repaired by the user or the system administrator . 
+No.5---> 0.0	14
+For example , a deleted file is typically not immediately overwritten on disk , but more often simply has its entry deleted from the file system index . 
+
+×25.What may be regarded as a branch of both psychology and musicology ? 
+
+No.1---> 3.75	16
+However , in most situations , there is an inverse correlation between the value of a unit of data and the length of time it takes to notice the loss of that data . 
+No.2---> 4.0	14
+An effective backup strategy must also consider the cost of maintaining the ability to recover lost data for long periods of time . 
+No.3---> 4.0	17
+Taking this into consideration , many backup strategies decrease the granularity of restorability as the time increases since the potential Data Loss Event . 
+No.4---> 4.0	18
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+No.5---> 4.0	23
+File operations such as copying , editing , or deleting should also be avoided . 
+
+×26.Whose establishment of the simple string length ratios that formed the consonances of the octave ? 
+
+No.1---> 0.0	6
+For example , multiple power circuits with battery backup and a generator only protect against power failures , though using an Uninterruptable Power Supply can protect your drive against sudden power spikes . 
+No.2---> 0.0	7
+Similarly , using a journaling file system and RAID storage only protect against certain types of software and hardware failure . 
+No.3---> 0.0	8
+For hard disk drives , which are a physical storage medium , ensuring minimal vibration and movement will help protect against damaging the components internally , as can maintaining a suitable drive temperature . 
+No.4---> 0.0	13
+File system corruption can frequently be repaired by the user or the system administrator . 
+No.5---> 0.0	14
+For example , a deleted file is typically not immediately overwritten on disk , but more often simply has its entry deleted from the file system index . 
+
+×27.When has music psychology expanded to cover a wide array of theoretical and applied areas ? 
+
+No.1---> 4.0	0
+By this logic , recovery from recent Data Loss Events is easier and more complete than recovery from Data Loss Events that happened further in the past . 
+
+×28.What is the abbreviation of functional magnetic resonance imaging ? 
+
+No.1---> 3.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.2---> 3.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.3---> 3.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+No.4---> 3.0	5
+The frequency of data loss and the impact can be greatly mitigated by taking proper precautions , those of which necessary can vary depending on the type of data loss . 
+No.5---> 3.0	6
+Regular data backups are an important asset to have when trying to recover after a data loss event , but they do not prevent user errors or system failures . 
+
+×29.How did researchers estimate the occurrence of AP to be ? 
+
+No.1---> 0.0	0
+Data loss is an error condition in information systems in which information is destroyed by failures or neglect in storage , transmission , or processing . 
+No.2---> 0.0	1
+Information systems implement backup and disaster recovery equipment and processes to prevent data loss or restore lost data . 
+No.3---> 0.0	2
+Data loss is distinguished from data unavailability , which may arise from a network outage . 
+No.4---> 0.0	3
+Although the two have substantially similar consequences for users , data unavailability is temporary , while data loss may be permanent . 
+No.5---> 0.0	4
+Data loss is also distinct from data breach , an incident where data falls into the wrong hands , although the term data loss has been used in those incidents . 
+
+×30.Who speculated that music may have held an adaptive advantage and functioned as a protolanguage ? 
+
+java.lang.ArrayIndexOutOfBoundsException: 0

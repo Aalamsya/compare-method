@@ -1,0 +1,340 @@
+Centrifugal_governor	4
+{nnp=1, reason=2, person=1, name=1, time=1, manner=2, definiton=2}
+{reason=1 1, manner=0 1, definiton=1 0}
+
+Luria_Neuroscience_Institute	3
+{reason=1, person=1, organization=2, location=1, time=1, definiton=1}
+{reason=1 0, organization=1 0, time=1 0}
+
+Systems_analysis	9
+{number=1, name=3, location=2, manner=1, definiton=3}
+{number=0 1, name=3 0, location=0 2, definiton=1 2}
+
+Mark_Stephen_Meadows	7
+{number=1, person=2, name=1, location=3, time=3}
+{number=0 1, person=1 0, name=0 1, location=2 0, time=2 0}
+
+Modularity_of_mind	7
+{reason=3, person=3, name=2, time=1, definiton=1}
+{reason=2 0, person=2 0, name=1 0, time=1 0, reason×=0 1}
+
+Global_Alliance_for_Peace_and_Prosperity	2
+{date=1, person=1, organization=1, name=1, location=1, time=2, definiton=1}
+{date=1 0, organization=1 0}
+
+Maximally_informative_dimensions	6
+{nnp=1, reason=2, person=1, time=1, manner=2, definiton=2}
+{reason=0 2, manner=2 0, definiton=2 0}
+
+Nonperson	5
+{nnp=1, reason=2, number=1, person=2, manner=1, definiton=3}
+{reason=2 0, number=0 1, manner=0 1, definiton=0 1}
+
+Surface_wave_detection_by_animals	6
+{reason=3, nnp=1, person=1, name=2, location=1, definiton=2}
+{reason=0 3, person=1 0, name=2 0}
+
+Thought_leader	5
+{nnp=1, reason=1, person=4, organization=1, name=1, time=1, definiton=1}
+{nnp=1 0, reason=1 0, persons=1 0, person=1 0, time=1 0}
+
+Stereopsis_recovery	3
+{nnp=1, reason=1, person=3, name=1, manner=1, time=1, definiton=2}
+{reason=0 1, person=2 0}
+
+Recursive_neural_network	2
+{nnp=2, name=2, location=1, manner=1, time=2, definiton=2}
+{manner=0 1, definiton=1 0}
+
+Theory_of_multiple_intelligences	7
+{number=1, nnp=1, reason=1, person=3, name=2, definiton=2}
+{number=0 1, nnp=1 0, reason=0 1, person=1 1, definiton=0 2}
+
+Computational-representational_understanding_of_mind	3
+{person=1, name=2, definiton=2}
+{name=2 0, definiton=1 0}
+
+DISC1	10
+{nnp=1, number=3, time=2, definiton=4}
+{nnp=0 1, number=3 0, time=2 0, definiton=2 2}
+
+Club_of_Rome	7
+{number=1, person=3, organization=1, name=2, location=1, time=1, definiton=1}
+{number=0 1, person=2 0, organization=1 0, name=1 0, location=1 0, time=1 0}
+
+Sensemaking	5
+{person=2, name=1, time=3, definiton=2}
+{person=2 0, time=3 0}
+
+Epistemic_modal_logic	7
+{nnp=1, reason=1, number=1, person=1, time=1, manner=3, definiton=2}
+{nnp=1 0, reason=0 1, number=0 1, time=1 0, manner=0 2, definiton=1 0}
+
+User_(computing)	4
+{nnp=2, reason=1, person=2, name=3, definiton=1}
+{nnp=1 0, reason=0 1, person=0 1, definiton=1 0}
+
+Postgenderism	6
+{nnp=1, reason=2, person=3, manner=1, time=1, definiton=2}
+{reason=0 2, person=0 2, manner=1 0, definiton=1 0}
+
+Anti-Hebbian_learning	7
+{nnp=2, reason=3, name=2, manner=1, definiton=2}
+{nnp=0 1, reason=2 1, name=1 0, manner=0 1, definiton=1 0}
+
+Virtual_assistant	5
+{nnp=1, number=2, reason=1, name=3, location=1, time=2}
+{number=0 2, reason=0 1, name=1 0, location=1 0}
+
+Scenario_analysis	8
+{reason=5, number=1, organization=1, name=1, definiton=2}
+{reason=0 5, number=0 1, name=1 0, definiton=1 0}
+
+Control_theory	7
+{reason=2, nnp=1, person=1, name=1, time=3, definiton=2}
+{reason=1 1, name=1 0, time=3 0, definiton=1 0}
+
+Neurological_reparative_therapy	4
+{nnp=1, reason=2, number=1, person=2, name=1, definiton=3}
+{nnp=1 0, reason=2 0, number=0 1}
+
+Control_reconfiguration	6
+{reason=2, name=2, manner=3, definiton=3}
+{reason=1 1, name=1 0, manner=0 1, definiton=2 0}
+
+Cognitive_Sociology	6
+{nnp=1, reason=1, number=1, person=2, name=1, location=1, time=1, definiton=2}
+{nnp=1 0, reason=0 1, number=0 1, person=1 0, name=1 0, time=1 0}
+
+Video-oculography	3
+{name=2, manner=2, definiton=2}
+{name=1 0, definiton=2 0}
+
+Applications_of_artificial_intelligence_to_legal_informatics	7
+{nnp=1, reason=1, person=2, name=1, location=2, time=1, definiton=2}
+{nnp=0 1, reason=0 1, person=2 0, name=1 0, time=1 0, definiton=0 1}
+
+Eye_movement_in_scene_viewing	6
+{reason=2, number=1, person=1, name=1, definiton=3}
+{reason=0 2, number=0 1, person=0 1, definiton=1 1}
+
+Visual_perception	7
+{nnp=2, number=2, reason=1, name=1, definiton=4}
+{nnp=1 0, number=0 2, reason=0 1, definiton=1 2}
+
+Spike-triggered_average	5
+{nnp=1, reason=3, name=1, manner=2, definiton=3}
+{reason=1 2, manner=0 1, definiton=0 1}
+
+Intelligent_decision_support_system	3
+{name=3, time=1, definiton=1}
+{name=2 0, definiton=0 1}
+
+Cerebellar_Model_Articulation_Controller	6
+{nnp=1, reason=4, person=1, name=1, time=1, manner=1, definiton=1}
+{nnp=1 0, reason=1 3, definiton=0 1}
+
+International_Society_for_NeuroVirology	5
+{number=1, person=1, organization=1, name=2, location=1, time=2, manner=1, definiton=1}
+{number=0 1, organization=1 0, name=0 1, manner=0 1, definiton=1 0}
+
+Neuroepidemiology	1
+{nnp=1, person=1, organization=1, name=1, location=1, time=3, definiton=2}
+{organization=0 1}
+
+Macropsia	5
+{nnp=2, reason=3, person=1, name=1, definiton=3}
+{reason=0 3, person=0 1, definiton=1 0}
+
+AgentSheets	7
+{nnp=1, reason=2, number=2, name=2, location=1, definiton=2}
+{nnp=1 0, reason=0 2, number=1 1, definiton=0 2}
+
+Cittabhumi	7
+{nnp=1, number=1, reason=1, person=1, name=2, definiton=3}
+{number=1 0, reason=0 1, person=0 1, name=1 0, definiton=1 2}
+
+Ernesto_Morgado	5
+{number=1, person=3, location=1, time=4}
+{number=0 1, person=1 0, time=2 1}
+
+Personhood	8
+{nnp=1, reason=3, person=4, definiton=2}
+{nnp=1 0, reason=0 3, person=1 2, definiton=1 0}
+
+Self-management_(computer_science)	4
+{nnp=1, number=1, name=2, manner=1, time=1, definiton=2}
+{number=0 1, manner=1 0, time=1 0, definiton=1 0}
+
+Cognitive_infocommunications	8
+{number=1, nnp=3, name=2, definiton=3}
+{number=1 0, nnp=2 1, name=1 0, definiton=2 1}
+
+American_Society_for_Neurochemistry	4
+{date=1, number=1, person=4, organization=1, location=1, time=1, definiton=1}
+{number=0 1, organization=1 0, location=1 0, definiton=1 0}
+
+Physics_of_the_Future	9
+{number=2, nnp=1, reason=2, person=4, definiton=1}
+{number=0 2, nnp=0 1, reason=0 2, person=2 1, definiton=0 1}
+
+World_Futures_Studies_Federation	3
+{person=1, organization=1, location=1, time=2}
+{organization=1 0, time=2 0}
+
+Language_Acquisition_Device_(computer)	2
+{person=2, name=1, definiton=2}
+{name=1 0, definiton=1 0}
+
+Multiple_realizability	4
+{nnp=2, reason=2, person=3, time=1, definiton=2}
+{reason=0 2, definiton=2 0}
+
+Intelligent_agent	4
+{nnp=1, reason=3, name=3, manner=1, definiton=2}
+{reason=1 2, manner=1 0}
+
+Interaction_theory	7
+{nnp=2, reason=3, person=3, manner=1, definiton=1}
+{nnp=1 0, reason=1 2, person=0 1, manner=1 0, definiton=1 0}
+
+Genes_to_Cognition_Project	6
+{nnp=2, number=2, name=2, definiton=2}
+{nnp=1 0, number=2 0, name=1 0, definiton=1 1}
+
+Kaya_identity	10
+{nnp=1, number=1, reason=2, person=1, location=1, time=1, definiton=3}
+{nnp=1 0, number=0 1, reason=2 0, person=1 0, location=0 1, time=1 0, definiton=2 1}
+
+ASR-complete	3
+{nnp=2, reason=2, name=1}
+{reason=2 0, name=1 0}
+
+Jerry_Fodor	5
+{date=1, reason=2, person=3, location=1, time=1, definiton=1}
+{reason=0 2, person=2 0, time=1 0}
+
+Delphi_method	5
+{reason=1, nnp=1, person=1, name=1, manner=3, time=1, definiton=2}
+{reason=1 0, person=0 1, name=1 0, manner=1 1}
+
+Potential_person	7
+{nnp=1, reason=4, person=2, name=1, time=1, definiton=1}
+{nnp=1 0, reason=1 3, person=1 0, time=1 0}
+
+High-_and_low-level	6
+{reason=2, number=1, nnp=1, name=1, manner=1, definiton=2}
+{reason=0 2, number=1 0, nnp=1 0, definiton=2 0}
+
+OpenCog	4
+{nnp=1, number=1, name=1, manner=1, time=1, definiton=1}
+{number=1 0, definiton =1 0, manner=1 0, time=1 0}
+
+Central_pattern_generator	8
+{nnp=1, number=2, reason=2, person=1, manner=2, time=1, definiton=1}
+{number=0 2, reason=0 2, person=0 1, manner=1 0, time=1 0, definiton=1 0}
+
+Figments_of_Reality	4
+{person=3, name=1, definiton=1}
+{person=2 0, name=0 1, definiton=1 0}
+
+Collective_intelligence	9
+{nnp=1, reason=2, person=3, name=1, definition=2, time=1}
+{nnp=1 0, reason=0 2, person=0 3, name=1 0, definition=2 0}
+
+Cross_modal_plasticity	7
+{nnp=1, reason=4, definition=4, manner=1}
+{reason=0 4, definition=1 1, manner=1 0}
+
+Mindpixel	3
+{date=1, person=3, name=2, definition=1, time=1}
+{date=1 0, person=1 0, definition=1 0}
+
+Neurovirology	4
+{nnp=1, number=1, person=3, definition=1, time=3, manner=1}
+{number=0 1, person=2 0, definition=0 1}
+
+Hybrid_intelligent_system	4
+{reason=1, person=1, organization=1, name=2, definition=2}
+{reason=1 0, name=0 1, definition=1 1}
+
+Synaptic_scaling	4
+{nnp=3, reason=1, number=1, name=2, definition=2, manner=1}
+{reason=0 1, number=0 1, definition=1 0, manner=0 1}
+
+Dissociation_(neuropsychology)	5
+{reason=1, nnp=1, person=3, name=2, definition=1, manner=1}
+{reason=0 1, person=2 0, definition=1 0, manner=0 1}
+
+Neuropoiesis	7
+{nnp=1, person=2, definition=3, time=2, manner=1}
+{person=1 1, definition=1 1, time=2 0, manner=0 1}
+
+Neurotransmitter	8
+{nnp=1, reason=1, person=2, name=1, definition=2, manner=1, time=1, definiton=1}
+{nnp=1 0, reason=0 1, person=2 0, name=0 1, definition=1 0, manner=1 0, time=1 0}
+
+Information_revolution	9
+{reason=1, person=4, definition=3, time=2}
+{reason=1 0, person=3 0, definition=3 0, time=0 2}
+
+Withdrawal_reflex	2
+{nnp=1, number=1, name=2, definiton=2}
+{number=0 1, definiton=1 0}
+
+Computer_audition	6
+{nnp=1, reason=4, person=1, name=1, definiton=2}
+{reason=2 2, name=1 0, definiton=1 0}
+
+Heterosynaptic_plasticity	4
+{nnp=2, reason=3, name=2, time=1, definiton=2}
+{reason=1 2, time=1 0}
+
+Cutaneous_rabbit_illusion	4
+{nnp=2, number=1, person=2, manner=2, time=1, definiton=2}
+{number=0 1, person=1 0, time=1 0, manner=0 1}
+
+Neuroscience_and_race	6
+{reason=2, number=1, nnp=1, name=2, manner=1, definiton=3}
+{reason=0 2, number=0 1, nnp=1 0, name=0 1, definiton=0 1}
+
+Steady_state_topography	8
+{nnp=2, reason=1, manner=3, time=1, definiton=3}
+{reason=0 1, manner=2 1, time=1 0, definiton=3 0}
+
+Preferential_looking	2
+{number=1, person=2, manner=1, definiton=1}
+{number=0 1, definiton=1 0}
+
+Tegmentum	2
+{nnp=2, reason=1, name=1, definiton=1}
+{reason=0 1, definiton=1 0}
+
+Grandmother_cell	5
+{nnp=1, reason=3, person=2, name=1, time=1, definiton=2}
+{reason=2 1, person=0 1, definiton=1 0}
+
+Dysgenics	8
+{nnp=2, reason=1, number=1, person=5, definiton=1}
+{reason=0 1, number=0 1, person=4 1, definiton=1 0}
+
+Open_system_(systems_theory)	5
+{reason=2, nnp=1, person=2, name=2, definiton=1}
+{reason=0 2, person=2 0, name=1 0}
+
+Mechanisms_of_mindfulness_meditation	7
+{reason=3, number=1, name=2, manner=1, definiton=3}
+{reason=0 3, number=0 1, name=1 0, manner=1 0, definiton=1 0}
+
+Neuromarketing	7
+{nnp=1, person=4, time=3, definiton=2}
+{person=4 0, time=3 0}
+
+Psychiatry	8
+{nnp=1, reason=2, number=1, person=1, time=2, manner=1, definiton=2}
+{nnp=1 0, reason=0 2, number=0 1, definiton =1 0, person=1 0, time=1 0, definiton=1 0}
+
+Self-organization	10
+{reason=1, person=3, organization=1, name=2, manner=1, time=2}
+{reason=1 0, person=2 1, organization=0 1, name=2 0, manner=0 1, time=2 0}
+

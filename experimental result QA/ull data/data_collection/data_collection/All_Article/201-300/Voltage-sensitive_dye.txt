@@ -1,0 +1,32 @@
+Voltage-sensitive dyes, also known as potentiometric dyes, are dyes which change their spectral properties in response to voltage changes. They are able to provide linear measurements of firing activity of single neurons, large neuronal populations or activity of myocytes. Many physiological processes are accompanied by changes in cell membrane potential which can be detected with voltage sensitive dyes. Measurements may indicate the site of action potential origin, and measurements of action potential velocity and direction may be obtained.
+
+Potentiometric dyes are used to monitor the electrical activity inside cell organelles where it is not possible to insert an electrode, such as the mitochondria. This technology is especially powerful for the study of patterns of activity in complex multicellular preparations. It also makes possible the measurement of spatial and temporal variations in membrane potential along the surface of single cells. 
+
+Fast-response probes: These are amphiphilic membrane staining dyes which usually have a pair of hydrocarbon chains acting as membrane anchors and a hydrophilic group which aligns the chromophore perpendicular to the membrane/aqueous interface. The chromophore is believed to undergo a large electronic charge shift as a result of excitation from the ground to the excited state and this underlies the putative electrochromic mechanism for the sensitivity of these dyes to membrane potential. This molecule (dye) intercalates among the lipophilic part of biological membranes. This orientation assures that the excitation induced charge redistribution will occur parallel to the electric field within the membrane. A change in the voltage across the membrane will therefore cause a spectral shift resulting from a direct interaction between the field and the ground and excited state dipole moments.
+
+New voltage dyes can sense voltage with high speed and sensitivity using photoinduced electron transfer (PeT) through a conjugated molecular wire.
+
+Slow-response probes: These exhibit potential-dependent changes in their transmembrane distribution which are accompanied by a fluoresence change. Typical slow-response probes include cationic carbocyanines and rhodamines, and ionic oxonols.
+
+
+Commonly used voltage sensitive dyes are substituted aminonaphthylethenylpyridinium (ANEP) dyes, such as di-4-ANEPPS, di-8-ANEPPS, and RH237. Depending on their chemical modifications which change their physical properties they are used for different experimental procedures.[3] They were first described in 1985 by the research group of Leslie Loew.[4] ANNINE-6plus is the latest voltage sensitive dye with fast response (ns response time) and high voltage sensitivity. It has been applied to measure the action potentials of a single t-tubule of cardiomyocytes by Guixue Bu et al. A recent computational study confirmed that the ANEP dyes are affected only by the electrostatic environment and not by specific molecular interactions.
+
+The core material for imaging brain activity with voltage-sensitive dyes are the dyes themselves. These voltage-sensitive dyes are lipophilic and preferably localized in membranes with their hydrophobic tails. They are used in applications involving fluorescence or absorption; they are fast acting and are able to provide linear measurements of changes in membrane potential.
+
+A variety of specialized equipment may be used in conjunction with the dyes, and choices in equipment will vary according to the particularities of a preparation. Essentially, equipment will include specialized microscopes and imaging devices, and may include technical lamps or lasers.
+
+Strengths of imaging brain activity with voltage-sensitive dyes include the following abilities:
+
+    Measurement of population signals from many areas may be taken simultaneously, and hundreds of neurons may be recorded from. Such multisite recordings may provide precise information on action potential initiation and propagation (including direction and velocity), and on the entire branching structure of a neuron.
+    Measurements of spike activity in a ganglion that is producing behaviour can be taken and may provide information about how the behaviour is producing.
+    In certain preparations the pharmacological effects of the dyes may be completely reversed by removing the staining pipette and allowing the neuron 1–2 hours for recovery.
+    Dyes may be used to analyze signal integration in terminal dendritic branches. Voltage-sensitive dyes offer the only alternative to genetically encoded voltage sensitive proteins (such as Ci-VSP derived proteins) for doing this.
+
+Weaknesses of imaging brain activity with voltage-sensitive dyes include the following problems:
+
+    Voltage-sensitive dyes may respond very differently from one preparation to another; typically tens of dyes must be tested in order to obtain an optimal signal., imaging parameters, such as excitation wavelength, emission wavelength, exposure time, should also be optimized
+    Voltage-sensitive dyes often fail to penetrate through connective tissue or move through intracellular spaces to the region of membrane desired for study. Staining is a serious issue in applications of these dyes. Water-soluble dyes, such as ANNINE-6plus, do not suffer this problem.
+    Noise is a problem in all preparations with voltage-sensitive dyes and in certain preparations the signal may be significantly obscured. Signal to noise ratios can be improved with spatial filtering or temporal filtering algorithms. Many such algorithms exist; one signal processing algorithm can be found in recent work with the ANNINE-6plus dye.
+    Cells may be permanently affected by treatments. Lasting pharmacological effects are possible, and the photodynamics of the dyes can be damaging.
+
+Voltage-sensitive dyes have been used to measure neural activity in several areas of the nervous system in a variety of organisms, including the squid giant axon, whisker barrels of the rat somatosensory cortex, olfactory bulb of the salamander, visual cortex of the cat, optic tectum of the frog, and the visual cortex of the rhesus monkey.

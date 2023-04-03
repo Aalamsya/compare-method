@@ -1,0 +1,119 @@
+¡Ì1.Which is considered a ` social science ' ? 
+No.1---> 0.0    1
+It in turn has many branches , each of which is considered a `` social science '' . 
+No.2---> 0.0    8
+In modern academic practice , researchers are often eclectic , using multiple methodologies -LRB- for instance , by combining the quantitative and qualitative researchs -RRB- . 
+No.3---> 0.0    15
+The modern period saw `` social science '' first used as a distinct conceptual field . 
+No.4---> 0.0    25
+In this route , theory -LRB- description -RRB- and prescription were non-overlapping formal discussions of a subject . 
+No.5---> 0.0    33
+Statistical methods were used confidently . 
+
+¡Ì2.When did the original ` science of society ' established ? 
+No.1---> 1.333  0
+The term is also sometimes used to refer specifically to the field of sociology , the original ` science of society ' , established in the 19th century . 
+No.2---> 1.5    2
+The beginnings of the social sciences in the 18th century are reflected in the grand encyclopedia of Diderot , with articles from Jean-Jacques Rousseau and other pioneers . 
+No.3---> 1.5    9
+In the twentieth century , academic disciplines have often been institutionally divided into three broad domains . 
+No.4---> 1.5    17
+The Social Science History Association , formed in 1976 , brings together scholars from numerous disciplines interested in social history . 
+No.5---> 1.5    24
+Additional applied or interdisciplinary fields related to the social sciences include : The origin of the survey can be traced back at least early as the Domesday Book in 1086 , while some scholars pinpoint the origin of demography to 1663 with the publication of John Graunt 's Natural and Political Observations upon the Bills of Mortality . 
+
+¡Á3.What can be found at Outline of social science ? 
+No.1---> 0.0    1
+It in turn has many branches , each of which is considered a `` social science '' . 
+No.2---> 0.0    14
+The modern period saw `` social science '' first used as a distinct conceptual field . 
+No.3---> 0.0    39
+Social science fields of study usually have several sub-disciplines or branches , and the distinguishing lines between these are often both arbitrary and ambiguous . 
+No.4---> 0.0    137
+Although some subfields encompass a natural science base and a social science application , others can be clearly distinguished as having little to do with the social sciences or having a lot to do with the social sciences . 
+No.5---> 0.0    141
+indicates a strong -LRB- or entire -RRB- scientific concentration , whereas a B.A. underlines a majority of social science credits . 
+
+¡Á4.Why the term social research has also acquired a degree of autonomy ? 
+No.1---> 0.0    8
+In modern academic practice , researchers are often eclectic , using multiple methodologies -LRB- for instance , by combining the quantitative and qualitative researchs -RRB- . 
+No.2---> 0.0    20
+Large statistical surveys were undertaken in various parts of the United States and Europe . 
+No.3---> 0.0    25
+In this route , theory -LRB- description -RRB- and prescription were non-overlapping formal discussions of a subject . 
+No.4---> 0.0    33
+Statistical methods were used confidently . 
+No.5---> 0.0    52
+It is an area that is offered at most undergraduate institutions . 
+
+¡Ì5.When did the history of the social sciences begins ? 
+No.1---> 0.5    2
+The beginnings of the social sciences in the 18th century are reflected in the grand encyclopedia of Diderot , with articles from Jean-Jacques Rousseau and other pioneers . 
+No.2---> 0.5    24
+Additional applied or interdisciplinary fields related to the social sciences include : The origin of the survey can be traced back at least early as the Domesday Book in 1086 , while some scholars pinpoint the origin of demography to 1663 with the publication of John Graunt 's Natural and Political Observations upon the Bills of Mortality . 
+No.3---> 1.0    8
+Around the start of the 21st century , the expanding domain of economics in the social sciences has been described as economic imperialism . 
+No.4---> 1.333  1
+The history of the social sciences begins in the Age of Enlightenment after 1650 , which saw a revolution within natural philosophy , changing the basic framework by which individuals understood what was `` scientific '' . 
+No.5---> 1.5    0
+The term is also sometimes used to refer specifically to the field of sociology , the original ` science of society ' , established in the 19th century . 
+
+¡Ì6.Who used the term ` science sociale ' to describe the field ? 
+No.1---> 1.5    1
+Auguste Comte used the term `` science sociale '' to describe the field , taken from the ideas of Charles Fourier ; Comte also referred to the field as social physics . 
+No.2---> 1.5    6
+The term `` social science '' may refer either to the specific sciences of society established by thinkers such as Comte , Durkheim , Marx , and Weber , or more generally to all disciplines outside of `` noble science '' and arts . 
+No.3---> 1.667  17
+Karl Marx rejected Comte 's positivism but nevertheless aimed to establish a science of society based on historical materialism , becoming recognized as a founding figure of sociology posthumously as the term gained broader meaning . 
+No.4---> 2.0    0
+The beginnings of the social sciences in the 18th century are reflected in the grand encyclopedia of Diderot , with articles from Jean-Jacques Rousseau and other pioneers . 
+No.5---> 2.0    2
+Another route undertaken was initiated by Ã‰mile Durkheim , studying `` social facts '' , and Vilfredo Pareto , opening metatheoretical ideas and individual theories . 
+
+¡Ì7.What are being integrated in the study of human action and its implications and consequences ? 
+No.1---> 1.0    20
+A third means developed , arising from the methodological dichotomy present , in which social phenomena were identified with and understood ; this was championed by figures such as Max Weber . 
+No.2---> 2.0    28
+Increasingly , quantitative research and qualitative methods are being integrated in the study of human action and its implications and consequences . 
+No.3---> 2.0    31
+Researchers continue to search for a unified consensus on what methodology might have the power and refinement to connect a proposed `` grand theory '' with the various midrange theories that , with considerable success , continue to provide usable frameworks for massive , growing data banks ; for more , see consilience . 
+No.4---> 2.0    44
+The social sciences have generally attempted to develop scientific methods to understand social phenomena in a generalizable way , though usually with methods distinct from those of the natural sciences . 
+No.5---> 2.0    50
+This means that , though anthropologists generally specialize in only one sub-field , they always keep in mind the biological , linguistic , historic and cultural aspects of any problem . 
+
+¡Ì8.When did statistics became a free-standing discipline of applied mathematics ? 
+No.1---> 1.5    5
+In the first half of the 20th century , statistics became a free-standing discipline of applied mathematics . 
+No.2---> 2.5    13
+Since the early part of the 20th century , economics has focused largely on measurable quantities , employing both theoretical models and empirical analysis . 
+No.3---> 2.75   8
+Around the start of the 21st century , the expanding domain of economics in the social sciences has been described as economic imperialism . 
+No.4---> 3.0    2
+The beginnings of the social sciences in the 18th century are reflected in the grand encyclopedia of Diderot , with articles from Jean-Jacques Rousseau and other pioneers . 
+No.5---> 3.0    9
+In the twentieth century , academic disciplines have often been institutionally divided into three broad domains . 
+
+¡Á9.What is a science of the totality of human existence ? 
+No.1---> 0.0    1
+It in turn has many branches , each of which is considered a `` social science '' . 
+No.2---> 0.0    14
+The modern period saw `` social science '' first used as a distinct conceptual field . 
+No.3---> 0.0    39
+Social science fields of study usually have several sub-disciplines or branches , and the distinguishing lines between these are often both arbitrary and ambiguous . 
+No.4---> 0.0    137
+Although some subfields encompass a natural science base and a social science application , others can be clearly distinguished as having little to do with the social sciences or having a lot to do with the social sciences . 
+No.5---> 0.0    141
+indicates a strong -LRB- or entire -RRB- scientific concentration , whereas a B.A. underlines a majority of social science credits . 
+
+¡Ì10.How many broad domains did academic disciplines have often been institutionally divided into in the twentieth century ? 
+No.1---> 0.0    8
+In modern academic practice , researchers are often eclectic , using multiple methodologies -LRB- for instance , by combining the quantitative and qualitative researchs -RRB- . 
+No.2---> 0.0    25
+In this route , theory -LRB- description -RRB- and prescription were non-overlapping formal discussions of a subject . 
+No.3---> 0.0    33
+Statistical methods were used confidently . 
+No.4---> 0.0    45
+In the twentieth century , academic disciplines have often been institutionally divided into three broad domains . 
+No.5---> 0.0    52
+It is an area that is offered at most undergraduate institutions . 

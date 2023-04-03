@@ -1,0 +1,4 @@
+√Why is this value important when designing cryptographic algorithms ? 	reason
+√How many seconds could a typical 128-bit key be cracked in ? 	number
+×How many minutes would a 256-bit key take to crack ? 	number
+√What would increase the cracking time to approaching 1072 years ? 	definition

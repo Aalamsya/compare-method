@@ -1,0 +1,10 @@
+What is  Dendrin?	definition
+What increases the level of dendritic protein?	name
+How many nucleotides does the protein consist of?	number
+What are the components of dendritic proteins?	definition
+Where are dendritic bodies found in their mRNA form?	location
+Where did Dendrin first find out?	location
+How are dendritic cells found in renal podocytes?	manner
+Where is dendritic protein known at present?	location
+How many scaffold proteins are there in the kidneys?	number
+What is the part of the kidney that regulates the ultrafiltration of kidney?	name

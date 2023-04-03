@@ -1,0 +1,7 @@
+What is Histogram of Oriented Displacements?	nnp
+What is the 2D position at time t?	name
+What does the first bin represents?	definition
+What accumulates the lengths of the consecutive moves?	definition
+What will affect the histogram with the appropriate angles and lengths?	name
+Why the temporal information will be lost?	reason
+What can be done by increasing the quantization range?	definition

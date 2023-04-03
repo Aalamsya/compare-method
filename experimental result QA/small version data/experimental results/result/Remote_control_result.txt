@@ -1,0 +1,47 @@
+¡Ì1.What is a remote control mean in electronics ? 
+No.1---> 1.5    0
+In electronics , a remote control is a component of an electronic device used to operate the device wirelessly from a distance . 
+No.2---> 1.5    2
+A remote control is primarily a convenience feature for the user , and can allow operation of devices that are out of convenient reach for direct operation of controls . 
+No.3---> 1.5    7
+For many devices , the remote control contains all the function controls while the controlled device itself has only a handful of essential primary controls . 
+No.4---> 1.5    8
+The remote control code , and thus the required remote control device , is usually specific to a product line , but there are universal remotes , which emulate the remote control made for most major brand devices . 
+No.5---> 1.5    9
+Remote control has continually evolved and advanced in the 2000s to include Bluetooth connectivity , motion sensor-enabled capabilities and voice control .
+
+¡Á2.How many functions did commercial remote controls had in 1973 ? 
+No.1---> 0.0	0
+In electronics , a remote control is a component of an electronic device used to operate the device wirelessly from a distance . 
+No.2---> 0.0	1
+For example , in consumer electronics , a remote control can be used to operate devices such as a television set , DVD player , or other home appliance , from a short distance . 
+No.3---> 0.0	2
+A remote control is primarily a convenience feature for the user , and can allow operation of devices that are out of convenient reach for direct operation of controls . 
+No.4---> 0.0	3
+In some cases , remote controls allow a person to operate a device that they otherwise would not be able to reach , as when a garage door opener is triggered from outside or when a Digital Light Processing projector that is mounted on a high ceiling is controlled by a person from the floor level . 
+No.5---> 0.0	4
+Early television remote controls -LRB- 1956-1977 -RRB- used ultrasonic tones .
+
+¡Á3.How much was the product sold through Philips in 1980 ? 
+No.1---> 0.0    2
+A remote control is primarily a convenience feature for the user , and can allow operation of devices that are out of convenient reach for direct operation of controls . 
+No.2---> 0.0    7
+For many devices , the remote control contains all the function controls while the controlled device itself has only a handful of essential primary controls . 
+No.3---> 0.0    8
+The remote control code , and thus the required remote control device , is usually specific to a product line , but there are universal remotes , which emulate the remote control made for most major brand devices . 
+No.4---> 0.0    9
+Remote control has continually evolved and advanced in the 2000s to include Bluetooth connectivity , motion sensor-enabled capabilities and voice control . 
+No.5---> 0.0    11
+This was further refined by radio innovators Guglielmo Marconi and William Preece , at a demonstration that took place on December 12 , 1896 , at Toynbee Hall in London , in which they made a bell ring by pushing a button in a box that was not connected by any wires .  
+
+¡Á4.What is the short for the Controller Of Remote Equipment ? 
+No.1---> 0.0    38
+If operation is required where no line of sight is possible , for instance when controlling equipment in another room or installed in a cabinet , many brands of IR extenders are available for this on the market . 
+No.2---> 1.0    26
+In 2006 , Hillcrest Labs introduced the Loop pointer , a remote control that used Hillcrest 's Freespace motion control technology to allow users to control their televisions with natural gestures . 
+No.3---> 2.0    24
+ITT was one of the companies and later gave its name to the ITT protocol of infrared communication . 
+No.4---> 2.5    11
+The first remote-controlled model aeroplane flew in 1932 , and the use of remote control technology for military purposes was worked intensively during the Second World War , one result of this being the German Wasserfall missile . 
+No.5---> 2.5    30
+The main technology used in home remote controls is infrared -LRB- IR -RRB- light .  

@@ -1,0 +1,23 @@
+Systems science is an interdisciplinary field that studies the nature of systems—from simple to complex—in nature, society, cognition, engineering, technology and science itself. To systems scientists, the world can be understood as a system of systems.[1] The field aims to develop interdisciplinary foundations that are applicable in a variety of areas, such as psychology, biology, medicine, communication, business management, engineering, and social sciences.[2]
+
+Systems science covers formal sciences such as complex systems, cybernetics, dynamical systems theory, information theory, linguistics or systems theory. It has applications in the field of the natural and social sciences and engineering, such as control theory, operations research, social systems theory, systems biology, system dynamics, human factors, systems ecology, systems engineering and systems psychology.[3] Themes commonly stressed in system science are (a) holistic view, (b) interaction between a system and its embedding environment, and (c) complex (often subtle) trajectories of dynamic behavior that sometimes are stable (and thus reinforcing), while at various 'boundary conditions' can become wildly unstable (and thus destructive). Concerns about Earth-scale biosphere/geosphere dynamics is an example of the nature of problems to which systems science seeks to contribute meaningful insights. 
+
+Since the emergence of general systems research in the 1950s,[4] systems thinking and systems science have developed into many theoretical frameworks.
+
+    ystems analysis is the branch of systems science that analyzes systems, the interactions within those systems, and/or interaction with its environment,[5] often prior to their automation as computer models. This field is closely related to operations research.
+
+    Systems design is the process of "establishing and specifying the optimum system component configuration for achieving specific goal or objective."[5] For example in computing, systems design can define the hardware and systems architecture which includes many sub-architectures including software architecture, components, modules, interfaces, and data, as well as security, information, and others, for a computer system to satisfy specified requirements.
+
+    System dynamics is an approach to understanding the behavior of complex systems over time. It offers "simulation technique for modeling business and social systems,"[6] which deals with internal feedback loops and time delays that affect the behavior of the entire system. What makes using system dynamics different from other approaches to studying complex systems is the use of feedback loops and stocks and flows.
+
+    Systems engineering (SE) is an interdisciplinary field of engineering, that focuses on the development and organization of complex systems. It is the "art and science of creating whole solutions to complex problems,"[7] for example: signal processing systems, control systems and communication system, or other forms of high-level modelling and design in specific fields of engineering.
+
+    There are several types of Systems Methodologies, that is, disciplines for analysis of systems. For example:
+
+        Soft systems methodology (SSM) : in the field of organizational studies is an approach to organisational process modelling, and it can be used both for general problem solving and in the management of change. It was developed in England by academics at the University of Lancaster Systems Department through a ten-year Action Research programme.
+        System development methodology (SDM) in the field of IT development is a variety of structured, organized processes for developing information technology and embedded software systems.
+        Viable systems approach (vSa) is a methodology useful for the understanding and governance of complex phenomena; it has been successfully proposed in the field of management, decision making, marketing and service.
+
+    Systems theory is an interdisciplinary field that studies complex systems in nature, society, and science. More specifically, it is a conceptual framework by which one can analyze and/or describe any group of objects that work in concert to produce some result.
+
+    Systems sciences are scientific disciplines partly based on systems thinking such as chaos theory, complex systems, control theory, cybernetics, sociotechnical systems theory, systems biology, systems chemistry, systems ecology, systems psychology and the already mentioned systems dynamics, systems engineering, and systems theory.

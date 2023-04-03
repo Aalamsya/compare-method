@@ -1,0 +1,5 @@
+Who wrote The Breakthrough in Artificial Intelligence?	person
+Why is the takeover of machines almost inevitable?	reason
+What year did deep blue computer intentionally win Kasparov?	date
+Who refutes Warwick's argument that machines are organs made by humans, that they extend human behavior and that machines will become superior to humans?	person
+What is a common theme in FHI research?	definition

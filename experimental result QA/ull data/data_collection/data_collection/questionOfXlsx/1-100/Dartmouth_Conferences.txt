@@ -1,0 +1,10 @@
+What is Dartmouth_Conferences?	definition
+Where did first Dartmouth_Conferences take place?	location
+Who began the Dartmouth Conference?	person
+When did Norman Cousins Speaking to the presidium of the Soviet Peace Committee?	date
+When was the Kettering Foundation take on primarily responsibility for the Dartmouth Conferences ?	date
+Who created the Bilateral Presidential Commissions?	person
+When was the first meeting of the Regional Conflict Task Force?	date
+When did the Regional Conflict Task Force launch a series of new meetings?	date
+When did the military control team begin to meet?	date
+How many meetings did the Military Control Task Force hold in ten years?	number

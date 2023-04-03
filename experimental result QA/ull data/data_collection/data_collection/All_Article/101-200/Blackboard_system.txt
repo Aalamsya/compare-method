@@ -1,0 +1,29 @@
+A blackboard system is an artificial intelligence approach based on the blackboard architectural model, where a common knowledge base, the "blackboard", is iteratively updated by a diverse group of specialist knowledge sources, starting with a problem specification and ending with a solution. Each knowledge source updates the blackboard with a partial solution when its internal constraints match the blackboard state. In this way, the specialists work together to solve the problem. The blackboard model was originally designed as a way to handle complex, ill-defined problems, where the solution is the sum of its parts.
+
+The following scenario provides a simple metaphor that gives some insight into how a blackboard functions:
+
+A group of specialists are seated in a room with a large blackboard. They work as a team to brainstorm a solution to a problem, using the blackboard as the workplace for cooperatively developing the solution.
+
+The session begins when the problem specifications are written onto the blackboard. The specialists all watch the blackboard, looking for an opportunity to apply their expertise to the developing solution. When someone writes something on the blackboard that allows another specialist to apply their expertise, the second specialist records their contribution on the blackboard, hopefully enabling other specialists to then apply their expertise. This process of adding contributions to the blackboard continues until the problem has been solved.
+
+A blackboard-system application consists of three major components
+
+The software specialist modules, which are called knowledge sources (KSs). Like the human experts at a blackboard, each knowledge source provides specific expertise needed by the application.
+The blackboard, a shared repository of problems, partial solutions, suggestions, and contributed information. The blackboard can be thought of as a dynamic "library" of contributions to the current problem that have been recently "published" by other knowledge sources.
+The control shell, which controls the flow of problem-solving activity in the system. Just as the eager human specialists need a moderator to prevent them from trampling each other in a mad dash to grab the chalk, KSs need a mechanism to organize their use in the most effective and coherent fashion. In a blackboard system, this is provided by the control shell.
+
+Famous examples of early academic blackboard systems are the Hearsay II speech recognition system and Douglas Hofstadter's Copycat and Numbo projects.
+
+More recent examples include deployed real-world applications, such as the PLAN component of the Mission Control System for RADARSAT-1, an Earth observation satellite developed by Canada to monitor environmental changes and Earth's natural resources.
+
+GTXImage CAD software by GTX Corporation was developed in the early 1990s using a set of rulebases and neural networks as specialists operating on a blackboard system.
+
+Adobe Acrobat Capture (now discontinued) used a Blackboard system to decompose and recognize image pages to understand the objects, text, and fonts on the page. This function is currently built into the retail version of Adobe Acrobat as "OCR Text Recognition". Details of a similar OCR blackboard for Farsi text are in the public domain. 
+
+Blackboard systems are used routinely in many military C4ISTAR systems for detecting and tracking objects.
+
+Blackboard systems were popular before the AI Winter and, along with most symbolic AI models, fell out of fashion during that period. Along with other models it was realised that initial successes on toy problems did not scale well to real problems on the available computers of the time. Most problems using blackboards are inherently NP-hard, so resist tractable solution by any algorithm in the large size limit. During the same period, statistical pattern recognition became dominant, most notably via simple Hidden Markov Models outperforming symbolic approaches such as Hearsay-II in the domain of speech recognition.
+
+Blackboard-like systems have been constructed within modern Bayesian machine learning settings, using agents to add and remove Bayesian network nodes. In these 'Bayesian Blackboard' systems, the heuristics can acquire more rigorous probabilistic meanings as proposal and acceptances in Metropolis Hastings sampling though the space of possible structures. Conversely, using these mappings, existing Metropolis-Hastings samplers over structural spaces may now thus be viewed as forms of blackboard systems even when not named as such by the authors. Such samplers are commonly found in musical transcription algorithms for example. 
+
+Blackboard systems have also been used to build large-scale intelligent systems for the annotation of media content, automating parts of traditional social science research. In this domain, the problem of integrating various AI algorithms into a single intelligent system arises spontaneously, with blackboards providing a way for a collection of distributed, modular natural language processing algorithms to each annotate the data in a central space, without needing to coordinate their behavior.

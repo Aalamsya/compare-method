@@ -1,0 +1,12 @@
+OpenViBE is a software platform dedicated to designing, testing and using brain-computer interfaces. The package includes a Designer tool to create and run custom applications, along with several pre-configured and demo programs which are ready for use.
+
+OpenViBE is software for real-time neuroscience (that is, for real-time processing of brain signals). It can be used to acquire, filter, process, classify and visualize brain signals in real time.
+
+The main OpenViBE application fields are medical (assistance to disabled people, real-time biofeedback, neurofeedback, real-time diagnosis), multimedia (virtual reality, video games), robotics and all other application fields related to brain-computer interfaces and real-time neurosciences.
+
+OpenViBE users can either be programmers or people not familiar with programming. This includes medical doctors, video game developers, researchers in signal processing or robotics, etc.
+
+Since 2012, the start-up Mensia Technologies has developed an advanced version of the software called NeuroRT Suite.
+
+The user interface of OpenVibe is easy to use for creating BCI scenarios and saving them for later use, to access and to manipulate. OpenVibe is the first library of functions written in C++ of this type developed by INRIA - Institut national de recherche en informatique et automatique (France) - it can be integrated and applied quickly and easily.
+

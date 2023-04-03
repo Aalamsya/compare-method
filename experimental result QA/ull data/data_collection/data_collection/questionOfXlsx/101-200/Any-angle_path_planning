@@ -1,0 +1,6 @@
+What are Any-angle path planning algorithms?	manner
+How are Any-angle algorithms able to find optimal or near-optimal paths?	definition
+Why that smooth a path found by a grid constrained algorithm are unable to reliably find optimal paths?	reason
+Why searching the discrete grid graph can be done quickly?	reason
+What is known as the phase space?	name
+What was created by Stanford Racing as part of the navigation system for Junior?	name

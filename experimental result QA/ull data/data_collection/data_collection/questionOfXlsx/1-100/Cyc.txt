@@ -1,0 +1,10 @@
+What is Cyc?	definition
+When did Douglas Lenat begin the Cyc project?	date
+Where did Douglas Lenat begin the Cyc project?	location
+Who organized a meeting at Stanford in 1983 ?	name
+How many people did the effort require?	number
+When did "fifth-generation" project."start?	date
+How many terms of Cyc grow,to 1994?	number
+Who was the first ceo of MCC?	name
+How much time did Cyc project become clear?	time
+How did the US Government reacted to the Fifth Generation threat? 	manner

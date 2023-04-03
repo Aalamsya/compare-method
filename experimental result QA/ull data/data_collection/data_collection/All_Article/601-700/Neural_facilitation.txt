@@ -1,0 +1,32 @@
+Neural facilitation, also known as paired pulse facilitation (PPF), is a phenomenon in neuroscience in which postsynaptic potentials (PSPs) (EPPs, EPSPs or IPSPs) evoked by an impulse are increased when that impulse closely follows a prior impulse. PPF is thus a form of short-term synaptic plasticity. The mechanisms underlying neural facilitation are exclusively pre-synaptic; broadly speaking, PPF arises due to increased presynaptic Ca2+
+ concentration leading to a greater release of neurotransmitter-containing synaptic vesicles.[1] Neural facilitation may be involved in several neuronal tasks, including simple learning, information processing,[2] and sound-source localization.
+Ca2+ plays a significant role in transmitting signals at chemical synapses. Voltage-gated Ca2+ channels are located within the presynaptic terminal. When an action potential invades the presynaptic membrane, these channels open and Ca2+ enters. A higher concentration of Ca2+ enables synaptic vesicles to fuse to the presynaptic membrane and release their contents (neurotransmitters) into the synaptic cleft to ultimately contact receptors in the postsynaptic membrane. The amount of neurotransmitter released is correlated with the amount of Ca2+ influx. Therefore, short-term facilitation (STF) results from a build up of Ca2+ within the presynaptic terminal when action potentials propagate close together in time.
+Early experiments by Del Castillo & Katz in 1954 and Dudel & Kuffler in 1968 showed that facilitation was possible at the neuromuscular junction even if transmitter release does not occur, indicating that facilitation is an exclusively presynaptic phenomenon.[5][6]
+
+Katz and Miledi proposed the residual Ca2+
+ hypothesis. They attributed the increase in neurotransmitter release to residual or accumulated Ca2+
+ ("active calcium") within the axon membrane that remains attached to the membrane's inner surface.[7] Katz and Miledi manipulated the Ca2+
+ concentration within the presynaptic membrane to determine whether or not residual Ca2+
+ remaining within the terminal after the first impulse caused an increase in neurotransmitter release following the second stimulus.
+
+During the first nerve impulse, Ca2+
+ concentration was either significantly below or nearing that of the second impulse. When Ca2+
+ concentration was approaching that of the second impulse, facilitation was increased. In this first experiment, stimuli were presented in intervals of 100 ms between the first and second stimuli. An absolute refractory period was reached when intervals were about 10 ms apart.
+
+To examine facilitation during shorter intervals, Katz and Miledi directly applied brief depolarizing stimuli to nerve endings. When increasing the depolarizing stimulus from 1-2 ms, neurotransmitter release greatly increased due to accumulation of active Ca2+
+. Therefore, the degree of facilitation depends on the amount of active Ca2+
+, which is determined by the reduction in Ca2+
+ conductance over time as well as the amount of removed from axon terminals after the first stimulus. Facilitation is greatest when the impulses are closest together because Ca2+
+ conductance would not return to baseline prior to the second stimulus. Therefore, both Ca2+
+ conductance and accumulated Ca2+
+ would be greater for the second impulse when presented shortly after the first.
+
+In the Calyx of Held synapse, short term facilitation (STF) has been shown to result from the binding of residual Ca2+
+ to neuronal Ca2+
+ sensor 1 (NCS1). Conversely, STF has been shown to decrease when Ca2+
+ chelators are added to the synapse (causing chelation) which reduce residual Ca2+
+. Therefore, "active Ca2+
+" plays a significant role in neural facilitation.[8]
+
+In the synapse between Purkinje cells, short-term facilitation has been shown to be entirely mediated by the facilitation of Ca2+
+ currents through the voltage-dependent calcium channels.

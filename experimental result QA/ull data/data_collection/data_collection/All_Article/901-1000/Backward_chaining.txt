@@ -1,0 +1,13 @@
+Backward chaining (or backward reasoning) is an inference method described colloquially as working backward from the goal. It is used in automated theorem provers, inference engines, proof assistants, and other artificial intelligence applications.
+
+In game theory, researchers apply it to subgames to find a solution to the game, in a process called backward induction. In chess, it is called retrograde analysis, and it is used to generate table bases for chess endgames for computer chess.
+
+Backward chaining is implemented in logic programming by SLD resolution. Both rules are based on the modus ponens inference rule. It is one of the two most commonly used methods of reasoning with inference rules and logical implications – the other is forward chaining. Backward chaining systems usually employ a depth-first search strategy, e.g. Prolog.
+
+Backward chaining starts with a list of goals (or a hypothesis) and works backwards from the consequent to the antecedent to see if any data supports any of these consequents. An inference engine using backward chaining would search the inference rules until it finds one with a consequent (Then clause) that matches a desired goal. If the antecedent (If clause) of that rule is known to be true, then it is added to the list of goals (for one's goal to be confirmed one must also provide data that confirms this new rule).
+
+Note that the goals always match the affirmed versions of the consequents of implications (and not the negated versions as in modus tollens) and even then, their antecedents are then considered as the new goals (and not the conclusions as in affirming the consequent), which ultimately must match known facts (usually defined as consequents whose antecedents are always true); thus, the inference rule used is modus ponens.
+
+Because the list of goals determines which rules are selected and used, this method is called goal-driven, in contrast to data-driven forward-chaining inference. The backward chaining approach is often employed by expert systems.
+
+Programming languages such as Prolog, Knowledge Machine and ECLiPSe support backward chaining within their inference engines.

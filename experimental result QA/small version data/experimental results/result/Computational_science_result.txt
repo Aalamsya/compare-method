@@ -1,0 +1,61 @@
+¡Ì1.What is computational science ? 
+No.1---> 0.0    14
+Computational science is now commonly considered a third mode of science , complementing and adding to experimentation/observation and theory . 
+No.2---> 0.0    17
+A collection of problems and solutions in computational science can be found in Steeb , Hardy , Hardy and Stoop , 2004 . 
+No.3---> 0.0    23
+However , there are increasingly many bachelor 's and master 's programs in computational science . 
+No.4---> 1.0    15
+The essence of computational science is numerical algorithm and/or computational mathematics . 
+No.5---> 1.333  1
+Computational science fuses three distinct elements : In practical use , it is typically the application of computer simulation and other forms of computation from numerical analysis and theoretical computer science to solve problems in various scientific disciplines . 
+
+¡Ì2.Who defined the linked open science ? 
+No.1---> 3.667  2
+Nick Barnes , in the Science Code Manifesto , proposed five principles that should be followed when software is used in open science publication . 
+No.2---> 4.0    3
+Tomi Kauppinen et al. established and defined Linked Open Science , an approach to interconnect scientific assets to enable transparent , reproducible and transdisciplinary research . 
+No.3---> 5.0    1
+Jon Claerbout has become prominent for pointing out that reproducible research requires archiving and documenting all raw data and all code used to obtain a result . 
+No.4---> 6.0    0
+A collection of problems and solutions in computational science can be found in Steeb , Hardy , Hardy and Stoop , 2004 . 
+
+¡Ì3.What is the application of computational science ? 
+No.1---> 0.0    14
+Computational science is now commonly considered a third mode of science , complementing and adding to experimentation/observation and theory . 
+No.2---> 0.0    17
+A collection of problems and solutions in computational science can be found in Steeb , Hardy , Hardy and Stoop , 2004 . 
+No.3---> 0.0    23
+However , there are increasingly many bachelor 's and master 's programs in computational science . 
+No.4---> 1.0    15
+The essence of computational science is numerical algorithm and/or computational mathematics . 
+No.5---> 1.333  1
+Computational science fuses three distinct elements : In practical use , it is typically the application of computer simulation and other forms of computation from numerical analysis and theoretical computer science to solve problems in various scientific disciplines . 
+
+¡Á4.Why do most scientific journals do not accept software papers ? 
+No.1---> 0.0    10
+For example , in weather models , each item might be a square kilometer ; with land elevation , current wind direction , humidity , temperature , pressure , etc. . 
+No.2---> 0.0    24
+At some institutions a specialization in scientific computation can be earned as a `` minor '' within another program -LRB- which may be at varying levels -RRB- . 
+No.3---> 1.0    5
+In some cases , these models require massive amounts of calculations -LRB- usually floating-point -RRB- and are often executed on supercomputers or distributed computing platforms . 
+No.4---> 1.0    12
+The term computational scientist is used to describe someone skilled in scientific computing . 
+No.5---> 2.0    4
+Scientists and engineers develop computer programs , application software , that model systems being studied and run these programs with various sets of input parameters . 
+
+¡Á5.When was Open research compution announced ? 
+No.1---> 3.0    1
+Computational science is now commonly considered a third mode of science , complementing and adding to experimentation/observation and theory . 
+No.2---> 3.0    2
+A collection of problems and solutions in computational science can be found in Steeb , Hardy , Hardy and Stoop , 2004 . 
+No.3---> 4.0    0
+The program would calculate the likely next state based on the current state , in simulated time steps , solving equations that describe how the system operates ; and then repeat the process to calculate the next state . 
+
+¡Á6.When was the Journal of Open Research Software launched ? 
+No.1---> 3.5    1
+Computational science is now commonly considered a third mode of science , complementing and adding to experimentation/observation and theory . 
+No.2---> 3.5    2
+A collection of problems and solutions in computational science can be found in Steeb , Hardy , Hardy and Stoop , 2004 . 
+No.3---> 4.5    0
+The program would calculate the likely next state based on the current state , in simulated time steps , solving equations that describe how the system operates ; and then repeat the process to calculate the next state . 

@@ -1,0 +1,23 @@
+In the physical sciences, neurocybernetics is the study of communication and automatic control systems in mutual relation to machines and living organisms. The underlying mathematical descriptions are control theory, extended for complex systems, and mean field theory for neural networks and neural field theory. Neurocybernetics is a sub-discipline of biocybernetics.
+
+Neurocybernetics is a compound word of neuro, the fundamental biological way to convey information within an organism by means of specially differentiated cells (neurons), and cybernetics, the science of communication and automatic control systems in relation to both machines and living beings.
+
+Neuro-/biocybernetics can essentially be understood as the culmination of both neurology and cybernetics. As the complexity of neurology currently still prevents abstracting it into a generalizable theory, whilst on the other hand the complexity of cybernetical systems does not even come close to that of any biological system, even that of the most primitive kind (e.g. protozoa), neuro-/biocybernetics is still very much in the initial phase with much basic research going on, and hardly any commercial applications.
+
+Generally speaking, it is the science that covers the integration of machines into a living organism via a Neural interface (aka neurolink or neural interface). The best example for applied neurocybernetics is the application of neuroprosthetics, which is still at a very early stage.
+
+The capacity of computers to cope with massive amounts of information and interface with each other with very low latencies is continually increasing. Efforts in the striving to advance human-computer interface technologies resulted in devices such as Virtual Reality gloves, various kind of motion trackers as well as 3-D sound and graphic based systems. These devices are capable of enhancing our ability to interact, along with novel approaches to user-interface-design, with vast amounts of information in as natural way as possible.
+
+The emerging paradigm of human-machine interaction involves directly sensing bioelectric signals (from eye, muscle, the brain or any other nervous source) as inputs and rendering information in ways that take advantage of psycho-physiologic signal processing of the human nervous system (perceptual psychophysics).
+
+After that the next step is to optimize the technology to the physiology, that is a biologically responsive interactive interface.
+
+The ultimate goal of neurocybernetic research is the technological implementation of major principles of information processing in biological organisms by probing cellular and network mechanisms of brain functions. To unravel the biological design principles, computer-aided analyses of neuronal structure and signal transmission based on modern information theories and engineering methods are employed.
+
+An offshoot of neurocybernetics is the field of neurodynamics, also called neural field theory, which uses differential equations to describe activity patterns in bulk neural matter. Research for neurodynamics involves the interdisciplinary areas of statistics and nonlinear physics and sensory neurobiology. On the physics side, topics of interest include information measures, oscillators, stochastic resonance, unstable periodic orbits, and pattern formation in ensembles of agents.
+
+Practical applications, once the science has progressed, are countless but one especially remarkable would be neuroprosthetics that integrate seamlessly into the human organisms, by replicating and all layers of sensorial information from and to the surrogate organ. The demands of such a converter would be to preprocess the information and translate it via a synaptic bridge into information that is well adapted to the nervous system of the individual organism.
+
+Some initial practical research is being undertaken. For example, in 2002, an array containing 100 electrodes, of which 25 could be accessed at any one time, was fired into the median nerve fibres of the scientist, Kevin Warwick. The neural signals obtained via the implant were detailed enough that a robotic arm developed by Warwick's colleague, Peter Kyberd, was able both to mimic the actions of Warwick's own arm and to provide a direct form of sensory feedback from fingertip sensors in the hand.
+
+Psycho-cybernetics is a self-help book written by plastic surgeon Maxwell Maltz and has nothing to do with neurocybernetics in the broader sense or any other science.

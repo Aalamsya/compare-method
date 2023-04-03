@@ -1,0 +1,105 @@
+¡Á1.What is the short for Business Intelligence ? 
+No.1---> 2.0    1
+BI technologies provide historical , current and predictive views of business operations . 
+No.2---> 2.0    4
+Business intelligence can be used to support a wide range of business decisions ranging from operational to strategic . 
+No.3---> 2.0    5
+Strategic business decisions include priorities , goals and directions at the broadest level . 
+No.4---> 2.0    6
+In all cases , BI is most effective when it combines data derived from the market in which a company operates -LRB- external data -RRB- with data from company sources internal to the business such as financial and operations data -LRB- internal data -RRB- . 
+No.5---> 2.0    7
+When combined , external and internal data can provide a more complete picture which , in effect , creates an `` intelligence '' that can not be derived by any singular set of data .
+
+¡Ì2.What can Business intelligence be used by enterprises to ? 
+No.1---> 0.5    1
+BI technologies provide historical , current and predictive views of business operations . 
+No.2---> 0.5    4
+Business intelligence can be used to support a wide range of business decisions ranging from operational to strategic . 
+No.3---> 0.5    5
+Strategic business decisions include priorities , goals and directions at the broadest level . 
+No.4---> 0.5    6
+In all cases , BI is most effective when it combines data derived from the market in which a company operates -LRB- external data -RRB- with data from company sources internal to the business such as financial and operations data -LRB- internal data -RRB- . 
+No.5---> 0.5    9
+Business intelligence is made up of an increasing number of components including : The earliest known use of the term `` Business Intelligence '' is in Richard Millar Devensâ€ in the â€˜CyclopÃ¦dia of Commercial and Business Anecdotesâ€ from 1865 .  
+
+¡Ì3.When is the earliest known use of the term ` Business Intelligence ' ? 
+No.1---> 2.0    0
+BI technologies provide historical , current and predictive views of business operations . 
+No.2---> 2.0    1
+Business intelligence is made up of an increasing number of components including : The earliest known use of the term `` Business Intelligence '' is in Richard Millar Devensâ€ in the â€˜CyclopÃ¦dia of Commercial and Business Anecdotesâ€ from 1865 . 
+No.3---> 2.0    4
+In a 1958 article , IBM researcher Hans Peter Luhn used the term business intelligence . 
+No.4---> 2.0    8
+In 2012 business intelligence services brought in $ 13.1 billion in revenue . 
+No.5---> 2.5    5
+Business intelligence as it is understood today is said to have evolved from the decision support systems -LRB- DSS -RRB- that began in the 1960s and developed throughout the mid-1980s . 
+
+¡Ì4.Where did he maintained a complete and perfect train of business intelligence ? 
+No.1---> 0.5    0
+In all cases , BI is most effective when it combines data derived from the market in which a company operates -LRB- external data -RRB- with data from company sources internal to the business such as financial and operations data -LRB- internal data -RRB- . 
+No.2---> 0.5    1
+â€œThroughout Holland , Flanders , France , and Germany , he maintained a complete and perfect train of business intelligence . 
+No.3---> 1.5    3
+According to a study by the Aberdeen Group , there has been increasing interest in Software-as-a-Service -LRB- SaaS -RRB- business intelligence over the past years , with twice as many organizations using this deployment approach as one year ago â€ 15 % in 2009 compared to 7 % in 2008 . 
+No.4---> 3.5    2
+The news of the many battles fought was thus received first by him , and the fall of Namur added to his profits , owing to his early receipt of the news.â€ -LRB- Devens , -LRB- 1865 -RRB- , p. 210 -RRB- .
+
+¡Ì5.Who used the term business intelligence in a 1958 article ? 
+No.1---> 0.5    0
+Business intelligence is made up of an increasing number of components including : The earliest known use of the term `` Business Intelligence '' is in Richard Millar Devensâ€ in the â€˜CyclopÃ¦dia of Commercial and Business Anecdotesâ€ from 1865 . 
+No.2---> 0.5    2
+â€œThroughout Holland , Flanders , France , and Germany , he maintained a complete and perfect train of business intelligence . 
+No.3---> 0.5    4
+In a 1958 article , IBM researcher Hans Peter Luhn used the term business intelligence . 
+No.4---> 1.3    7
+In an alternate definition , Thomas Davenport , professor of information technology and management at Babson College argues that business intelligence should be divided into querying , reporting , Online analytical processing -LRB- OLAP -RRB- , an `` alerts '' tool , and business analytics . 
+No.5---> 1.5    8
+BI projects can attain higher prioritization within the organization if managers consider the following : According to Kimball et al. , there are three critical areas that organizations should assess before getting ready to do a BI project : The commitment and sponsorship of senior management is according to Kimball et al. , the most important criteria for assessment .  
+
+¡Ì6.When did Howard Dresner proposed ` business intelligence ' ? 
+No.1---> 0.5    0
+BI technologies provide historical , current and predictive views of business operations . 
+No.2---> 0.5    1
+Business intelligence is made up of an increasing number of components including : The earliest known use of the term `` Business Intelligence '' is in Richard Millar Devensâ€ in the â€˜CyclopÃ¦dia of Commercial and Business Anecdotesâ€ from 1865 . 
+No.3---> 0.5    4
+In a 1958 article , IBM researcher Hans Peter Luhn used the term business intelligence . 
+No.4---> 0.5    8
+In 2012 business intelligence services brought in $ 13.1 billion in revenue . 
+No.5---> 1.5    12
+A 2009 paper predicted these developments in the business intelligence market : A 2009 Information Management special report predicted the top BI trends : `` green computing , social networking services , data visualization , mobile BI , predictive analytics , composite applications , cloud computing and multitouch '' . 
+
+¡Á7.What is Data discovery in BI ? 
+No.1---> 0.0    3
+The goal is to allow for the easy interpretation of these big data . 
+No.2---> 0.0    24
+A data warehouse contains a copy of analytical data that facilitates decision support . 
+No.3---> 0.0    51
+Before implementation it is a good idea to do data profiling . 
+No.4---> 0.0    88
+Many of these data types , however , like e-mails , word processing text files , PPTs , image-files , and video-files conform to a standard that offers the possibility of metadata . 
+No.5---> 0.0    90
+Therefore , it may be more accurate to talk about this as semi-structured documents or data , but no specific consensus seems to have been reached . 
+
+¡Á8.How many ways does Forrester Research defines business intelligence in ? 
+No.1---> 0.0    6
+Basic operating decisions include product positioning or pricing . 
+No.2---> 0.0    22
+It was not until the late 1990s that this usage was widespread . 
+No.3---> 0.0    26
+A data warehouse contains a copy of analytical data that facilitates decision support . 
+No.4---> 0.0    43
+However , having many managers work together on the project can also mean that there are several different interests that attempt to pull the project in different directions , such as if different departments want to put more emphasis on their usage . 
+No.5---> 0.0    49
+The needs and benefits of the implementation are sometimes driven by competition and the need to gain an advantage in the market . 
+
+¡Á9.Why another critical thing that must be assessed before the project begins is whether or not there is a business need ? 
+No.1---> 0.0    1
+BI technologies provide historical , current and predictive views of business operations . 
+No.2---> 0.0    3
+The goal is to allow for the easy interpretation of these big data . 
+No.3---> 0.0    6
+Basic operating decisions include product positioning or pricing . 
+No.4---> 0.0    7
+Strategic business decisions include priorities , goals and directions at the broadest level . 
+No.5---> 0.0    8
+In all cases , BI is most effective when it combines data derived from the market in which a company operates -LRB- external data -RRB- with data from company sources internal to the business such as financial and operations data -LRB- internal data -RRB- . 

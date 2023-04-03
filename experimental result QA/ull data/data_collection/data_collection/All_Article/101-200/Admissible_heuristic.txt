@@ -1,0 +1,35 @@
+In computer science, specifically in algorithms related to pathfinding, a heuristic function is said to be admissible if it never overestimates the cost of reaching the goal, i.e. the cost it estimates to reach the goal is not higher than the lowest possible cost from the current point in the path.
+
+An admissible heuristic is used to estimate the cost of reaching the goal state in an informed search algorithm. In order for a heuristic to be admissible to the search problem, the estimated cost must always be lower than or equal to the actual cost of reaching the goal state. The search algorithm uses the admissible heuristic to find an estimated optimal path to the goal state from the current node. 
+
+With a non-admissible heuristic, the A* algorithm could overlook the optimal solution to a search problem due to an overestimation in .
+
+Construction
+An admissible heuristic can be derived from a relaxed version of the problem, or by information from pattern databases that store exact solutions to subproblems of the problem, or by using inductive learning methods.
+
+Examples
+Two different examples of admissible heuristics apply to the fifteen puzzle problem:
+
+Hamming distance
+Manhattan distance
+The Hamming distance is the total number of misplaced tiles. It is clear that this heuristic is admissible since the total number of moves to order the tiles correctly is at least the number of misplaced tiles (each tile not in place must be moved at least once). The cost (number of moves) to the goal (an ordered puzzle) is at least the Hamming distance of the puzzle.
+
+
+Consider the puzzle below in which the player wishes to move each tile such that the numbers are ordered. The Manhattan distance is an admissible heuristic in this case because every tile will have to be moved at least the number of spots in between itself and its correct position.
+
+The subscripts show the Manhattan distance for each tile. 
+
+If an admissible heuristic is adapted in an algorithm (for example in A* search algorithm), then this algorithm would eventually find an optimal solution to the goal. A well-known and easy-to-understand example is breadth-first search. In the case of BFS, the heuristic evaluation function , which is obviously less than the actual cost (thus underestimated). This heuristic would cause the BFS algorithm to search literally all the possible paths and eventually find the optimal solution (i.e., the shortest path to the goal).
+
+As an example of why admissibility can guarantee optimality, let's say we have costs as follows:(the cost above/below a node is the heuristic, the cost at an edge is the actual cost)
+
+So clearly we'd start off visiting the top middle node, since the expected total cost, 
+
+Then we'd clearly pick the bottom nodes one after the other, followed by the updated goal, 
+So even though the goal was a candidate, we couldn't pick it because there were still better paths out there. This way, an admissible heuristic can ensure optimality.
+
+However, note that although an admissible heuristic can guarantee final optimality, it's not necessarily efficient.
+
+While all consistent heuristics are admissible, not all admissible heuristics are consistent.
+
+For tree search problems, if an admissible heuristic is used, the A* search algorithm will never return a suboptimal goal node.

@@ -1,0 +1,25 @@
+Control theory is an interdisciplinary branch of engineering and mathematics that deals with the behavior of dynamical systems with inputs, and how their behavior is modified by feedback. The usual objective of control theory is to control a system, often called the plant, so its output follows a desired control signal, called the reference, which may be a fixed or changing value. To do this a controller is designed, which monitors the output and compares it with the reference. The difference between actual and desired output, called the error signal, is applied as feedback to the input of the system, to bring the actual output closer to the reference. Some topics studied in control theory are stability (whether the output will converge to the reference value or oscillate about it), controllability and observability.
+
+Extensive use is usually made of a diagrammatic style known as the block diagram. The transfer function, also known as the system function or network function, is a mathematical representation of the relation between the input and output based on the differential equations describing the system.
+
+Although a major application of control theory is in control systems engineering, which deals with the design of process control systems for industry, other applications range far beyond this. As the general theory of feedback systems, control theory is useful wherever feedback occurs. A few examples are in physiology, electronics, climate modeling, machine design, ecosystems, navigation, neural networks, predator–prey interaction, gene expression, and production theory.
+
+Control theory is a theory that deals with influencing the behavior of dynamical systems.
+
+Control theory is an interdisciplinary subfield of science, which originated in engineering and mathematics, and evolved into use by the social sciences, such as economics, psychology, sociology, criminology and in the financial system.
+
+Control systems may be thought of as having four functions: measure, compare, compute and correct. These four functions are completed by five elements: detector, transducer, transmitter, controller and final control element. The measuring function is completed by the detector, transducer and transmitter. In practical applications these three elements are typically contained in one unit. A standard example of a measuring unit is a resistance thermometer. The compare and compute functions are completed within the controller, which may be implemented electronically by proportional control, a PI controller, PID controller, bistable, hysteretic control or programmable logic controller. Older controller units have been mechanical, as in a centrifugal governor or a carburetor. The correct function is completed with a final control element. The final control element changes an input or output in the control system that affects the manipulated or controlled variable.
+
+Fundamentally, there are two types of control loops: open loop control and closed loop (feedback) control.
+
+In open loop control, the control action from the controller is independent of the "process output" (or "controlled process variable"). A good example of this is a central heating boiler controlled only by a timer, so that heat is applied for a constant time, regardless of the temperature of the building. (The control action is the switching on/off of the boiler. The process output is the building temperature).
+
+In closed loop control, the control action from the controller is dependent on the process output. In the case of the boiler analogy this would include a thermostat to monitor the building temperature, and thereby feed back a signal to ensure the controller maintains the building at the temperature set on the thermostat. A closed loop controller therefore has a feedback loop which ensures the controller exerts a control action to give a process output the same as the "Reference input" or "set point". For this reason, closed loop controllers are also called feedback controllers.
+
+The definition of a closed loop control system according to the British Standard Institution is 'a control system possessing monitoring feedback, the deviation signal formed as a result of this feedback being used to control the action of a final control element in such a way as to tend to reduce the deviation to zero.' " 
+
+Likewise; "A Feedback Control System is a system which tends to maintain a prescribed relationship of one system variable to another by comparing functions of these variables and using the difference as a means of control.'"
+
+The advanced type of automation that revolutionized manufacturing, aircraft, communications and other industries, is feedback control, which is usually continuous and involves taking measurements using a sensor and making calculated adjustments to keep the measured variable within a set range by means of a "final control element", such as a control valve.[5]
+
+The theoretical basis of closed loop automation is control theory.

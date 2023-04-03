@@ -1,0 +1,7 @@
+¡Á1.What interdisciplinary branch is Control theory of ?
+¡Ì2.Which monitors the output and compares it with the reference ? 
+¡Á3.How many types of control loops are there ? 
+¡Á4.Why closed loop controllers are also called feedback controllers ?
+¡Á5.How many branches can the field of control theory be divided into ? 
+¡Á6.What is called linear time invariant -LRB- LTI -RRB- systems ? 
+¡Ì7.How many different categories do Mathematical techniques for analyzing and designing control systems fall into ? 

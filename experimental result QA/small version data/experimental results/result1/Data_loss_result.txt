@@ -1,0 +1,7 @@
+¡Ì1.How can information systems prevent data loss or restore lost data ? 
+¡Ì2.What is data loss ?
+¡Ì3.How is data loss distinguished from data unavailability ? 
+¡Á4.What is the cost of a data loss event directly related to ? 
+¡Ì5.What is the definition of regular data backups ?
+¡Ì6.What can the frequency of data loss and the impact be greatly mitigated ? 
+¡Á7.What are service costs at data recovery labs usually dependent on?

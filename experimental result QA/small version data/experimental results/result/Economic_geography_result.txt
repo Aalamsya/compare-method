@@ -1,0 +1,101 @@
+¡Ì1.What is the study of the economic geography ? 
+No.1---> 0.0    7
+Economists such as Paul Krugman and Jeffrey Sachs have also analyzed many traits related to economic geography . 
+No.2---> 0.0    8
+Krugman called his application of spatial thinking to international trade theory the `` new economic geography '' , which directly competes with an approach within the discipline of geography that is also called `` new economic geography '' . 
+No.3---> 1.5    0
+Economic geography is the study of the location , distribution and spatial organization of economic activities across the world . 
+No.4---> 2.0    1
+It represents a traditional subfield of the discipline of geography . 
+No.5---> 2.0    6
+Since the 1970s , two broad reactions against neoclassical approaches have significantly changed the discipline : Marxist political economy , growing out of the work of David Harvey ; and the new economic geography which takes into account social , cultural , and institutional factors in the spatial economy .
+
+¡Ì2.Whose tradition tend to focus on industrial location and use quantitative methods ? 
+No.1---> 0.0    5
+Neoclassical location theorists , following in the tradition of Alfred Weber , tend to focus on industrial location and use quantitative methods . 
+No.2---> 0.0    10
+Some of the first traces of the study of spatial aspects of economic activities can be found in seven Chinese maps of the State of Qin dating to the 4th century BC . 
+No.3---> 0.0    11
+Ancient writings can be attributed to the Greek geographer Strabo 's Geographika compiled almost 2000 years ago . 
+No.4---> 0.0    16
+Well-known economic geographers of this period include William Garrison , Brian Berry , Waldo Tobler , Peter Haggett and William Bunge . 
+No.5---> 0.0    25
+It thus focuses on structures of agricultural landscapes and asks for the processes that lead to these spatial patterns .  
+
+¡Ì3.When have two broad reactions against neoclassical approaches significantly changed the discipline ? 
+No.1---> 3.0    0
+Since the 1970s , two broad reactions against neoclassical approaches have significantly changed the discipline : Marxist political economy , growing out of the work of David Harvey ; and the new economic geography which takes into account social , cultural , and institutional factors in the spatial economy . 
+No.2---> 5.667  1
+As the science of cartography developed , geographers illuminated many aspects used today in the field ; maps created by different European powers described the resources likely to be found in American , African , and Asian territories .
+
+¡Ì4. What political economy grows out of the work of David Harvey ? 
+No.1---> 1.0    29
+Within these is a switch from manufacturing-based economies to the digital economy . 
+No.2---> 1.0    35
+It does so through the exploration of linkages between centripetal and centrifugal forces , especially those of economies of scale . 
+No.3---> 2.0    2
+However , many economists have also approached the field in ways more typical of the discipline of economics . 
+No.4---> 2.0    6
+Since the 1970s , two broad reactions against neoclassical approaches have significantly changed the discipline : Marxist political economy , growing out of the work of David Harvey ; and the new economic geography which takes into account social , cultural , and institutional factors in the spatial economy . 
+No.5---> 2.0    9
+The name geographical economics has been suggested as an alternative . 
+
+¡Ì5.Who have also analyzed many traits related to economic geography ? 
+No.1---> 0.0    2
+Economists such as Paul Krugman and Jeffrey Sachs have also analyzed many traits related to economic geography . 
+No.2---> 0.0    3
+Krugman called his application of spatial thinking to international trade theory the `` new economic geography '' , which directly competes with an approach within the discipline of geography that is also called `` new economic geography '' . 
+No.3---> 2.0    1
+Since the 1970s , two broad reactions against neoclassical approaches have significantly changed the discipline : Marxist political economy , growing out of the work of David Harvey ; and the new economic geography which takes into account social , cultural , and institutional factors in the spatial economy . 
+No.4---> 3.667  4
+Fred K. Schaefer 's article `` Exceptionalism in geography : A Methodological Examination '' , published in the American journal Annals of the Association of American Geographers , and his critique of regionalism , made a large impact on the field : the article became a rallying point for the younger generation of economic geographers who were intent on reinventing the discipline as a science , and quantitative methods began to prevail in research . 
+No.5---> 4.0    0
+Neoclassical location theorists , following in the tradition of Alfred Weber , tend to focus on industrial location and use quantitative methods . 
+
+¡Á6.Whose article is Exceptionalism in geography ? 
+No.1---> 0.0    10
+Some of the first traces of the study of spatial aspects of economic activities can be found in seven Chinese maps of the State of Qin dating to the 4th century BC . 
+No.2---> 0.0    11
+Ancient writings can be attributed to the Greek geographer Strabo 's Geographika compiled almost 2000 years ago . 
+No.3---> 0.0    16
+Well-known economic geographers of this period include William Garrison , Brian Berry , Waldo Tobler , Peter Haggett and William Bunge . 
+No.4---> 0.0    25
+It thus focuses on structures of agricultural landscapes and asks for the processes that lead to these spatial patterns . 
+No.5---> 0.0    28
+These areas of study may overlap with other geographical sciences .
+
+¡Ì7.What does spatiotemporal systems of analysis include ? 
+No.1---> 1.5    16
+An alternative description of different approaches to the study of human economic activity can be organized around spatiotemporal analysis , analysis of production/consumption of economic items , and analysis of economic flow . 
+No.2---> 1.5    18
+Alternatively , analysis may focus on production , exchange , distribution and consumption of items of economic activity . 
+No.3---> 2.167  17
+Spatiotemporal systems of analysis include economic activities of region , mixed social spaces , and development . 
+No.4---> 2.5    2
+However , many economists have also approached the field in ways more typical of the discipline of economics . 
+No.5---> 2.5    9
+The name geographical economics has been suggested as an alternative .  
+
+¡Á8.How many distinct types does the New Economy consists of in Anglo-American literature ? 
+No.1---> 0.0    10
+Some of the first traces of the study of spatial aspects of economic activities can be found in seven Chinese maps of the State of Qin dating to the 4th century BC . 
+No.2---> 0.0    11
+Ancient writings can be attributed to the Greek geographer Strabo 's Geographika compiled almost 2000 years ago . 
+No.3---> 0.0    16
+Well-known economic geographers of this period include William Garrison , Brian Berry , Waldo Tobler , Peter Haggett and William Bunge . 
+No.4---> 0.0    25
+It thus focuses on structures of agricultural landscapes and asks for the processes that lead to these spatial patterns . 
+No.5---> 0.0    28
+These areas of study may overlap with other geographical sciences . 
+
+¡Ì9.What is the abbreviation of New Economic Geography 1 ? 
+No.1---> 0.0    1
+It represents a traditional subfield of the discipline of geography . 
+No.2---> 0.0    23
+The latter approach of agricultural geography is often applied within regional geography . 
+No.3---> 0.0    33
+New Economic Geography 1 -LRB- NEG1 -RRB- is characterized by sophisticated spatial modelling . 
+No.4---> 0.0    40
+However , the focus on the firm as the main entity of significance hinders the discussion of New Economic Geography . 
+No.5---> 2.0    2
+However , many economists have also approached the field in ways more typical of the discipline of economics . 

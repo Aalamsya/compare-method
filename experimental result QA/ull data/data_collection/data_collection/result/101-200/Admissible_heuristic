@@ -1,0 +1,5 @@
+√Why is a heuristic function said to be admissible ? 	reason
+√Why the estimated cost must always be lower than or equal to the actual cost of reaching the goal state ? 	reason
+√How many different examples of admissible heuristics apply to the fifteen puzzle problem ? 	number
+√Why is it clear that this heuristic is admissible ? 	reason
+×Why would we clearly pick the bottom nodes one after the other ? 	reason

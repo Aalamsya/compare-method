@@ -1,0 +1,60 @@
+¡Á1.What is welfare economics a branch of ? 
+No.1---> 0.5    2
+Such functions typically include measures of economic efficiency and equity , though more recent attempts to quantify social welfare have included a broader range of measures including economic freedom -LRB- as in the capability approach -RRB- . 
+No.2---> 0.5    3
+The field of welfare economics is associated with two fundamental theorems . 
+No.3---> 0.5    6
+Because of welfare economics ' close ties to social choice theory , Arrow 's impossibility theorem is sometimes listed as a third fundamental theorem . 
+No.4---> 0.5    9
+It assumes the following : With these assumptions , it is possible to construct a social welfare function simply by summing all the individual utility functions . 
+No.5---> 0.5    15
+According to this measure of social welfare , a situation is optimal only if no individuals can be made better off without making someone else worse off . 
+
+¡Á2.How many fundamental theorems is the field of welfare economics associated with ? 
+No.1---> 0.0    5
+The second states that given further restrictions , any Pareto efficient outcome can be supported as a competitive market equilibrium . 
+No.2---> 0.0    10
+The early Neoclassical approach was developed by Edgeworth , Sidgwick , Marshall , and Pigou . 
+No.3---> 0.0    15
+It explicitly recognizes the differences between the efficiency aspect of the discipline and the distribution aspect and treats them differently . 
+No.4---> 0.0    17
+Further , efficiency dispenses with cardinal measures of utility , replacing it with ordinal utility , which merely ranks commodity bundles -LRB- with an indifference-curve map , for example -RRB- . 
+No.5---> 0.0    19
+Many economists use Pareto efficiency as their efficiency goal . 
+
+¡Ì3.Why could a social planner use a social welfare function to pick the most equitable efficient outcome ? 
+No.1---> 0.0    2
+Such functions typically include measures of economic efficiency and equity , though more recent attempts to quantify social welfare have included a broader range of measures including economic freedom -LRB- as in the capability approach -RRB- . 
+No.2---> 0.0    5
+The second states that given further restrictions , any Pareto efficient outcome can be supported as a competitive market equilibrium . 
+No.3---> 0.0    10
+The early Neoclassical approach was developed by Edgeworth , Sidgwick , Marshall , and Pigou . 
+No.4---> 0.0    11
+It assumes the following : With these assumptions , it is possible to construct a social welfare function simply by summing all the individual utility functions . 
+No.5---> 0.0    15
+It explicitly recognizes the differences between the efficiency aspect of the discipline and the distribution aspect and treats them differently . 
+
+¡Á4.Whose work is the New Welfare Economics approach based of ? 
+No.1---> 0.0    5
+The second states that given further restrictions , any Pareto efficient outcome can be supported as a competitive market equilibrium . 
+No.2---> 0.0    10
+The early Neoclassical approach was developed by Edgeworth , Sidgwick , Marshall , and Pigou . 
+No.3---> 0.0    15
+It explicitly recognizes the differences between the efficiency aspect of the discipline and the distribution aspect and treats them differently . 
+No.4---> 0.0    17
+Further , efficiency dispenses with cardinal measures of utility , replacing it with ordinal utility , which merely ranks commodity bundles -LRB- with an indifference-curve map , for example -RRB- . 
+No.5---> 0.0    19
+Many economists use Pareto efficiency as their efficiency goal . 
+
+¡Ì5.What will many economists use as their efficiency goal ? 
+No.1---> 3.0    12
+Many economists use Pareto efficiency as their efficiency goal . 
+No.2---> 3.0    13
+This ideal state of affairs can only come about if four criteria are met : There are a number of conditions that , most economists agree , may lead to inefficiency . 
+No.3---> 3.0    24
+Most economists specify social welfare functions that are intermediate between these two extremes . 
+No.4---> 3.0    35
+Also , the economists of the Austrian School question the relevance of pareto optimal allocation considering situations where the framework of means and ends is not perfectly known , since neoclassical theory always assumes that the ends-means framework is perfectly defined . 
+No.5---> 3.5    0
+Welfare economics is a branch of economics that uses microeconomic techniques to evaluate well-being -LRB- welfare -RRB- at the aggregate -LRB- economy-wide -RRB- level . 
+

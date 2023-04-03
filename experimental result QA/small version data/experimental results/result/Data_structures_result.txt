@@ -1,0 +1,36 @@
+¡Á1.What is a data structure in computer science ? 
+No.1---> 1.667  2
+Different kinds of data structures are suited to different kinds of applications , and some are highly specialized to specific tasks . 
+No.2---> 1.667  4
+Data structures provide a means to manage large amounts of data efficiently for uses such as large databases and internet indexing services . 
+No.3---> 1.667  5
+Usually , efficient data structures are key to designing efficient algorithms . 
+No.4---> 1.667  9
+Thus , the array and record data structures are based on computing the addresses of data items with arithmetic operations ; while the linked data structures are based on storing addresses of data items within the structure itself . 
+No.5---> 1.667  14
+Most assembly languages and some low-level languages , such as BCPL -LRB- Basic Combined Programming Language -RRB- , lack built-in support for data structures .
+
+¡Á2.What do relational databases commonly use for data retrieval ? 
+No.1---> 1.0    2
+Different kinds of data structures are suited to different kinds of applications , and some are highly specialized to specific tasks . 
+No.2---> 1.0    4
+Data structures provide a means to manage large amounts of data efficiently for uses such as large databases and internet indexing services . 
+No.3---> 1.0    5
+Usually , efficient data structures are key to designing efficient algorithms . 
+No.4---> 1.0    9
+Thus , the array and record data structures are based on computing the addresses of data items with arithmetic operations ; while the linked data structures are based on storing addresses of data items within the structure itself . 
+No.5---> 1.0    14
+Most assembly languages and some low-level languages , such as BCPL -LRB- Basic Combined Programming Language -RRB- , lack built-in support for data structures . 
+
+¡Ì3.What does compiler implementations usually use to look up identifiers ? 
+No.1---> 1.5    3
+For example , relational databases commonly use B-tree indexes for data retrieval , -LSB- 3 -RSB- while compiler implementations usually use hash tables to look up identifiers . 
+No.2---> 3.0    2
+Different kinds of data structures are suited to different kinds of applications , and some are highly specialized to specific tasks . 
+No.3---> 3.0    4
+Data structures provide a means to manage large amounts of data efficiently for uses such as large databases and internet indexing services . 
+No.4---> 3.0    5
+Usually , efficient data structures are key to designing efficient algorithms . 
+No.5---> 3.0    7
+Data structures can be used to organize the storage and retrieval of information stored in both main memory and secondary memory .  
+

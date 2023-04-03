@@ -1,0 +1,8 @@
+¡Á1.What is the definition of Computational neuroscience ?
+¡Ì2.Who introduced the term ` computational neuroscience ' ? 
+¡Á3.Who developed the voltage clamp and created the first biophysical model of the action potential ? 
+¡Ì4.How many voltage-sensitive currents did Hodgkin and Huxley 's original model only employed ?
+¡Á5.How do synapses form ? 
+¡Á6.Which gives rise to the population model of neural networks ? 
+¡Ì7.What is the abbreviation of the Computational Representational Understanding of Mind ? 
+¡Á8.Who is the professor of computer science and artificial intelligence at the English University of Sussex ? 

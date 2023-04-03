@@ -1,0 +1,59 @@
+¡Ì1.What is the computer science study of ? 
+No.1---> 0.0	2
+An alternate , more succinct definition of computer science is the study of automating algorithmic processes that scale . 
+No.2---> 0.0	7
+The earliest foundations of what would become computer science predate the invention of the modern digital computer . 
+No.3---> 0.0	16
+Computer science began to be established as a distinct academic discipline in the 1950s and early 1960s . 
+No.4---> 0.0	18
+The first computer science degree program in the United States was formed at Purdue University in 1962 . 
+No.5---> 0.0	23
+During the late 1950s , the computer science discipline was very much in its developmental stages , and such issues were commonplace . 
+
+¡Ì2.When did Gottfried Leibniz demonstrate a digital mechanical calculator ? 
+No.1---> 0.0    0
+In 1673 , Gottfried Leibniz demonstrated the digital mechanical calculators , called the Stepped Reckoner . 
+No.2---> 5.0    3
+Around 1885 , Herman Hollerith invented the tabulator , which used punched cards to process statistical information ; eventually his company became part of IBM . 
+No.3---> 5.75   13
+An alternative term , also proposed by Naur , is data science ; this is now used for a distinct field of data analysis , including statistics and databases . 
+No.4---> 5.778  16
+From its origins in cybernetics and in the Dartmouth Conference -LRB- 1956 -RRB- , artificial intelligence research has been necessarily cross-disciplinary , drawing on areas of expertise such as applied mathematics , symbolic logic , semiotics , electrical engineering , philosophy of mind , neurophysiology , and social intelligence . 
+No.5---> 6.0    11
+Despite its short history as a formal academic discipline , computer science has made a number of fundamental contributions to science and societyâ€”in fact , along with electronics , it is a founding science of the current epoch of human history called the Information Age and a driver of the Information Revolution , seen as the third major leap in human technological progress after the Industrial Revolution -LRB- 1750â€ 850 CE -RRB- and the Agricultural Revolution -LRB- 8000â€ 000 BC -RRB- . 
+
+¡Ì3.Who launched the mechanical calculator industry in 1820 ? 
+No.1---> 1.5    0
+In 1820 , Thomas de Colmar launched the mechanical calculator industry 1 -RSB- when he released his simplified arithmometer , which was the first calculating machine strong enough and reliable enough to be used daily in an office environment . 
+No.2---> 2.0    3
+In 1937 , one hundred years after Babbage 's impossible dream , Howard Aiken convinced IBM , which was making all kinds of punched card equipment and was also in the calculator business to develop his giant programmable calculator , the ASCC/Harvard Mark I , based on Babbage 's Analytical Engine , which itself used cards and a central computing unit . 
+No.3---> 2.25   4
+Although first proposed in 1956 , the term `` computer science '' appears in a 1959 article in Communications of the ACM , in which Louis Fein argues for the creation of a Graduate School in Computer Sciences analogous to the creation of Harvard Business School in 1921 , justifying the name by arguing that , like management science , the subject is applied and interdisciplinary in nature , while having the characteristics typical of an academic discipline . 
+No.4---> 2.333  8
+Peter Wegner argued that those paradigms are science , technology , and mathematics . 
+No.5---> 3.0    2
+Around 1885 , Herman Hollerith invented the tabulator , which used punched cards to process statistical information ; eventually his company became part of IBM . 
+
+¡Ì4.When did computer science began to be established as a distinct academic discipline ? 
+No.1---> 0.0	5
+Computer science began to be established as a distinct academic discipline in the 1950s and early 1960s . 
+No.2---> 0.0	7
+The first computer science degree program in the United States was formed at Purdue University in 1962 . 
+No.3---> 0.0	9
+During the late 1950s , the computer science discipline was very much in its developmental stages , and such issues were commonplace . 
+No.4---> 0.0	18
+For example , in the US about 20 % of computer science degrees in 2012 were conferred to women . 
+No.5---> 0.0	19
+In 2011 , approximately half of all computer science degrees in Malaysia were conferred to women . 
+
+¡Ì5.What is the short for International Business Machines ? 
+No.1---> 2.0	8
+Machines for calculating fixed numerical tasks such as the abacus have existed since antiquity , aiding in computations such as multiplication and division . 
+No.2---> 2.0	22
+IBM -LRB- short for International Business Machines -RRB- released the IBM 704 and later the IBM 709 computers , which were widely used during the exploration period of such devices . 
+No.3---> 2.5	25
+Modern society has seen a significant shift in the users of computer technology , from usage only by experts and professionals , to a near-ubiquitous user base . 
+No.4---> 2.75	11
+In 1820 , Thomas de Colmar launched the mechanical calculator industry 1 -RSB- when he released his simplified arithmometer , which was the first calculating machine strong enough and reliable enough to be used daily in an office environment . 
+No.5---> 2.75	27
+Although first proposed in 1956 , the term `` computer science '' appears in a 1959 article in Communications of the ACM , in which Louis Fein argues for the creation of a Graduate School in Computer Sciences analogous to the creation of Harvard Business School in 1921 , justifying the name by arguing that , like management science , the subject is applied and interdisciplinary in nature , while having the characteristics typical of an academic discipline . 

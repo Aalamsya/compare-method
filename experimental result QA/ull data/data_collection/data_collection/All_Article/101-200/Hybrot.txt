@@ -1,0 +1,9 @@
+A hybrot (short for "hybrid robot") is a cybernetic organism in the form of a robot controlled by a computer consisting of both electronic and biological elements. The biological elements are typically rat neurons connected to a computer chip.
+
+This feat was first accomplished by Dr. Steve Potter, a professor of biomedical engineering at the Georgia Institute of Technology:
+
+“In his experiment, Potter places a droplet of solution containing thousands of rat neuron cells onto a silicon chip that's embedded with 60 electrodes connected to an amplifier. The electrical signals that the cells fire at one another are picked up by the electrodes which then send the amplified signal into a computer. The computer, in turn, wirelessly relays the data to the robot.”
+“The robot then manifests this neuronal activity with physical motion, each of its movements a direct result of neurons talking to neurons. And the robot also sends information back to the cells. Equipped with light sensors, the robot receives input about its location in the playpen from infrared signals lining the borders.”
+What separates a hybrot from a cyborg is that the latter term is commonly used to refer to a cybernetically enhanced human or animal; while a hybrot is an entirely new type of creature constructed from organic and artificial materials. It is perhaps helpful to think of the hybrot as "semi-living", a term also used by the hybrot's inventors.
+
+Another interesting feature of the hybrot is its longevity. Neurons separated from a living brain usually die after only a couple of months. However, due to a specially designed incubator built around a gas-tight culture chamber selectively permeable to carbon dioxide, but impermeable to water vapor, reduces the risk of contamination and evaporation, and may extend the life of the hybrot to one to two years.

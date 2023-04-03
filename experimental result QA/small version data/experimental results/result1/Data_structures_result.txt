@@ -1,0 +1,4 @@
+¡Á1.What is a data structure in computer science ?
+¡Á2.What do relational databases commonly use for data retrieval ? 
+¡Ì3.What does compiler implementations usually use to look up identifiers ? 
+

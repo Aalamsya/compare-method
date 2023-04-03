@@ -1,0 +1,37 @@
+Encephalization quotient (EQ), encephalization level or just encephalization is a relative brain size measure that is defined as the ratio between observed to predicted brain mass for an animal of a given size, based on nonlinear regression on a range of reference species. 
+
+It is a more refined measurement than the raw brain-to-body mass ratio, as it takes into account allometric effects. The relationship, expressed as a formula, has been developed for mammals, and may not yield relevant results when applied outside this group.
+
+Brain size usually increases with body size in animals (is positively correlated), i.e. large animals usually have larger brains than smaller animals. The relationship is not linear, however. Generally, small mammals have relatively larger brains than big ones. Mice have a direct brain/body size ratio similar to humans (1/40), while elephants have a comparatively small brain/body size (1/560), despite being quite intelligent animals. 
+
+Several reasons for this trend are possible, one of which is that neural cells have a relative constant size. Some brain functions, like the brain pathway responsible for a basic task like drawing breath, are basically similar in a mouse and an elephant. Thus, the same amount of brain matter can govern breathing in a large or a small body. While not all control functions are independent of body size, some are, and hence large animals need comparatively less brain than small animals. 
+
+Here "E" is the weight of the brain, "C" is the cephalization factor and "S" is body weight and "r" is the exponential constant. The exponential constant for primates is 0.28 and either 0.56 or 0.66 for mammals in general. 
+
+The "Encephalization Quotient" (EQ) is the coefficient "C" in Snell's allometry equation, usually normalized with respect to a reference species. In the following table, the coefficients have been normalized with respect to the value for the cat, which is therefore attributed an EQ of 1 . 
+
+Another way to calculate encephalization quotient is by dividing the actual weight of an animal's brain with its predicted weight according to Jerison's formula.
+
+This measurement of approximate intelligence is more accurate for mammals than for other classes and phyla of Animalia.
+
+Intelligence in animals is hard to establish, but the larger the brain is relative to the body, the more brain weight might be available for more complex cognitive tasks. The EQ formula, as opposed to the method of simply measuring raw brain weight or brain weight to body weight, makes for a ranking of animals that coincide better with observed complexity of behaviour.
+
+Mean EQ for mammals is around 1, with carnivorans, cetaceans and primates above 1, and insectivores and herbivores below. This reflects two major trends. One is that brain matter is extremely costly in terms of energy needed to sustain it. Animals which live on relatively nutrient poor diets (plants, insects) have relatively little energy to spare for a large brain, while animals living from energy-rich food (meat, fish, fruit) can grow larger brains. The other factor is the brain power needed to catch food. Carnivores generally need to find and kill their prey, which presumably requires more cognitive power than browsing or grazing. The brain size of a wolf is about 30% larger than a similarly sized domestic dog, again reflecting different needs in their respective way of life.
+
+It is worth noting, however, that of the animals demonstrating the highest EQ's (see associated table), many are primarily herbivorous, including apes, macaques, and proboscideans. The dietary factor, therefore, may be less significant than certain others, like gregariousness.
+
+Another factor affecting relative brain size is sociality and flock size. For example, dogs (a social species) have a higher EQ than cats (a mostly solitary species). Animals with very large flock size and/or complex social systems consistently score high EQ, with dolphins and orcas having the highest EQ of all cetaceans, and humans with their extremely large societies and complex social life topping the list by a good margin.
+
+Birds generally have lower EQ than mammals, but parrots and particularly the corvids show remarkable complex behaviour and high learning ability. Their brains are at the high end of the bird spectrum, but low compared to mammals. Bird cell size is on the other hand generally smaller than that of mammals, which may mean more brain cells and hence synapses per volume, allowing for more complex behaviour from a smaller brain. Both bird intelligence and brain anatomy are however very different from those of mammals, making direct comparison difficult.
+
+Manta rays have the highest EQ among fish, and either octopuses or jumping spiders have the highest among invertebrates. Despite the jumping spider having a huge brain for its size, it is minuscule in absolute terms, and humans have a much higher EQ despite having a lower raw brain-to-body weight ratio. Mean EQs for reptiles are about one tenth of those of mammals. EQ in birds (and estimated EQ in dinosaurs) generally also falls below that of mammals, possibly due to lower thermoregulation and/or motor control demands. Estimation of brain size in the oldest known bird, Archaeopteryx, shows it had an EQ well above the reptilian range, and just below that of living birds. 
+
+Biologist Stephen Jay Gould has noted that if one looks at vertebrates with very low encephalization quotients, their brains are slightly less massive than their spinal cords. Theoretically, intelligence might correlate with the absolute amount of brain an animal has after subtracting the weight of the spinal cord from the brain. This formula is useless for invertebrates because they do not have spinal cords or, in some cases, central nervous systems.
+
+Behavioural complexity in living animals can to some degree be observed directly, making the predictive power of the encephalization quotient less relevant. It is however central in paleoneurology, where the endocast of the brain cavity and estimated body weight of an animal is all one has to work from. The behaviour of extinct mammals and dinosaurs is typically investigated using EQ formulas.
+
+Encephalization quotient is also used in estimating evolution of intelligent (human) behaviour in human ancestors. Fossils of archaic humans have EQ e.g. 4.15.
+
+Recent research indicates that whole brain size is a better measure of cognitive abilities than EQ for non-human primates at least. The relationship between brain-to-body mass ratio and complexity is not alone in influencing intelligence. Other factors, such as the recent evolution of the cerebral cortex and different degrees of brain folding, which increases the surface area (and volume) of the cortex, are positively correlated to intelligence in humans.
+
+Quantifying an animal's encephalization has been argued to be directly proportional, although not equal, to that animal's level of intelligence. Aristotle wrote in 335 BCE: "Of all the animals, man has the brain largest in proportion to his size." Also, in 1871, Charles Darwin wrote in his book The Descent of Man: "No one, I presume, doubts that the large proportion which the size of man's brain bears to his body, compared to the same proportion in the gorilla or orang, is closely connected with his mental powers."
